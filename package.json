@@ -1,0 +1,16 @@
+{
+  "name": "airports_data_collection",
+  "version": "1.0.0",
+  "description": "Scraping Wikepedia for lists of airports",
+  "main": "index.js",
+  "scripts": {
+    "scrape": "npx tsc && node dist/index.js"
+  },
+  "author": "Simranjeet Singh",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/puppeteer": "^5.4.3",
+    "puppeteer": "^9.1.1",
+    "typescript": "^4.2.4"
+  }
+}

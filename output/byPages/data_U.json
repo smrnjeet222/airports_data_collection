@@ -1,0 +1,1202 @@
+[
+  {
+    "iata": "UAB",
+    "icao": "LTAG",
+    "airport_name": "incirlik_air_base[dapi]",
+    "location_served": "adana_turkey\n"
+  },
+  {
+    "iata": "UAC",
+    "icao": "",
+    "airport_name": "san_luis_río_colorado_airport[dapi]",
+    "location_served": "san_luis_río_colorado_sonora_mexico\n"
+  },
+  {
+    "iata": "UAE",
+    "icao": "",
+    "airport_name": "mount_aue_airport[dapi]",
+    "location_served": "mount_aue_papua_new_guinea\n"
+  },
+  {
+    "iata": "UAH",
+    "icao": "NTMU",
+    "airport_name": "ua_huka_airport[dapi]",
+    "location_served": "ua_huka_marquesas_islands_french_polynesia\n"
+  },
+  {
+    "iata": "UAI",
+    "icao": "WPDB",
+    "airport_name": "suai_airport[dapi]",
+    "location_served": "suai_east_timor\n"
+  },
+  {
+    "iata": "UAK",
+    "icao": "BGBW",
+    "airport_name": "narsarsuaq_airport",
+    "location_served": "narsarsuaq_greenland\n"
+  },
+  {
+    "iata": "UAL",
+    "icao": "FNUA",
+    "airport_name": "luau_airport",
+    "location_served": "luau_angola\n"
+  },
+  {
+    "iata": "UAM",
+    "icao": "PGUA",
+    "airport_name": "andersen_air_force_base",
+    "location_served": "hagåtña_(agana)_guam\n"
+  },
+  {
+    "iata": "UAP",
+    "icao": "NTMP",
+    "airport_name": "ua_pou_airport[dapi]",
+    "location_served": "ua_pou_marquesas_islands_french_polynesia\n"
+  },
+  {
+    "iata": "UAQ",
+    "icao": "SANU",
+    "airport_name": "domingo_faustino_sarmiento_airport",
+    "location_served": "san_juan_san_juan_argentina\n"
+  },
+  {
+    "iata": "UAR",
+    "icao": "GMFB",
+    "airport_name": "bouarfa_airport[dapi]",
+    "location_served": "bouarfa_morocco\n"
+  },
+  {
+    "iata": "UAS",
+    "icao": "HKSB",
+    "airport_name": "samburu_airport[dapi]_(buffalo_spring_airport)",
+    "location_served": "samburu_kenya\n"
+  },
+  {
+    "iata": "UAX",
+    "icao": "",
+    "airport_name": "uaxactun_airport[dapi]",
+    "location_served": "uaxactun_guatemala\n"
+  },
+  {
+    "iata": "UBA",
+    "icao": "SBUR",
+    "airport_name": "mário_de_almeida_franco_airport",
+    "location_served": "uberaba_minas_gerais_brazil\n"
+  },
+  {
+    "iata": "UBB",
+    "icao": "YMAA",
+    "airport_name": "mabuiag_island_airport[dapi]",
+    "location_served": "mabuiag_island_queensland_australia\n"
+  },
+  {
+    "iata": "UBI",
+    "icao": "",
+    "airport_name": "buin_airport[dapi]",
+    "location_served": "buin_papua_new_guinea\n"
+  },
+  {
+    "iata": "UBJ",
+    "icao": "RJDC",
+    "airport_name": "yamaguchi_ube_airport",
+    "location_served": "ube_honshu_japan\n"
+  },
+  {
+    "iata": "UBP",
+    "icao": "VTUU",
+    "airport_name": "ubon_ratchathani_airport",
+    "location_served": "ubon_ratchathani_thailand\n"
+  },
+  {
+    "iata": "UBR",
+    "icao": "WAJU",
+    "airport_name": "ubrub_airport[dapi]",
+    "location_served": "ubrub_indonesia\n"
+  },
+  {
+    "iata": "UBS",
+    "icao": "KUBS",
+    "airport_name": "columbus-lowndes_county_airport",
+    "location_served": "columbus_mississippi_united_states\n"
+  },
+  {
+    "iata": "UBT",
+    "icao": "SDUB",
+    "airport_name": "ubatuba_airport[dapi]_(gastão_madeira_airport)",
+    "location_served": "ubatuba_são_paulo_brazil\n"
+  },
+  {
+    "iata": "UBU",
+    "icao": "YKAL",
+    "airport_name": "kalumburu_airport[dapi]",
+    "location_served": "kalumburu_western_australia_australia\n"
+  },
+  {
+    "iata": "UCB",
+    "icao": "",
+    "airport_name": "ulanqab_airport[dapi]",
+    "location_served": "ulanqab_inner_mongolia_china\n"
+  },
+  {
+    "iata": "UCC",
+    "icao": "KUCC",
+    "airport_name": "yucca_airstrip_(faa:_nvdapidapi)",
+    "location_served": "mercury_nevada_united_states\n"
+  },
+  {
+    "iata": "UCE",
+    "icao": "",
+    "airport_name": "eunice_airport_(faa:_dapirdapi)",
+    "location_served": "eunice_louisiana_united_states\n"
+  },
+  {
+    "iata": "UCK",
+    "icao": "UKLC",
+    "airport_name": "lutsk_airport[dapi]",
+    "location_served": "lutsk_ukraine\n"
+  },
+  {
+    "iata": "UCN",
+    "icao": "GLBU",
+    "airport_name": "buchanan_airport",
+    "location_served": "buchanan_liberia\n"
+  },
+  {
+    "iata": "UCT",
+    "icao": "UUYH",
+    "airport_name": "ukhta_airport",
+    "location_served": "ukhta_komi_republic_russia\n"
+  },
+  {
+    "iata": "UCY",
+    "icao": "KUCY",
+    "airport_name": "everett–stewart_regional_airport",
+    "location_served": "union_city_tennessee_united_states\n"
+  },
+  {
+    "iata": "UDA",
+    "icao": "YUDA",
+    "airport_name": "undara_airport[dapi]",
+    "location_served": "undara_queensland_australia\n"
+  },
+  {
+    "iata": "UDD",
+    "icao": "KUDD",
+    "airport_name": "bermuda_dunes_airport",
+    "location_served": "palm_springs_california_united_states\n"
+  },
+  {
+    "iata": "UDE",
+    "icao": "EHVK",
+    "airport_name": "volkel_air_base",
+    "location_served": "uden_netherlands\n"
+  },
+  {
+    "iata": "UDI",
+    "icao": "SBUL",
+    "airport_name": "ten._cel._av._césar_bombonato_airport",
+    "location_served": "uberlândia_minas_gerais_brazil\n"
+  },
+  {
+    "iata": "UDJ",
+    "icao": "UKLU",
+    "airport_name": "uzhhorod_international_airport[dapi]",
+    "location_served": "uzhhorod_ukraine\n"
+  },
+  {
+    "iata": "UDN",
+    "icao": "LIPD",
+    "airport_name": "campoformido_airport[dapi]",
+    "location_served": "udine_friuli-venezia_giulia_italy\n"
+  },
+  {
+    "iata": "UDR",
+    "icao": "VAUD",
+    "airport_name": "maharana_pratap_airport",
+    "location_served": "udaipur_rajasthan_india\n"
+  },
+  {
+    "iata": "UEE",
+    "icao": "YQNS",
+    "airport_name": "queenstown_airport[dapi]",
+    "location_served": "queenstown_tasmania_australia\n"
+  },
+  {
+    "iata": "UEL",
+    "icao": "FQQL",
+    "airport_name": "quelimane_airport",
+    "location_served": "quelimane_mozambique\n"
+  },
+  {
+    "iata": "UEN",
+    "icao": "USDU",
+    "airport_name": "urengoy_airport[dapi]",
+    "location_served": "urengoy_yamalo-nenets_autonomous_okrug_russia\n"
+  },
+  {
+    "iata": "UEO",
+    "icao": "ROKJ",
+    "airport_name": "kumejima_airport[dapi]",
+    "location_served": "kumejima_okinawa_islands_japan\n"
+  },
+  {
+    "iata": "UES",
+    "icao": "KUES",
+    "airport_name": "waukesha_county_airport_(crites_field)",
+    "location_served": "waukesha_wisconsin_united_states\n"
+  },
+  {
+    "iata": "UET",
+    "icao": "OPQT",
+    "airport_name": "quetta_international_airport",
+    "location_served": "quetta_pakistan\n"
+  },
+  {
+    "iata": "UFA",
+    "icao": "UWUU",
+    "airport_name": "ufa_international_airport",
+    "location_served": "ufa_bashkortostan_russia\n"
+  },
+  {
+    "iata": "UGA",
+    "icao": "ZMBN",
+    "airport_name": "bulgan_airport",
+    "location_served": "bulgan_mongolia\n"
+  },
+  {
+    "iata": "UGB",
+    "icao": "",
+    "airport_name": "ugashik_bay_airport",
+    "location_served": "pilot_point_alaska_united_states\n"
+  },
+  {
+    "iata": "UGC",
+    "icao": "UTNU",
+    "airport_name": "urgench_international_airport",
+    "location_served": "urgench_uzbekistan\n"
+  },
+  {
+    "iata": "UGI",
+    "icao": "",
+    "airport_name": "san_juan_(uganik)_seaplane_base_(faa:_wsj)",
+    "location_served": "uganik_alaska_united_states\n"
+  },
+  {
+    "iata": "UGL",
+    "icao": "SCGC",
+    "airport_name": "union_glacier_blue-ice_runway",
+    "location_served": "heritage_range_ellsworth_mountains_antarctica\n"
+  },
+  {
+    "iata": "UGN",
+    "icao": "KUGN",
+    "airport_name": "waukegan_national_airport",
+    "location_served": "waukegan_illinois_united_states\n"
+  },
+  {
+    "iata": "UGO",
+    "icao": "FNUG",
+    "airport_name": "uíge_airport[dapi]",
+    "location_served": "uíge_angola\n"
+  },
+  {
+    "iata": "UGS",
+    "icao": "",
+    "airport_name": "ugashik_airport_(faa:_dapiadapi)",
+    "location_served": "ugashik_alaska_united_states\n"
+  },
+  {
+    "iata": "UGT",
+    "icao": "ZMBR",
+    "airport_name": "bulagtai_airport[dapi]",
+    "location_served": "bulagtai_mongolia\n"
+  },
+  {
+    "iata": "UGU",
+    "icao": "",
+    "airport_name": "bilogai_airport[dapi]",
+    "location_served": "bilogai_indonesia\n"
+  },
+  {
+    "iata": "UHE",
+    "icao": "LKKU",
+    "airport_name": "kunovice_airport",
+    "location_served": "uherské_hradiště_czech_republic\n"
+  },
+  {
+    "iata": "UIB",
+    "icao": "SKUI",
+    "airport_name": "el_caraño_airport",
+    "location_served": "quibdó_colombia\n"
+  },
+  {
+    "iata": "UIH",
+    "icao": "VVPC",
+    "airport_name": "phu_cat_airport",
+    "location_served": "qui_nhơn_vietnam\n"
+  },
+  {
+    "iata": "UII",
+    "icao": "MHUT",
+    "airport_name": "útila_airport",
+    "location_served": "útila_honduras\n"
+  },
+  {
+    "iata": "UIK",
+    "icao": "UIBS",
+    "airport_name": "ust-ilimsk_airport",
+    "location_served": "ust-ilimsk_irkutsk_oblast_russia\n"
+  },
+  {
+    "iata": "UIL",
+    "icao": "KUIL",
+    "airport_name": "quillayute_airport",
+    "location_served": "forks_washington_united_states\n"
+  },
+  {
+    "iata": "UIN",
+    "icao": "KUIN",
+    "airport_name": "quincy_regional_airport_(baldwin_field)",
+    "location_served": "quincy_illinois_united_states\n"
+  },
+  {
+    "iata": "UIO",
+    "icao": "SEQM",
+    "airport_name": "mariscal_sucre_international_airport",
+    "location_served": "quito_ecuador\n"
+  },
+  {
+    "iata": "UIP",
+    "icao": "LFRQ",
+    "airport_name": "quimper–cornouaille_airport_(pluguffan)",
+    "location_served": "quimper_brittany_france\n"
+  },
+  {
+    "iata": "UIQ",
+    "icao": "NVVQ",
+    "airport_name": "quoin_hill_airfield",
+    "location_served": "quoin_hill_vanuatu\n"
+  },
+  {
+    "iata": "UIR",
+    "icao": "YQDI",
+    "airport_name": "quirindi_airport[dapi]",
+    "location_served": "quirindi_new_south_wales_australia\n"
+  },
+  {
+    "iata": "UIT",
+    "icao": "",
+    "airport_name": "jaluit_airport_(faa:_ndapidapi)",
+    "location_served": "jaluit_atoll_marshall_islands\n"
+  },
+  {
+    "iata": "UJE",
+    "icao": "",
+    "airport_name": "ujae_airport",
+    "location_served": "ujae_atoll_marshall_islands\n"
+  },
+  {
+    "iata": "UJN",
+    "icao": "RKTL",
+    "airport_name": "uljin_airport[dapi]",
+    "location_served": "uljin_south_korea\n"
+  },
+  {
+    "iata": "UJU",
+    "icao": "ZKUJ",
+    "airport_name": "uiju_airfield[dapi]",
+    "location_served": "uiju_north_korea\n"
+  },
+  {
+    "iata": "UKA",
+    "icao": "HKUK",
+    "airport_name": "ukunda_airport[dapi]_(diani_airport)",
+    "location_served": "ukunda_kenya\n"
+  },
+  {
+    "iata": "UKB",
+    "icao": "RJBE",
+    "airport_name": "kobe_airport",
+    "location_served": "kobe_/_osaka_honshu_japan\n"
+  },
+  {
+    "iata": "UKG",
+    "icao": "UEBT",
+    "airport_name": "ust-kuyga_airport",
+    "location_served": "ust-kuyga_yakutia_russia\n"
+  },
+  {
+    "iata": "UKH",
+    "icao": "OOMK",
+    "airport_name": "mukhaizna_airport[dapi]",
+    "location_served": "mukhaizna_oman\n"
+  },
+  {
+    "iata": "UKI",
+    "icao": "KUKI",
+    "airport_name": "ukiah_municipal_airport",
+    "location_served": "ukiah_california_united_states\n"
+  },
+  {
+    "iata": "UKK",
+    "icao": "UASK",
+    "airport_name": "oskemen_airport_(ust-kamenogorsk_airport)",
+    "location_served": "oskemen_(ust-kamenogorsk)_kazakhstan\n"
+  },
+  {
+    "iata": "UKN",
+    "icao": "",
+    "airport_name": "waukon_municipal_airport_(faa:_ydapidapi)",
+    "location_served": "waukon_iowa_united_states\n"
+  },
+  {
+    "iata": "UKR",
+    "icao": "OYMK",
+    "airport_name": "mukeiras_airport[dapi]",
+    "location_served": "mukayras_yemen\n"
+  },
+  {
+    "iata": "UKS",
+    "icao": "UKFB",
+    "airport_name": "sevastopol_international_airport[dapi]",
+    "location_served": "sevastopol\n"
+  },
+  {
+    "iata": "UKT",
+    "icao": "KUKT",
+    "airport_name": "quakertown_airport",
+    "location_served": "quakertown_pennsylvania_united_states\n"
+  },
+  {
+    "iata": "UKU",
+    "icao": "",
+    "airport_name": "nuku_airport[dapi]",
+    "location_served": "nuku_papua_new_guinea\n"
+  },
+  {
+    "iata": "UKX",
+    "icao": "UITT",
+    "airport_name": "ust-kut_airport",
+    "location_served": "ust-kut_irkutsk_oblast_russia\n"
+  },
+  {
+    "iata": "ULA",
+    "icao": "SAWJ",
+    "airport_name": "capitán_josé_daniel_vazquez_airport[dapi]",
+    "location_served": "puerto_san_julián_santa_cruz_argentina\n"
+  },
+  {
+    "iata": "ULB",
+    "icao": "NVSU",
+    "airport_name": "ulei_airport[dapi]",
+    "location_served": "ulei_vanuatu\n"
+  },
+  {
+    "iata": "ULD",
+    "icao": "FAUL",
+    "airport_name": "ulundi_airport[dapi]",
+    "location_served": "ulundi_south_africa\n"
+  },
+  {
+    "iata": "ULE",
+    "icao": "",
+    "airport_name": "sule_airport[dapi]",
+    "location_served": "sule_papua_new_guinea\n"
+  },
+  {
+    "iata": "ULG",
+    "icao": "ZMUL",
+    "airport_name": "ölgii_airport[dapi]",
+    "location_served": "ölgii_mongolia\n"
+  },
+  {
+    "iata": "ULH",
+    "icao": "OEAO",
+    "airport_name": "prince_abdul_majeed_bin_abdulaziz_domestic_airport[dapi]",
+    "location_served": "al-'ula_saudi_arabia\n"
+  },
+  {
+    "iata": "ULI",
+    "icao": "",
+    "airport_name": "ulithi_airport_(faa:_ttdapidapi)",
+    "location_served": "ulithi_federated_states_of_micronesia\n"
+  },
+  {
+    "iata": "ULK",
+    "icao": "UERL",
+    "airport_name": "lensk_airport[dapi]",
+    "location_served": "lensk_yakutia_russia\n"
+  },
+  {
+    "iata": "ULL",
+    "icao": "",
+    "airport_name": "glenforsa_airfield[dapi]",
+    "location_served": "mull_scotland_united_kingdom\n"
+  },
+  {
+    "iata": "ULM",
+    "icao": "KULM",
+    "airport_name": "new_ulm_municipal_airport",
+    "location_served": "new_ulm_minnesota_united_states\n"
+  },
+  {
+    "iata": "ULN",
+    "icao": "ZMUB",
+    "airport_name": "buyant-ukhaa_international_airport",
+    "location_served": "ulaanbaatar_mongolia\n"
+  },
+  {
+    "iata": "ULO",
+    "icao": "ZMUG",
+    "airport_name": "ulaangom_airport",
+    "location_served": "ulaangom_mongolia\n"
+  },
+  {
+    "iata": "ULP",
+    "icao": "YQLP",
+    "airport_name": "quilpie_airport[dapi]",
+    "location_served": "quilpie_queensland_australia\n"
+  },
+  {
+    "iata": "ULQ",
+    "icao": "SKUL",
+    "airport_name": "heriberto_gíl_martínez_airport[dapi]",
+    "location_served": "tuluá_colombia\n"
+  },
+  {
+    "iata": "ULS",
+    "icao": "",
+    "airport_name": "mulatos_airport",
+    "location_served": "mulatos_colombia\n"
+  },
+  {
+    "iata": "ULU",
+    "icao": "HUGU",
+    "airport_name": "gulu_airport[dapi]",
+    "location_served": "gulu_uganda\n"
+  },
+  {
+    "iata": "ULV",
+    "icao": "UWLL",
+    "airport_name": "ulyanovsk_baratayevka_airport",
+    "location_served": "ulyanovsk_ulyanovsk_oblast_russia\n"
+  },
+  {
+    "iata": "ULX",
+    "icao": "",
+    "airport_name": "ulusaba_airstrip[dapi]",
+    "location_served": "ulusaba_south_africa\n"
+  },
+  {
+    "iata": "ULY",
+    "icao": "UWLW",
+    "airport_name": "ulyanovsk_vostochny_airport",
+    "location_served": "ulyanovsk_ulyanovsk_oblast_russia\n"
+  },
+  {
+    "iata": "ULZ",
+    "icao": "ZMDN",
+    "airport_name": "donoi_airport[dapi]",
+    "location_served": "uliastai_mongolia\n"
+  },
+  {
+    "iata": "UMA",
+    "icao": "",
+    "airport_name": "punta_de_maisí_airport",
+    "location_served": "maisí_cuba\n"
+  },
+  {
+    "iata": "UMC",
+    "icao": "",
+    "airport_name": "umba_airport[dapi]",
+    "location_served": "umba_papua_new_guinea\n"
+  },
+  {
+    "iata": "UME",
+    "icao": "ESNU",
+    "airport_name": "umeå_airport",
+    "location_served": "umeå_sweden\n"
+  },
+  {
+    "iata": "UMI",
+    "icao": "SPIL",
+    "airport_name": "quince_mil_airport[dapi]",
+    "location_served": "quince_mil_peru\n"
+  },
+  {
+    "iata": "UMM",
+    "icao": "PAST",
+    "airport_name": "summit_airport",
+    "location_served": "summit_alaska_united_states\n"
+  },
+  {
+    "iata": "UMR",
+    "icao": "YPWR",
+    "airport_name": "raaf_woomera_airfield[dapi]",
+    "location_served": "woomera_south_australia_australia\n"
+  },
+  {
+    "iata": "UMS",
+    "icao": "UEMU",
+    "airport_name": "ust-maya_airport",
+    "location_served": "ust-maya_yakutia_russia\n"
+  },
+  {
+    "iata": "UMT",
+    "icao": "PAUM",
+    "airport_name": "umiat_airport",
+    "location_served": "umiat_alaska_united_states\n"
+  },
+  {
+    "iata": "UMU",
+    "icao": "SSUM",
+    "airport_name": "orlando_de_carvalho_airport[dapi]",
+    "location_served": "umuarama_paraná_brazil\n"
+  },
+  {
+    "iata": "UMY",
+    "icao": "UKHS",
+    "airport_name": "sumy_airport[dapi]",
+    "location_served": "sumy_ukraine\n"
+  },
+  {
+    "iata": "UMZ",
+    "icao": "KMEZ",
+    "airport_name": "mena_intermountain_municipal_airport",
+    "location_served": "mena_arkansas_united_states\n"
+  },
+  {
+    "iata": "UNA",
+    "icao": "SBTC",
+    "airport_name": "una-comandatuba_airport[dapi]",
+    "location_served": "una_/_comandatuba_island_bahia_brazil\n"
+  },
+  {
+    "iata": "UNC",
+    "icao": "",
+    "airport_name": "unguía_airport",
+    "location_served": "unguía_colombia\n"
+  },
+  {
+    "iata": "UND",
+    "icao": "OAUZ",
+    "airport_name": "kunduz_airport",
+    "location_served": "kunduz_afghanistan\n"
+  },
+  {
+    "iata": "UNE",
+    "icao": "FXQN",
+    "airport_name": "qacha's_nek_airport[dapi]",
+    "location_served": "qacha's_nek_lesotho\n"
+  },
+  {
+    "iata": "UNG",
+    "icao": "AYKI",
+    "airport_name": "kiunga_airport[dapi]",
+    "location_served": "kiunga_papua_new_guinea\n"
+  },
+  {
+    "iata": "UNI",
+    "icao": "TVSU",
+    "airport_name": "union_island_airport",
+    "location_served": "union_island_saint_vincent_and_the_grenadines\n"
+  },
+  {
+    "iata": "UNK",
+    "icao": "PAUN",
+    "airport_name": "unalakleet_airport",
+    "location_served": "unalakleet_alaska_united_states\n"
+  },
+  {
+    "iata": "UNN",
+    "icao": "VTSR",
+    "airport_name": "ranong_airport",
+    "location_served": "ranong_thailand\n"
+  },
+  {
+    "iata": "UNR",
+    "icao": "ZMUH",
+    "airport_name": "öndörkhaan_airport",
+    "location_served": "öndörkhaan_mongolia\n"
+  },
+  {
+    "iata": "UNT",
+    "icao": "",
+    "airport_name": "unst_airport[dapi]",
+    "location_served": "unst_scotland_united_kingdom\n"
+  },
+  {
+    "iata": "UNU",
+    "icao": "KUNU",
+    "airport_name": "dodge_county_airport",
+    "location_served": "juneau_wisconsin_united_states\n"
+  },
+  {
+    "iata": "UOA",
+    "icao": "NTTX",
+    "airport_name": "mururoa_airport[dapi]",
+    "location_served": "moruroa_(mururoa)_tuamotus_french_polynesia\n"
+  },
+  {
+    "iata": "UOL",
+    "icao": "WAMY",
+    "airport_name": "pogogul_airport",
+    "location_served": "buol_indonesia\n"
+  },
+  {
+    "iata": "UOS",
+    "icao": "KUOS",
+    "airport_name": "franklin_county_airport",
+    "location_served": "sewanee_tennessee_united_states\n"
+  },
+  {
+    "iata": "UOX",
+    "icao": "KUOX",
+    "airport_name": "university-oxford_airport",
+    "location_served": "oxford_mississippi_united_states\n"
+  },
+  {
+    "iata": "UPB",
+    "icao": "MUPB",
+    "airport_name": "playa_baracoa_airport[dapi]",
+    "location_served": "havana_cuba\n"
+  },
+  {
+    "iata": "UPG",
+    "icao": "WAAA",
+    "airport_name": "sultan_hasanuddin_international_airport",
+    "location_served": "makassar_indonesia\n"
+  },
+  {
+    "iata": "UPL",
+    "icao": "MRUP",
+    "airport_name": "upala_airport",
+    "location_served": "upala_costa_rica\n"
+  },
+  {
+    "iata": "UPN",
+    "icao": "MMPN",
+    "airport_name": "ignacio_lópez_rayón_international_airport",
+    "location_served": "uruapan_michoacán_mexico\n"
+  },
+  {
+    "iata": "UPP",
+    "icao": "PHUP",
+    "airport_name": "upolu_airport",
+    "location_served": "hawi_hawaii_united_states\n"
+  },
+  {
+    "iata": "UPR",
+    "icao": "",
+    "airport_name": "upiara_airport[dapi]",
+    "location_served": "upiara_papua_new_guinea\n"
+  },
+  {
+    "iata": "UPV",
+    "icao": "EGDJ",
+    "airport_name": "raf_upavon[dapi]",
+    "location_served": "upavon_england_united_kingdom\n"
+  },
+  {
+    "iata": "URA",
+    "icao": "UARR",
+    "airport_name": "oral_ak_zhol_airport",
+    "location_served": "oral_(uralsk)_kazakhstan\n"
+  },
+  {
+    "iata": "URB",
+    "icao": "",
+    "airport_name": "castilho_airport[dapi]_(urubupunga_airport)",
+    "location_served": "castilho_são_paulo_brazil\n"
+  },
+  {
+    "iata": "URC",
+    "icao": "ZWWW",
+    "airport_name": "ürümqi_diwopu_international_airport",
+    "location_served": "ürümqi_xinjiang_china\n"
+  },
+  {
+    "iata": "URD",
+    "icao": "EDQE",
+    "airport_name": "burg_feuerstein_airport[dapi]",
+    "location_served": "burg_feuerstein_bavaria_germany\n"
+  },
+  {
+    "iata": "URE",
+    "icao": "EEKE",
+    "airport_name": "kuressaare_airport",
+    "location_served": "kuressaare_estonia\n"
+  },
+  {
+    "iata": "URG",
+    "icao": "SBUG",
+    "airport_name": "rubem_berta_international_airport",
+    "location_served": "uruguaiana_rio_grande_do_sul_brazil\n"
+  },
+  {
+    "iata": "URI",
+    "icao": "SKUB",
+    "airport_name": "uribe_airport",
+    "location_served": "la_uribe_colombia\n"
+  },
+  {
+    "iata": "URJ",
+    "icao": "USHU",
+    "airport_name": "uray_airport",
+    "location_served": "uray_khanty-mansi_autonomous_okrug_russia\n"
+  },
+  {
+    "iata": "URM",
+    "icao": "SVUM",
+    "airport_name": "uriman_airport[dapi]",
+    "location_served": "uriman_venezuela\n"
+  },
+  {
+    "iata": "URN",
+    "icao": "OAOG",
+    "airport_name": "urgun_airport",
+    "location_served": "urgun_afghanistan\n"
+  },
+  {
+    "iata": "URO",
+    "icao": "LFOP",
+    "airport_name": "rouen_airport_(vallée_de_seine_airport)",
+    "location_served": "rouen_upper_normandy_france\n"
+  },
+  {
+    "iata": "URR",
+    "icao": "SKUR",
+    "airport_name": "urrao_airport[dapi]",
+    "location_served": "urrao_colombia\n"
+  },
+  {
+    "iata": "URS",
+    "icao": "UUOK",
+    "airport_name": "kursk_vostochny_airport",
+    "location_served": "kursk_kursk_oblast_russia\n"
+  },
+  {
+    "iata": "URT",
+    "icao": "VTSB",
+    "airport_name": "surat_thani_airport",
+    "location_served": "surat_thani_thailand\n"
+  },
+  {
+    "iata": "URU",
+    "icao": "",
+    "airport_name": "uroubi_airport[dapi]",
+    "location_served": "uroubi_papua_new_guinea\n"
+  },
+  {
+    "iata": "URY",
+    "icao": "OEGT",
+    "airport_name": "gurayat_domestic_airport[dapi]",
+    "location_served": "qurayyat_(gurayat)_saudi_arabia\n"
+  },
+  {
+    "iata": "URZ",
+    "icao": "OARG",
+    "airport_name": "uruzgan_airport",
+    "location_served": "khas_uruzgan_afghanistan\n"
+  },
+  {
+    "iata": "USA",
+    "icao": "KJQF",
+    "airport_name": "concord_regional_airport_(faa:_jqf)",
+    "location_served": "concord_north_carolina_united_states\n"
+  },
+  {
+    "iata": "USC",
+    "icao": "",
+    "airport_name": "union_county_airport/troy_shelton_field_(faa:_dapidapia)",
+    "location_served": "union_south_carolina_united_states\n"
+  },
+  {
+    "iata": "USH",
+    "icao": "SAWH",
+    "airport_name": "ushuaia_–_malvinas_argentinas_international_airport",
+    "location_served": "ushuaia_tierra_del_fuego_argentina\n"
+  },
+  {
+    "iata": "USI",
+    "icao": "SYMB",
+    "airport_name": "mabaruma_airport",
+    "location_served": "mabaruma_guyana\n"
+  },
+  {
+    "iata": "USJ",
+    "icao": "UAAL",
+    "airport_name": "usharal_airport",
+    "location_served": "usharal_kazakhstan\n"
+  },
+  {
+    "iata": "USK",
+    "icao": "UUYS",
+    "airport_name": "usinsk_airport[dapi]",
+    "location_served": "usinsk_komi_republic_russia\n"
+  },
+  {
+    "iata": "USL",
+    "icao": "YUSL",
+    "airport_name": "useless_loop_airport[dapi]",
+    "location_served": "useless_loop_western_australia_australia\n"
+  },
+  {
+    "iata": "USM",
+    "icao": "VTSM",
+    "airport_name": "samui_airport",
+    "location_served": "ko_samui_thailand\n"
+  },
+  {
+    "iata": "USN",
+    "icao": "RKPU",
+    "airport_name": "ulsan_airport[dapi]",
+    "location_served": "ulsan_south_korea\n"
+  },
+  {
+    "iata": "USO",
+    "icao": "",
+    "airport_name": "usino_airport[dapi]",
+    "location_served": "usino_papua_new_guinea\n"
+  },
+  {
+    "iata": "USQ",
+    "icao": "LTBO",
+    "airport_name": "uşak_airport",
+    "location_served": "uşak_turkey\n"
+  },
+  {
+    "iata": "USR",
+    "icao": "UEMT",
+    "airport_name": "ust-nera_airport",
+    "location_served": "ust-nera_yakutia_russia\n"
+  },
+  {
+    "iata": "USS",
+    "icao": "MUSS",
+    "airport_name": "sancti_spíritus_airport[dapi]",
+    "location_served": "sancti_spíritus_cuba\n"
+  },
+  {
+    "iata": "UST",
+    "icao": "KSGJ",
+    "airport_name": "northeast_florida_regional_airport_(faa:_sgj)",
+    "location_served": "st._augustine_florida_united_states\n"
+  },
+  {
+    "iata": "USU",
+    "icao": "RPVV",
+    "airport_name": "francisco_b._reyes_airport",
+    "location_served": "busuanga_philippines\n"
+  },
+  {
+    "iata": "UTA",
+    "icao": "FVMU",
+    "airport_name": "mutare_airport",
+    "location_served": "mutare_zimbabwe\n"
+  },
+  {
+    "iata": "UTB",
+    "icao": "YMTB",
+    "airport_name": "muttaburra_airport[dapi]",
+    "location_served": "muttaburra_queensland_australia\n"
+  },
+  {
+    "iata": "UTC",
+    "icao": "EHSB",
+    "airport_name": "soesterberg_air_base",
+    "location_served": "utrecht_netherlands\n"
+  },
+  {
+    "iata": "UTD",
+    "icao": "",
+    "airport_name": "nutwood_downs_airport[dapi]",
+    "location_served": "nutwood_downs_northern_territory_australia\n"
+  },
+  {
+    "iata": "UTG",
+    "icao": "FXQG",
+    "airport_name": "quthing_airport[dapi]",
+    "location_served": "quthing_lesotho\n"
+  },
+  {
+    "iata": "UTH",
+    "icao": "VTUD",
+    "airport_name": "udon_thani_international_airport",
+    "location_served": "udon_thani_thailand\n"
+  },
+  {
+    "iata": "UTI",
+    "icao": "EFUT",
+    "airport_name": "utti_airport",
+    "location_served": "utti_finland\n"
+  },
+  {
+    "iata": "UTK",
+    "icao": "",
+    "airport_name": "utirik_airport_(faa:_dapidapin)",
+    "location_served": "utirik_atoll_marshall_islands\n"
+  },
+  {
+    "iata": "UTM",
+    "icao": "KUTA",
+    "airport_name": "tunica_municipal_airport_(faa:_uta)",
+    "location_served": "tunica_mississippi_united_states\n"
+  },
+  {
+    "iata": "UTN",
+    "icao": "FAUP",
+    "airport_name": "upington_airport",
+    "location_served": "upington_south_africa\n"
+  },
+  {
+    "iata": "UTO",
+    "icao": "PAIM",
+    "airport_name": "indian_mountain_lrrs_airport",
+    "location_served": "utopia_creek_alaska_united_states\n"
+  },
+  {
+    "iata": "UTP",
+    "icao": "VTBU",
+    "airport_name": "u-tapao_international_airport",
+    "location_served": "rayong_thailand\n"
+  },
+  {
+    "iata": "UTS",
+    "icao": "UUYX",
+    "airport_name": "ust-tsilma_airport[dapi]",
+    "location_served": "ust-tsilma_komi_republic_russia\n"
+  },
+  {
+    "iata": "UTT",
+    "icao": "FAUT",
+    "airport_name": "mthatha_airport",
+    "location_served": "mthatha_(umtata)_south_africa\n"
+  },
+  {
+    "iata": "UTU",
+    "icao": "",
+    "airport_name": "ustupo_airport[dapi]",
+    "location_served": "ustupo_panama\n"
+  },
+  {
+    "iata": "UTW",
+    "icao": "FAQT",
+    "airport_name": "queenstown_airport[dapi]",
+    "location_served": "queenstown_south_africa\n"
+  },
+  {
+    "iata": "UUA",
+    "icao": "UWKB",
+    "airport_name": "bugulma_airport",
+    "location_served": "bugulma_tatarstan_russia\n"
+  },
+  {
+    "iata": "UUD",
+    "icao": "UIUU",
+    "airport_name": "baikal_international_airport",
+    "location_served": "ulan-ude_buryatia_russia\n"
+  },
+  {
+    "iata": "UUK",
+    "icao": "PAKU",
+    "airport_name": "ugnu-kuparuk_airport_(faa:_ubw)",
+    "location_served": "kuparuk_alaska_united_states\n"
+  },
+  {
+    "iata": "UUN",
+    "icao": "ZMBU",
+    "airport_name": "baruun-urt_airport[dapi]",
+    "location_served": "baruun-urt_mongolia\n"
+  },
+  {
+    "iata": "UUS",
+    "icao": "UHSS",
+    "airport_name": "yuzhno-sakhalinsk_airport_(khomutovo_airport)",
+    "location_served": "yuzhno-sakhalinsk_sakhalin_oblast_russia\n"
+  },
+  {
+    "iata": "UUU",
+    "icao": "",
+    "airport_name": "manumu_airport",
+    "location_served": "manumu_papua_new_guinea\n"
+  },
+  {
+    "iata": "UVA",
+    "icao": "KUVA",
+    "airport_name": "garner_field",
+    "location_served": "uvalde_texas_united_states\n"
+  },
+  {
+    "iata": "UVE",
+    "icao": "NWWV",
+    "airport_name": "ouvéa_airport[dapi]_(ouloup_airport)",
+    "location_served": "ouvéa_new_caledonia\n"
+  },
+  {
+    "iata": "UVF",
+    "icao": "TLPL",
+    "airport_name": "hewanorra_international_airport",
+    "location_served": "vieux_fort_saint_lucia\n"
+  },
+  {
+    "iata": "UVI",
+    "icao": "SSUV",
+    "airport_name": "união_da_vitória_airport[dapi]",
+    "location_served": "união_da_vitória_paraná_brazil\n"
+  },
+  {
+    "iata": "UVL",
+    "icao": "HEKG",
+    "airport_name": "el_kharga_airport[dapi]",
+    "location_served": "kharga_oasis_egypt\n"
+  },
+  {
+    "iata": "UVO",
+    "icao": "",
+    "airport_name": "uvol_airport[dapi]",
+    "location_served": "uvol_papua_new_guinea\n"
+  },
+  {
+    "iata": "UYL",
+    "icao": "HSNN",
+    "airport_name": "nyala_airport",
+    "location_served": "nyala_sudan\n"
+  },
+  {
+    "iata": "UYN",
+    "icao": "ZLYL",
+    "airport_name": "yulin_yuyang_airport",
+    "location_served": "yulin_shaanxi_china\n"
+  },
+  {
+    "iata": "UYU",
+    "icao": "SLUY",
+    "airport_name": "uyuni_airport_(joya_andina_airport)",
+    "location_served": "uyuni_bolivia\n"
+  },
+  {
+    "iata": "UZC",
+    "icao": "LYUZ",
+    "airport_name": "užice-ponikve_airport",
+    "location_served": "užice_serbia\n"
+  },
+  {
+    "iata": "UZM",
+    "icao": "",
+    "airport_name": "hope_bay_aerodrome[dapi]_(tc:_chbdapi)",
+    "location_served": "hope_bay_nunavut_canada\n"
+  },
+  {
+    "iata": "UZR",
+    "icao": "",
+    "airport_name": "urzhar_airport",
+    "location_served": "urzhar_(urdzhar)_kazakhstan\n"
+  },
+  {
+    "iata": "UZU",
+    "icao": "SATU",
+    "airport_name": "curuzú_cuatiá_airport",
+    "location_served": "curuzú_cuatiá_corrientes_argentina\n"
+  }
+]

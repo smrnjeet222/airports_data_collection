@@ -1,0 +1,3716 @@
+[
+  {
+    "iata": "SAA",
+    "icao": "KSAA",
+    "airport_name": "shively_field",
+    "location_served": "saratoga_wyoming_united_states\n"
+  },
+  {
+    "iata": "SAB",
+    "icao": "TNCS",
+    "airport_name": "juancho_e._yrausquin_airport",
+    "location_served": "saba_caribbean_netherlands\n"
+  },
+  {
+    "iata": "SAC",
+    "icao": "KSAC",
+    "airport_name": "sacramento_executive_airport",
+    "location_served": "sacramento_california_united_states\n"
+  },
+  {
+    "iata": "SAD",
+    "icao": "KSAD",
+    "airport_name": "safford_regional_airport",
+    "location_served": "safford_arizona_united_states\n"
+  },
+  {
+    "iata": "SAF",
+    "icao": "KSAF",
+    "airport_name": "santa_fe_municipal_airport",
+    "location_served": "santa_fe_new_mexico_united_states\n"
+  },
+  {
+    "iata": "SAG",
+    "icao": "",
+    "airport_name": "shirdi_airport",
+    "location_served": "shirdi_maharashtra_india\n"
+  },
+  {
+    "iata": "SAH",
+    "icao": "OYSN",
+    "airport_name": "sana'a_international_airport_(el_rahaba_airport)",
+    "location_served": "sana'a_yemen\n"
+  },
+  {
+    "iata": "SAK",
+    "icao": "BIKR",
+    "airport_name": "sauðárkrókur_airport",
+    "location_served": "sauðárkrókur_iceland\n"
+  },
+  {
+    "iata": "SAL",
+    "icao": "MSLP",
+    "airport_name": "monseñor_óscar_arnulfo_romero_international_airport",
+    "location_served": "san_salvador_el_salvador\n"
+  },
+  {
+    "iata": "SAM",
+    "icao": "",
+    "airport_name": "salamo_airport[dapi]",
+    "location_served": "salamo_papua_new_guinea\n"
+  },
+  {
+    "iata": "SAN",
+    "icao": "KSAN",
+    "airport_name": "san_diego_international_airport",
+    "location_served": "san_diego_california_united_states\n"
+  },
+  {
+    "iata": "SAO[1]",
+    "icao": "",
+    "airport_name": "metropolitan_areadapi",
+    "location_served": "são_paulo_são_paulo_brazil\n"
+  },
+  {
+    "iata": "SAP",
+    "icao": "MHLM",
+    "airport_name": "ramón_villeda_morales_international_airport",
+    "location_served": "san_pedro_sula_honduras\n"
+  },
+  {
+    "iata": "SAQ",
+    "icao": "MYAN",
+    "airport_name": "san_andros_airport[dapi]",
+    "location_served": "nicholls_town_andros_island_bahamas\n"
+  },
+  {
+    "iata": "SAR",
+    "icao": "KSAR",
+    "airport_name": "sparta_community_airport_(hunter_field)",
+    "location_served": "sparta_illinois_united_states\n"
+  },
+  {
+    "iata": "SAS",
+    "icao": "KSAS",
+    "airport_name": "salton_sea_airport",
+    "location_served": "salton_city_california_united_states\n"
+  },
+  {
+    "iata": "SAT",
+    "icao": "KSAT",
+    "airport_name": "san_antonio_international_airport",
+    "location_served": "san_antonio_texas_united_states\n"
+  },
+  {
+    "iata": "SAU",
+    "icao": "WATS",
+    "airport_name": "tardamu_airport",
+    "location_served": "savu_(sawu)_indonesia\n"
+  },
+  {
+    "iata": "SAV",
+    "icao": "KSAV",
+    "airport_name": "savannah/hilton_head_international_airport",
+    "location_served": "savannah_georgia_united_states\n"
+  },
+  {
+    "iata": "SAW",
+    "icao": "LTFJ",
+    "airport_name": "sabiha_gökçen_international_airport",
+    "location_served": "istanbul_turkey\n"
+  },
+  {
+    "iata": "SAX",
+    "icao": "",
+    "airport_name": "sambú_airport[dapi]",
+    "location_served": "sambú_panama\n"
+  },
+  {
+    "iata": "SAY",
+    "icao": "LIQS",
+    "airport_name": "siena–ampugnano_airport",
+    "location_served": "siena_tuscany_italy\n"
+  },
+  {
+    "iata": "SAZ",
+    "icao": "GLST",
+    "airport_name": "sasstown_airport",
+    "location_served": "sasstown_liberia\n"
+  },
+  {
+    "iata": "SBA",
+    "icao": "KSBA",
+    "airport_name": "santa_barbara_municipal_airport",
+    "location_served": "santa_barbara_california_united_states\n"
+  },
+  {
+    "iata": "SBB",
+    "icao": "SVSB",
+    "airport_name": "santa_bárbara_de_barinas_airport[dapi]",
+    "location_served": "santa_bárbara_venezuela\n"
+  },
+  {
+    "iata": "SBC",
+    "icao": "AYSO",
+    "airport_name": "selbang_airport[dapi]",
+    "location_served": "selbang_papua_new_guinea\n"
+  },
+  {
+    "iata": "SBD",
+    "icao": "KSBD",
+    "airport_name": "san_bernardino_international_airport",
+    "location_served": "san_bernardino_california_united_states\n"
+  },
+  {
+    "iata": "SBE",
+    "icao": "AYSA",
+    "airport_name": "suabi_airport[dapi]",
+    "location_served": "suabi_papua_new_guinea\n"
+  },
+  {
+    "iata": "SBF",
+    "icao": "OADS",
+    "airport_name": "sardeh_band_airport",
+    "location_served": "band-e_sardeh_dam_afghanistan\n"
+  },
+  {
+    "iata": "SBG",
+    "icao": "WITN",
+    "airport_name": "maimun_saleh_airport[dapi]",
+    "location_served": "sabang_indonesia\n"
+  },
+  {
+    "iata": "SBH",
+    "icao": "TFFJ",
+    "airport_name": "gustaf_iii_airport",
+    "location_served": "gustavia_saint_barthélemy\n"
+  },
+  {
+    "iata": "SBI",
+    "icao": "GUSB",
+    "airport_name": "sambailo_airport",
+    "location_served": "koundara_guinea\n"
+  },
+  {
+    "iata": "SBJ",
+    "icao": "SNMX",
+    "airport_name": "são_mateus_airport[dapi]",
+    "location_served": "são_mateus_espírito_santo_brazil\n"
+  },
+  {
+    "iata": "SBK",
+    "icao": "LFRT",
+    "airport_name": "saint-brieuc_–_armor_airport",
+    "location_served": "saint-brieuc_brittany_france\n"
+  },
+  {
+    "iata": "SBL",
+    "icao": "SLSA",
+    "airport_name": "santa_ana_del_yacuma_airport",
+    "location_served": "santa_ana_del_yacuma_bolivia\n"
+  },
+  {
+    "iata": "SBM",
+    "icao": "KSBM",
+    "airport_name": "sheboygan_county_memorial_airport",
+    "location_served": "sheboygan_wisconsin_united_states\n"
+  },
+  {
+    "iata": "SBN",
+    "icao": "KSBN",
+    "airport_name": "south_bend_international_airport",
+    "location_served": "south_bend_indiana_united_states\n"
+  },
+  {
+    "iata": "SBO",
+    "icao": "",
+    "airport_name": "salina-gunnison_airport[dapi]_(faa:_dapidapiu)",
+    "location_served": "salina_/_gunnison_utah_united_states\n"
+  },
+  {
+    "iata": "SBP",
+    "icao": "KSBP",
+    "airport_name": "san_luis_obispo_county_regional_airport_(mcchesney_field)",
+    "location_served": "san_luis_obispo_california_united_states\n"
+  },
+  {
+    "iata": "SBQ",
+    "icao": "OPSB",
+    "airport_name": "sibi_airport[dapi]",
+    "location_served": "sibi_pakistan\n"
+  },
+  {
+    "iata": "SBR",
+    "icao": "YSII",
+    "airport_name": "saibai_island_airport[dapi]",
+    "location_served": "saibai_island_queensland_australia\n"
+  },
+  {
+    "iata": "SBS",
+    "icao": "KSBS",
+    "airport_name": "steamboat_springs_airport_(bob_adams_field)",
+    "location_served": "steamboat_springs_colorado_united_states\n"
+  },
+  {
+    "iata": "SBT",
+    "icao": "USDA",
+    "airport_name": "sabetta_international_airport[dapi]",
+    "location_served": "sabetta_yamalo-nenets_autonomous_okrug_russia\n"
+  },
+  {
+    "iata": "SBU",
+    "icao": "FASB",
+    "airport_name": "springbok_airport",
+    "location_served": "springbok_south_africa\n"
+  },
+  {
+    "iata": "SBV",
+    "icao": "AYSH",
+    "airport_name": "sabah_airport[dapi]",
+    "location_served": "sabah_papua_new_guinea\n"
+  },
+  {
+    "iata": "SBW",
+    "icao": "WBGS",
+    "airport_name": "sibu_airport",
+    "location_served": "sibu_sarawak_malaysia\n"
+  },
+  {
+    "iata": "SBX",
+    "icao": "KSBX",
+    "airport_name": "shelby_airport",
+    "location_served": "shelby_montana_united_states\n"
+  },
+  {
+    "iata": "SBY",
+    "icao": "KSBY",
+    "airport_name": "salisbury–ocean_city–wicomico_regional_airport",
+    "location_served": "salisbury_/_ocean_city_maryland_united_states\n"
+  },
+  {
+    "iata": "SBZ",
+    "icao": "LRSB",
+    "airport_name": "sibiu_international_airport",
+    "location_served": "sibiu_romania\n"
+  },
+  {
+    "iata": "SCA",
+    "icao": "",
+    "airport_name": "santa_catalina_airport[dapi]",
+    "location_served": "santa_catalina_colombia\n"
+  },
+  {
+    "iata": "SCB",
+    "icao": "KSCB",
+    "airport_name": "scribner_state_airport",
+    "location_served": "scribner_nebraska_united_states\n"
+  },
+  {
+    "iata": "SCC",
+    "icao": "PASC",
+    "airport_name": "deadhorse_airport",
+    "location_served": "prudhoe_bay_/_deadhorse_alaska_united_states\n"
+  },
+  {
+    "iata": "SCD",
+    "icao": "MHUL",
+    "airport_name": "sulaco_airport",
+    "location_served": "sulaco_honduras\n"
+  },
+  {
+    "iata": "SCE",
+    "icao": "KUNV",
+    "airport_name": "university_park_airport_(faa:_unv)",
+    "location_served": "state_college_pennsylvania_united_states\n"
+  },
+  {
+    "iata": "SCF",
+    "icao": "KSDL",
+    "airport_name": "scottsdale_airport_(faa:_sdl)",
+    "location_served": "phoenix_/_scottsdale_arizona_united_states\n"
+  },
+  {
+    "iata": "SCG",
+    "icao": "YSPK",
+    "airport_name": "spring_creek_airport[dapi]",
+    "location_served": "conjuboy_queensland_australia\n"
+  },
+  {
+    "iata": "SCH",
+    "icao": "KSCH",
+    "airport_name": "schenectady_county_airport",
+    "location_served": "schenectady_new_york_united_states\n"
+  },
+  {
+    "iata": "SCI",
+    "icao": "SVPM",
+    "airport_name": "paramillo_airport[dapi]",
+    "location_served": "san_cristóbal_venezuela\n"
+  },
+  {
+    "iata": "SCK",
+    "icao": "KSCK",
+    "airport_name": "stockton_metropolitan_airport",
+    "location_served": "stockton_california_united_states\n"
+  },
+  {
+    "iata": "SCL",
+    "icao": "SCEL",
+    "airport_name": "comodoro_arturo_merino_benítez_international_airport",
+    "location_served": "santiago_chile\n"
+  },
+  {
+    "iata": "SCM",
+    "icao": "PACM",
+    "airport_name": "scammon_bay_airport",
+    "location_served": "scammon_bay_alaska_united_states\n"
+  },
+  {
+    "iata": "SCN",
+    "icao": "EDDR",
+    "airport_name": "saarbrücken_airport",
+    "location_served": "saarbrücken_saarland_germany\n"
+  },
+  {
+    "iata": "SCO",
+    "icao": "UATE",
+    "airport_name": "aktau_airport",
+    "location_served": "aktau_kazakhstan\n"
+  },
+  {
+    "iata": "SCP",
+    "icao": "LFNC",
+    "airport_name": "mont-dauphin_-_saint-crépin_airport[dapi]",
+    "location_served": "mont-dauphin_provence-alpes-côte_d'azur_france\n"
+  },
+  {
+    "iata": "SCQ",
+    "icao": "LEST",
+    "airport_name": "santiago_de_compostela_airport",
+    "location_served": "santiago_de_compostela_galicia_spain\n"
+  },
+  {
+    "iata": "SCR",
+    "icao": "",
+    "airport_name": "scandinavian_mountains_airport",
+    "location_served": "malung-sälen_sweden\n"
+  },
+  {
+    "iata": "SCS",
+    "icao": "EGPM",
+    "airport_name": "scatsta_airport",
+    "location_served": "shetland_islands_scotland_united_kingdom\n"
+  },
+  {
+    "iata": "SCT",
+    "icao": "OYSQ",
+    "airport_name": "socotra_airport[dapi]",
+    "location_served": "socotra_yemen\n"
+  },
+  {
+    "iata": "SCU",
+    "icao": "MUCU",
+    "airport_name": "antonio_maceo_international_airport",
+    "location_served": "santiago_de_cuba_cuba\n"
+  },
+  {
+    "iata": "SCV",
+    "icao": "LRSV",
+    "airport_name": "suceava_international_airport_(ștefan_cel_mare_int'l)",
+    "location_served": "suceava_romania\n"
+  },
+  {
+    "iata": "SCW",
+    "icao": "UUYY",
+    "airport_name": "syktyvkar_airport",
+    "location_served": "syktyvkar_komi_republic_russia\n"
+  },
+  {
+    "iata": "SCX",
+    "icao": "MMSZ",
+    "airport_name": "salina_cruz_airport",
+    "location_served": "salina_cruz_oaxaca_mexico\n"
+  },
+  {
+    "iata": "SCY",
+    "icao": "SEST",
+    "airport_name": "san_cristóbal_airport",
+    "location_served": "san_cristóbal_island_galápagos_islands_ecuador\n"
+  },
+  {
+    "iata": "SCZ",
+    "icao": "AGGL",
+    "airport_name": "santa_cruz/graciosa_bay/luova_airport[dapi]",
+    "location_served": "santa_cruz_islands_solomon_islands\n"
+  },
+  {
+    "iata": "SDB",
+    "icao": "FALW",
+    "airport_name": "air_force_base_langebaanweg[dapi]",
+    "location_served": "saldanha_bay_south_africa\n"
+  },
+  {
+    "iata": "SDC",
+    "icao": "",
+    "airport_name": "sand_creek_airport",
+    "location_served": "sand_creek_village_guyana\n"
+  },
+  {
+    "iata": "SDD",
+    "icao": "FNUB",
+    "airport_name": "lubango_mukanka_airport",
+    "location_served": "lubango_angola\n"
+  },
+  {
+    "iata": "SDE",
+    "icao": "SANE",
+    "airport_name": "vicecomodoro_ángel_de_la_paz_aragonés_airport",
+    "location_served": "santiago_del_estero_santiago_del_estero_argentina\n"
+  },
+  {
+    "iata": "SDF",
+    "icao": "KSDF",
+    "airport_name": "louisville_international_airport_(standiford_field)",
+    "location_served": "louisville_kentucky_united_states\n"
+  },
+  {
+    "iata": "SDG",
+    "icao": "OICS",
+    "airport_name": "sanandaj_airport[dapi]",
+    "location_served": "sanandaj_iran\n"
+  },
+  {
+    "iata": "SDH",
+    "icao": "MHSR",
+    "airport_name": "santa_rosa_de_copán_airport[dapi]",
+    "location_served": "santa_rosa_de_copán_honduras\n"
+  },
+  {
+    "iata": "SDI",
+    "icao": "AYSD",
+    "airport_name": "saidor_airport[dapi]",
+    "location_served": "saidor_papua_new_guinea\n"
+  },
+  {
+    "iata": "SDJ",
+    "icao": "RJSS",
+    "airport_name": "sendai_airport",
+    "location_served": "sendai_honshu_japan\n"
+  },
+  {
+    "iata": "SDK",
+    "icao": "WBKS",
+    "airport_name": "sandakan_airport",
+    "location_served": "sandakan_sabah_malaysia\n"
+  },
+  {
+    "iata": "SDL",
+    "icao": "ESNN",
+    "airport_name": "sundsvall-timrå_airport_(midlanda_airport)",
+    "location_served": "sundsvall_/_härnösand_sweden\n"
+  },
+  {
+    "iata": "SDM",
+    "icao": "KSDM",
+    "airport_name": "brown_field_municipal_airport",
+    "location_served": "san_diego_california_united_states\n"
+  },
+  {
+    "iata": "SDN",
+    "icao": "ENSD",
+    "airport_name": "sandane_airport_anda",
+    "location_served": "sandane_norway\n"
+  },
+  {
+    "iata": "SDP",
+    "icao": "PASD",
+    "airport_name": "sand_point_airport",
+    "location_served": "sand_point_alaska_united_states\n"
+  },
+  {
+    "iata": "SDQ",
+    "icao": "MDSD",
+    "airport_name": "las_américas_international_airport",
+    "location_served": "santo_domingo_dominican_republic\n"
+  },
+  {
+    "iata": "SDR",
+    "icao": "LEXJ",
+    "airport_name": "santander_airport",
+    "location_served": "santander_cantabria_spain\n"
+  },
+  {
+    "iata": "SDS",
+    "icao": "RJSD",
+    "airport_name": "sado_airport[dapi]",
+    "location_served": "sado_niigata_japan\n"
+  },
+  {
+    "iata": "SDT",
+    "icao": "OPSS",
+    "airport_name": "saidu_sharif_airport[dapi]",
+    "location_served": "saidu_sharif_pakistan\n"
+  },
+  {
+    "iata": "SDU",
+    "icao": "SBRJ",
+    "airport_name": "santos_dumont_airport",
+    "location_served": "rio_de_janeiro_rio_de_janeiro_brazil\n"
+  },
+  {
+    "iata": "SDV",
+    "icao": "LLSD",
+    "airport_name": "sde_dov_airport",
+    "location_served": "tel_aviv_israel\n"
+  },
+  {
+    "iata": "SDX",
+    "icao": "KSEZ",
+    "airport_name": "sedona_airport_(faa:_sez)",
+    "location_served": "sedona_arizona_united_states\n"
+  },
+  {
+    "iata": "SDY",
+    "icao": "KSDY",
+    "airport_name": "sidney–richland_municipal_airport",
+    "location_served": "sidney_montana_united_states\n"
+  },
+  {
+    "iata": "SDZ[1]",
+    "icao": "",
+    "airport_name": "metropolitan_areadapi",
+    "location_served": "shetland_islands_scotland_united_kingdom\n"
+  },
+  {
+    "iata": "SEA",
+    "icao": "KSEA",
+    "airport_name": "seattle–tacoma_international_airport",
+    "location_served": "seattle_washington_united_states\n"
+  },
+  {
+    "iata": "SEB",
+    "icao": "HLLS",
+    "airport_name": "sabha_airport[dapi]",
+    "location_served": "sabha_(sebha)_libya\n"
+  },
+  {
+    "iata": "SED",
+    "icao": "",
+    "airport_name": "sdom_airfield[dapi]_(hashnayim_airfield)",
+    "location_served": "neve_zohar_(sedom)_israel\n"
+  },
+  {
+    "iata": "SEE",
+    "icao": "KSEE",
+    "airport_name": "gillespie_field",
+    "location_served": "san_diego_california_united_states\n"
+  },
+  {
+    "iata": "SEF",
+    "icao": "KSEF",
+    "airport_name": "sebring_regional_airport",
+    "location_served": "sebring_florida_united_states\n"
+  },
+  {
+    "iata": "SEG",
+    "icao": "KSEG",
+    "airport_name": "penn_valley_airport",
+    "location_served": "selinsgrove_pennsylvania_united_states\n"
+  },
+  {
+    "iata": "SEH",
+    "icao": "WAJS",
+    "airport_name": "senggeh_airport",
+    "location_served": "senggeh_indonesia\n"
+  },
+  {
+    "iata": "SEK",
+    "icao": "UESK",
+    "airport_name": "srednekolymsk_airport",
+    "location_served": "srednekolymsk_yakutia_russia\n"
+  },
+  {
+    "iata": "SEL[1]",
+    "icao": "",
+    "airport_name": "metropolitan_areadapi",
+    "location_served": "seoul_south_korea\n"
+  },
+  {
+    "iata": "SEM",
+    "icao": "KSEM",
+    "airport_name": "craig_field",
+    "location_served": "selma_alabama_united_states\n"
+  },
+  {
+    "iata": "SEN",
+    "icao": "EGMC",
+    "airport_name": "london_southend_airport",
+    "location_served": "london_/_southend_england_united_kingdom\n"
+  },
+  {
+    "iata": "SEO",
+    "icao": "DISG",
+    "airport_name": "séguéla_airport[dapi]",
+    "location_served": "séguéla_ivory_coast\n"
+  },
+  {
+    "iata": "SEP",
+    "icao": "KSEP",
+    "airport_name": "stephenville_clark_regional_airport",
+    "location_served": "stephenville_texas_united_states\n"
+  },
+  {
+    "iata": "SEQ",
+    "icao": "WIBS",
+    "airport_name": "sei_pakning_airport",
+    "location_served": "bengkalis_indonesia\n"
+  },
+  {
+    "iata": "SER",
+    "icao": "KSER",
+    "airport_name": "freeman_municipal_airport",
+    "location_served": "seymour_indiana_united_states\n"
+  },
+  {
+    "iata": "SEU",
+    "icao": "HTSN",
+    "airport_name": "seronera_airstrip[dapi]",
+    "location_served": "seronera_tanzania\n"
+  },
+  {
+    "iata": "SEV",
+    "icao": "",
+    "airport_name": "severodonetsk_airport[dapi]",
+    "location_served": "severodonetsk_ukraine\n"
+  },
+  {
+    "iata": "SEW",
+    "icao": "",
+    "airport_name": "siwa_oasis_north_airport[dapi]",
+    "location_served": "siwa_oasis_egypt\n"
+  },
+  {
+    "iata": "SEY",
+    "icao": "GQNS",
+    "airport_name": "sélibaby_airport",
+    "location_served": "sélibaby_mauritania\n"
+  },
+  {
+    "iata": "SEZ",
+    "icao": "FSIA",
+    "airport_name": "seychelles_international_airport",
+    "location_served": "mahé_seychelles\n"
+  },
+  {
+    "iata": "SFA",
+    "icao": "DTTX",
+    "airport_name": "sfax–thyna_international_airport",
+    "location_served": "sfax_tunisia\n"
+  },
+  {
+    "iata": "SFB",
+    "icao": "KSFB",
+    "airport_name": "orlando_sanford_international_airport",
+    "location_served": "orlando_florida_united_states\n"
+  },
+  {
+    "iata": "SFC",
+    "icao": "TFFC",
+    "airport_name": "saint-françois_airport[dapi]",
+    "location_served": "saint-françois_guadeloupe\n"
+  },
+  {
+    "iata": "SFD",
+    "icao": "SVSR",
+    "airport_name": "las_flecheras_airport",
+    "location_served": "san_fernando_de_apure_venezuela\n"
+  },
+  {
+    "iata": "SFE",
+    "icao": "RPUS",
+    "airport_name": "san_fernando_airport",
+    "location_served": "san_fernando_philippines\n"
+  },
+  {
+    "iata": "SFF",
+    "icao": "KSFF",
+    "airport_name": "felts_field",
+    "location_served": "spokane_washington_united_states\n"
+  },
+  {
+    "iata": "SFG",
+    "icao": "TFFG",
+    "airport_name": "l'espérance_airport[dapi]_(grand_case_airport)",
+    "location_served": "grand_case_saint_martin\n"
+  },
+  {
+    "iata": "SFH",
+    "icao": "MMSF",
+    "airport_name": "san_felipe_international_airport",
+    "location_served": "san_felipe_baja_california_mexico\n"
+  },
+  {
+    "iata": "SFJ",
+    "icao": "BGSF",
+    "airport_name": "kangerlussuaq_airport",
+    "location_served": "kangerlussuaq_greenland\n"
+  },
+  {
+    "iata": "SFK",
+    "icao": "SNSW",
+    "airport_name": "soure_airport[dapi]",
+    "location_served": "soure_pará_brazil\n"
+  },
+  {
+    "iata": "SFL",
+    "icao": "GVSF",
+    "airport_name": "são_filipe_airport",
+    "location_served": "são_filipe_fogo_cape_verde\n"
+  },
+  {
+    "iata": "SFM",
+    "icao": "KSFM",
+    "airport_name": "sanford_seacoast_regional_airport",
+    "location_served": "sanford_maine_united_states\n"
+  },
+  {
+    "iata": "SFN",
+    "icao": "SAAV",
+    "airport_name": "sauce_viejo_airport[dapi]",
+    "location_served": "santa_fe_de_la_vera_cruz_santa_fe_argentina\n"
+  },
+  {
+    "iata": "SFO",
+    "icao": "KSFO",
+    "airport_name": "san_francisco_international_airport",
+    "location_served": "san_francisco_california_united_states\n"
+  },
+  {
+    "iata": "SFQ",
+    "icao": "LTCH",
+    "airport_name": "şanlıurfa_airport",
+    "location_served": "şanlıurfa_turkey\n"
+  },
+  {
+    "iata": "SFS",
+    "icao": "RPLB",
+    "airport_name": "subic_bay_international_airport",
+    "location_served": "subic_bay_philippines\n"
+  },
+  {
+    "iata": "SFT",
+    "icao": "ESNS",
+    "airport_name": "skellefteå_airport",
+    "location_served": "skellefteå_sweden\n"
+  },
+  {
+    "iata": "SFU",
+    "icao": "",
+    "airport_name": "safia_airport[dapi]",
+    "location_served": "safia_papua_new_guinea\n"
+  },
+  {
+    "iata": "SFV",
+    "icao": "",
+    "airport_name": "santa_fé_do_sul_airport[dapi]",
+    "location_served": "santa_fé_do_sul_são_paulo_brazil\n"
+  },
+  {
+    "iata": "SFX",
+    "icao": "",
+    "airport_name": "macagua_airport[dapi]",
+    "location_served": "san_félix_venezuela\n"
+  },
+  {
+    "iata": "SFY[1]",
+    "icao": "",
+    "airport_name": "metropolitan_areadapi",
+    "location_served": "springfield_massachusetts_united_states\n"
+  },
+  {
+    "iata": "SFZ",
+    "icao": "KSFZ",
+    "airport_name": "north_central_state_airport",
+    "location_served": "pawtucket_rhode_island_united_states\n"
+  },
+  {
+    "iata": "SGA",
+    "icao": "OASN",
+    "airport_name": "sheghnan_airport",
+    "location_served": "shighnan_afghanistan\n"
+  },
+  {
+    "iata": "SGB",
+    "icao": "",
+    "airport_name": "singaua_airport[dapi]",
+    "location_served": "singaua_papua_new_guinea\n"
+  },
+  {
+    "iata": "SGC",
+    "icao": "USRR",
+    "airport_name": "surgut_international_airport",
+    "location_served": "surgut_khanty-mansi_autonomous_okrug_russia\n"
+  },
+  {
+    "iata": "SGD",
+    "icao": "EKSB",
+    "airport_name": "sønderborg_airport",
+    "location_served": "sønderborg_denmark\n"
+  },
+  {
+    "iata": "SGE",
+    "icao": "EDGS",
+    "airport_name": "siegerland_airport",
+    "location_served": "siegen_north_rhine-westphalia_germany\n"
+  },
+  {
+    "iata": "SGF",
+    "icao": "KSGF",
+    "airport_name": "springfield–branson_national_airport",
+    "location_served": "springfield_missouri_united_states\n"
+  },
+  {
+    "iata": "SGH",
+    "icao": "KSGH",
+    "airport_name": "springfield–beckley_municipal_airport",
+    "location_served": "springfield_ohio_united_states\n"
+  },
+  {
+    "iata": "SGI",
+    "icao": "OPSR",
+    "airport_name": "paf_base_mushaf[dapi]",
+    "location_served": "sargodha_pakistan\n"
+  },
+  {
+    "iata": "SGJ",
+    "icao": "",
+    "airport_name": "sagarai_airport[dapi]",
+    "location_served": "sagarai_papua_new_guinea\n"
+  },
+  {
+    "iata": "SGK",
+    "icao": "AYSK",
+    "airport_name": "sangapi_airport",
+    "location_served": "sangapi_papua_new_guinea\n"
+  },
+  {
+    "iata": "SGL",
+    "icao": "RPLS",
+    "airport_name": "sangley_point_airport",
+    "location_served": "manila_philippines\n"
+  },
+  {
+    "iata": "SGM",
+    "icao": "",
+    "airport_name": "san_ignacio_airfield[dapi]",
+    "location_served": "san_ignacio_baja_california_sur_mexico\n"
+  },
+  {
+    "iata": "SGN",
+    "icao": "VVTS",
+    "airport_name": "tan_son_nhat_international_airport",
+    "location_served": "ho_chi_minh_city_vietnam\n"
+  },
+  {
+    "iata": "SGO",
+    "icao": "YSGE",
+    "airport_name": "st_george_airport[dapi]",
+    "location_served": "st_george_queensland_australia\n"
+  },
+  {
+    "iata": "SGP",
+    "icao": "YSHG",
+    "airport_name": "shay_gap_airport[dapi]",
+    "location_served": "shay_gap_western_australia_australia\n"
+  },
+  {
+    "iata": "SGQ",
+    "icao": "WRLA",
+    "airport_name": "sangkimah_airport[dapi]",
+    "location_served": "sangatta_indonesia\n"
+  },
+  {
+    "iata": "SGR",
+    "icao": "KSGR",
+    "airport_name": "sugar_land_regional_airport",
+    "location_served": "houston_/_sugar_land_texas_united_states\n"
+  },
+  {
+    "iata": "SGT",
+    "icao": "KSGT",
+    "airport_name": "stuttgart_municipal_airport",
+    "location_served": "stuttgart_arkansas_united_states\n"
+  },
+  {
+    "iata": "SGU",
+    "icao": "KSGU",
+    "airport_name": "st._george_regional_airport",
+    "location_served": "st._george_utah_united_states\n"
+  },
+  {
+    "iata": "SGV",
+    "icao": "SAVS",
+    "airport_name": "sierra_grande_airport[dapi]",
+    "location_served": "sierra_grande_río_negro_argentina\n"
+  },
+  {
+    "iata": "SGW",
+    "icao": "",
+    "airport_name": "saginaw_seaplane_base[dapi]_(faa:_adapidapi)",
+    "location_served": "saginaw_bay_alaska_united_states\n"
+  },
+  {
+    "iata": "SGX",
+    "icao": "HTSO",
+    "airport_name": "songea_airport[dapi]",
+    "location_served": "songea_tanzania\n"
+  },
+  {
+    "iata": "SGY",
+    "icao": "PAGY",
+    "airport_name": "skagway_airport",
+    "location_served": "skagway_alaska_united_states\n"
+  },
+  {
+    "iata": "SGZ",
+    "icao": "VTSH",
+    "airport_name": "songkhla_airport[dapi]",
+    "location_served": "songkhla_thailand\n"
+  },
+  {
+    "iata": "SHA",
+    "icao": "ZSSS",
+    "airport_name": "shanghai_hongqiao_international_airport",
+    "location_served": "shanghai_china\n"
+  },
+  {
+    "iata": "SHB",
+    "icao": "RJCN",
+    "airport_name": "nakashibetsu_airport",
+    "location_served": "nakashibetsu_hokkaido_japan\n"
+  },
+  {
+    "iata": "SHC",
+    "icao": "",
+    "airport_name": "shire_airport[dapi]",
+    "location_served": "shire_(inda_selassie)_ethiopia\n"
+  },
+  {
+    "iata": "SHD",
+    "icao": "KSHD",
+    "airport_name": "shenandoah_valley_regional_airport",
+    "location_served": "staunton_/_waynesboro_/_harrisonburg_virginia_united_states\n"
+  },
+  {
+    "iata": "SHE",
+    "icao": "ZYTX",
+    "airport_name": "shenyang_taoxian_international_airport",
+    "location_served": "shenyang_liaoning_china\n"
+  },
+  {
+    "iata": "SHF",
+    "icao": "ZWHZ",
+    "airport_name": "shihezi_huayuan_airport",
+    "location_served": "shihezi_xinjiang_china\n"
+  },
+  {
+    "iata": "SHG",
+    "icao": "PAHG",
+    "airport_name": "shungnak_airport",
+    "location_served": "shungnak_alaska_united_states\n"
+  },
+  {
+    "iata": "SHH",
+    "icao": "PASH",
+    "airport_name": "shishmaref_airport",
+    "location_served": "shishmaref_alaska_united_states\n"
+  },
+  {
+    "iata": "SHI",
+    "icao": "RORS",
+    "airport_name": "shimojishima_airport",
+    "location_served": "shimoji-shima_miyako_islands_japan\n"
+  },
+  {
+    "iata": "SHJ",
+    "icao": "OMSJ",
+    "airport_name": "sharjah_international_airport",
+    "location_served": "sharjah_united_arab_emirates\n"
+  },
+  {
+    "iata": "SHK",
+    "icao": "FXSH",
+    "airport_name": "sehonghong_airport[dapi]",
+    "location_served": "sehonghong_lesotho\n"
+  },
+  {
+    "iata": "SHL",
+    "icao": "VEBI",
+    "airport_name": "shillong_airport_(barapani_airport)",
+    "location_served": "shillong_meghalaya_india\n"
+  },
+  {
+    "iata": "SHM",
+    "icao": "RJBD",
+    "airport_name": "nanki–shirahama_airport",
+    "location_served": "shirahama_honshu_japan\n"
+  },
+  {
+    "iata": "SHN",
+    "icao": "KSHN",
+    "airport_name": "sanderson_field",
+    "location_served": "shelton_washington_united_states\n"
+  },
+  {
+    "iata": "SHO",
+    "icao": "FDSK",
+    "airport_name": "king_mswati_iii_international_airport[dapi]_(sikhuphe_int'l)",
+    "location_served": "manzini_swaziland\n"
+  },
+  {
+    "iata": "SHQ",
+    "icao": "YSPT",
+    "airport_name": "southport_airport[dapi]",
+    "location_served": "southport_queensland_australia\n"
+  },
+  {
+    "iata": "SHR",
+    "icao": "KSHR",
+    "airport_name": "sheridan_county_airport",
+    "location_served": "sheridan_wyoming_united_states\n"
+  },
+  {
+    "iata": "SHS",
+    "icao": "ZHSS",
+    "airport_name": "shashi_airport",
+    "location_served": "jingzhou_hubei_china\n"
+  },
+  {
+    "iata": "SHT",
+    "icao": "YSHT",
+    "airport_name": "shepparton_airport",
+    "location_served": "shepparton_victoria_australia\n"
+  },
+  {
+    "iata": "SHU",
+    "icao": "YSMP",
+    "airport_name": "smith_point_airport[dapi]",
+    "location_served": "smith_point_northern_territory_australia\n"
+  },
+  {
+    "iata": "SHV",
+    "icao": "KSHV",
+    "airport_name": "shreveport_regional_airport",
+    "location_served": "shreveport_louisiana_united_states\n"
+  },
+  {
+    "iata": "SHW",
+    "icao": "OESH",
+    "airport_name": "sharurah_domestic_airport",
+    "location_served": "sharurah_saudi_arabia\n"
+  },
+  {
+    "iata": "SHX",
+    "icao": "PAHX",
+    "airport_name": "shageluk_airport",
+    "location_served": "shageluk_alaska_united_states\n"
+  },
+  {
+    "iata": "SHY",
+    "icao": "HTSY",
+    "airport_name": "shinyanga_airport[dapi]",
+    "location_served": "shinyanga_tanzania\n"
+  },
+  {
+    "iata": "SHZ",
+    "icao": "FXSS",
+    "airport_name": "seshutes_airport[dapi]",
+    "location_served": "seshote_lesotho\n"
+  },
+  {
+    "iata": "SIA",
+    "icao": "ZLSN",
+    "airport_name": "xi'an_xiguan_airport",
+    "location_served": "xi'an_shaanxi_china\n"
+  },
+  {
+    "iata": "SIB",
+    "icao": "FCBS",
+    "airport_name": "sibiti_airport[dapi]",
+    "location_served": "sibiti_republic_of_the_congo\n"
+  },
+  {
+    "iata": "SIC",
+    "icao": "",
+    "airport_name": "san_josé_airport[dapi]",
+    "location_served": "san_josé_island_panama\n"
+  },
+  {
+    "iata": "SID",
+    "icao": "GVAC",
+    "airport_name": "amílcar_cabral_international_airport",
+    "location_served": "sal_cape_verde\n"
+  },
+  {
+    "iata": "SIE",
+    "icao": "LPSI",
+    "airport_name": "sines_airport[dapi]",
+    "location_served": "sines_portugal\n"
+  },
+  {
+    "iata": "SIF",
+    "icao": "VNSI",
+    "airport_name": "simara_airport[dapi]",
+    "location_served": "simara_nepal\n"
+  },
+  {
+    "iata": "SIG",
+    "icao": "TJIG",
+    "airport_name": "fernando_luis_ribas_dominicci_airport",
+    "location_served": "san_juan_puerto_rico\n"
+  },
+  {
+    "iata": "SIH",
+    "icao": "VNDT",
+    "airport_name": "silgadhi_airport[dapi]",
+    "location_served": "dipayal_silgadhi_nepal\n"
+  },
+  {
+    "iata": "SII",
+    "icao": "GMMF",
+    "airport_name": "sidi_ifni_airport_(sania_ramel_airport)",
+    "location_served": "sidi_ifni_morocco\n"
+  },
+  {
+    "iata": "SIJ",
+    "icao": "BISI",
+    "airport_name": "siglufjörður_airport",
+    "location_served": "siglufjörður_iceland\n"
+  },
+  {
+    "iata": "SIK",
+    "icao": "KSIK",
+    "airport_name": "sikeston_memorial_municipal_airport",
+    "location_served": "sikeston_missouri_united_states\n"
+  },
+  {
+    "iata": "SIL",
+    "icao": "AYSG",
+    "airport_name": "sila_airport[dapi]",
+    "location_served": "sila_papua_new_guinea\n"
+  },
+  {
+    "iata": "SIM",
+    "icao": "AYSJ",
+    "airport_name": "simbai_airport[dapi]",
+    "location_served": "simbai_papua_new_guinea\n"
+  },
+  {
+    "iata": "SIN",
+    "icao": "WSSS",
+    "airport_name": "singapore_changi_airport",
+    "location_served": "singapore\n"
+  },
+  {
+    "iata": "SIO",
+    "icao": "YSMI",
+    "airport_name": "smithton_airport",
+    "location_served": "smithton_tasmania_australia\n"
+  },
+  {
+    "iata": "SIP",
+    "icao": "UKFF",
+    "airport_name": "simferopol_international_airport",
+    "location_served": "simferopol\n"
+  },
+  {
+    "iata": "SIQ",
+    "icao": "WIDS",
+    "airport_name": "dabo_singkep_airport[dapi]",
+    "location_served": "singkep_indonesia\n"
+  },
+  {
+    "iata": "SIR",
+    "icao": "LSGS",
+    "airport_name": "sion_airport",
+    "location_served": "sion_switzerland\n"
+  },
+  {
+    "iata": "SIS",
+    "icao": "FASS",
+    "airport_name": "sishen_airport",
+    "location_served": "dingleton_south_africa\n"
+  },
+  {
+    "iata": "SIT",
+    "icao": "PASI",
+    "airport_name": "sitka_rocky_gutierrez_airport",
+    "location_served": "sitka_alaska_united_states\n"
+  },
+  {
+    "iata": "SIU",
+    "icao": "MNSI",
+    "airport_name": "siuna_airport",
+    "location_served": "siuna_nicaragua\n"
+  },
+  {
+    "iata": "SIV",
+    "icao": "KSIV",
+    "airport_name": "sullivan_county_airport",
+    "location_served": "sullivan_indiana_united_states\n"
+  },
+  {
+    "iata": "SIW",
+    "icao": "WIMP",
+    "airport_name": "sibisa_airport[dapi]",
+    "location_served": "parapat_indonesia\n"
+  },
+  {
+    "iata": "SIX",
+    "icao": "YSGT",
+    "airport_name": "singleton_airport[dapi]",
+    "location_served": "singleton_new_south_wales_australia\n"
+  },
+  {
+    "iata": "SIY",
+    "icao": "KSIY",
+    "airport_name": "siskiyou_county_airport",
+    "location_served": "montague_/_yreka_california_united_states\n"
+  },
+  {
+    "iata": "SIZ",
+    "icao": "AYZN",
+    "airport_name": "sissano_airport[dapi]",
+    "location_served": "sissano_papua_new_guinea\n"
+  },
+  {
+    "iata": "SJA",
+    "icao": "SPJN",
+    "airport_name": "san_juan_de_marcona_airport[dapi]",
+    "location_served": "san_juan_de_marcona_peru\n"
+  },
+  {
+    "iata": "SJB",
+    "icao": "SLJO",
+    "airport_name": "san_joaquín_airport[dapi]",
+    "location_served": "san_joaquín_bolivia\n"
+  },
+  {
+    "iata": "SJC",
+    "icao": "KSJC",
+    "airport_name": "san_jose_international_airport",
+    "location_served": "san_jose_california_united_states\n"
+  },
+  {
+    "iata": "SJD",
+    "icao": "MMSD",
+    "airport_name": "los_cabos_international_airport",
+    "location_served": "san_josé_del_cabo_baja_california_sur_mexico\n"
+  },
+  {
+    "iata": "SJE",
+    "icao": "SKSJ",
+    "airport_name": "jorge_enrique_gonzález_torres_airport",
+    "location_served": "san_josé_del_guaviare_colombia\n"
+  },
+  {
+    "iata": "SJF",
+    "icao": "",
+    "airport_name": "cruz_bay_seaplane_base[dapi]",
+    "location_served": "saint_john_united_states_virgin_islands\n"
+  },
+  {
+    "iata": "SJG",
+    "icao": "",
+    "airport_name": "san_pedro_de_jagua_airport[dapi]",
+    "location_served": "san_pedro_de_jagua_colombia\n"
+  },
+  {
+    "iata": "SJH",
+    "icao": "",
+    "airport_name": "san_juan_del_cesar_airport[dapi]",
+    "location_served": "san_juan_del_cesar_colombia\n"
+  },
+  {
+    "iata": "SJI",
+    "icao": "RPUH",
+    "airport_name": "san_jose_airport",
+    "location_served": "san_jose_philippines\n"
+  },
+  {
+    "iata": "SJJ",
+    "icao": "LQSA",
+    "airport_name": "sarajevo_international_airport",
+    "location_served": "sarajevo_bosnia_and_herzegovina\n"
+  },
+  {
+    "iata": "SJK",
+    "icao": "SBSJ",
+    "airport_name": "professor_urbano_ernesto_stumpf_airport",
+    "location_served": "são_josé_dos_campos_são_paulo_brazil\n"
+  },
+  {
+    "iata": "SJL",
+    "icao": "SBUA",
+    "airport_name": "são_gabriel_da_cachoeira_airport[dapi]",
+    "location_served": "são_gabriel_da_cachoeira_amazonas_brazil\n"
+  },
+  {
+    "iata": "SJN",
+    "icao": "KSJN",
+    "airport_name": "st._johns_industrial_air_park",
+    "location_served": "st._johns_arizona_united_states\n"
+  },
+  {
+    "iata": "SJO",
+    "icao": "MROC",
+    "airport_name": "juan_santamaría_international_airport",
+    "location_served": "san_josé_costa_rica\n"
+  },
+  {
+    "iata": "SJP",
+    "icao": "SBSR",
+    "airport_name": "prof._eribelto_manoel_reino_state_airport",
+    "location_served": "são_josé_do_rio_preto_são_paulo_brazil\n"
+  },
+  {
+    "iata": "SJQ",
+    "icao": "FLSS",
+    "airport_name": "sesheke_airport[dapi]",
+    "location_served": "sesheke_zambia\n"
+  },
+  {
+    "iata": "SJR",
+    "icao": "",
+    "airport_name": "san_juan_de_urabá_airport[dapi]",
+    "location_served": "san_juan_de_urabá_colombia\n"
+  },
+  {
+    "iata": "SJS",
+    "icao": "SLJE",
+    "airport_name": "san_josé_de_chiquitos_airport[dapi]",
+    "location_served": "san_josé_de_chiquitos_bolivia\n"
+  },
+  {
+    "iata": "SJT",
+    "icao": "KSJT",
+    "airport_name": "san_angelo_regional_airport_(mathis_field)",
+    "location_served": "san_angelo_texas_united_states\n"
+  },
+  {
+    "iata": "SJU",
+    "icao": "TJSJ",
+    "airport_name": "luis_muñoz_marín_international_airport",
+    "location_served": "san_juan_puerto_rico\n"
+  },
+  {
+    "iata": "SJV",
+    "icao": "SLJV",
+    "airport_name": "san_javier_airport[dapi]",
+    "location_served": "san_javier_bolivia\n"
+  },
+  {
+    "iata": "SJW",
+    "icao": "ZBSJ",
+    "airport_name": "shijiazhuang_zhengding_international_airport",
+    "location_served": "shijiazhuang_hebei_china\n"
+  },
+  {
+    "iata": "SJX",
+    "icao": "",
+    "airport_name": "sarteneja_airport",
+    "location_served": "sarteneja_belize\n"
+  },
+  {
+    "iata": "SJY",
+    "icao": "EFSI",
+    "airport_name": "seinäjoki_airport",
+    "location_served": "seinäjoki_finland\n"
+  },
+  {
+    "iata": "SJZ",
+    "icao": "LPSJ",
+    "airport_name": "são_jorge_airport",
+    "location_served": "são_jorge_island_azores_portugal\n"
+  },
+  {
+    "iata": "SKA",
+    "icao": "KSKA",
+    "airport_name": "fairchild_air_force_base",
+    "location_served": "spokane_washington_united_states\n"
+  },
+  {
+    "iata": "SKB",
+    "icao": "TKPK",
+    "airport_name": "robert_l._bradshaw_international_airport",
+    "location_served": "saint_kitts_saint_kitts_and_nevis\n"
+  },
+  {
+    "iata": "SKC",
+    "icao": "AYSU",
+    "airport_name": "suki_airport[dapi]",
+    "location_served": "suki_papua_new_guinea\n"
+  },
+  {
+    "iata": "SKD",
+    "icao": "UTSS",
+    "airport_name": "samarkand_international_airport[dapi]",
+    "location_served": "samarkand_uzbekistan\n"
+  },
+  {
+    "iata": "SKE",
+    "icao": "ENSN",
+    "airport_name": "skien_airport_geiteryggen",
+    "location_served": "skien_norway\n"
+  },
+  {
+    "iata": "SKF",
+    "icao": "KSKF",
+    "airport_name": "kelly_field_annex_/_lackland_air_force_base",
+    "location_served": "san_antonio_texas_united_states\n"
+  },
+  {
+    "iata": "SKG",
+    "icao": "LGTS",
+    "airport_name": "thessaloniki_airport_\"macedonia\"",
+    "location_served": "thessaloniki_greece\n"
+  },
+  {
+    "iata": "SKH",
+    "icao": "VNSK",
+    "airport_name": "surkhet_airport[dapi]",
+    "location_served": "surkhet_nepal\n"
+  },
+  {
+    "iata": "SKI",
+    "icao": "DABP",
+    "airport_name": "skikda_airport",
+    "location_served": "skikda_algeria\n"
+  },
+  {
+    "iata": "SKK",
+    "icao": "PFSH",
+    "airport_name": "shaktoolik_airport_(faa:_dapicdapi)",
+    "location_served": "shaktoolik_alaska_united_states\n"
+  },
+  {
+    "iata": "SKL",
+    "icao": "EGEI",
+    "airport_name": "broadford_airfield[dapi]",
+    "location_served": "isle_of_skye_scotland_united_kingdom\n"
+  },
+  {
+    "iata": "SKM",
+    "icao": "",
+    "airport_name": "skeldon_airport[dapi]",
+    "location_served": "skeldon_guyana\n"
+  },
+  {
+    "iata": "SKN",
+    "icao": "ENSK",
+    "airport_name": "stokmarknes_airport_skagen",
+    "location_served": "stokmarknes_norway\n"
+  },
+  {
+    "iata": "SKO",
+    "icao": "DNSO",
+    "airport_name": "sadiq_abubakar_iii_international_airport[dapi]",
+    "location_served": "sokoto_nigeria\n"
+  },
+  {
+    "iata": "SKP",
+    "icao": "LWSK",
+    "airport_name": "skopje_\"alexander_the_great\"_airport",
+    "location_served": "skopje_north_macedonia\n"
+  },
+  {
+    "iata": "SKQ",
+    "icao": "FXSK",
+    "airport_name": "sekake_airport[dapi]",
+    "location_served": "sekake_lesotho\n"
+  },
+  {
+    "iata": "SKR",
+    "icao": "HASK",
+    "airport_name": "shakiso_airport[dapi]",
+    "location_served": "shakiso_ethiopia\n"
+  },
+  {
+    "iata": "SKS",
+    "icao": "EKSP",
+    "airport_name": "vojens_airport_(skrydstrup_airport)",
+    "location_served": "vojens_denmark\n"
+  },
+  {
+    "iata": "SKT",
+    "icao": "OPST",
+    "airport_name": "sialkot_international_airport",
+    "location_served": "sialkot_pakistan\n"
+  },
+  {
+    "iata": "SKU",
+    "icao": "LGSY",
+    "airport_name": "skyros_island_national_airport",
+    "location_served": "skyros_greece\n"
+  },
+  {
+    "iata": "SKV",
+    "icao": "HESC",
+    "airport_name": "st._catherine_international_airport",
+    "location_served": "saint_catherine_egypt\n"
+  },
+  {
+    "iata": "SKW",
+    "icao": "PASW",
+    "airport_name": "skwentna_airport",
+    "location_served": "skwentna_alaska_united_states\n"
+  },
+  {
+    "iata": "SKX",
+    "icao": "UWPS",
+    "airport_name": "saransk_airport",
+    "location_served": "saransk_mordovia_russia\n"
+  },
+  {
+    "iata": "SKY",
+    "icao": "KSKY",
+    "airport_name": "griffing_sandusky_airport",
+    "location_served": "sandusky_ohio_united_states\n"
+  },
+  {
+    "iata": "SKZ",
+    "icao": "OPSK",
+    "airport_name": "sukkur_airport",
+    "location_served": "sukkur_pakistan\n"
+  },
+  {
+    "iata": "SLA",
+    "icao": "SASA",
+    "airport_name": "martín_miguel_de_güemes_international_airport",
+    "location_served": "salta_salta_argentina\n"
+  },
+  {
+    "iata": "SLB",
+    "icao": "KSLB",
+    "airport_name": "storm_lake_municipal_airport",
+    "location_served": "storm_lake_iowa_united_states\n"
+  },
+  {
+    "iata": "SLC",
+    "icao": "KSLC",
+    "airport_name": "salt_lake_city_international_airport",
+    "location_served": "salt_lake_city_utah_united_states\n"
+  },
+  {
+    "iata": "SLD",
+    "icao": "LZSL",
+    "airport_name": "sliač_airport",
+    "location_served": "sliač_slovakia\n"
+  },
+  {
+    "iata": "SLE",
+    "icao": "KSLE",
+    "airport_name": "mcnary_field",
+    "location_served": "salem_oregon_united_states\n"
+  },
+  {
+    "iata": "SLF",
+    "icao": "OESL",
+    "airport_name": "sulayel_airport[dapi]",
+    "location_served": "as_sulayyil_(sulayel)_saudi_arabia\n"
+  },
+  {
+    "iata": "SLG",
+    "icao": "KSLG",
+    "airport_name": "smith_field",
+    "location_served": "siloam_springs_arkansas_united_states\n"
+  },
+  {
+    "iata": "SLH",
+    "icao": "NVSC",
+    "airport_name": "vanua_lava_airport",
+    "location_served": "sola_vanua_lava_vanuatu\n"
+  },
+  {
+    "iata": "SLI",
+    "icao": "FLSW",
+    "airport_name": "solwezi_airport",
+    "location_served": "solwezi_zambia\n"
+  },
+  {
+    "iata": "SLJ",
+    "icao": "YSOL",
+    "airport_name": "solomon_airport",
+    "location_served": "karijini_national_park_western_australia_australia\n"
+  },
+  {
+    "iata": "SLK",
+    "icao": "KSLK",
+    "airport_name": "adirondack_regional_airport",
+    "location_served": "saranac_lake_new_york_united_states\n"
+  },
+  {
+    "iata": "SLL",
+    "icao": "OOSA",
+    "airport_name": "salalah_international_airport",
+    "location_served": "salalah_oman\n"
+  },
+  {
+    "iata": "SLM",
+    "icao": "LESA",
+    "airport_name": "salamanca_airport",
+    "location_served": "salamanca_castile_and_león_spain\n"
+  },
+  {
+    "iata": "SLN",
+    "icao": "KSLN",
+    "airport_name": "salina_regional_airport",
+    "location_served": "salina_kansas_united_states\n"
+  },
+  {
+    "iata": "SLO",
+    "icao": "KSLO",
+    "airport_name": "salem–leckrone_airport",
+    "location_served": "salem_illinois_united_states\n"
+  },
+  {
+    "iata": "SLP",
+    "icao": "MMSP",
+    "airport_name": "ponciano_arriaga_international_airport",
+    "location_served": "san_luis_potosí_city_san_luis_potosí_mexico\n"
+  },
+  {
+    "iata": "SLQ",
+    "icao": "PASL",
+    "airport_name": "sleetmute_airport",
+    "location_served": "sleetmute_alaska_united_states\n"
+  },
+  {
+    "iata": "SLR",
+    "icao": "KSLR",
+    "airport_name": "sulphur_springs_municipal_airport",
+    "location_served": "sulphur_springs_texas_united_states\n"
+  },
+  {
+    "iata": "SLS",
+    "icao": "LBSS",
+    "airport_name": "silistra_airfield",
+    "location_served": "silistra_bulgaria\n"
+  },
+  {
+    "iata": "SLT",
+    "icao": "KANK",
+    "airport_name": "harriet_alexander_field_(faa:_ank)",
+    "location_served": "salida_colorado_united_states\n"
+  },
+  {
+    "iata": "SLU",
+    "icao": "TLPC",
+    "airport_name": "george_f._l._charles_airport",
+    "location_served": "castries_saint_lucia\n"
+  },
+  {
+    "iata": "SLV",
+    "icao": "VISM",
+    "airport_name": "shimla_airport",
+    "location_served": "simla_himachal_pradesh_india\n"
+  },
+  {
+    "iata": "SLW",
+    "icao": "MMIO",
+    "airport_name": "plan_de_guadalupe_international_airport",
+    "location_served": "saltillo_coahuila_mexico\n"
+  },
+  {
+    "iata": "SLX",
+    "icao": "MBSY",
+    "airport_name": "salt_cay_airport[dapi]",
+    "location_served": "salt_cay_british_overseas_territory_of_turks_and_caicos_islands\n"
+  },
+  {
+    "iata": "SLY",
+    "icao": "USDD",
+    "airport_name": "salekhard_airport",
+    "location_served": "salekhard_yamalo-nenets_autonomous_okrug_russia\n"
+  },
+  {
+    "iata": "SLZ",
+    "icao": "SBSL",
+    "airport_name": "marechal_cunha_machado_international_airport",
+    "location_served": "são_luís_maranhão_brazil\n"
+  },
+  {
+    "iata": "SMA",
+    "icao": "LPAZ",
+    "airport_name": "santa_maria_airport",
+    "location_served": "santa_maria_island_azores_portugal\n"
+  },
+  {
+    "iata": "SMB",
+    "icao": "SCSB",
+    "airport_name": "franco_bianco_airport[dapi]",
+    "location_served": "cerro_sombrero_chile\n"
+  },
+  {
+    "iata": "SMC",
+    "icao": "",
+    "airport_name": "santa_maría_airport[dapi]",
+    "location_served": "santa_maría_colombia\n"
+  },
+  {
+    "iata": "SMD",
+    "icao": "KSMD",
+    "airport_name": "smith_field",
+    "location_served": "fort_wayne_indiana_united_states\n"
+  },
+  {
+    "iata": "SME",
+    "icao": "KSME",
+    "airport_name": "lake_cumberland_regional_airport",
+    "location_served": "somerset_kentucky_united_states\n"
+  },
+  {
+    "iata": "SMF",
+    "icao": "KSMF",
+    "airport_name": "sacramento_international_airport",
+    "location_served": "sacramento_california_united_states\n"
+  },
+  {
+    "iata": "SMG",
+    "icao": "SPMR",
+    "airport_name": "santa_maría_airport[dapi]",
+    "location_served": "santa_maría_del_mar_peru\n"
+  },
+  {
+    "iata": "SMH",
+    "icao": "AYSP",
+    "airport_name": "sapmanga_airport",
+    "location_served": "sapmanga_papua_new_guinea\n"
+  },
+  {
+    "iata": "SMI",
+    "icao": "LGSM",
+    "airport_name": "samos_international_airport_\"aristarchos_of_samos\"",
+    "location_served": "samos_greece\n"
+  },
+  {
+    "iata": "SMJ",
+    "icao": "",
+    "airport_name": "sim_airport[dapi]",
+    "location_served": "sim_papua_new_guinea\n"
+  },
+  {
+    "iata": "SMK",
+    "icao": "PAMK",
+    "airport_name": "st._michael_airport",
+    "location_served": "st._michael_alaska_united_states\n"
+  },
+  {
+    "iata": "SML",
+    "icao": "MYLS",
+    "airport_name": "stella_maris_airport[dapi]",
+    "location_served": "stella_maris_long_island_bahamas\n"
+  },
+  {
+    "iata": "SMM",
+    "icao": "WBKA",
+    "airport_name": "semporna_airport",
+    "location_served": "semporna_sabah_malaysia\n"
+  },
+  {
+    "iata": "SMN",
+    "icao": "KSMN",
+    "airport_name": "lemhi_county_airport",
+    "location_served": "salmon_idaho_united_states\n"
+  },
+  {
+    "iata": "SMO",
+    "icao": "KSMO",
+    "airport_name": "santa_monica_municipal_airport",
+    "location_served": "santa_monica_california_united_states\n"
+  },
+  {
+    "iata": "SMP",
+    "icao": "",
+    "airport_name": "stockholm_airport[dapi]",
+    "location_served": "stockholm_papua_new_guinea\n"
+  },
+  {
+    "iata": "SMQ",
+    "icao": "WAOS",
+    "airport_name": "h._asan_airport",
+    "location_served": "sampit_indonesia\n"
+  },
+  {
+    "iata": "SMR",
+    "icao": "SKSM",
+    "airport_name": "simón_bolívar_international_airport",
+    "location_served": "santa_marta_colombia\n"
+  },
+  {
+    "iata": "SMS",
+    "icao": "FMMS",
+    "airport_name": "sainte_marie_airport",
+    "location_served": "île_sainte-marie_madagascar\n"
+  },
+  {
+    "iata": "SMU",
+    "icao": "PASP",
+    "airport_name": "sheep_mountain_airport",
+    "location_served": "sheep_mountain_alaska_united_states\n"
+  },
+  {
+    "iata": "SMV",
+    "icao": "LSZS",
+    "airport_name": "samedan_airport_(engadin_airport)",
+    "location_served": "st._moritz_switzerland\n"
+  },
+  {
+    "iata": "SMW",
+    "icao": "GMMA",
+    "airport_name": "smara_airport[dapi]",
+    "location_served": "smara_morocco\n"
+  },
+  {
+    "iata": "SMX",
+    "icao": "KSMX",
+    "airport_name": "santa_maria_public_airport_(capt._g._allan_hancock_field)",
+    "location_served": "santa_maria_california_united_states\n"
+  },
+  {
+    "iata": "SMY",
+    "icao": "GOTS",
+    "airport_name": "simenti_airport",
+    "location_served": "simenti_senegal\n"
+  },
+  {
+    "iata": "SMZ",
+    "icao": "SMST",
+    "airport_name": "stoelmans_eiland_airstrip",
+    "location_served": "stoelmans_eiland_(stoelmanseiland)_suriname\n"
+  },
+  {
+    "iata": "SNA",
+    "icao": "KSNA",
+    "airport_name": "john_wayne_airport_(orange_county_airport)",
+    "location_served": "santa_ana_california_united_states\n"
+  },
+  {
+    "iata": "SNB",
+    "icao": "YSNB",
+    "airport_name": "snake_bay_airport",
+    "location_served": "milikapiti_northern_territory_australia\n"
+  },
+  {
+    "iata": "SNC",
+    "icao": "SESA",
+    "airport_name": "general_ulpiano_paez_airport",
+    "location_served": "salinas_ecuador\n"
+  },
+  {
+    "iata": "SNE",
+    "icao": "GVSN",
+    "airport_name": "preguiça_airport",
+    "location_served": "são_nicolau_cape_verde\n"
+  },
+  {
+    "iata": "SNF",
+    "icao": "SVSP",
+    "airport_name": "sub_teniente_nestor_arias_airport[dapi]",
+    "location_served": "san_felipe_venezuela\n"
+  },
+  {
+    "iata": "SNG",
+    "icao": "SLSI",
+    "airport_name": "capitán_av._juan_cochamanidis_airport[dapi]",
+    "location_served": "san_ignacio_de_velasco_bolivia\n"
+  },
+  {
+    "iata": "SNH",
+    "icao": "YSPE",
+    "airport_name": "stanthorpe_airport",
+    "location_served": "stanthorpe_queensland_australia\n"
+  },
+  {
+    "iata": "SNI",
+    "icao": "GLGE",
+    "airport_name": "greenville/sinoe_airport_(r.e._murray_airport)",
+    "location_served": "greenville_liberia\n"
+  },
+  {
+    "iata": "SNJ",
+    "icao": "MUSJ",
+    "airport_name": "san_julián_air_base[dapi]",
+    "location_served": "guane_cuba\n"
+  },
+  {
+    "iata": "SNK",
+    "icao": "KSNK",
+    "airport_name": "winston_field_airport",
+    "location_served": "snyder_texas_united_states\n"
+  },
+  {
+    "iata": "SNL",
+    "icao": "KSNL",
+    "airport_name": "shawnee_regional_airport",
+    "location_served": "shawnee_oklahoma_united_states\n"
+  },
+  {
+    "iata": "SNM",
+    "icao": "SLSM",
+    "airport_name": "san_ignacio_de_moxos_airport[dapi]",
+    "location_served": "san_ignacio_de_moxos_bolivia\n"
+  },
+  {
+    "iata": "SNN",
+    "icao": "EINN",
+    "airport_name": "shannon_airport",
+    "location_served": "shannon_ireland\n"
+  },
+  {
+    "iata": "SNO",
+    "icao": "VTUI",
+    "airport_name": "sakon_nakhon_airport[dapi]",
+    "location_served": "sakon_nakhon_thailand\n"
+  },
+  {
+    "iata": "SNP",
+    "icao": "PASN",
+    "airport_name": "st._paul_island_airport",
+    "location_served": "st._paul_island_alaska_united_states\n"
+  },
+  {
+    "iata": "SNQ",
+    "icao": "",
+    "airport_name": "san_quintín_military_airstrip[dapi]",
+    "location_served": "san_quintín_baja_california_mexico\n"
+  },
+  {
+    "iata": "SNR",
+    "icao": "LFRZ",
+    "airport_name": "saint-nazaire_montoir_airport",
+    "location_served": "saint-nazaire_pays_de_la_loire_france\n"
+  },
+  {
+    "iata": "SNS",
+    "icao": "KSNS",
+    "airport_name": "salinas_municipal_airport",
+    "location_served": "salinas_california_united_states\n"
+  },
+  {
+    "iata": "SNT",
+    "icao": "SKRU",
+    "airport_name": "las_cruces_airport[dapi]",
+    "location_served": "sabana_de_torres_colombia\n"
+  },
+  {
+    "iata": "SNU",
+    "icao": "MUSC",
+    "airport_name": "abel_santamaría_airport",
+    "location_served": "santa_clara_cuba\n"
+  },
+  {
+    "iata": "SNV",
+    "icao": "SVSE",
+    "airport_name": "santa_elena_de_uairén_airport[dapi]",
+    "location_served": "santa_elena_de_uairén_venezuela\n"
+  },
+  {
+    "iata": "SNW",
+    "icao": "VYTD",
+    "airport_name": "thandwe_airport[dapi]",
+    "location_served": "thandwe_myanmar\n"
+  },
+  {
+    "iata": "SNX",
+    "icao": "OIIS",
+    "airport_name": "semnan_municipal_airport[dapi]",
+    "location_served": "semnan_iran\n"
+  },
+  {
+    "iata": "SNY",
+    "icao": "KSNY",
+    "airport_name": "sidney_municipal_airport_(lloyd_w._carr_field)",
+    "location_served": "sidney_nebraska_united_states\n"
+  },
+  {
+    "iata": "SNZ",
+    "icao": "SBSC",
+    "airport_name": "santa_cruz_air_force_base",
+    "location_served": "rio_de_janeiro_rio_de_janeiro_brazil\n"
+  },
+  {
+    "iata": "SOA",
+    "icao": "",
+    "airport_name": "sóc_trăng_airfield[dapi]",
+    "location_served": "sóc_trăng_vietnam\n"
+  },
+  {
+    "iata": "SOB",
+    "icao": "LHSM",
+    "airport_name": "hévíz–balaton_airport",
+    "location_served": "hévíz_hungary\n"
+  },
+  {
+    "iata": "SOC",
+    "icao": "WARQ",
+    "airport_name": "adisumarmo_international_airport",
+    "location_served": "surakarta_(solo)_indonesia\n"
+  },
+  {
+    "iata": "SOD",
+    "icao": "SDCO",
+    "airport_name": "bertram_luiz_leupolz–sorocaba_airport",
+    "location_served": "sorocaba_são_paulo_brazil\n"
+  },
+  {
+    "iata": "SOE",
+    "icao": "FCOS",
+    "airport_name": "souanké_airport[dapi]",
+    "location_served": "souanké_republic_of_the_congo\n"
+  },
+  {
+    "iata": "SOF",
+    "icao": "LBSF",
+    "airport_name": "sofia_airport",
+    "location_served": "sofia_bulgaria\n"
+  },
+  {
+    "iata": "SOG",
+    "icao": "ENSG",
+    "airport_name": "sogndal_airport_haukåsen",
+    "location_served": "sogndal_norway\n"
+  },
+  {
+    "iata": "SOJ",
+    "icao": "ENSR",
+    "airport_name": "sørkjosen_airport",
+    "location_served": "sørkjosen_norway\n"
+  },
+  {
+    "iata": "SOK",
+    "icao": "FXSM",
+    "airport_name": "semonkong_airport",
+    "location_served": "semonkong_lesotho\n"
+  },
+  {
+    "iata": "SOL",
+    "icao": "",
+    "airport_name": "solomon_state_field_airport[dapi]_(faa:_akdapidapi)",
+    "location_served": "solomon_alaska_united_states\n"
+  },
+  {
+    "iata": "SOM",
+    "icao": "SVST",
+    "airport_name": "san_tomé_airport",
+    "location_served": "san_tomé_venezuela\n"
+  },
+  {
+    "iata": "SON",
+    "icao": "NVSS",
+    "airport_name": "santo-pekoa_international_airport",
+    "location_served": "luganville_vanuatu\n"
+  },
+  {
+    "iata": "SOO",
+    "icao": "ESNY",
+    "airport_name": "söderhamn_airport[dapi]_(helsinge_airport)",
+    "location_served": "söderhamn_sweden\n"
+  },
+  {
+    "iata": "SOP",
+    "icao": "KSOP",
+    "airport_name": "moore_county_airport",
+    "location_served": "pinehurst_/_southern_pines_north_carolina_united_states\n"
+  },
+  {
+    "iata": "SOQ",
+    "icao": "WASS",
+    "airport_name": "dominique_edward_osok_airport[dapi]",
+    "location_served": "sorong_indonesia\n"
+  },
+  {
+    "iata": "SOT",
+    "icao": "EFSO",
+    "airport_name": "sodankylä_airfield[dapi]",
+    "location_served": "sodankylä_finland\n"
+  },
+  {
+    "iata": "SOU",
+    "icao": "EGHI",
+    "airport_name": "southampton_airport",
+    "location_served": "southampton_england_united_kingdom\n"
+  },
+  {
+    "iata": "SOV",
+    "icao": "PASO",
+    "airport_name": "seldovia_airport",
+    "location_served": "seldovia_alaska_united_states\n"
+  },
+  {
+    "iata": "SOW",
+    "icao": "KSOW",
+    "airport_name": "show_low_regional_airport",
+    "location_served": "show_low_arizona_united_states\n"
+  },
+  {
+    "iata": "SOX",
+    "icao": "SKSO",
+    "airport_name": "alberto_lleras_camargo_airport[dapi]",
+    "location_served": "sogamoso_colombia\n"
+  },
+  {
+    "iata": "SOY",
+    "icao": "EGER",
+    "airport_name": "stronsay_airport",
+    "location_served": "stronsay_scotland_united_kingdom\n"
+  },
+  {
+    "iata": "SOZ",
+    "icao": "LFKS",
+    "airport_name": "solenzara_air_base[dapi]",
+    "location_served": "sari-solenzara_corsica_france\n"
+  },
+  {
+    "iata": "SPA",
+    "icao": "KSPA",
+    "airport_name": "spartanburg_downtown_memorial_airport",
+    "location_served": "spartanburg_south_carolina_united_states\n"
+  },
+  {
+    "iata": "SPB",
+    "icao": "",
+    "airport_name": "charlotte_amalie_harbor_seaplane_base_(st._thomas_seaplane_base)_(faa:_vidapidapi)",
+    "location_served": "st._thomas_island_united_states_virgin_islands\n"
+  },
+  {
+    "iata": "SPC",
+    "icao": "GCLA",
+    "airport_name": "la_palma_airport",
+    "location_served": "la_palma_canary_islands_spain\n"
+  },
+  {
+    "iata": "SPD",
+    "icao": "VGSD",
+    "airport_name": "saidpur_airport",
+    "location_served": "saidpur_bangladesh\n"
+  },
+  {
+    "iata": "SPE",
+    "icao": "WBKO",
+    "airport_name": "sepulot_airport[dapi]",
+    "location_served": "sapulut_sabah_malaysia\n"
+  },
+  {
+    "iata": "SPF",
+    "icao": "KSPF",
+    "airport_name": "black_hills_airport_(clyde_ice_field)",
+    "location_served": "spearfish_south_dakota_united_states\n"
+  },
+  {
+    "iata": "SPG",
+    "icao": "KSPG",
+    "airport_name": "albert_whitted_airport",
+    "location_served": "st._petersburg_florida_united_states\n"
+  },
+  {
+    "iata": "SPH",
+    "icao": "AYQO",
+    "airport_name": "sopu_airport",
+    "location_served": "sopu_papua_new_guinea\n"
+  },
+  {
+    "iata": "SPI",
+    "icao": "KSPI",
+    "airport_name": "abraham_lincoln_capital_airport",
+    "location_served": "springfield_illinois_united_states\n"
+  },
+  {
+    "iata": "SPJ",
+    "icao": "LGSP",
+    "airport_name": "sparti_airport",
+    "location_served": "sparti_(sparta)_greece\n"
+  },
+  {
+    "iata": "SPK[1]",
+    "icao": "",
+    "airport_name": "metropolitan_areadapi",
+    "location_served": "sapporo_hokkaido_japan\n"
+  },
+  {
+    "iata": "SPM",
+    "icao": "ETAD",
+    "airport_name": "spangdahlem_air_base",
+    "location_served": "spangdahlem_rhineland-palatinate_germany\n"
+  },
+  {
+    "iata": "SPN",
+    "icao": "PGSN",
+    "airport_name": "saipan_international_airport_(francisco_c._ada_int'l)_(faa:_gsn)",
+    "location_served": "saipan_northern_mariana_islands\n"
+  },
+  {
+    "iata": "SPP",
+    "icao": "FNME",
+    "airport_name": "menongue_airport[dapi]",
+    "location_served": "menongue_angola\n"
+  },
+  {
+    "iata": "SPR",
+    "icao": "",
+    "airport_name": "john_greif_ii_airport",
+    "location_served": "san_pedro_town_belize\n"
+  },
+  {
+    "iata": "SPS",
+    "icao": "KSPS",
+    "airport_name": "wichita_falls_municipal_airport",
+    "location_served": "wichita_falls_texas_united_states\n"
+  },
+  {
+    "iata": "SPT",
+    "icao": "",
+    "airport_name": "sipitang_airstrip[dapi]",
+    "location_served": "sipitang_sabah_malaysia\n"
+  },
+  {
+    "iata": "SPU",
+    "icao": "LDSP",
+    "airport_name": "split_airport",
+    "location_served": "split_croatia\n"
+  },
+  {
+    "iata": "SPV",
+    "icao": "",
+    "airport_name": "sepik_plains_airport[dapi]",
+    "location_served": "sepik_plains_papua_new_guinea\n"
+  },
+  {
+    "iata": "SPW",
+    "icao": "KSPW",
+    "airport_name": "spencer_municipal_airport",
+    "location_served": "spencer_iowa_united_states\n"
+  },
+  {
+    "iata": "SPY",
+    "icao": "DISP",
+    "airport_name": "san_pédro_airport[dapi]",
+    "location_served": "san-pédro_ivory_coast\n"
+  },
+  {
+    "iata": "SPX",
+    "icao": "",
+    "airport_name": "sphinx_international_airport[dapi]",
+    "location_served": "egypt_egypt\n"
+  },
+  {
+    "iata": "SPZ",
+    "icao": "KASG",
+    "airport_name": "springdale_municipal_airport_(faa:_asg)",
+    "location_served": "springdale_arkansas_united_states\n"
+  },
+  {
+    "iata": "SQA",
+    "icao": "KIZA",
+    "airport_name": "santa_ynez_airport_(faa:_iza)",
+    "location_served": "santa_ynez_california_united_states\n"
+  },
+  {
+    "iata": "SQB",
+    "icao": "",
+    "airport_name": "santa_ana_airport[dapi]",
+    "location_served": "piedras_colombia\n"
+  },
+  {
+    "iata": "SQC",
+    "icao": "YSCR",
+    "airport_name": "southern_cross_airport[dapi]",
+    "location_served": "southern_cross_western_australia_australia\n"
+  },
+  {
+    "iata": "SQD",
+    "icao": "ZSSR",
+    "airport_name": "shangrao_sanqingshan_airport[dapi]",
+    "location_served": "shangrao_jiangxi_china\n"
+  },
+  {
+    "iata": "SQE",
+    "icao": "",
+    "airport_name": "san_luis_de_palenque_airport[dapi]",
+    "location_served": "san_luis_de_palenque_colombia\n"
+  },
+  {
+    "iata": "SQG",
+    "icao": "WIOS",
+    "airport_name": "tebelian_airport[dapi]_(susilo_airport)",
+    "location_served": "sintang_indonesia\n"
+  },
+  {
+    "iata": "SQH",
+    "icao": "VVNS",
+    "airport_name": "nà_sản_airport[dapi]",
+    "location_served": "sơn_la_vietnam\n"
+  },
+  {
+    "iata": "SQI",
+    "icao": "KSQI",
+    "airport_name": "whiteside_county_airport_(jos._h._bittorf_field)",
+    "location_served": "sterling_/_rock_falls_illinois_united_states\n"
+  },
+  {
+    "iata": "SQJ",
+    "icao": "",
+    "airport_name": "sanming_shaxian_airport[dapi]",
+    "location_served": "sanming_fujian_china\n"
+  },
+  {
+    "iata": "SQK",
+    "icao": "",
+    "airport_name": "sidi_barrani_airport[dapi]",
+    "location_served": "sidi_barrani_egypt\n"
+  },
+  {
+    "iata": "SQL",
+    "icao": "KSQL",
+    "airport_name": "san_carlos_airport",
+    "location_served": "san_carlos_california_united_states\n"
+  },
+  {
+    "iata": "SQM",
+    "icao": "SWUA",
+    "airport_name": "são_miguel_do_araguaia_airport[dapi]",
+    "location_served": "são_miguel_do_araguaia_goiás_brazil\n"
+  },
+  {
+    "iata": "SQN",
+    "icao": "WAPN",
+    "airport_name": "sanana_airport[dapi]",
+    "location_served": "sanana_island_indonesia\n"
+  },
+  {
+    "iata": "SQO",
+    "icao": "ESUD",
+    "airport_name": "storuman_airport[dapi]",
+    "location_served": "storuman_sweden\n"
+  },
+  {
+    "iata": "SQQ",
+    "icao": "EYSA",
+    "airport_name": "šiauliai_international_airport",
+    "location_served": "šiauliai_lithuania\n"
+  },
+  {
+    "iata": "SQR",
+    "icao": "WAWS",
+    "airport_name": "soroako_airport",
+    "location_served": "soroako_indonesia\n"
+  },
+  {
+    "iata": "SQS",
+    "icao": "",
+    "airport_name": "matthew_spain_airport[dapi]",
+    "location_served": "san_ignacio_belize\n"
+  },
+  {
+    "iata": "SQT",
+    "icao": "",
+    "airport_name": "china_strait_airstrip[dapi]",
+    "location_served": "samarai_papua_new_guinea\n"
+  },
+  {
+    "iata": "SQU",
+    "icao": "SPOA",
+    "airport_name": "saposoa_airport[dapi]",
+    "location_served": "saposoa_peru\n"
+  },
+  {
+    "iata": "SQV",
+    "icao": "",
+    "airport_name": "sequim_valley_airport_(faa:_wdapidapi)",
+    "location_served": "sequim_washington_united_states\n"
+  },
+  {
+    "iata": "SQW",
+    "icao": "EKSV",
+    "airport_name": "skive_airport",
+    "location_served": "skive_denmark\n"
+  },
+  {
+    "iata": "SQX",
+    "icao": "SSOE",
+    "airport_name": "hélio_wasum_airport",
+    "location_served": "são_miguel_do_oeste_santa_catarina_brazil\n"
+  },
+  {
+    "iata": "SQY",
+    "icao": "SSRU",
+    "airport_name": "são_lourenço_do_sul_airport[dapi]",
+    "location_served": "são_lourenço_do_sul_rio_grande_do_sul_brazil\n"
+  },
+  {
+    "iata": "SQZ",
+    "icao": "EGXP",
+    "airport_name": "raf_scampton[dapi]",
+    "location_served": "scampton_england_united_kingdom\n"
+  },
+  {
+    "iata": "SRA",
+    "icao": "SSZR",
+    "airport_name": "santa_rosa_airport[dapi]",
+    "location_served": "santa_rosa_rio_grande_do_sul_brazil\n"
+  },
+  {
+    "iata": "SRB",
+    "icao": "SLSR",
+    "airport_name": "santa_rosa_airport[dapi]",
+    "location_served": "santa_rosa_de_yacuma_bolivia\n"
+  },
+  {
+    "iata": "SRC",
+    "icao": "KSRC",
+    "airport_name": "searcy_municipal_airport",
+    "location_served": "searcy_arkansas_united_states\n"
+  },
+  {
+    "iata": "SRD",
+    "icao": "SLRA",
+    "airport_name": "san_ramón_airport[dapi]",
+    "location_served": "san_ramón_bolivia\n"
+  },
+  {
+    "iata": "SRE",
+    "icao": "SLAL",
+    "airport_name": "alcantarí_airport",
+    "location_served": "sucre_bolivia\n"
+  },
+  {
+    "iata": "SRF",
+    "icao": "",
+    "airport_name": "san_rafael_airport_(hamilton_field)",
+    "location_served": "san_rafael_california_united_states\n"
+  },
+  {
+    "iata": "SRG",
+    "icao": "WARS",
+    "airport_name": "achmad_yani_international_airport",
+    "location_served": "semarang_indonesia\n"
+  },
+  {
+    "iata": "SRH",
+    "icao": "FTTA",
+    "airport_name": "sarh_airport",
+    "location_served": "sarh_chad\n"
+  },
+  {
+    "iata": "SRI",
+    "icao": "WALS",
+    "airport_name": "temindung_airport",
+    "location_served": "samarinda_indonesia\n"
+  },
+  {
+    "iata": "SRJ",
+    "icao": "SLSB",
+    "airport_name": "capitán_germán_quiroga_guardia_airport",
+    "location_served": "san_borja_bolivia\n"
+  },
+  {
+    "iata": "SRL",
+    "icao": "",
+    "airport_name": "palo_verde_airport[dapi]",
+    "location_served": "santa_rosalía_baja_california_sur_mexico\n"
+  },
+  {
+    "iata": "SRM",
+    "icao": "",
+    "airport_name": "sandringham_station_airport[dapi]",
+    "location_served": "sandringham_station_queensland_australia\n"
+  },
+  {
+    "iata": "SRN",
+    "icao": "YSRN",
+    "airport_name": "strahan_airport[dapi]",
+    "location_served": "strahan_tasmania_australia\n"
+  },
+  {
+    "iata": "SRO",
+    "icao": "",
+    "airport_name": "santana_ramos_airport[dapi]",
+    "location_served": "santana_ramos_colombia\n"
+  },
+  {
+    "iata": "SRP",
+    "icao": "ENSA",
+    "airport_name": "stord_airport_sørstokken",
+    "location_served": "stord_norway\n"
+  },
+  {
+    "iata": "SRQ",
+    "icao": "KSRQ",
+    "airport_name": "sarasota–bradenton_international_airport",
+    "location_served": "sarasota_/_bradenton_florida_united_states\n"
+  },
+  {
+    "iata": "SRR",
+    "icao": "",
+    "airport_name": "dunwich_airport[dapi]",
+    "location_served": "north_stradbroke_island_queensland_australia\n"
+  },
+  {
+    "iata": "SRS",
+    "icao": "",
+    "airport_name": "san_marcos_airport[dapi]",
+    "location_served": "san_marcos_colombia\n"
+  },
+  {
+    "iata": "SRT",
+    "icao": "HUSO",
+    "airport_name": "soroti_airport",
+    "location_served": "soroti_uganda\n"
+  },
+  {
+    "iata": "SRV",
+    "icao": "",
+    "airport_name": "stony_river_airport",
+    "location_served": "stony_river_alaska_united_states\n"
+  },
+  {
+    "iata": "SRW",
+    "icao": "KRUQ",
+    "airport_name": "rowan_county_airport_(faa:_ruq)",
+    "location_served": "salisbury_north_carolina_united_states\n"
+  },
+  {
+    "iata": "SRX",
+    "icao": "HLGD",
+    "airport_name": "gardabya_airport",
+    "location_served": "sirte_libya\n"
+  },
+  {
+    "iata": "SRY",
+    "icao": "OINZ",
+    "airport_name": "dasht-e_naz_airport",
+    "location_served": "sari_iran\n"
+  },
+  {
+    "iata": "SRZ",
+    "icao": "SLET",
+    "airport_name": "el_trompillo_airport",
+    "location_served": "santa_cruz_de_la_sierra_bolivia\n"
+  },
+  {
+    "iata": "SSA",
+    "icao": "SBSV",
+    "airport_name": "deputado_luís_eduardo_magalhães_international_airport",
+    "location_served": "salvador_bahia_brazil\n"
+  },
+  {
+    "iata": "SSB",
+    "icao": "",
+    "airport_name": "christiansted_harbor_seaplane_base_(st._croix_seaplane_base)_(faa:_vidapidapi)",
+    "location_served": "saint_croix_united_states_virgin_islands\n"
+  },
+  {
+    "iata": "SSC",
+    "icao": "KSSC",
+    "airport_name": "shaw_air_force_base",
+    "location_served": "sumter_south_carolina_united_states\n"
+  },
+  {
+    "iata": "SSD",
+    "icao": "",
+    "airport_name": "san_felipe_airport[dapi]",
+    "location_served": "san_felipe_colombia\n"
+  },
+  {
+    "iata": "SSE",
+    "icao": "VASL",
+    "airport_name": "solapur_airport",
+    "location_served": "solapur_maharashtra_india\n"
+  },
+  {
+    "iata": "SSF",
+    "icao": "KSSF",
+    "airport_name": "stinson_municipal_airport",
+    "location_served": "san_antonio_texas_united_states\n"
+  },
+  {
+    "iata": "SSG",
+    "icao": "FGSL",
+    "airport_name": "malabo_international_airport_(saint_isabel_airport)",
+    "location_served": "malabo_equatorial_guinea\n"
+  },
+  {
+    "iata": "SSH",
+    "icao": "HESH",
+    "airport_name": "sharm_el-sheikh_international_airport",
+    "location_served": "sharm_el-sheikh_egypt\n"
+  },
+  {
+    "iata": "SSI",
+    "icao": "KSSI",
+    "airport_name": "malcolm_mckinnon_airport",
+    "location_served": "brunswick_georgia_united_states\n"
+  },
+  {
+    "iata": "SSJ",
+    "icao": "ENST",
+    "airport_name": "sandnessjøen_airport_stokka",
+    "location_served": "sandnessjøen_norway\n"
+  },
+  {
+    "iata": "SSK",
+    "icao": "",
+    "airport_name": "sturt_creek_airport[dapi]",
+    "location_served": "sturt_creek_western_australia_australia\n"
+  },
+  {
+    "iata": "SSL",
+    "icao": "SKSL",
+    "airport_name": "santa_rosalía_airport[dapi]",
+    "location_served": "santa_rosalía_colombia\n"
+  },
+  {
+    "iata": "SSN",
+    "icao": "RKSM",
+    "airport_name": "seoul_air_base",
+    "location_served": "seoul_south_korea\n"
+  },
+  {
+    "iata": "SSO",
+    "icao": "SNLO",
+    "airport_name": "são_lourenço_airport[dapi]",
+    "location_served": "são_lourenço_minas_gerais_brazil\n"
+  },
+  {
+    "iata": "SSP",
+    "icao": "",
+    "airport_name": "silver_plains_airport[dapi]",
+    "location_served": "silver_plains_queensland_australia\n"
+  },
+  {
+    "iata": "SSQ",
+    "icao": "",
+    "airport_name": "la_sarre_airport_(tc:_csrdapi)",
+    "location_served": "la_sarre_quebec_canada\n"
+  },
+  {
+    "iata": "SSR",
+    "icao": "NVSH",
+    "airport_name": "sara_airport",
+    "location_served": "sara_vanuatu\n"
+  },
+  {
+    "iata": "SSS",
+    "icao": "",
+    "airport_name": "siassi_airport[dapi]",
+    "location_served": "umboi_island_(siassi)_papua_new_guinea\n"
+  },
+  {
+    "iata": "SST",
+    "icao": "SAZL",
+    "airport_name": "santa_teresita_airport[dapi]",
+    "location_served": "santa_teresita_buenos_aires_argentina\n"
+  },
+  {
+    "iata": "SSV",
+    "icao": "",
+    "airport_name": "siasi_airport",
+    "location_served": "siasi_philippines\n"
+  },
+  {
+    "iata": "SSW",
+    "icao": "",
+    "airport_name": "stuart_island_airpark[dapi]_(faa:_dapiwadapi)",
+    "location_served": "stuart_island_washington_united_states\n"
+  },
+  {
+    "iata": "SSY",
+    "icao": "FNBC",
+    "airport_name": "mbanza_congo_airport[dapi]",
+    "location_served": "m'banza-kongo_angola\n"
+  },
+  {
+    "iata": "SSZ",
+    "icao": "SBST",
+    "airport_name": "santos_air_force_base",
+    "location_served": "santos_são_paulo_brazil\n"
+  },
+  {
+    "iata": "STA",
+    "icao": "EKVJ",
+    "airport_name": "stauning_vestjylland_airport",
+    "location_served": "skjern_denmark\n"
+  },
+  {
+    "iata": "STB",
+    "icao": "SVSZ",
+    "airport_name": "miguel_urdaneta_fernández_airport",
+    "location_served": "santa_bárbara_del_zulia_venezuela\n"
+  },
+  {
+    "iata": "STC",
+    "icao": "KSTC",
+    "airport_name": "st._cloud_regional_airport",
+    "location_served": "st._cloud_minnesota_united_states\n"
+  },
+  {
+    "iata": "STD",
+    "icao": "SVSO",
+    "airport_name": "mayor_buenaventura_vivas_airport",
+    "location_served": "santo_domingo_táchira_venezuela\n"
+  },
+  {
+    "iata": "STE",
+    "icao": "KSTE",
+    "airport_name": "stevens_point_municipal_airport",
+    "location_served": "stevens_point_wisconsin_united_states\n"
+  },
+  {
+    "iata": "STF",
+    "icao": "YSTI",
+    "airport_name": "stephens_island_airport",
+    "location_served": "stephens_island_queensland_australia\n"
+  },
+  {
+    "iata": "STG",
+    "icao": "PAPB",
+    "airport_name": "st._george_airport_(faa:_pbv)",
+    "location_served": "st._george_alaska_united_states\n"
+  },
+  {
+    "iata": "STH",
+    "icao": "YSMR",
+    "airport_name": "strathmore_airport[dapi]",
+    "location_served": "strathmore_station_queensland_australia\n"
+  },
+  {
+    "iata": "STI",
+    "icao": "MDST",
+    "airport_name": "cibao_international_airport",
+    "location_served": "santiago_de_los_caballeros_dominican_republic\n"
+  },
+  {
+    "iata": "STJ",
+    "icao": "KSTJ",
+    "airport_name": "rosecrans_memorial_airport",
+    "location_served": "st._joseph_missouri_united_states\n"
+  },
+  {
+    "iata": "STK",
+    "icao": "KSTK",
+    "airport_name": "sterling_municipal_airport",
+    "location_served": "sterling_colorado_united_states\n"
+  },
+  {
+    "iata": "STL",
+    "icao": "KSTL",
+    "airport_name": "lambert–st._louis_international_airport",
+    "location_served": "st._louis_missouri_united_states\n"
+  },
+  {
+    "iata": "STM",
+    "icao": "SBSN",
+    "airport_name": "santarém-maestro_wilson_fonseca_airport",
+    "location_served": "santarém_pará_brazil\n"
+  },
+  {
+    "iata": "STN",
+    "icao": "EGSS",
+    "airport_name": "london_stansted_airport",
+    "location_served": "london_england_united_kingdom\n"
+  },
+  {
+    "iata": "STO[1]",
+    "icao": "",
+    "airport_name": "metropolitan_areadapi",
+    "location_served": "stockholm_sweden\n"
+  },
+  {
+    "iata": "STP",
+    "icao": "KSTP",
+    "airport_name": "st._paul_downtown_airport_(holman_field)",
+    "location_served": "st._paul_/_minneapolis_minnesota_united_states\n"
+  },
+  {
+    "iata": "STQ",
+    "icao": "KOYM",
+    "airport_name": "st._marys_municipal_airport_(faa:_oym)",
+    "location_served": "st._marys_pennsylvania_united_states\n"
+  },
+  {
+    "iata": "STR",
+    "icao": "EDDS",
+    "airport_name": "stuttgart_airport",
+    "location_served": "stuttgart_baden-württemberg_germany\n"
+  },
+  {
+    "iata": "STS",
+    "icao": "KSTS",
+    "airport_name": "charles_m._schulz–sonoma_county_airport",
+    "location_served": "santa_rosa_california_united_states\n"
+  },
+  {
+    "iata": "STT",
+    "icao": "TIST",
+    "airport_name": "cyril_e._king_airport",
+    "location_served": "st._thomas_island_united_states_virgin_islands\n"
+  },
+  {
+    "iata": "STV",
+    "icao": "VASU",
+    "airport_name": "surat_airport",
+    "location_served": "surat_gujarat_india\n"
+  },
+  {
+    "iata": "STW",
+    "icao": "URMT",
+    "airport_name": "stavropol_shpakovskoye_airport",
+    "location_served": "stavropol_stavropol_krai_russia\n"
+  },
+  {
+    "iata": "STX",
+    "icao": "TISX",
+    "airport_name": "henry_e._rohlsen_airport",
+    "location_served": "saint_croix_united_states_virgin_islands\n"
+  },
+  {
+    "iata": "STY",
+    "icao": "SUSO",
+    "airport_name": "nueva_hespérides_international_airport",
+    "location_served": "salto_uruguay\n"
+  },
+  {
+    "iata": "STZ",
+    "icao": "SWST",
+    "airport_name": "santa_terezinha_airport[dapi]",
+    "location_served": "santa_terezinha_mato_grosso_brazil\n"
+  },
+  {
+    "iata": "SUA",
+    "icao": "KSUA",
+    "airport_name": "witham_field",
+    "location_served": "stuart_florida_united_states\n"
+  },
+  {
+    "iata": "SUB",
+    "icao": "WARR",
+    "airport_name": "juanda_international_airport",
+    "location_served": "surabaya_indonesia\n"
+  },
+  {
+    "iata": "SUD",
+    "icao": "KSUD",
+    "airport_name": "stroud_municipal_airport",
+    "location_served": "stroud_oklahoma_united_states\n"
+  },
+  {
+    "iata": "SUE",
+    "icao": "KSUE",
+    "airport_name": "door_county_cherryland_airport",
+    "location_served": "sturgeon_bay_wisconsin_united_states\n"
+  },
+  {
+    "iata": "SUF",
+    "icao": "LICA",
+    "airport_name": "lamezia_terme_international_airport",
+    "location_served": "lamezia_terme_calabria_italy\n"
+  },
+  {
+    "iata": "SUG",
+    "icao": "RPMS",
+    "airport_name": "surigao_airport",
+    "location_served": "surigao_city_philippines\n"
+  },
+  {
+    "iata": "SUH",
+    "icao": "OOSR",
+    "airport_name": "sur_airport[dapi]",
+    "location_served": "sur_oman\n"
+  },
+  {
+    "iata": "SUI",
+    "icao": "UGSS",
+    "airport_name": "sukhumi_babushara_airport_(dranda_airport)",
+    "location_served": "sukhumi_georgia\n"
+  },
+  {
+    "iata": "SUJ",
+    "icao": "LRSM",
+    "airport_name": "satu_mare_international_airport",
+    "location_served": "satu_mare_romania\n"
+  },
+  {
+    "iata": "SUK",
+    "icao": "UEBS",
+    "airport_name": "sakkyryr_airport",
+    "location_served": "batagay-alyta_(sakkyryr)_yakutia_russia\n"
+  },
+  {
+    "iata": "SUL",
+    "icao": "OPSU",
+    "airport_name": "sui_airport[dapi]",
+    "location_served": "sui_pakistan\n"
+  },
+  {
+    "iata": "SUM",
+    "icao": "KSMS",
+    "airport_name": "sumter_airport_(faa:_sms)",
+    "location_served": "sumter_south_carolina_united_states\n"
+  },
+  {
+    "iata": "SUN",
+    "icao": "KSUN",
+    "airport_name": "friedman_memorial_airport",
+    "location_served": "hailey_/_sun_valley_idaho_united_states\n"
+  },
+  {
+    "iata": "SUO",
+    "icao": "",
+    "airport_name": "sunriver_airport_(faa:_sdapidapi)",
+    "location_served": "sunriver_oregon_united_states\n"
+  },
+  {
+    "iata": "SUP",
+    "icao": "WART",
+    "airport_name": "trunojoyo_airport[dapi]",
+    "location_served": "sumenep_indonesia\n"
+  },
+  {
+    "iata": "SUQ",
+    "icao": "SESC",
+    "airport_name": "sucúa_airport[dapi]",
+    "location_served": "sucúa_ecuador\n"
+  },
+  {
+    "iata": "SUR",
+    "icao": "",
+    "airport_name": "summer_beaver_airport[dapi]_(tc:_cjvdapi)",
+    "location_served": "summer_beaver_ontario_canada\n"
+  },
+  {
+    "iata": "SUS",
+    "icao": "KSUS",
+    "airport_name": "spirit_of_st._louis_airport",
+    "location_served": "st._louis_missouri_united_states\n"
+  },
+  {
+    "iata": "SUT",
+    "icao": "HTSU",
+    "airport_name": "sumbawanga_airport",
+    "location_served": "sumbawanga_tanzania\n"
+  },
+  {
+    "iata": "SUU",
+    "icao": "KSUU",
+    "airport_name": "travis_air_force_base",
+    "location_served": "fairfield_california_united_states\n"
+  },
+  {
+    "iata": "SUV",
+    "icao": "NFNA",
+    "airport_name": "nausori_international_airport",
+    "location_served": "suva_fiji\n"
+  },
+  {
+    "iata": "SUW",
+    "icao": "KSUW",
+    "airport_name": "richard_i._bong_airport",
+    "location_served": "superior_wisconsin_united_states\n"
+  },
+  {
+    "iata": "SUX",
+    "icao": "KSUX",
+    "airport_name": "sioux_gateway_airport_(colonel_bud_day_field)",
+    "location_served": "sioux_city_iowa_united_states\n"
+  },
+  {
+    "iata": "SUY",
+    "icao": "UENS",
+    "airport_name": "suntar_airport[dapi]",
+    "location_served": "suntar_yakutia_russia\n"
+  },
+  {
+    "iata": "SUZ",
+    "icao": "",
+    "airport_name": "suria_airport[dapi]",
+    "location_served": "suria_papua_new_guinea\n"
+  },
+  {
+    "iata": "SVA",
+    "icao": "PASA",
+    "airport_name": "savoonga_airport",
+    "location_served": "savoonga_alaska_united_states\n"
+  },
+  {
+    "iata": "SVB",
+    "icao": "FMNS",
+    "airport_name": "sambava_airport[dapi]",
+    "location_served": "sambava_madagascar\n"
+  },
+  {
+    "iata": "SVC",
+    "icao": "KSVC",
+    "airport_name": "grant_county_airport",
+    "location_served": "silver_city_new_mexico_united_states\n"
+  },
+  {
+    "iata": "SVD",
+    "icao": "TVSA",
+    "airport_name": "argyle_international_airport",
+    "location_served": "saint_vincent_saint_vincent_and_the_grenadines\n"
+  },
+  {
+    "iata": "SVE",
+    "icao": "KSVE",
+    "airport_name": "susanville_municipal_airport",
+    "location_served": "susanville_california_united_states\n"
+  },
+  {
+    "iata": "SVF",
+    "icao": "DBBS",
+    "airport_name": "savé_airport",
+    "location_served": "savé_benin\n"
+  },
+  {
+    "iata": "SVG",
+    "icao": "ENZV",
+    "airport_name": "stavanger_airport_sola",
+    "location_served": "stavanger_norway\n"
+  },
+  {
+    "iata": "SVH",
+    "icao": "KSVH",
+    "airport_name": "statesville_regional_airport",
+    "location_served": "statesville_north_carolina_united_states\n"
+  },
+  {
+    "iata": "SVI",
+    "icao": "SKSV",
+    "airport_name": "eduardo_falla_solano_airport[dapi]",
+    "location_served": "san_vicente_del_caguán_colombia\n"
+  },
+  {
+    "iata": "SVJ",
+    "icao": "ENSH",
+    "airport_name": "svolvær_airport_helle",
+    "location_served": "svolvær_norway\n"
+  },
+  {
+    "iata": "SVK",
+    "icao": "",
+    "airport_name": "silver_creek_airport[dapi]",
+    "location_served": "silver_creek_belize\n"
+  },
+  {
+    "iata": "SVL",
+    "icao": "EFSA",
+    "airport_name": "savonlinna_airport[dapi]",
+    "location_served": "savonlinna_finland\n"
+  },
+  {
+    "iata": "SVM",
+    "icao": "",
+    "airport_name": "st_pauls_airport[dapi]",
+    "location_served": "st_pauls_queensland_australia\n"
+  },
+  {
+    "iata": "SVN",
+    "icao": "KSVN",
+    "airport_name": "hunter_army_airfield",
+    "location_served": "savannah_georgia_united_states\n"
+  },
+  {
+    "iata": "SVO",
+    "icao": "UUEE",
+    "airport_name": "sheremetyevo_international_airport",
+    "location_served": "moscow_russia\n"
+  },
+  {
+    "iata": "SVP",
+    "icao": "FNKU",
+    "airport_name": "kuito_airport[dapi]",
+    "location_served": "kuito_angola\n"
+  },
+  {
+    "iata": "SVQ",
+    "icao": "LEZL",
+    "airport_name": "seville_airport",
+    "location_served": "seville_andalusia_spain\n"
+  },
+  {
+    "iata": "SVS",
+    "icao": "",
+    "airport_name": "stevens_village_airport",
+    "location_served": "stevens_village_alaska_united_states\n"
+  },
+  {
+    "iata": "SVT",
+    "icao": "FBSV",
+    "airport_name": "savuti_airport[dapi]",
+    "location_served": "savuti_botswana\n"
+  },
+  {
+    "iata": "SVU",
+    "icao": "NFNS",
+    "airport_name": "savusavu_airport",
+    "location_served": "savusavu_fiji\n"
+  },
+  {
+    "iata": "SVW",
+    "icao": "PASV",
+    "airport_name": "sparrevohn_lrrs_airport",
+    "location_served": "sparrevohn_alaska_united_states\n"
+  },
+  {
+    "iata": "SVX",
+    "icao": "USSS",
+    "airport_name": "koltsovo_international_airport",
+    "location_served": "yekaterinburg_sverdlovsk_oblast_russia\n"
+  },
+  {
+    "iata": "SVY",
+    "icao": "",
+    "airport_name": "savo_airport[dapi]",
+    "location_served": "savo_island_solomon_islands\n"
+  },
+  {
+    "iata": "SVZ",
+    "icao": "SVSA",
+    "airport_name": "juan_vicente_gómez_international_airport",
+    "location_served": "san_antonio_del_táchira_venezuela\n"
+  },
+  {
+    "iata": "SWA",
+    "icao": "ZGOW",
+    "airport_name": "jieyang_chaoshan_international_airport",
+    "location_served": "shantou_/_jieyang_/_chaozhou_guangdong_china\n"
+  },
+  {
+    "iata": "SWB",
+    "icao": "",
+    "airport_name": "shaw_river_airport[dapi]",
+    "location_served": "shaw_river_western_australia_australia\n"
+  },
+  {
+    "iata": "SWC",
+    "icao": "YSWL",
+    "airport_name": "stawell_airport[dapi]",
+    "location_served": "stawell_victoria_australia\n"
+  },
+  {
+    "iata": "SWD",
+    "icao": "PAWD",
+    "airport_name": "seward_airport",
+    "location_served": "seward_alaska_united_states\n"
+  },
+  {
+    "iata": "SWE",
+    "icao": "",
+    "airport_name": "siwea_airport[dapi]",
+    "location_served": "siwea_papua_new_guinea\n"
+  },
+  {
+    "iata": "SWF",
+    "icao": "KSWF",
+    "airport_name": "stewart_international_airport",
+    "location_served": "newburgh_new_york_united_states\n"
+  },
+  {
+    "iata": "SWG",
+    "icao": "",
+    "airport_name": "satwag_airport[dapi]",
+    "location_served": "satwag_papua_new_guinea\n"
+  },
+  {
+    "iata": "SWH",
+    "icao": "YSWH",
+    "airport_name": "swan_hill_airport[dapi]",
+    "location_served": "swan_hill_victoria_australia\n"
+  },
+  {
+    "iata": "SWJ",
+    "icao": "NVSX",
+    "airport_name": "south_west_bay_airport[dapi]",
+    "location_served": "south_west_bay_vanuatu\n"
+  },
+  {
+    "iata": "SWL",
+    "icao": "RPSV",
+    "airport_name": "san_vicente_airport",
+    "location_served": "san_vicente_palawan_philippines\n"
+  },
+  {
+    "iata": "SWM",
+    "icao": "",
+    "airport_name": "suia-missu_airport[dapi]",
+    "location_served": "alto_boa_vista_mato_grosso_brazil\n"
+  },
+  {
+    "iata": "SWN",
+    "icao": "OPSW",
+    "airport_name": "sahiwal_airport",
+    "location_served": "sahiwal_pakistan\n"
+  },
+  {
+    "iata": "SWO",
+    "icao": "KSWO",
+    "airport_name": "stillwater_regional_airport",
+    "location_served": "stillwater_oklahoma_united_states\n"
+  },
+  {
+    "iata": "SWP",
+    "icao": "FYSM",
+    "airport_name": "swakopmund_airport[dapi]",
+    "location_served": "swakopmund_namibia\n"
+  },
+  {
+    "iata": "SWQ",
+    "icao": "WADS",
+    "airport_name": "sultan_muhammad_kaharuddin_iii_airport[dapi]_(brangbiji_airport)",
+    "location_served": "sumbawa_besar_indonesia\n"
+  },
+  {
+    "iata": "SWR",
+    "icao": "",
+    "airport_name": "silur_airport[dapi]",
+    "location_served": "silur_papua_new_guinea\n"
+  },
+  {
+    "iata": "SWS",
+    "icao": "EGFH",
+    "airport_name": "swansea_airport",
+    "location_served": "swansea_wales_united_kingdom\n"
+  },
+  {
+    "iata": "SWT",
+    "icao": "UNSS",
+    "airport_name": "strezhevoy_airport",
+    "location_served": "strezhevoy_tomsk_oblast_russia\n"
+  },
+  {
+    "iata": "SWU",
+    "icao": "RKSW",
+    "airport_name": "suwon_air_base[dapi]",
+    "location_served": "suwon_south_korea\n"
+  },
+  {
+    "iata": "SWV",
+    "icao": "UHMW",
+    "airport_name": "severo-evensk_airport[dapi]",
+    "location_served": "evensk_magadan_oblast_russia\n"
+  },
+  {
+    "iata": "SWW",
+    "icao": "KSWW",
+    "airport_name": "avenger_field",
+    "location_served": "sweetwater_texas_united_states\n"
+  },
+  {
+    "iata": "SWX",
+    "icao": "FBSW",
+    "airport_name": "shakawe_airport[dapi]",
+    "location_served": "shakawe_botswana\n"
+  },
+  {
+    "iata": "SWY",
+    "icao": "WMBA",
+    "airport_name": "sitiawan_airport",
+    "location_served": "sitiawan_perak_malaysia\n"
+  },
+  {
+    "iata": "SXA",
+    "icao": "",
+    "airport_name": "sialum_airport[dapi]",
+    "location_served": "sialum_papua_new_guinea\n"
+  },
+  {
+    "iata": "SXB",
+    "icao": "LFST",
+    "airport_name": "strasbourg_airport",
+    "location_served": "strasbourg_alsace_france\n"
+  },
+  {
+    "iata": "SXE",
+    "icao": "YWSL",
+    "airport_name": "west_sale_airport[dapi]",
+    "location_served": "sale_victoria_australia\n"
+  },
+  {
+    "iata": "SXG",
+    "icao": "FLSN",
+    "airport_name": "senanga_airport[dapi]",
+    "location_served": "senanga_zambia\n"
+  },
+  {
+    "iata": "SXH",
+    "icao": "",
+    "airport_name": "sehulea_airport[dapi]",
+    "location_served": "sehulea_papua_new_guinea\n"
+  },
+  {
+    "iata": "SXI",
+    "icao": "OIBS",
+    "airport_name": "sirri_island_airport[dapi]",
+    "location_served": "sirri_island_iran\n"
+  },
+  {
+    "iata": "SXJ",
+    "icao": "ZWSS",
+    "airport_name": "shanshan_airport[dapi]",
+    "location_served": "shanshan_xinjiang_china\n"
+  },
+  {
+    "iata": "SXK",
+    "icao": "WAPI",
+    "airport_name": "saumlaki_airport[dapi]_(olilit_airport)",
+    "location_served": "saumlaki_indonesia\n"
+  },
+  {
+    "iata": "SXL",
+    "icao": "EISG",
+    "airport_name": "sligo_airport",
+    "location_served": "sligo_ireland\n"
+  },
+  {
+    "iata": "SXM",
+    "icao": "TNCM",
+    "airport_name": "princess_juliana_international_airport",
+    "location_served": "sint_maarten_kingdom_of_the_netherlands\n"
+  },
+  {
+    "iata": "SXN",
+    "icao": "FBSN",
+    "airport_name": "sua_pan_airport[dapi]",
+    "location_served": "sua_pan_botswana\n"
+  },
+  {
+    "iata": "SXO",
+    "icao": "SWFX",
+    "airport_name": "são_félix_do_araguaia_airport[dapi]",
+    "location_served": "são_félix_do_araguaia_mato_grosso_brazil\n"
+  },
+  {
+    "iata": "SXP",
+    "icao": "",
+    "airport_name": "sheldon_point_airport",
+    "location_served": "nunam_iqua_alaska_united_states\n"
+  },
+  {
+    "iata": "SXQ",
+    "icao": "PASX",
+    "airport_name": "soldotna_airport",
+    "location_served": "soldotna_alaska_united_states\n"
+  },
+  {
+    "iata": "SXR",
+    "icao": "VISR",
+    "airport_name": "sheikh_ul-alam_international_airport[dapi]",
+    "location_served": "srinagar_jammu_and_kashmir_india\n"
+  },
+  {
+    "iata": "SXS",
+    "icao": "WBKH",
+    "airport_name": "sahabat_airport[dapi]",
+    "location_served": "sahabat_sabah_malaysia\n"
+  },
+  {
+    "iata": "SXT",
+    "icao": "WMAN",
+    "airport_name": "sungai_tiang_airport[dapi]",
+    "location_served": "taman_negara_pahang_malaysia\n"
+  },
+  {
+    "iata": "SXU",
+    "icao": "HASD",
+    "airport_name": "soddu_airport[dapi]",
+    "location_served": "sodo_ethiopia\n"
+  },
+  {
+    "iata": "SXV",
+    "icao": "VOSM",
+    "airport_name": "salem_airport",
+    "location_served": "salem_tamil_nadu_india\n"
+  },
+  {
+    "iata": "SXW",
+    "icao": "",
+    "airport_name": "sauren_airport[dapi]",
+    "location_served": "sauren_papua_new_guinea\n"
+  },
+  {
+    "iata": "SXX",
+    "icao": "SNFX",
+    "airport_name": "são_félix_do_xingu_airport[dapi]",
+    "location_served": "são_félix_do_xingu_pará_brazil\n"
+  },
+  {
+    "iata": "SXY",
+    "icao": "",
+    "airport_name": "sidney_municipal_airport_(faa:_ndapidapi)",
+    "location_served": "sidney_new_york_united_states\n"
+  },
+  {
+    "iata": "SXZ",
+    "icao": "LTCL",
+    "airport_name": "siirt_airport",
+    "location_served": "siirt_turkey\n"
+  },
+  {
+    "iata": "SYA",
+    "icao": "PASY",
+    "airport_name": "eareckson_air_station",
+    "location_served": "shemya_alaska_united_states\n"
+  },
+  {
+    "iata": "SYB",
+    "icao": "",
+    "airport_name": "seal_bay_seaplane_base[dapi]",
+    "location_served": "seal_bay_alaska_united_states\n"
+  },
+  {
+    "iata": "SYC",
+    "icao": "SPSY",
+    "airport_name": "shiringayoc_airport[dapi]",
+    "location_served": "shiringayoc_peru\n"
+  },
+  {
+    "iata": "SYD",
+    "icao": "YSSY",
+    "airport_name": "sydney_airport_(kingsford_smith_airport)",
+    "location_served": "sydney_new_south_wales_australia\n"
+  },
+  {
+    "iata": "SYE",
+    "icao": "OYSH",
+    "airport_name": "saadah_airport[dapi]",
+    "location_served": "sa'dah_yemen\n"
+  },
+  {
+    "iata": "SYF",
+    "icao": "",
+    "airport_name": "silva_bay_seaplane_base",
+    "location_served": "gabriola_island_british_columbia_canada\n"
+  },
+  {
+    "iata": "SYI",
+    "icao": "KSYI",
+    "airport_name": "shelbyville_municipal_airport_(bomar_field)",
+    "location_served": "shelbyville_tennessee_united_states\n"
+  },
+  {
+    "iata": "SYJ",
+    "icao": "OIKY",
+    "airport_name": "sirjan_airport",
+    "location_served": "sirjan_iran\n"
+  },
+  {
+    "iata": "SYK",
+    "icao": "BIST",
+    "airport_name": "stykkishólmur_airport",
+    "location_served": "stykkishólmur_iceland\n"
+  },
+  {
+    "iata": "SYM",
+    "icao": "ZPSM",
+    "airport_name": "pu'er_simao_airport[dapi]",
+    "location_served": "simao_yunnan_china\n"
+  },
+  {
+    "iata": "SYN",
+    "icao": "KSYN",
+    "airport_name": "stanton_airfield",
+    "location_served": "stanton_minnesota_united_states\n"
+  },
+  {
+    "iata": "SYO",
+    "icao": "RJSY",
+    "airport_name": "shonai_airport",
+    "location_served": "shōnai_honshu_japan\n"
+  },
+  {
+    "iata": "SYP",
+    "icao": "MPSA",
+    "airport_name": "ruben_cantu_airport",
+    "location_served": "santiago_de_veraguas_panama\n"
+  },
+  {
+    "iata": "SYQ",
+    "icao": "MRPV",
+    "airport_name": "tobías_bolaños_international_airport",
+    "location_served": "san_josé_costa_rica\n"
+  },
+  {
+    "iata": "SYR",
+    "icao": "KSYR",
+    "airport_name": "syracuse_hancock_international_airport",
+    "location_served": "syracuse_new_york_united_states\n"
+  },
+  {
+    "iata": "SYS",
+    "icao": "UERS",
+    "airport_name": "saskylakh_airport[dapi]",
+    "location_served": "saskylakh_yakutia_russia\n"
+  },
+  {
+    "iata": "SYT",
+    "icao": "LFLN",
+    "airport_name": "saint-yan_airport[dapi]_(charolais_bourgogne_sud_airport)",
+    "location_served": "saint-yan_burgundy_france\n"
+  },
+  {
+    "iata": "SYU",
+    "icao": "YWBS",
+    "airport_name": "warraber_island_airport[dapi]",
+    "location_served": "sue_islet_queensland_australia\n"
+  },
+  {
+    "iata": "SYV",
+    "icao": "KSYV",
+    "airport_name": "sylvester_airport",
+    "location_served": "sylvester_georgia_united_states\n"
+  },
+  {
+    "iata": "SYW",
+    "icao": "OPSN",
+    "airport_name": "sehwan_sharif_airport[dapi]",
+    "location_served": "sehwan_sharif_pakistan\n"
+  },
+  {
+    "iata": "SYX",
+    "icao": "ZJSY",
+    "airport_name": "sanya_phoenix_international_airport",
+    "location_served": "sanya_hainan_china\n"
+  },
+  {
+    "iata": "SYY",
+    "icao": "EGPO",
+    "airport_name": "stornoway_airport",
+    "location_served": "stornoway_scotland_united_kingdom\n"
+  },
+  {
+    "iata": "SYZ",
+    "icao": "OISS",
+    "airport_name": "shiraz_international_airport_(shahid_dastghaib_int'l)",
+    "location_served": "shiraz_iran\n"
+  },
+  {
+    "iata": "SZA",
+    "icao": "FNSO",
+    "airport_name": "soyo_airport[dapi]",
+    "location_served": "soyo_angola\n"
+  },
+  {
+    "iata": "SZB",
+    "icao": "WMSA",
+    "airport_name": "sultan_abdul_aziz_shah_airport",
+    "location_served": "kuala_lumpur_dapi_malaysia\n"
+  },
+  {
+    "iata": "SZE",
+    "icao": "HASM",
+    "airport_name": "semera_airport[dapi]",
+    "location_served": "semera_ethiopia\n"
+  },
+  {
+    "iata": "SZF",
+    "icao": "LTFH",
+    "airport_name": "samsun-çarşamba_airport",
+    "location_served": "samsun_turkey\n"
+  },
+  {
+    "iata": "SZG",
+    "icao": "LOWS",
+    "airport_name": "salzburg_airport",
+    "location_served": "salzburg_austria\n"
+  },
+  {
+    "iata": "SZI",
+    "icao": "",
+    "airport_name": "zaysan_airport",
+    "location_served": "zaysan_kazakhstan\n"
+  },
+  {
+    "iata": "SZJ",
+    "icao": "MUSN",
+    "airport_name": "siguanea_airport[dapi]",
+    "location_served": "isla_de_la_juventud_cuba\n"
+  },
+  {
+    "iata": "SZK",
+    "icao": "FASZ",
+    "airport_name": "skukuza_airport[dapi]",
+    "location_served": "skukuza_south_africa\n"
+  },
+  {
+    "iata": "SZL",
+    "icao": "KSZL",
+    "airport_name": "whiteman_air_force_base",
+    "location_served": "knob_noster_missouri_united_states\n"
+  },
+  {
+    "iata": "SZM",
+    "icao": "",
+    "airport_name": "sesriem_airport[dapi]",
+    "location_served": "sesriem_namibia\n"
+  },
+  {
+    "iata": "SZN",
+    "icao": "KSZN",
+    "airport_name": "santa_cruz_island_airport",
+    "location_served": "santa_cruz_island_california_united_states\n"
+  },
+  {
+    "iata": "SZP",
+    "icao": "KSZP",
+    "airport_name": "santa_paula_airport",
+    "location_served": "santa_paula_california_united_states\n"
+  },
+  {
+    "iata": "SZR",
+    "icao": "LBSZ",
+    "airport_name": "stara_zagora_airport",
+    "location_served": "stara_zagora_bulgaria\n"
+  },
+  {
+    "iata": "SZS",
+    "icao": "NZRC",
+    "airport_name": "ryan's_creek_aerodrome",
+    "location_served": "stewart_island_new_zealand\n"
+  },
+  {
+    "iata": "SZU",
+    "icao": "",
+    "airport_name": "ségou_airport[dapi]",
+    "location_served": "ségou_mali\n"
+  },
+  {
+    "iata": "SZV",
+    "icao": "ZSSZ",
+    "airport_name": "suzhou_guangfu_airport",
+    "location_served": "suzhou_jiangsu_china\n"
+  },
+  {
+    "iata": "SZW",
+    "icao": "EDOP",
+    "airport_name": "schwerin-parchim_international_airport",
+    "location_served": "schwerin_mecklenburg-vorpommern_germany\n"
+  },
+  {
+    "iata": "SZX",
+    "icao": "ZGSZ",
+    "airport_name": "shenzhen_bao'an_international_airport",
+    "location_served": "shenzhen_guangdong_china\n"
+  },
+  {
+    "iata": "SZY",
+    "icao": "EPSY",
+    "airport_name": "olsztyn-mazury_regional_airport",
+    "location_served": "szczytno_/_olsztyn_poland\n"
+  },
+  {
+    "iata": "SZZ",
+    "icao": "EPSC",
+    "airport_name": "\"solidarity\"_szczecin–goleniów_airport",
+    "location_served": "szczecin_poland\n"
+  }
+]

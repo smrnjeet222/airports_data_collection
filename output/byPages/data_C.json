@@ -1,0 +1,3278 @@
+[
+  {
+    "iata": "CAA",
+    "icao": "MHCA",
+    "airport_name": "catacamas_airport",
+    "location_served": "catacamas_honduras"
+  },
+  {
+    "iata": "CAB",
+    "icao": "FNCA",
+    "airport_name": "cabinda_airport",
+    "location_served": "cabinda_angola"
+  },
+  {
+    "iata": "CAC",
+    "icao": "SBCA",
+    "airport_name": "cascavel_airport_(adalberto_mendes_da_silva_airport)",
+    "location_served": "cascavel_paraná_brazil"
+  },
+  {
+    "iata": "CAD",
+    "icao": "KCAD",
+    "airport_name": "wexford_county_airport",
+    "location_served": "cadillac_michigan_united_states"
+  },
+  {
+    "iata": "CAE",
+    "icao": "KCAE",
+    "airport_name": "columbia_metropolitan_airport",
+    "location_served": "columbia_south_carolina_united_states"
+  },
+  {
+    "iata": "CAF",
+    "icao": "SWCA",
+    "airport_name": "carauari_airport",
+    "location_served": "carauari_amazonas_brazil"
+  },
+  {
+    "iata": "CAG",
+    "icao": "LIEE",
+    "airport_name": "cagliari_elmas_airport",
+    "location_served": "cagliari_sardinia_italy"
+  },
+  {
+    "iata": "CAH",
+    "icao": "VVCM",
+    "airport_name": "cà_mau_airport",
+    "location_served": "cà_mau_vietnam"
+  },
+  {
+    "iata": "CAI",
+    "icao": "HECA",
+    "airport_name": "cairo_international_airport",
+    "location_served": "cairo_egypt"
+  },
+  {
+    "iata": "CAJ",
+    "icao": "SVCN",
+    "airport_name": "canaima_airport",
+    "location_served": "canaima_venezuela"
+  },
+  {
+    "iata": "CAK",
+    "icao": "KCAK",
+    "airport_name": "akron-canton_airport",
+    "location_served": "akron_/_canton_ohio_united_states"
+  },
+  {
+    "iata": "CAL",
+    "icao": "EGEC",
+    "airport_name": "campbeltown_airport_/_raf_machrihanish",
+    "location_served": "campbeltown_scotland_united_kingdom"
+  },
+  {
+    "iata": "CAM",
+    "icao": "SLCA",
+    "airport_name": "camiri_airport",
+    "location_served": "camiri_bolivia"
+  },
+  {
+    "iata": "CAN",
+    "icao": "ZGGG",
+    "airport_name": "guangzhou_baiyun_international_airport",
+    "location_served": "guangzhou_guangdong_china"
+  },
+  {
+    "iata": "CAO",
+    "icao": "KCAO",
+    "airport_name": "clayton_municipal_airpark",
+    "location_served": "clayton_new_mexico_united_states"
+  },
+  {
+    "iata": "CAP",
+    "icao": "MTCH",
+    "airport_name": "hugo_chávez_international_airport",
+    "location_served": "cap-haïtien_haiti"
+  },
+  {
+    "iata": "CAQ",
+    "icao": "SKCU",
+    "airport_name": "juan_h._white_airport",
+    "location_served": "caucasia_colombia"
+  },
+  {
+    "iata": "CAR",
+    "icao": "KCAR",
+    "airport_name": "caribou_municipal_airport",
+    "location_served": "caribou_maine_united_states"
+  },
+  {
+    "iata": "CAS",
+    "icao": "GMMC",
+    "airport_name": "anfa_airport",
+    "location_served": "casablanca_morocco"
+  },
+  {
+    "iata": "CAT",
+    "icao": "LPCS",
+    "airport_name": "cascais_municipal_aerodrome[dapi]",
+    "location_served": "cascais_portugal"
+  },
+  {
+    "iata": "CAU",
+    "icao": "SNRU",
+    "airport_name": "caruaru_airport_(oscar_laranjeiras_airport)",
+    "location_served": "caruaru_pernambuco_brazil"
+  },
+  {
+    "iata": "CAV",
+    "icao": "FNCZ",
+    "airport_name": "cazombo_airport",
+    "location_served": "cazombo_angola"
+  },
+  {
+    "iata": "CAW",
+    "icao": "SBCP",
+    "airport_name": "bartolomeu_lysandro_airport",
+    "location_served": "campos_dos_goytacazes_rio_de_janeiro_brazil"
+  },
+  {
+    "iata": "CAX",
+    "icao": "EGNC",
+    "airport_name": "carlisle_lake_district_airport",
+    "location_served": "carlisle_england_united_kingdom"
+  },
+  {
+    "iata": "CAY",
+    "icao": "SOCA",
+    "airport_name": "cayenne_–_félix_eboué_airport",
+    "location_served": "cayenne_french_guiana"
+  },
+  {
+    "iata": "CAZ",
+    "icao": "YCBA",
+    "airport_name": "cobar_airport",
+    "location_served": "cobar_new_south_wales_australia"
+  },
+  {
+    "iata": "CBB",
+    "icao": "SLCB",
+    "airport_name": "jorge_wilstermann_international_airport",
+    "location_served": "cochabamba_bolivia"
+  },
+  {
+    "iata": "CBC",
+    "icao": "",
+    "airport_name": "cherrabun_airport",
+    "location_served": "cherrabun_western_australia_australia"
+  },
+  {
+    "iata": "CBD",
+    "icao": "VOCX",
+    "airport_name": "car_nicobar_air_force_base",
+    "location_served": "car_nicobar_andaman_and_nicobar_islands_india"
+  },
+  {
+    "iata": "CBE",
+    "icao": "KCBE",
+    "airport_name": "greater_cumberland_regional_airport",
+    "location_served": "cumberland_maryland_united_states"
+  },
+  {
+    "iata": "CBF",
+    "icao": "KCBF",
+    "airport_name": "council_bluffs_municipal_airport",
+    "location_served": "council_bluffs_iowa_united_states"
+  },
+  {
+    "iata": "CBG",
+    "icao": "EGSC",
+    "airport_name": "cambridge_airport",
+    "location_served": "cambridge_england_united_kingdom"
+  },
+  {
+    "iata": "CBH",
+    "icao": "DAOR",
+    "airport_name": "boudghene_ben_ali_lotfi_airport",
+    "location_served": "béchar_algeria"
+  },
+  {
+    "iata": "CBI",
+    "icao": "",
+    "airport_name": "cape_barren_island_airport",
+    "location_served": "cape_barren_island_tasmania_australia"
+  },
+  {
+    "iata": "CBJ",
+    "icao": "MDCR",
+    "airport_name": "cabo_rojo_airport",
+    "location_served": "pedernales_dominican_republic"
+  },
+  {
+    "iata": "CBK",
+    "icao": "KCBK",
+    "airport_name": "colby_municipal_airport_(shalz_field)",
+    "location_served": "colby_kansas_united_states"
+  },
+  {
+    "iata": "CBL",
+    "icao": "SVCB",
+    "airport_name": "tomás_de_heres_airport",
+    "location_served": "ciudad_bolívar_venezuela"
+  },
+  {
+    "iata": "CBM",
+    "icao": "KCBM",
+    "airport_name": "columbus_air_force_base",
+    "location_served": "columbus_mississippi_united_states"
+  },
+  {
+    "iata": "CBN",
+    "icao": "WICD",
+    "airport_name": "penggung_airport_(cakrabuwana_airport)",
+    "location_served": "cirebon_indonesia"
+  },
+  {
+    "iata": "CBO",
+    "icao": "RPMC",
+    "airport_name": "awang_airport",
+    "location_served": "cotabato_city_philippines"
+  },
+  {
+    "iata": "CBP",
+    "icao": "LPCO",
+    "airport_name": "coimbra_airport",
+    "location_served": "coimbra_portugal"
+  },
+  {
+    "iata": "CBQ",
+    "icao": "DNCA",
+    "airport_name": "margaret_ekpo_international_airport",
+    "location_served": "calabar_nigeria"
+  },
+  {
+    "iata": "CBR",
+    "icao": "YSCB",
+    "airport_name": "canberra_airport",
+    "location_served": "canberra_australian_capital_territory_australia"
+  },
+  {
+    "iata": "CBS",
+    "icao": "SVON",
+    "airport_name": "oro_negro_airport",
+    "location_served": "cabimas_venezuela"
+  },
+  {
+    "iata": "CBT",
+    "icao": "FNCT",
+    "airport_name": "catumbela_airport",
+    "location_served": "catumbela_angola"
+  },
+  {
+    "iata": "CBU",
+    "icao": "EDCD",
+    "airport_name": "cottbus-drewitz_airport",
+    "location_served": "cottbus_brandenburg_germany"
+  },
+  {
+    "iata": "CBV",
+    "icao": "MGCB",
+    "airport_name": "cobán_airport",
+    "location_served": "cobán_guatemala"
+  },
+  {
+    "iata": "CBW",
+    "icao": "SSKM",
+    "airport_name": "campo_mourão_airport",
+    "location_served": "campo_mourão_paraná_brazil"
+  },
+  {
+    "iata": "CBX",
+    "icao": "YCDO",
+    "airport_name": "condobolin_airport",
+    "location_served": "condobolin_new_south_wales_australia"
+  },
+  {
+    "iata": "CBY",
+    "icao": "",
+    "airport_name": "canobie_airport",
+    "location_served": "canobie_station_queensland_australia"
+  },
+  {
+    "iata": "CCA",
+    "icao": "SLCH",
+    "airport_name": "chimore_airport",
+    "location_served": "chimoré_cochabamba_bolivia"
+  },
+  {
+    "iata": "CCB",
+    "icao": "KCCB",
+    "airport_name": "cable_airport",
+    "location_served": "upland_california_united_states"
+  },
+  {
+    "iata": "CCC",
+    "icao": "MUCC",
+    "airport_name": "jardines_del_rey_airport",
+    "location_served": "cayo_coco_cuba"
+  },
+  {
+    "iata": "CCF",
+    "icao": "LFMK",
+    "airport_name": "carcassonne_airport",
+    "location_served": "carcassonne_languedoc-roussillon_france"
+  },
+  {
+    "iata": "CCG",
+    "icao": "",
+    "airport_name": "crane_county_airport_(faa:_edapidapi)",
+    "location_served": "crane_texas_united_states"
+  },
+  {
+    "iata": "CCH",
+    "icao": "SCCC",
+    "airport_name": "chile_chico_airfield",
+    "location_served": "chile_chico_chile"
+  },
+  {
+    "iata": "CCI",
+    "icao": "SSCK",
+    "airport_name": "concórdia_airport",
+    "location_served": "concórdia_santa_catarina_brazil"
+  },
+  {
+    "iata": "CCJ",
+    "icao": "VOCL",
+    "airport_name": "calicut_international_airport",
+    "location_served": "kozhikode_(calicut)_kerala_india"
+  },
+  {
+    "iata": "CCK",
+    "icao": "YPCC",
+    "airport_name": "cocos_(keeling)_islands_airport",
+    "location_served": "cocos_(keeling)_islands_australia"
+  },
+  {
+    "iata": "CCL",
+    "icao": "YCCA",
+    "airport_name": "chinchilla_airport",
+    "location_served": "chinchilla_queensland_australia"
+  },
+  {
+    "iata": "CCM",
+    "icao": "SBCM",
+    "airport_name": "diomício_freitas_airport",
+    "location_served": "criciúma_santa_catarina_brazil"
+  },
+  {
+    "iata": "CCN",
+    "icao": "OACC",
+    "airport_name": "chaghcharan_airport",
+    "location_served": "chaghcharan_afghanistan"
+  },
+  {
+    "iata": "CCO",
+    "icao": "SKCI",
+    "airport_name": "carimagua_airport",
+    "location_served": "carimagua_colombia"
+  },
+  {
+    "iata": "CCP",
+    "icao": "SCIE",
+    "airport_name": "carriel_sur_international_airport",
+    "location_served": "concepción_chile"
+  },
+  {
+    "iata": "CCR",
+    "icao": "KCCR",
+    "airport_name": "buchanan_field_airport",
+    "location_served": "concord_california_united_states"
+  },
+  {
+    "iata": "CCS",
+    "icao": "SVMI",
+    "airport_name": "simón_bolívar_international_airport",
+    "location_served": "caracas_venezuela"
+  },
+  {
+    "iata": "CCT",
+    "icao": "",
+    "airport_name": "colonia_catriel_airport",
+    "location_served": "catriel_río_negro_argentina"
+  },
+  {
+    "iata": "CCU",
+    "icao": "VECC",
+    "airport_name": "netaji_subhas_chandra_bose_international_airport",
+    "location_served": "kolkata_west_bengal_india"
+  },
+  {
+    "iata": "CCV",
+    "icao": "NVSF",
+    "airport_name": "craig_cove_airport",
+    "location_served": "craig_cove_ambrym_island_malampa_vanuatu"
+  },
+  {
+    "iata": "CCW",
+    "icao": "YCWL",
+    "airport_name": "cowell_airport",
+    "location_served": "cowell_south_australia_australia"
+  },
+  {
+    "iata": "CCX",
+    "icao": "SWKC",
+    "airport_name": "cáceres_airport",
+    "location_served": "cáceres_mato_grosso_brazil"
+  },
+  {
+    "iata": "CCY",
+    "icao": "KCCY",
+    "airport_name": "northeast_iowa_regional_airport",
+    "location_served": "charles_city_iowa_united_states"
+  },
+  {
+    "iata": "CCZ",
+    "icao": "MYBC",
+    "airport_name": "chub_cay_international_airport",
+    "location_served": "chub_cay_berry_islands_bahamas"
+  },
+  {
+    "iata": "CDA",
+    "icao": "YCOO",
+    "airport_name": "cooinda_airport",
+    "location_served": "cooinda_northern_territory_australia"
+  },
+  {
+    "iata": "CDB",
+    "icao": "PACD",
+    "airport_name": "cold_bay_airport",
+    "location_served": "cold_bay_alaska_united_states"
+  },
+  {
+    "iata": "CDC",
+    "icao": "KCDC",
+    "airport_name": "cedar_city_regional_airport",
+    "location_served": "cedar_city_utah_united_states"
+  },
+  {
+    "iata": "CDD",
+    "icao": "",
+    "airport_name": "cauquira_airport",
+    "location_served": "cauquira_honduras"
+  },
+  {
+    "iata": "CDE",
+    "icao": "ZBCD",
+    "airport_name": "chengde_puning_airport",
+    "location_served": "chengde_hebei_china"
+  },
+  {
+    "iata": "CDG",
+    "icao": "LFPG",
+    "airport_name": "charles_de_gaulle_airport_(roissy_airport)",
+    "location_served": "paris_île-de-france_france"
+  },
+  {
+    "iata": "CDH",
+    "icao": "KCDH",
+    "airport_name": "harrell_field",
+    "location_served": "camden_arkansas_united_states"
+  },
+  {
+    "iata": "CDI",
+    "icao": "SNKI",
+    "airport_name": "cachoeiro_de_itapemirim_airport_(raimundo_de_andrade_airport)",
+    "location_served": "cachoeiro_de_itapemirim_espírito_santo_brazil"
+  },
+  {
+    "iata": "CDJ",
+    "icao": "SBAA",
+    "airport_name": "conceição_do_araguaia_airport",
+    "location_served": "conceição_do_araguaia_pará_brazil"
+  },
+  {
+    "iata": "CDK",
+    "icao": "KCDK",
+    "airport_name": "george_t._lewis_airport",
+    "location_served": "cedar_key_florida_united_states"
+  },
+  {
+    "iata": "CDL",
+    "icao": "",
+    "airport_name": "candle_dapi_airport_(faa:_akdapidapi)",
+    "location_served": "candle_alaska_united_states"
+  },
+  {
+    "iata": "CDN",
+    "icao": "KCDN",
+    "airport_name": "woodward_field",
+    "location_served": "camden_south_carolina_united_states"
+  },
+  {
+    "iata": "CDO",
+    "icao": "FACD",
+    "airport_name": "cradock_airport",
+    "location_served": "cradock_south_africa"
+  },
+  {
+    "iata": "CDP",
+    "icao": "VOCP",
+    "airport_name": "kadapa_airport",
+    "location_served": "kadapa_andhra_pradesh_india"
+  },
+  {
+    "iata": "CDQ",
+    "icao": "YCRY",
+    "airport_name": "croydon_airport",
+    "location_served": "croydon_queensland_australia"
+  },
+  {
+    "iata": "CDR",
+    "icao": "KCDR",
+    "airport_name": "chadron_municipal_airport",
+    "location_served": "chadron_nebraska_united_states"
+  },
+  {
+    "iata": "CDS",
+    "icao": "KCDS",
+    "airport_name": "childress_municipal_airport",
+    "location_served": "childress_texas_united_states"
+  },
+  {
+    "iata": "CDT",
+    "icao": "LECS",
+    "airport_name": "castellón–costa_azahar_airport",
+    "location_served": "castellón_de_la_plana_valencia_spain"
+  },
+  {
+    "iata": "CDU",
+    "icao": "YSCN",
+    "airport_name": "camden_airport",
+    "location_served": "camden_new_south_wales_australia"
+  },
+  {
+    "iata": "CDV",
+    "icao": "PACV",
+    "airport_name": "merle_k._(mudhole)_smith_airport",
+    "location_served": "cordova_alaska_united_states"
+  },
+  {
+    "iata": "CDW",
+    "icao": "KCDW",
+    "airport_name": "essex_county_airport",
+    "location_served": "caldwell_new_jersey_united_states"
+  },
+  {
+    "iata": "CDY",
+    "icao": "RPMU",
+    "airport_name": "cagayan_de_sulu_airport",
+    "location_served": "mapun_philippines"
+  },
+  {
+    "iata": "CEA",
+    "icao": "KCEA",
+    "airport_name": "cessna_aircraft_field",
+    "location_served": "wichita_kansas_united_states"
+  },
+  {
+    "iata": "CEB",
+    "icao": "RPVM",
+    "airport_name": "mactan–cebu_international_airport",
+    "location_served": "lapu-lapu_philippines"
+  },
+  {
+    "iata": "CEC",
+    "icao": "KCEC",
+    "airport_name": "del_norte_county_airport_(jack_mcnamara_field)",
+    "location_served": "crescent_city_california_united_states"
+  },
+  {
+    "iata": "CED",
+    "icao": "YCDU",
+    "airport_name": "ceduna_airport",
+    "location_served": "ceduna_south_australia_australia"
+  },
+  {
+    "iata": "CEE",
+    "icao": "ULWC",
+    "airport_name": "cherepovets_airport",
+    "location_served": "cherepovets_vologda_oblast_russia"
+  },
+  {
+    "iata": "CEF",
+    "icao": "KCEF",
+    "airport_name": "westover_metropolitan_airport_/_westover_air_reserve_base",
+    "location_served": "springfield_massachusetts_united_states"
+  },
+  {
+    "iata": "CEG",
+    "icao": "EGNR",
+    "airport_name": "hawarden_airport_(chester_airport)",
+    "location_served": "chester_england_united_kingdom"
+  },
+  {
+    "iata": "CEH",
+    "icao": "FWCD",
+    "airport_name": "chelinda_airport",
+    "location_served": "chelinda_malawi"
+  },
+  {
+    "iata": "CEI",
+    "icao": "VTCT",
+    "airport_name": "chiang_rai_international_airport_(mae_fah_luang_int'l)",
+    "location_served": "chiang_rai_thailand"
+  },
+  {
+    "iata": "CEK",
+    "icao": "USCC",
+    "airport_name": "chelyabinsk_airport",
+    "location_served": "chelyabinsk_chelyabinsk_oblast_russia"
+  },
+  {
+    "iata": "CEL",
+    "icao": "SSCN",
+    "airport_name": "canela_airport",
+    "location_served": "canela_rio_grande_do_sul_brazil"
+  },
+  {
+    "iata": "CEM",
+    "icao": "PARL",
+    "airport_name": "central_airport",
+    "location_served": "central_alaska_united_states"
+  },
+  {
+    "iata": "CEN",
+    "icao": "MMCN",
+    "airport_name": "ciudad_obregón_international_airport",
+    "location_served": "ciudad_obregón_sonora_mexico"
+  },
+  {
+    "iata": "CEO",
+    "icao": "FNWK",
+    "airport_name": "waco_kungo_airport",
+    "location_served": "waku-kungo_angola"
+  },
+  {
+    "iata": "CEP",
+    "icao": "SLCP",
+    "airport_name": "concepción_airport",
+    "location_served": "concepción_bolivia"
+  },
+  {
+    "iata": "CEQ",
+    "icao": "LFMD",
+    "airport_name": "cannes_–_mandelieu_airport",
+    "location_served": "cannes_provence-alpes-côte_d'azur_france"
+  },
+  {
+    "iata": "CER",
+    "icao": "LFRC",
+    "airport_name": "cherbourg_–_maupertus_airport",
+    "location_served": "cherbourg-octeville_lower_normandy_france"
+  },
+  {
+    "iata": "CES",
+    "icao": "YCNK",
+    "airport_name": "cessnock_airport",
+    "location_served": "cessnock_new_south_wales_australia"
+  },
+  {
+    "iata": "CET",
+    "icao": "LFOU",
+    "airport_name": "cholet_le_pontreau_airport",
+    "location_served": "cholet_pays_de_la_loire_france"
+  },
+  {
+    "iata": "CEU",
+    "icao": "KCEU",
+    "airport_name": "oconee_county_regional_airport",
+    "location_served": "clemson_south_carolina_united_states"
+  },
+  {
+    "iata": "CEV",
+    "icao": "KCEV",
+    "airport_name": "mettel_field",
+    "location_served": "connersville_indiana_united_states"
+  },
+  {
+    "iata": "CEW",
+    "icao": "KCEW",
+    "airport_name": "bob_sikes_airport",
+    "location_served": "crestview_florida_united_states"
+  },
+  {
+    "iata": "CEX",
+    "icao": "",
+    "airport_name": "chena_hot_springs_airport_(faa:_akdapidapi)",
+    "location_served": "chena_hot_springs_alaska_united_states"
+  },
+  {
+    "iata": "CEY",
+    "icao": "KCEY",
+    "airport_name": "murray-calloway_county_airport",
+    "location_served": "murray_kentucky_united_states"
+  },
+  {
+    "iata": "CEZ",
+    "icao": "KCEZ",
+    "airport_name": "cortez_municipal_airport",
+    "location_served": "cortez_colorado_united_states"
+  },
+  {
+    "iata": "CFB",
+    "icao": "SBCB",
+    "airport_name": "cabo_frio_international_airport",
+    "location_served": "cabo_frio_rio_de_janeiro_brazil"
+  },
+  {
+    "iata": "CFC",
+    "icao": "SBCD",
+    "airport_name": "caçador_airport",
+    "location_served": "caçador_santa_catarina_brazil"
+  },
+  {
+    "iata": "CFD",
+    "icao": "KCFD",
+    "airport_name": "coulter_field",
+    "location_served": "bryan_texas_united_states"
+  },
+  {
+    "iata": "CFE",
+    "icao": "LFLC",
+    "airport_name": "clermont-ferrand_auvergne_airport",
+    "location_served": "clermont-ferrand_auvergne_france"
+  },
+  {
+    "iata": "CFF",
+    "icao": "FNCF",
+    "airport_name": "cafunfo_airport",
+    "location_served": "cafunfo_angola"
+  },
+  {
+    "iata": "CFG",
+    "icao": "MUCF",
+    "airport_name": "jaime_gonzález_airport",
+    "location_served": "cienfuegos_cuba"
+  },
+  {
+    "iata": "CFH",
+    "icao": "",
+    "airport_name": "clifton_hills_airport",
+    "location_served": "clifton_hills_south_australia_australia"
+  },
+  {
+    "iata": "CFI",
+    "icao": "YCFD",
+    "airport_name": "camfield_airport",
+    "location_served": "camfield_station_northern_territory_australia"
+  },
+  {
+    "iata": "CFK",
+    "icao": "DAOI",
+    "airport_name": "chlef_international_airport",
+    "location_served": "chlef_algeria"
+  },
+  {
+    "iata": "CFM",
+    "icao": "",
+    "airport_name": "conklin_(leismer)_airport",
+    "location_served": "wood_buffalo_alberta_canada"
+  },
+  {
+    "iata": "CFN",
+    "icao": "EIDL",
+    "airport_name": "donegal_airport",
+    "location_served": "donegal_ireland"
+  },
+  {
+    "iata": "CFO",
+    "icao": "",
+    "airport_name": "confresa_airport",
+    "location_served": "confresa_mato_grosso_brazil"
+  },
+  {
+    "iata": "CFP",
+    "icao": "",
+    "airport_name": "carpentaria_downs_airport",
+    "location_served": "carpentaria_downs_queensland_australia"
+  },
+  {
+    "iata": "CFQ",
+    "icao": "",
+    "airport_name": "creston_aerodrome[dapi]_(tc:_cajdapi)",
+    "location_served": "creston_british_columbia_canada"
+  },
+  {
+    "iata": "CFR",
+    "icao": "LFRK",
+    "airport_name": "caen_–_carpiquet_airport",
+    "location_served": "caen_lower_normandy_france"
+  },
+  {
+    "iata": "CFS",
+    "icao": "YCFS",
+    "airport_name": "coffs_harbour_airport",
+    "location_served": "coffs_harbour_new_south_wales_australia"
+  },
+  {
+    "iata": "CFT",
+    "icao": "KCFT",
+    "airport_name": "greenlee_county_airport",
+    "location_served": "clifton_/_morenci_arizona_united_states"
+  },
+  {
+    "iata": "CFU",
+    "icao": "LGKR",
+    "airport_name": "corfu_international_airport_(ioannis_kapodistrias_int'l_airport)",
+    "location_served": "corfu_greece"
+  },
+  {
+    "iata": "CFV",
+    "icao": "KCFV",
+    "airport_name": "coffeyville_municipal_airport",
+    "location_served": "coffeyville_kansas_united_states"
+  },
+  {
+    "iata": "CGA",
+    "icao": "",
+    "airport_name": "craig_seaplane_base",
+    "location_served": "craig_alaska_united_states"
+  },
+  {
+    "iata": "CGB",
+    "icao": "SBCY",
+    "airport_name": "marechal_rondon_international_airport",
+    "location_served": "cuiabá_mato_grosso_brazil"
+  },
+  {
+    "iata": "CGC",
+    "icao": "AYCG",
+    "airport_name": "cape_gloucester_airport",
+    "location_served": "cape_gloucester_papua_new_guinea"
+  },
+  {
+    "iata": "CGD",
+    "icao": "ZGCD",
+    "airport_name": "changde_taohuayuan_airport",
+    "location_served": "changde_hunan_china"
+  },
+  {
+    "iata": "CGE",
+    "icao": "KCGE",
+    "airport_name": "cambridge–dorchester_airport",
+    "location_served": "cambridge_maryland_united_states"
+  },
+  {
+    "iata": "CGF",
+    "icao": "KCGF",
+    "airport_name": "cuyahoga_county_airport",
+    "location_served": "cleveland_ohio_united_states"
+  },
+  {
+    "iata": "CGG",
+    "icao": "",
+    "airport_name": "casiguran_airport",
+    "location_served": "casiguran_philippines"
+  },
+  {
+    "iata": "CGH",
+    "icao": "SBSP",
+    "airport_name": "são_paulo/congonhas–deputado_freitas_nobre_airport",
+    "location_served": "são_paulo_são_paulo_brazil"
+  },
+  {
+    "iata": "CGI",
+    "icao": "KCGI",
+    "airport_name": "cape_girardeau_regional_airport",
+    "location_served": "cape_girardeau_missouri_united_states"
+  },
+  {
+    "iata": "CGJ",
+    "icao": "",
+    "airport_name": "kasompe_airport",
+    "location_served": "chingola_zambia"
+  },
+  {
+    "iata": "CGK",
+    "icao": "WIII",
+    "airport_name": "soekarno–hatta_international_airport",
+    "location_served": "jakarta_indonesia"
+  },
+  {
+    "iata": "CGM",
+    "icao": "RPMH",
+    "airport_name": "camiguin_airport",
+    "location_served": "mambajao_philippines"
+  },
+  {
+    "iata": "CGN",
+    "icao": "EDDK",
+    "airport_name": "cologne_bonn_airport",
+    "location_served": "cologne_/_bonn_north_rhine-westphalia_germany"
+  },
+  {
+    "iata": "CGO",
+    "icao": "ZHCC",
+    "airport_name": "zhengzhou_xinzheng_international_airport",
+    "location_served": "zhengzhou_henan_china"
+  },
+  {
+    "iata": "CGP",
+    "icao": "VGEG",
+    "airport_name": "shah_amanat_international_airport",
+    "location_served": "chittagong_bangladesh"
+  },
+  {
+    "iata": "CGQ",
+    "icao": "ZYCC",
+    "airport_name": "changchun_longjia_international_airport",
+    "location_served": "changchun_jilin_china"
+  },
+  {
+    "iata": "CGR",
+    "icao": "SBCG",
+    "airport_name": "campo_grande_international_airport",
+    "location_served": "campo_grande_mato_grosso_do_sul_brazil"
+  },
+  {
+    "iata": "CGS",
+    "icao": "KCGS",
+    "airport_name": "college_park_airport",
+    "location_served": "college_park_maryland_united_states"
+  },
+  {
+    "iata": "CGT",
+    "icao": "",
+    "airport_name": "chinguetti_airport",
+    "location_served": "chinguetti_mauritania"
+  },
+  {
+    "iata": "CGV",
+    "icao": "YCAG",
+    "airport_name": "caiguna_airport",
+    "location_served": "caiguna_western_australia_australia"
+  },
+  {
+    "iata": "CGY",
+    "icao": "RPMY",
+    "airport_name": "laguindingan_airport",
+    "location_served": "cagayan_de_oro_philippines"
+  },
+  {
+    "iata": "CGZ",
+    "icao": "KCGZ",
+    "airport_name": "casa_grande_municipal_airport",
+    "location_served": "casa_grande_arizona_united_states"
+  },
+  {
+    "iata": "CHA",
+    "icao": "KCHA",
+    "airport_name": "chattanooga_metropolitan_airport_(lovell_field)",
+    "location_served": "chattanooga_tennessee_united_states"
+  },
+  {
+    "iata": "CHB",
+    "icao": "OPCL",
+    "airport_name": "chilas_airport",
+    "location_served": "chilas_pakistan"
+  },
+  {
+    "iata": "CHC",
+    "icao": "NZCH",
+    "airport_name": "christchurch_international_airport",
+    "location_served": "christchurch_new_zealand"
+  },
+  {
+    "iata": "CHF",
+    "icao": "RKPE",
+    "airport_name": "jinhae_airport",
+    "location_served": "jinhae_south_korea"
+  },
+  {
+    "iata": "CHG",
+    "icao": "ZYCY",
+    "airport_name": "chaoyang_airport",
+    "location_served": "chaoyang_liaoning_china"
+  },
+  {
+    "iata": "CHH",
+    "icao": "SPPY",
+    "airport_name": "chachapoyas_airport",
+    "location_served": "chachapoyas_peru"
+  },
+  {
+    "iata": "CHI[1]",
+    "icao": "",
+    "airport_name": "metropolitan_areadapi",
+    "location_served": "chicago_illinois_united_states"
+  },
+  {
+    "iata": "CHJ",
+    "icao": "FVCH",
+    "airport_name": "chipinge_airport",
+    "location_served": "chipinge_zimbabwe"
+  },
+  {
+    "iata": "CHK",
+    "icao": "KCHK",
+    "airport_name": "chickasha_municipal_airport",
+    "location_served": "chickasha_oklahoma_united_states"
+  },
+  {
+    "iata": "CHL",
+    "icao": "KLLJ",
+    "airport_name": "challis_airport_(faa:_llj)",
+    "location_served": "challis_idaho_united_states"
+  },
+  {
+    "iata": "CHM",
+    "icao": "SPEO",
+    "airport_name": "tnte._fap_jaime_montreuil_morales_airport",
+    "location_served": "chimbote_peru"
+  },
+  {
+    "iata": "CHN",
+    "icao": "RKJU",
+    "airport_name": "jeonju_airport",
+    "location_served": "jeonju_south_korea"
+  },
+  {
+    "iata": "CHO",
+    "icao": "KCHO",
+    "airport_name": "charlottesville–albemarle_airport",
+    "location_served": "charlottesville_virginia_united_states"
+  },
+  {
+    "iata": "CHP",
+    "icao": "",
+    "airport_name": "circle_hot_springs_airport",
+    "location_served": "circle_hot_springs_alaska_united_states"
+  },
+  {
+    "iata": "CHQ",
+    "icao": "LGSA",
+    "airport_name": "chania_international_airport_(\"ioannis_daskalogiannis\")",
+    "location_served": "chania_greece"
+  },
+  {
+    "iata": "CHR",
+    "icao": "LFLX",
+    "airport_name": "châteauroux-centre_\"marcel_dassault\"_airport",
+    "location_served": "châteauroux_centre-val_de_loire_france"
+  },
+  {
+    "iata": "CHS",
+    "icao": "KCHS",
+    "airport_name": "charleston_international_airport_/_charleston_air_force_base",
+    "location_served": "charleston_south_carolina_united_states"
+  },
+  {
+    "iata": "CHT",
+    "icao": "NZCI",
+    "airport_name": "chatham_islands_/_tuuta_airport",
+    "location_served": "chatham_islands_new_zealand"
+  },
+  {
+    "iata": "CHU",
+    "icao": "PACH",
+    "airport_name": "chuathbaluk_airport_(faa:_dapiadapi)",
+    "location_served": "chuathbaluk_alaska_united_states"
+  },
+  {
+    "iata": "CHV",
+    "icao": "LPCH",
+    "airport_name": "chaves_airport",
+    "location_served": "chaves_portugal"
+  },
+  {
+    "iata": "CHX",
+    "icao": "MPCH",
+    "airport_name": "changuinola_\"capitán_manuel_niño\"_international_airport",
+    "location_served": "changuinola_panama"
+  },
+  {
+    "iata": "CHY",
+    "icao": "AGGC",
+    "airport_name": "choiseul_bay_airport",
+    "location_served": "choiseul_bay_taro_island_solomon_islands"
+  },
+  {
+    "iata": "CHZ",
+    "icao": "",
+    "airport_name": "chiloquin_state_airport_(faa:_dapisdapi)",
+    "location_served": "chiloquin_oregon_united_states"
+  },
+  {
+    "iata": "CIA",
+    "icao": "LIRA",
+    "airport_name": "ciampino–g._b._pastine_international_airport",
+    "location_served": "rome_lazio_italy"
+  },
+  {
+    "iata": "CIC",
+    "icao": "KCIC",
+    "airport_name": "chico_municipal_airport",
+    "location_served": "chico_california_united_states"
+  },
+  {
+    "iata": "CID",
+    "icao": "KCID",
+    "airport_name": "the_eastern_iowa_airport",
+    "location_served": "cedar_rapids_iowa_united_states"
+  },
+  {
+    "iata": "CIE",
+    "icao": "YCOI",
+    "airport_name": "collie_airport",
+    "location_served": "collie_western_australia_australia"
+  },
+  {
+    "iata": "CIF",
+    "icao": "ZBCF",
+    "airport_name": "chifeng_yulong_airport",
+    "location_served": "chifeng_inner_mongolia_china"
+  },
+  {
+    "iata": "CIG",
+    "icao": "KCAG",
+    "airport_name": "craig–moffat_airport_(faa:_cag)",
+    "location_served": "craig_colorado_united_states"
+  },
+  {
+    "iata": "CIH",
+    "icao": "ZBCZ",
+    "airport_name": "changzhi_wangcun_airport",
+    "location_served": "changzhi_shanxi_china"
+  },
+  {
+    "iata": "CII",
+    "icao": "LTBD",
+    "airport_name": "aydın_airport[dapi]_(çıldır_airport)",
+    "location_served": "aydın_turkey"
+  },
+  {
+    "iata": "CIJ",
+    "icao": "SLCO",
+    "airport_name": "captain_aníbal_arab_airport",
+    "location_served": "cobija_bolivia"
+  },
+  {
+    "iata": "CIK",
+    "icao": "PACI",
+    "airport_name": "chalkyitsik_airport",
+    "location_served": "chalkyitsik_alaska_united_states"
+  },
+  {
+    "iata": "CIL",
+    "icao": "",
+    "airport_name": "council_airport_(faa:_kdapidapi)",
+    "location_served": "council_alaska_united_states"
+  },
+  {
+    "iata": "CIM",
+    "icao": "SKCM",
+    "airport_name": "cimitarra_airport",
+    "location_served": "cimitarra_colombia"
+  },
+  {
+    "iata": "CIN",
+    "icao": "KCIN",
+    "airport_name": "arthur_n._neu_airport",
+    "location_served": "carroll_iowa_united_states"
+  },
+  {
+    "iata": "CIO",
+    "icao": "SGCO",
+    "airport_name": "teniente_coronel_carmelo_peralta_airport",
+    "location_served": "concepción_paraguay"
+  },
+  {
+    "iata": "CIP",
+    "icao": "FLCP",
+    "airport_name": "chipata_airport",
+    "location_served": "chipata_zambia"
+  },
+  {
+    "iata": "CIQ",
+    "icao": "",
+    "airport_name": "chiquimula_airport",
+    "location_served": "chiquimula_guatemala"
+  },
+  {
+    "iata": "CIR",
+    "icao": "KCIR",
+    "airport_name": "cairo_regional_airport",
+    "location_served": "cairo_illinois_united_states"
+  },
+  {
+    "iata": "CIS",
+    "icao": "PCIS",
+    "airport_name": "canton_island_airport",
+    "location_served": "canton_island_kiribati"
+  },
+  {
+    "iata": "CIT",
+    "icao": "UAII",
+    "airport_name": "shymkent_international_airport",
+    "location_served": "shymkent_kazakhstan"
+  },
+  {
+    "iata": "CIU",
+    "icao": "KCIU",
+    "airport_name": "chippewa_county_international_airport",
+    "location_served": "sault_ste_marie_michigan_united_states"
+  },
+  {
+    "iata": "CIW",
+    "icao": "TVSC",
+    "airport_name": "canouan_airport",
+    "location_served": "canouan_saint_vincent_and_the_grenadines"
+  },
+  {
+    "iata": "CIX",
+    "icao": "SPHI",
+    "airport_name": "fap_captain_josé_abelardo_quiñones_gonzález_international_airport",
+    "location_served": "chiclayo_peru"
+  },
+  {
+    "iata": "CIY",
+    "icao": "LICB",
+    "airport_name": "comiso_airport",
+    "location_served": "comiso_sicily_italy"
+  },
+  {
+    "iata": "CIZ",
+    "icao": "SWKO",
+    "airport_name": "coari_airport",
+    "location_served": "coari_amazonas_brazil"
+  },
+  {
+    "iata": "CJA",
+    "icao": "SPJR",
+    "airport_name": "mayor_general_fap_armando_revoredo_iglesias_airport",
+    "location_served": "cajamarca_peru"
+  },
+  {
+    "iata": "CJB",
+    "icao": "VOCB",
+    "airport_name": "coimbatore_international_airport",
+    "location_served": "coimbatore_tamil_nadu_india"
+  },
+  {
+    "iata": "CJC",
+    "icao": "SCCF",
+    "airport_name": "el_loa_airport",
+    "location_served": "calama_chile"
+  },
+  {
+    "iata": "CJD",
+    "icao": "",
+    "airport_name": "candilejas_airport",
+    "location_served": "candilejas_colombia"
+  },
+  {
+    "iata": "CJF",
+    "icao": "YCWA",
+    "airport_name": "coondewanna_airport",
+    "location_served": "coondewanna_western_australia_australia"
+  },
+  {
+    "iata": "CJH",
+    "icao": "",
+    "airport_name": "chilko_lake_(tsylos_park_lodge)_aerodrome_(tc:_cagdapi)",
+    "location_served": "chilko_lake_british_columbia_canada"
+  },
+  {
+    "iata": "CJJ",
+    "icao": "RKTU",
+    "airport_name": "cheongju_international_airport",
+    "location_served": "cheongju_south_korea"
+  },
+  {
+    "iata": "CJL",
+    "icao": "OPCH",
+    "airport_name": "chitral_airport",
+    "location_served": "chitral_pakistan"
+  },
+  {
+    "iata": "CJM",
+    "icao": "VTSE",
+    "airport_name": "chumphon_airport",
+    "location_served": "chumphon_thailand"
+  },
+  {
+    "iata": "CJN",
+    "icao": "WI1A",
+    "airport_name": "cijulang_nusawiru_airport",
+    "location_served": "cijulang_indonesia"
+  },
+  {
+    "iata": "CJS",
+    "icao": "MMCS",
+    "airport_name": "abraham_gonzález_international_airport",
+    "location_served": "ciudad_juárez_chihuahua_mexico"
+  },
+  {
+    "iata": "CJT",
+    "icao": "MMCO",
+    "airport_name": "copalar_airport",
+    "location_served": "comitán_chiapas_mexico"
+  },
+  {
+    "iata": "CJU",
+    "icao": "RKPC",
+    "airport_name": "jeju_international_airport",
+    "location_served": "jeju_south_korea"
+  },
+  {
+    "iata": "CKA",
+    "icao": "KCKA",
+    "airport_name": "kegelman_air_force_auxiliary_field",
+    "location_served": "cherokee_oklahoma_united_states"
+  },
+  {
+    "iata": "CKB",
+    "icao": "KCKB",
+    "airport_name": "north_central_west_virginia_airport",
+    "location_served": "clarksburg_west_virginia_united_states"
+  },
+  {
+    "iata": "CKC",
+    "icao": "UKKE",
+    "airport_name": "cherkasy_international_airport",
+    "location_served": "cherkasy_ukraine"
+  },
+  {
+    "iata": "CKD",
+    "icao": "",
+    "airport_name": "crooked_creek_airport_(faa:_cjx)",
+    "location_served": "crooked_creek_alaska_united_states"
+  },
+  {
+    "iata": "CKE",
+    "icao": "",
+    "airport_name": "lampson_field[dapi]_(faa:_dapiodapi)",
+    "location_served": "lakeport_california_united_states"
+  },
+  {
+    "iata": "CKG",
+    "icao": "ZUCK",
+    "airport_name": "chongqing_jiangbei_international_airport",
+    "location_served": "chongqing_china"
+  },
+  {
+    "iata": "CKH",
+    "icao": "UESO",
+    "airport_name": "chokurdakh_airport",
+    "location_served": "chokurdakh_yakutia_russia"
+  },
+  {
+    "iata": "CKI",
+    "icao": "YCKI",
+    "airport_name": "croker_island_airport",
+    "location_served": "croker_island_northern_territory_australia"
+  },
+  {
+    "iata": "CKK",
+    "icao": "KCVK",
+    "airport_name": "sharp_county_regional_airport[dapi]_(faa:_cvk)",
+    "location_served": "ash_flat_arkansas_united_states"
+  },
+  {
+    "iata": "CKL",
+    "icao": "UUMU",
+    "airport_name": "chkalovsky_airport",
+    "location_served": "shchyolkovo_(moscow_oblast)_russia"
+  },
+  {
+    "iata": "CKM",
+    "icao": "KCKM",
+    "airport_name": "fletcher_field",
+    "location_served": "clarksdale_mississippi_united_states"
+  },
+  {
+    "iata": "CKN",
+    "icao": "KCKN",
+    "airport_name": "crookston_municipal_airport_(kirkwood_field)",
+    "location_served": "crookston_minnesota_united_states"
+  },
+  {
+    "iata": "CKO",
+    "icao": "SSCP",
+    "airport_name": "cornélio_procópio_airport",
+    "location_served": "cornélio_procópio_paraná_brazil"
+  },
+  {
+    "iata": "CKR",
+    "icao": "",
+    "airport_name": "crane_island_airstrip[dapi]",
+    "location_served": "crane_island_washington_united_states"
+  },
+  {
+    "iata": "CKS",
+    "icao": "SBCJ",
+    "airport_name": "carajás_airport",
+    "location_served": "parauapebas_pará_brazil"
+  },
+  {
+    "iata": "CKT",
+    "icao": "OIMC",
+    "airport_name": "sarakhs_airport",
+    "location_served": "sarakhs_iran"
+  },
+  {
+    "iata": "CKU",
+    "icao": "",
+    "airport_name": "cordova_municipal_airport",
+    "location_served": "cordova_alaska_united_states"
+  },
+  {
+    "iata": "CKV",
+    "icao": "KCKV",
+    "airport_name": "clarksville–montgomery_county_regional_airport_(outlaw_field)",
+    "location_served": "clarksville_tennessee_united_states"
+  },
+  {
+    "iata": "CKW",
+    "icao": "YCHK",
+    "airport_name": "graeme_rowley_aerodrome",
+    "location_served": "christmas_creek_mine_western_australia_australia"
+  },
+  {
+    "iata": "CKX",
+    "icao": "",
+    "airport_name": "chicken_airport",
+    "location_served": "chicken_alaska_united_states"
+  },
+  {
+    "iata": "CKY",
+    "icao": "GUCY",
+    "airport_name": "conakry_international_airport_(gbessia_int'l_airport)",
+    "location_served": "conakry_guinea"
+  },
+  {
+    "iata": "CKZ",
+    "icao": "LTBH",
+    "airport_name": "çanakkale_airport",
+    "location_served": "çanakkale_turkey"
+  },
+  {
+    "iata": "CLA",
+    "icao": "VGCM",
+    "airport_name": "comilla_airport",
+    "location_served": "comilla_bangladesh"
+  },
+  {
+    "iata": "CLD",
+    "icao": "KCRQ",
+    "airport_name": "mcclellan–palomar_airport_(faa:_crq)",
+    "location_served": "carlsbad_california_united_states"
+  },
+  {
+    "iata": "CLE",
+    "icao": "KCLE",
+    "airport_name": "cleveland_hopkins_international_airport",
+    "location_served": "cleveland_ohio_united_states"
+  },
+  {
+    "iata": "CLG",
+    "icao": "",
+    "airport_name": "new_coalinga_municipal_airport_(faa:_cdapidapi)",
+    "location_served": "coalinga_california_united_states"
+  },
+  {
+    "iata": "CLH",
+    "icao": "YCAH",
+    "airport_name": "coolah_airport",
+    "location_served": "coolah_new_south_wales_australia"
+  },
+  {
+    "iata": "CLI",
+    "icao": "KCLI",
+    "airport_name": "clintonville_municipal_airport",
+    "location_served": "clintonville_wisconsin_united_states"
+  },
+  {
+    "iata": "CLJ",
+    "icao": "LRCL",
+    "airport_name": "cluj-napoca_international_airport",
+    "location_served": "cluj-napoca_romania"
+  },
+  {
+    "iata": "CLK",
+    "icao": "KCLK",
+    "airport_name": "clinton_regional_airport",
+    "location_served": "clinton_oklahoma_united_states"
+  },
+  {
+    "iata": "CLL",
+    "icao": "KCLL",
+    "airport_name": "easterwood_airport_(easterwood_field)",
+    "location_served": "college_station_texas_united_states"
+  },
+  {
+    "iata": "CLM",
+    "icao": "KCLM",
+    "airport_name": "william_r._fairchild_international_airport",
+    "location_served": "port_angeles_washington_united_states"
+  },
+  {
+    "iata": "CLN",
+    "icao": "SBCI",
+    "airport_name": "carolina_airport",
+    "location_served": "carolina_maranhão_brazil"
+  },
+  {
+    "iata": "CLO",
+    "icao": "SKCL",
+    "airport_name": "alfonso_bonilla_aragón_international_airport",
+    "location_served": "cali_colombia"
+  },
+  {
+    "iata": "CLP",
+    "icao": "PFCL",
+    "airport_name": "clarks_point_airport",
+    "location_served": "clark's_point_alaska_united_states"
+  },
+  {
+    "iata": "CLQ",
+    "icao": "MMIA",
+    "airport_name": "licenciado_miguel_de_la_madrid_airport",
+    "location_served": "colima_city_colima_mexico"
+  },
+  {
+    "iata": "CLR",
+    "icao": "KCLR",
+    "airport_name": "cliff_hatfield_memorial_airport[dapi]",
+    "location_served": "calipatria_california_united_states"
+  },
+  {
+    "iata": "CLS",
+    "icao": "KCLS",
+    "airport_name": "chehalis-centralia_airport",
+    "location_served": "chehalis_washington_united_states"
+  },
+  {
+    "iata": "CLT",
+    "icao": "KCLT",
+    "airport_name": "charlotte_douglas_international_airport",
+    "location_served": "charlotte_north_carolina_united_states"
+  },
+  {
+    "iata": "CLU",
+    "icao": "KBAK",
+    "airport_name": "columbus_municipal_airport_(faa:_bak)",
+    "location_served": "columbus_indiana_united_states"
+  },
+  {
+    "iata": "CLV",
+    "icao": "SWKN",
+    "airport_name": "caldas_novas_airport",
+    "location_served": "caldas_novas_goiás_brazil"
+  },
+  {
+    "iata": "CLW",
+    "icao": "KCLW",
+    "airport_name": "clearwater_air_park",
+    "location_served": "clearwater_florida_united_states"
+  },
+  {
+    "iata": "CLX",
+    "icao": "SATC",
+    "airport_name": "clorinda_airport",
+    "location_served": "clorinda_formosa_argentina"
+  },
+  {
+    "iata": "CLY",
+    "icao": "LFKC",
+    "airport_name": "calvi_–_sainte-catherine_airport",
+    "location_served": "calvi_corsica_france"
+  },
+  {
+    "iata": "CLZ",
+    "icao": "SVCL",
+    "airport_name": "calabozo_airport",
+    "location_served": "calabozo_venezuela"
+  },
+  {
+    "iata": "CMA",
+    "icao": "YCMU",
+    "airport_name": "cunnamulla_airport",
+    "location_served": "cunnamulla_queensland_australia"
+  },
+  {
+    "iata": "CMB",
+    "icao": "VCBI",
+    "airport_name": "bandaranaike_international_airport",
+    "location_served": "colombo_sri_lanka"
+  },
+  {
+    "iata": "CMC",
+    "icao": "SNWC",
+    "airport_name": "camocim_airport",
+    "location_served": "camocim_ceará_brazil"
+  },
+  {
+    "iata": "CMD",
+    "icao": "YCTM",
+    "airport_name": "cootamundra_airport",
+    "location_served": "cootamundra_new_south_wales_australia"
+  },
+  {
+    "iata": "CME",
+    "icao": "MMCE",
+    "airport_name": "ciudad_del_carmen_international_airport",
+    "location_served": "ciudad_del_carmen_campeche_mexico"
+  },
+  {
+    "iata": "CMF",
+    "icao": "LFLB",
+    "airport_name": "chambéry-savoie_airport",
+    "location_served": "chambéry_rhône-alpes_france"
+  },
+  {
+    "iata": "CMG",
+    "icao": "SBCR",
+    "airport_name": "corumbá_international_airport",
+    "location_served": "corumbá_mato_grosso_do_sul_brazil"
+  },
+  {
+    "iata": "CMH",
+    "icao": "KCMH",
+    "airport_name": "john_glenn_columbus_international_airport",
+    "location_served": "columbus_ohio_united_states"
+  },
+  {
+    "iata": "CMI",
+    "icao": "KCMI",
+    "airport_name": "university_of_illinois_willard_airport",
+    "location_served": "champaign_illinois_united_states"
+  },
+  {
+    "iata": "CMJ",
+    "icao": "RCCM",
+    "airport_name": "qimei_airport",
+    "location_served": "qimei_taiwan"
+  },
+  {
+    "iata": "CMK",
+    "icao": "FWCM",
+    "airport_name": "club_makokola_airport",
+    "location_served": "club_makokola_malawi"
+  },
+  {
+    "iata": "CML",
+    "icao": "YCMW",
+    "airport_name": "camooweal_airport",
+    "location_served": "camooweal_queensland_australia"
+  },
+  {
+    "iata": "CMM",
+    "icao": "MGCR",
+    "airport_name": "carmelita_airport",
+    "location_served": "carmelita_guatemala"
+  },
+  {
+    "iata": "CMN",
+    "icao": "GMMN",
+    "airport_name": "mohammed_v_international_airport",
+    "location_served": "casablanca_morocco"
+  },
+  {
+    "iata": "CMO",
+    "icao": "HCMO",
+    "airport_name": "obbia_airport",
+    "location_served": "obbia_somalia"
+  },
+  {
+    "iata": "CMP",
+    "icao": "SNKE",
+    "airport_name": "santana_do_araguaia_airport",
+    "location_served": "santana_do_araguaia_pará_brazil"
+  },
+  {
+    "iata": "CMQ",
+    "icao": "YCMT",
+    "airport_name": "clermont_airport",
+    "location_served": "clermont_queensland_australia"
+  },
+  {
+    "iata": "CMR",
+    "icao": "LFGA",
+    "airport_name": "colmar_–_houssen_airport",
+    "location_served": "colmar_alsace_france"
+  },
+  {
+    "iata": "CMS",
+    "icao": "HCMS",
+    "airport_name": "iskushuban_airport",
+    "location_served": "iskushuban_(scusciuban)_somalia"
+  },
+  {
+    "iata": "CMT",
+    "icao": "",
+    "airport_name": "cameta_airport",
+    "location_served": "cametá_pará_brazil"
+  },
+  {
+    "iata": "CMU",
+    "icao": "AYCH",
+    "airport_name": "chimbu_airport",
+    "location_served": "kundiawa_papua_new_guinea"
+  },
+  {
+    "iata": "CMV",
+    "icao": "NZCX",
+    "airport_name": "coromandel_aerodrome",
+    "location_served": "coromandel_new_zealand"
+  },
+  {
+    "iata": "CMW",
+    "icao": "MUCM",
+    "airport_name": "ignacio_agramonte_international_airport",
+    "location_served": "camagüey_cuba"
+  },
+  {
+    "iata": "CMX",
+    "icao": "KCMX",
+    "airport_name": "houghton_county_memorial_airport",
+    "location_served": "hancock_michigan_united_states"
+  },
+  {
+    "iata": "CMY",
+    "icao": "KCMY",
+    "airport_name": "sparta/fort_mccoy_airport",
+    "location_served": "sparta_wisconsin_united_states"
+  },
+  {
+    "iata": "CMZ",
+    "icao": "",
+    "airport_name": "caia_airport[dapi]",
+    "location_served": "caia_mozambique"
+  },
+  {
+    "iata": "CNA",
+    "icao": "MMCA",
+    "airport_name": "cananea_national_airport",
+    "location_served": "cananea_sonora_mexico"
+  },
+  {
+    "iata": "CNB",
+    "icao": "YCNM",
+    "airport_name": "coonamble_airport",
+    "location_served": "coonamble_new_south_wales_australia"
+  },
+  {
+    "iata": "CNC",
+    "icao": "YCCT",
+    "airport_name": "coconut_island_airport",
+    "location_served": "coconut_(poruma)_island_queensland_australia"
+  },
+  {
+    "iata": "CND",
+    "icao": "LRCK",
+    "airport_name": "mihail_kogălniceanu_international_airport",
+    "location_served": "constanța_romania"
+  },
+  {
+    "iata": "CNE",
+    "icao": "",
+    "airport_name": "fremont_county_airport_(faa:_dapivdapi)",
+    "location_served": "cañon_city_colorado_united_states"
+  },
+  {
+    "iata": "CNF",
+    "icao": "SBCF",
+    "airport_name": "tancredo_neves_international_airport_(confins_int'l_airport)",
+    "location_served": "belo_horizonte_minas_gerais_brazil"
+  },
+  {
+    "iata": "CNG",
+    "icao": "LFBG",
+    "airport_name": "cognac_–_châteaubernard_air_base",
+    "location_served": "cognac_poitou-charentes_france"
+  },
+  {
+    "iata": "CNH",
+    "icao": "KCNH",
+    "airport_name": "claremont_municipal_airport",
+    "location_served": "claremont_new_hampshire_united_states"
+  },
+  {
+    "iata": "CNI",
+    "icao": "ZYCH",
+    "airport_name": "changhai_airport",
+    "location_served": "changhai_liaoning_china"
+  },
+  {
+    "iata": "CNJ",
+    "icao": "YCCY",
+    "airport_name": "cloncurry_airport",
+    "location_served": "cloncurry_queensland_australia"
+  },
+  {
+    "iata": "CNK",
+    "icao": "KCNK",
+    "airport_name": "blosser_municipal_airport",
+    "location_served": "concordia_kansas_united_states"
+  },
+  {
+    "iata": "CNL",
+    "icao": "EKSN",
+    "airport_name": "sindal_airport",
+    "location_served": "sindal_denmark"
+  },
+  {
+    "iata": "CNM",
+    "icao": "KCNM",
+    "airport_name": "cavern_city_air_terminal",
+    "location_served": "carlsbad_new_mexico_united_states"
+  },
+  {
+    "iata": "CNN",
+    "icao": "VOKN",
+    "airport_name": "kannur_international_airport",
+    "location_served": "kannur_(cannanore)_kerala_india"
+  },
+  {
+    "iata": "CNO",
+    "icao": "KCNO",
+    "airport_name": "chino_airport",
+    "location_served": "chino_california_united_states"
+  },
+  {
+    "iata": "CNP",
+    "icao": "BGCO",
+    "airport_name": "nerlerit_inaat_airport_(constable_pynt_airport)",
+    "location_served": "ittoqqortoormiit_greenland"
+  },
+  {
+    "iata": "CNQ",
+    "icao": "SARC",
+    "airport_name": "doctor_fernando_piragine_niveyro_international_airport",
+    "location_served": "corrientes_corrientes_argentina"
+  },
+  {
+    "iata": "CNR",
+    "icao": "SCRA",
+    "airport_name": "chañaral_airport",
+    "location_served": "chañaral_chile"
+  },
+  {
+    "iata": "CNS",
+    "icao": "YBCS",
+    "airport_name": "cairns_airport",
+    "location_served": "cairns_queensland_australia"
+  },
+  {
+    "iata": "CNT",
+    "icao": "",
+    "airport_name": "charata_airport",
+    "location_served": "charata_chaco_argentina"
+  },
+  {
+    "iata": "CNU",
+    "icao": "KCNU",
+    "airport_name": "chanute_martin_johnson_airport",
+    "location_served": "chanute_kansas_united_states"
+  },
+  {
+    "iata": "CNV",
+    "icao": "SNED",
+    "airport_name": "canavieiras_airport",
+    "location_served": "canavieiras_bahia_brazil"
+  },
+  {
+    "iata": "CNW",
+    "icao": "KCNW",
+    "airport_name": "tstc_waco_airport",
+    "location_served": "waco_texas_united_states"
+  },
+  {
+    "iata": "CNX",
+    "icao": "VTCC",
+    "airport_name": "chiang_mai_international_airport",
+    "location_served": "chiang_mai_thailand"
+  },
+  {
+    "iata": "CNY",
+    "icao": "KCNY",
+    "airport_name": "canyonlands_field",
+    "location_served": "moab_utah_united_states"
+  },
+  {
+    "iata": "CNZ",
+    "icao": "",
+    "airport_name": "cangamba_airport",
+    "location_served": "cangamba_angola"
+  },
+  {
+    "iata": "COA",
+    "icao": "",
+    "airport_name": "columbia_airport_(faa:_odapidapi)",
+    "location_served": "columbia_california_united_states"
+  },
+  {
+    "iata": "COB",
+    "icao": "",
+    "airport_name": "coolibah_airport",
+    "location_served": "coolibah_station_northern_territory_australia"
+  },
+  {
+    "iata": "COC",
+    "icao": "SAAC",
+    "airport_name": "comodoro_pierrestegui_airport",
+    "location_served": "concordia_entre_ríos_argentina"
+  },
+  {
+    "iata": "COD",
+    "icao": "KCOD",
+    "airport_name": "yellowstone_regional_airport",
+    "location_served": "cody_wyoming_united_states"
+  },
+  {
+    "iata": "COE",
+    "icao": "KCOE",
+    "airport_name": "coeur_d'alene_airport",
+    "location_served": "coeur_d'alene_idaho_united_states"
+  },
+  {
+    "iata": "COF",
+    "icao": "KCOF",
+    "airport_name": "patrick_space_force_base",
+    "location_served": "cocoa_beach_florida_united_states"
+  },
+  {
+    "iata": "COG",
+    "icao": "SKCD",
+    "airport_name": "mandinga_airport",
+    "location_served": "condoto_colombia"
+  },
+  {
+    "iata": "COH",
+    "icao": "VECO",
+    "airport_name": "cooch_behar_airport",
+    "location_served": "cooch_behar_west_bengal_india"
+  },
+  {
+    "iata": "COI",
+    "icao": "KCOI",
+    "airport_name": "merritt_island_airport",
+    "location_served": "merritt_island_florida_united_states"
+  },
+  {
+    "iata": "COJ",
+    "icao": "YCBB",
+    "airport_name": "coonabarabran_airport",
+    "location_served": "coonabarabran_new_south_wales_australia"
+  },
+  {
+    "iata": "COK",
+    "icao": "VOCI",
+    "airport_name": "cochin_international_airport_(nedumbassery_airport)",
+    "location_served": "kochi_(cochin)_kerala_india"
+  },
+  {
+    "iata": "COL",
+    "icao": "",
+    "airport_name": "coll_airport",
+    "location_served": "coll_scotland_united_kingdom"
+  },
+  {
+    "iata": "COM",
+    "icao": "KCOM",
+    "airport_name": "coleman_municipal_airport",
+    "location_served": "coleman_texas_united_states"
+  },
+  {
+    "iata": "CON",
+    "icao": "KCON",
+    "airport_name": "concord_municipal_airport",
+    "location_served": "concord_new_hampshire_united_states"
+  },
+  {
+    "iata": "COO",
+    "icao": "DBBB",
+    "airport_name": "cadjehoun_airport",
+    "location_served": "cotonou_benin"
+  },
+  {
+    "iata": "COP",
+    "icao": "",
+    "airport_name": "cooperstown-westville_airport_(faa:_kdapidapi)",
+    "location_served": "cooperstown_new_york_united_states"
+  },
+  {
+    "iata": "COQ",
+    "icao": "ZMCD",
+    "airport_name": "choibalsan_airport",
+    "location_served": "choibalsan_mongolia"
+  },
+  {
+    "iata": "COR",
+    "icao": "SACO",
+    "airport_name": "ingeniero_aeronáutico_ambrosio_l.v._taravella_international_airport_(pajas_blancas)",
+    "location_served": "córdoba_córdoba_argentina"
+  },
+  {
+    "iata": "COS",
+    "icao": "KCOS",
+    "airport_name": "colorado_springs_airport",
+    "location_served": "colorado_springs_colorado_united_states"
+  },
+  {
+    "iata": "COT",
+    "icao": "KCOT",
+    "airport_name": "cotulla–la_salle_county_airport",
+    "location_served": "cotulla_texas_united_states"
+  },
+  {
+    "iata": "COU",
+    "icao": "KCOU",
+    "airport_name": "columbia_regional_airport",
+    "location_served": "columbia_missouri_united_states"
+  },
+  {
+    "iata": "COW",
+    "icao": "SCQB",
+    "airport_name": "coquimbo_airport",
+    "location_served": "coquimbo_chile"
+  },
+  {
+    "iata": "COY",
+    "icao": "YCWY",
+    "airport_name": "coolawanyah_station_airport",
+    "location_served": "coolawanyah_station_western_australia_australia"
+  },
+  {
+    "iata": "COZ",
+    "icao": "MDCZ",
+    "airport_name": "constanza_airport",
+    "location_served": "constanza_dominican_republic"
+  },
+  {
+    "iata": "CPA",
+    "icao": "GLCP",
+    "airport_name": "cape_palmas_airport",
+    "location_served": "harper_liberia"
+  },
+  {
+    "iata": "CPB",
+    "icao": "SKCA",
+    "airport_name": "capurganá_airport",
+    "location_served": "capurganá_colombia"
+  },
+  {
+    "iata": "CPC",
+    "icao": "SAZY",
+    "airport_name": "aviador_carlos_campos_airport",
+    "location_served": "san_martín_de_los_andes_neuquén_argentina"
+  },
+  {
+    "iata": "CPD",
+    "icao": "YCBP",
+    "airport_name": "coober_pedy_airport",
+    "location_served": "coober_pedy_south_australia_australia"
+  },
+  {
+    "iata": "CPE",
+    "icao": "MMCP",
+    "airport_name": "ing._alberto_acuña_ongay_international_airport",
+    "location_served": "campeche_campeche_mexico"
+  },
+  {
+    "iata": "CPF",
+    "icao": "WARC",
+    "airport_name": "ngloram_airport",
+    "location_served": "cepu_indonesia"
+  },
+  {
+    "iata": "CPG",
+    "icao": "",
+    "airport_name": "carmen_de_patagones_airport",
+    "location_served": "carmen_de_patagones_buenos_aires_argentina"
+  },
+  {
+    "iata": "CPH",
+    "icao": "EKCH",
+    "airport_name": "copenhagen_airport_kastrup",
+    "location_served": "copenhagen_denmark"
+  },
+  {
+    "iata": "CPI",
+    "icao": "",
+    "airport_name": "cape_orford_airport[dapi]",
+    "location_served": "cape_orford_papua_new_guinea"
+  },
+  {
+    "iata": "CPL",
+    "icao": "SKHA",
+    "airport_name": "general_navas_pardo_airport",
+    "location_served": "chaparral_colombia"
+  },
+  {
+    "iata": "CPM",
+    "icao": "KCPM",
+    "airport_name": "compton/woodley_airport",
+    "location_served": "compton_california_united_states"
+  },
+  {
+    "iata": "CPN",
+    "icao": "",
+    "airport_name": "cape_rodney_airport",
+    "location_served": "cape_rodney_papua_new_guinea"
+  },
+  {
+    "iata": "CPO",
+    "icao": "SCAT",
+    "airport_name": "desierto_de_atacama_airport",
+    "location_served": "copiapó_chile"
+  },
+  {
+    "iata": "CPP",
+    "icao": "SCKP",
+    "airport_name": "coposa_airport",
+    "location_served": "pica_chile\n"
+  },
+  {
+    "iata": "CPR",
+    "icao": "KCPR",
+    "airport_name": "casper–natrona_county_international_airport",
+    "location_served": "casper_wyoming_united_states"
+  },
+  {
+    "iata": "CPS",
+    "icao": "KCPS",
+    "airport_name": "st._louis_downtown_airport",
+    "location_served": "cahokia_(near_st._louis/mo)_illinois_united_states"
+  },
+  {
+    "iata": "CPT",
+    "icao": "FACT",
+    "airport_name": "cape_town_international_airport",
+    "location_served": "cape_town_south_africa"
+  },
+  {
+    "iata": "CPU",
+    "icao": "",
+    "airport_name": "cururupu_airport",
+    "location_served": "cururupu_maranhão_brazil"
+  },
+  {
+    "iata": "CPV",
+    "icao": "SBKG",
+    "airport_name": "campina_grande_airport_(presidente_joão_suassuna_airport)",
+    "location_served": "campina_grande_paraíba_brazil"
+  },
+  {
+    "iata": "CPX",
+    "icao": "TJCP",
+    "airport_name": "benjamín_rivera_noriega_airport",
+    "location_served": "culebra_puerto_rico_united_states"
+  },
+  {
+    "iata": "CQA",
+    "icao": "",
+    "airport_name": "canarana_airport",
+    "location_served": "canarana_mato_grosso_brazil"
+  },
+  {
+    "iata": "CQD",
+    "icao": "OIFS",
+    "airport_name": "shahrekord_airport",
+    "location_served": "shahrekord_iran"
+  },
+  {
+    "iata": "CQF",
+    "icao": "LFAC",
+    "airport_name": "calais–dunkerque_airport",
+    "location_served": "calais_/_dunkirk_nord-pas-de-calais_france"
+  },
+  {
+    "iata": "CQM",
+    "icao": "LERL",
+    "airport_name": "ciudad_real_central_airport",
+    "location_served": "ciudad_real_castilla-la_mancha_spain"
+  },
+  {
+    "iata": "CQP",
+    "icao": "",
+    "airport_name": "cape_flattery_airport",
+    "location_served": "cape_flattery_queensland_australia"
+  },
+  {
+    "iata": "CQS",
+    "icao": "SWCQ",
+    "airport_name": "costa_marques_airport",
+    "location_served": "costa_marques_rondônia_brazil"
+  },
+  {
+    "iata": "CQT",
+    "icao": "",
+    "airport_name": "caquetania_airport",
+    "location_served": "caquetania_colombia"
+  },
+  {
+    "iata": "CQW",
+    "icao": "",
+    "airport_name": "wulong_xiannüshan_airport",
+    "location_served": "wulong_chongqing_china"
+  },
+  {
+    "iata": "CRA",
+    "icao": "LRCV",
+    "airport_name": "craiova_international_airport",
+    "location_served": "craiova_romania"
+  },
+  {
+    "iata": "CRB",
+    "icao": "YCBR",
+    "airport_name": "collarenebri_airport",
+    "location_served": "collarenebri_new_south_wales_australia"
+  },
+  {
+    "iata": "CRC",
+    "icao": "SKGO",
+    "airport_name": "santa_ana_airport",
+    "location_served": "cartago_colombia"
+  },
+  {
+    "iata": "CRD",
+    "icao": "SAVC",
+    "airport_name": "general_enrique_mosconi_international_airport",
+    "location_served": "comodoro_rivadavia_chubut_argentina"
+  },
+  {
+    "iata": "CRE",
+    "icao": "KCRE",
+    "airport_name": "grand_strand_airport",
+    "location_served": "north_myrtle_beach_south_carolina_united_states"
+  },
+  {
+    "iata": "CRF",
+    "icao": "FEFC",
+    "airport_name": "carnot_airport",
+    "location_served": "carnot_central_african_republic"
+  },
+  {
+    "iata": "CRG",
+    "icao": "KCRG",
+    "airport_name": "jacksonville_executive_at_craig_airport",
+    "location_served": "jacksonville_florida_united_states"
+  },
+  {
+    "iata": "CRH",
+    "icao": "",
+    "airport_name": "cherrabah_airport",
+    "location_served": "cherrabah_queensland_australia"
+  },
+  {
+    "iata": "CRI",
+    "icao": "MYCI",
+    "airport_name": "colonel_hill_airport_(crooked_island_airport)",
+    "location_served": "colonel_hill_crooked_island_bahamas"
+  },
+  {
+    "iata": "CRJ",
+    "icao": "",
+    "airport_name": "coorabie_airport",
+    "location_served": "coorabie_south_australia_australia"
+  },
+  {
+    "iata": "CRK",
+    "icao": "RPLC",
+    "airport_name": "clark_international_airport",
+    "location_served": "clark_special_economic_zone_philippines"
+  },
+  {
+    "iata": "CRL",
+    "icao": "EBCI",
+    "airport_name": "brussels_south_charleroi_airport",
+    "location_served": "charleroi_belgium"
+  },
+  {
+    "iata": "CRM",
+    "icao": "RPVF",
+    "airport_name": "catarman_national_airport",
+    "location_served": "catarman_philippines"
+  },
+  {
+    "iata": "CRO",
+    "icao": "KCRO",
+    "airport_name": "corcoran_airport",
+    "location_served": "corcoran_california_united_states"
+  },
+  {
+    "iata": "CRP",
+    "icao": "KCRP",
+    "airport_name": "corpus_christi_international_airport",
+    "location_served": "corpus_christi_texas_united_states"
+  },
+  {
+    "iata": "CRQ",
+    "icao": "SBCV",
+    "airport_name": "caravelas_airport",
+    "location_served": "caravelas_bahia_brazil"
+  },
+  {
+    "iata": "CRR",
+    "icao": "SANW",
+    "airport_name": "ceres_airport",
+    "location_served": "ceres_santa_fe_argentina"
+  },
+  {
+    "iata": "CRS",
+    "icao": "KCRS",
+    "airport_name": "c._david_campbell_field_(corsicana_municipal_airport)",
+    "location_served": "corsicana_texas_united_states"
+  },
+  {
+    "iata": "CRT",
+    "icao": "KCRT",
+    "airport_name": "z._m._jack_stell_field",
+    "location_served": "crossett_arkansas_united_states"
+  },
+  {
+    "iata": "CRU",
+    "icao": "TGPZ",
+    "airport_name": "lauriston_airport_(carriacou_island_airport)",
+    "location_served": "carriacou_grenada"
+  },
+  {
+    "iata": "CRV",
+    "icao": "LIBC",
+    "airport_name": "crotone_airport_(sant'anna_airport)",
+    "location_served": "crotone_calabria_italy"
+  },
+  {
+    "iata": "CRW",
+    "icao": "KCRW",
+    "airport_name": "yeager_airport",
+    "location_served": "charleston_west_virginia_united_states"
+  },
+  {
+    "iata": "CRX",
+    "icao": "KCRX",
+    "airport_name": "roscoe_turner_airport",
+    "location_served": "corinth_mississippi_united_states"
+  },
+  {
+    "iata": "CRY",
+    "icao": "",
+    "airport_name": "carlton_hill_airport",
+    "location_served": "carlton_hill_station_western_australia_australia"
+  },
+  {
+    "iata": "CRZ",
+    "icao": "UTAV",
+    "airport_name": "turkmenabat_airport",
+    "location_served": "türkmenabat_turkmenistan"
+  },
+  {
+    "iata": "CSA",
+    "icao": "",
+    "airport_name": "colonsay_airport",
+    "location_served": "colonsay_scotland_united_kingdom"
+  },
+  {
+    "iata": "CSB",
+    "icao": "LRCS",
+    "airport_name": "caransebeș_airport",
+    "location_served": "caransebeș_romania"
+  },
+  {
+    "iata": "CSC",
+    "icao": "MRMJ[2]",
+    "airport_name": "cañas_mojica_airport",
+    "location_served": "cañas_costa_rica"
+  },
+  {
+    "iata": "CSD",
+    "icao": "",
+    "airport_name": "cresswell_downs_airport",
+    "location_served": "cresswell_downs_northern_territory_australia"
+  },
+  {
+    "iata": "CSE",
+    "icao": "",
+    "airport_name": "buckhorn_ranch_airport_(faa:_dapicodapi)",
+    "location_served": "crested_butte_colorado_united_states"
+  },
+  {
+    "iata": "CSF",
+    "icao": "LFPC",
+    "airport_name": "creil_air_base",
+    "location_served": "creil_picardy_france"
+  },
+  {
+    "iata": "CSG",
+    "icao": "KCSG",
+    "airport_name": "columbus_airport",
+    "location_served": "columbus_georgia_united_states"
+  },
+  {
+    "iata": "CSH",
+    "icao": "ULAS",
+    "airport_name": "solovki_airport",
+    "location_served": "solovetsky_islands_arkhangelsk_oblast_russia"
+  },
+  {
+    "iata": "CSI",
+    "icao": "YCAS",
+    "airport_name": "casino_airport",
+    "location_served": "casino_new_south_wales_australia"
+  },
+  {
+    "iata": "CSK",
+    "icao": "GOGS",
+    "airport_name": "cap_skirring_airport",
+    "location_served": "cap_skirring_senegal"
+  },
+  {
+    "iata": "CSM",
+    "icao": "KCSM",
+    "airport_name": "clinton-sherman_airport",
+    "location_served": "clinton_oklahoma_united_states"
+  },
+  {
+    "iata": "CSN",
+    "icao": "KCXP",
+    "airport_name": "carson_airport_(faa:_cxp)",
+    "location_served": "carson_city_nevada_united_states"
+  },
+  {
+    "iata": "CSO",
+    "icao": "EDBC",
+    "airport_name": "magdeburg–cochstedt_airport",
+    "location_served": "magdeburg_saxony-anhalt_germany"
+  },
+  {
+    "iata": "CSQ",
+    "icao": "KCSQ",
+    "airport_name": "creston_municipal_airport",
+    "location_served": "creston_iowa_united_states"
+  },
+  {
+    "iata": "CSR",
+    "icao": "",
+    "airport_name": "casuarito_airport",
+    "location_served": "casuarito_colombia"
+  },
+  {
+    "iata": "CSS",
+    "icao": "SSCL",
+    "airport_name": "cassilândia_airport",
+    "location_served": "cassilândia_mato_grosso_do_sul_brazil"
+  },
+  {
+    "iata": "CST",
+    "icao": "NFCS",
+    "airport_name": "castaway_island_seaplane_base",
+    "location_served": "castaway_island_mamanuca_islands_fiji"
+  },
+  {
+    "iata": "CSU",
+    "icao": "",
+    "airport_name": "santa_cruz_do_sul_airport[dapi]",
+    "location_served": "santa_cruz_do_sul_rio_grande_do_sul_brazil"
+  },
+  {
+    "iata": "CSV",
+    "icao": "KCSV",
+    "airport_name": "crossville_memorial-whitson_field",
+    "location_served": "crossville_tennessee_united_states"
+  },
+  {
+    "iata": "CSX",
+    "icao": "ZGHA",
+    "airport_name": "changsha_huanghua_international_airport",
+    "location_served": "changsha_hunan_china"
+  },
+  {
+    "iata": "CSY",
+    "icao": "UWKS",
+    "airport_name": "cheboksary_airport",
+    "location_served": "cheboksary_chuvashia_russia"
+  },
+  {
+    "iata": "CSZ",
+    "icao": "SAZC",
+    "airport_name": "brigadier_hector_eduardo_ruiz_airport",
+    "location_served": "coronel_suárez_buenos_aires_argentina"
+  },
+  {
+    "iata": "CTA",
+    "icao": "LICC",
+    "airport_name": "catania–fontanarossa_airport",
+    "location_served": "catania_sicily_italy"
+  },
+  {
+    "iata": "CTB",
+    "icao": "KCTB",
+    "airport_name": "cut_bank_municipal_airport",
+    "location_served": "cut_bank_montana_united_states"
+  },
+  {
+    "iata": "CTC",
+    "icao": "SANC",
+    "airport_name": "coronel_felipe_varela_international_airport",
+    "location_served": "catamarca_catamarca_argentina"
+  },
+  {
+    "iata": "CTD",
+    "icao": "MPCE",
+    "airport_name": "chitré_alonso_valderrama_airport",
+    "location_served": "chitré_panama"
+  },
+  {
+    "iata": "CTE",
+    "icao": "",
+    "airport_name": "cartí_airport",
+    "location_served": "cartí_panama"
+  },
+  {
+    "iata": "CTF",
+    "icao": "MGCT",
+    "airport_name": "coatepeque_airport",
+    "location_served": "coatepeque_guatemala"
+  },
+  {
+    "iata": "CTG",
+    "icao": "SKCG",
+    "airport_name": "rafael_núñez_international_airport",
+    "location_served": "cartagena_colombia"
+  },
+  {
+    "iata": "CTH",
+    "icao": "KMQS",
+    "airport_name": "chester_county_g._o._carlson_airport_(faa:_mqs)",
+    "location_served": "coatesville_pennsylvania_united_states"
+  },
+  {
+    "iata": "CTI",
+    "icao": "FNCV",
+    "airport_name": "cuito_cuanavale_airport",
+    "location_served": "cuito_cuanavale_angola"
+  },
+  {
+    "iata": "CTK",
+    "icao": "",
+    "airport_name": "canton_municipal_airport_(faa:_dapigdapi)",
+    "location_served": "canton_south_dakota_united_states"
+  },
+  {
+    "iata": "CTL",
+    "icao": "YBCV",
+    "airport_name": "charleville_airport",
+    "location_served": "charleville_queensland_australia"
+  },
+  {
+    "iata": "CTM",
+    "icao": "MMCM",
+    "airport_name": "chetumal_international_airport",
+    "location_served": "chetumal_quintana_roo_mexico"
+  },
+  {
+    "iata": "CTN",
+    "icao": "YCKN",
+    "airport_name": "cooktown_airport",
+    "location_served": "cooktown_queensland_australia"
+  },
+  {
+    "iata": "CTO",
+    "icao": "",
+    "airport_name": "calverton_executive_airpark_(faa:_dapicdapi)",
+    "location_served": "calverton_new_york_united_states"
+  },
+  {
+    "iata": "CTP",
+    "icao": "SNCP",
+    "airport_name": "carutapera_airport",
+    "location_served": "carutapera_maranhão_brazil"
+  },
+  {
+    "iata": "CTQ",
+    "icao": "SSVP",
+    "airport_name": "do_palmar_airport",
+    "location_served": "santa_vitória_rio_grande_do_sul_brazil"
+  },
+  {
+    "iata": "CTR",
+    "icao": "",
+    "airport_name": "cattle_creek_airport",
+    "location_served": "cattle_creek_northern_territory_australia"
+  },
+  {
+    "iata": "CTS",
+    "icao": "RJCC",
+    "airport_name": "new_chitose_airport",
+    "location_served": "sapporo_hokkaido_japan"
+  },
+  {
+    "iata": "CTT",
+    "icao": "LFMQ",
+    "airport_name": "le_castellet_airport",
+    "location_served": "le_castellet_provence-alpes-côte_d'azur_france"
+  },
+  {
+    "iata": "CTU",
+    "icao": "ZUUU",
+    "airport_name": "chengdu_shuangliu_international_airport",
+    "location_served": "chengdu_sichuan_china"
+  },
+  {
+    "iata": "CTW",
+    "icao": "",
+    "airport_name": "cottonwood_airport_(faa:_pdapidapi)",
+    "location_served": "cottonwood_arizona_united_states"
+  },
+  {
+    "iata": "CTX",
+    "icao": "",
+    "airport_name": "cortland_county_airport_(chase_field_faa:_ndapidapi)",
+    "location_served": "cortland_new_york_united_states"
+  },
+  {
+    "iata": "CTY",
+    "icao": "KCTY",
+    "airport_name": "cross_city_airport",
+    "location_served": "cross_city_florida_united_states"
+  },
+  {
+    "iata": "CTZ",
+    "icao": "KCTZ",
+    "airport_name": "clinton–sampson_county_airport",
+    "location_served": "clinton_north_carolina_united_states"
+  },
+  {
+    "iata": "CUA",
+    "icao": "MMDA",
+    "airport_name": "ciudad_constitución_airport",
+    "location_served": "ciudad_constitución_baja_california_sur_mexico"
+  },
+  {
+    "iata": "CUB",
+    "icao": "KCUB",
+    "airport_name": "jim_hamilton–l.b._owens_airport",
+    "location_served": "columbia_south_carolina_united_states"
+  },
+  {
+    "iata": "CUC",
+    "icao": "SKCC",
+    "airport_name": "camilo_daza_international_airport",
+    "location_served": "cúcuta_colombia"
+  },
+  {
+    "iata": "CUD",
+    "icao": "YCDR",
+    "airport_name": "caloundra_airport",
+    "location_served": "caloundra_queensland_australia"
+  },
+  {
+    "iata": "CUE",
+    "icao": "SECU",
+    "airport_name": "mariscal_lamar_international_airport",
+    "location_served": "cuenca_ecuador"
+  },
+  {
+    "iata": "CUF",
+    "icao": "LIMZ",
+    "airport_name": "cuneo_international_airport",
+    "location_served": "cuneo_piedmont_italy"
+  },
+  {
+    "iata": "CUG",
+    "icao": "YCUA",
+    "airport_name": "cudal_airport",
+    "location_served": "cudal_new_south_wales_australia"
+  },
+  {
+    "iata": "CUH",
+    "icao": "KCUH",
+    "airport_name": "cushing_municipal_airport",
+    "location_served": "cushing_oklahoma_united_states"
+  },
+  {
+    "iata": "CUI",
+    "icao": "",
+    "airport_name": "curillo_airport",
+    "location_served": "curillo_colombia"
+  },
+  {
+    "iata": "CUJ",
+    "icao": "",
+    "airport_name": "culion_airport",
+    "location_served": "culion_philippines"
+  },
+  {
+    "iata": "CUK",
+    "icao": "",
+    "airport_name": "caye_caulker_airport",
+    "location_served": "caye_caulker_belize"
+  },
+  {
+    "iata": "CUL",
+    "icao": "MMCL",
+    "airport_name": "bachigualato_federal_international_airport",
+    "location_served": "culiacán_sinaloa_mexico"
+  },
+  {
+    "iata": "CUM",
+    "icao": "SVCU",
+    "airport_name": "antonio_josé_de_sucre_airport",
+    "location_served": "cumaná_venezuela"
+  },
+  {
+    "iata": "CUN",
+    "icao": "MMUN",
+    "airport_name": "cancún_international_airport",
+    "location_served": "cancún_quintana_roo_mexico"
+  },
+  {
+    "iata": "CUO",
+    "icao": "SKCR",
+    "airport_name": "caruru_airport",
+    "location_served": "caruru_colombia"
+  },
+  {
+    "iata": "CUP",
+    "icao": "SVCP",
+    "airport_name": "general_josé_francisco_bermúdez_airport",
+    "location_served": "carúpano_venezuela"
+  },
+  {
+    "iata": "CUQ",
+    "icao": "YCOE",
+    "airport_name": "coen_airport",
+    "location_served": "coen_queensland_australia"
+  },
+  {
+    "iata": "CUR",
+    "icao": "TNCC",
+    "airport_name": "curaçao_international_airport_(hato_int'l_airport)",
+    "location_served": "willemstad_curaçao"
+  },
+  {
+    "iata": "CUS",
+    "icao": "",
+    "airport_name": "columbus_municipal_airport_(faa:_dapinmdapi)",
+    "location_served": "columbus_new_mexico_united_states"
+  },
+  {
+    "iata": "CUT",
+    "icao": "SAZW",
+    "airport_name": "cutral_có_airport",
+    "location_served": "cutral_có_neuquén_argentina"
+  },
+  {
+    "iata": "CUU",
+    "icao": "MMCU",
+    "airport_name": "general_roberto_fierro_villalobos_international_airport",
+    "location_served": "chihuahua_chihuahua_mexico"
+  },
+  {
+    "iata": "CUV",
+    "icao": "SVCG",
+    "airport_name": "casigua_el_cubo_airport",
+    "location_served": "casigua_el_cubo_venezuela"
+  },
+  {
+    "iata": "CUX",
+    "icao": "",
+    "airport_name": "cuddihy_field_(faa:_dapidapite)",
+    "location_served": "corpus_christi_texas_united_states"
+  },
+  {
+    "iata": "CUY",
+    "icao": "YCUE",
+    "airport_name": "cue_airport",
+    "location_served": "cue_western_australia_australia"
+  },
+  {
+    "iata": "CUZ",
+    "icao": "SPZO",
+    "airport_name": "alejandro_velasco_astete_international_airport",
+    "location_served": "cusco_peru"
+  },
+  {
+    "iata": "CVB",
+    "icao": "AYCB",
+    "airport_name": "chungrebu_airport",
+    "location_served": "chungrebu_papua_new_guinea"
+  },
+  {
+    "iata": "CVC",
+    "icao": "YCEE",
+    "airport_name": "cleve_airport",
+    "location_served": "cleve_south_australia_australia"
+  },
+  {
+    "iata": "CVE",
+    "icao": "SKCV",
+    "airport_name": "coveñas_airport",
+    "location_served": "coveñas_colombia"
+  },
+  {
+    "iata": "CVF",
+    "icao": "LFLJ",
+    "airport_name": "courchevel_altiport",
+    "location_served": "courchevel_rhône-alpes_france"
+  },
+  {
+    "iata": "CVG",
+    "icao": "KCVG",
+    "airport_name": "cincinnati/northern_kentucky_international_airport",
+    "location_served": "hebron_(near_cincinnati/oh)_kentucky_united_states"
+  },
+  {
+    "iata": "CVH",
+    "icao": "",
+    "airport_name": "caviahue_airport",
+    "location_served": "caviahue_neuquén_argentina"
+  },
+  {
+    "iata": "CVI",
+    "icao": "",
+    "airport_name": "caleta_olivia_airport",
+    "location_served": "caleta_olivia_santa_cruz_argentina"
+  },
+  {
+    "iata": "CVJ",
+    "icao": "MMCB",
+    "airport_name": "general_mariano_matamoros_airport",
+    "location_served": "cuernavaca_morelos_mexico"
+  },
+  {
+    "iata": "CVL",
+    "icao": "",
+    "airport_name": "cape_vogel_airport",
+    "location_served": "cape_vogel_papua_new_guinea"
+  },
+  {
+    "iata": "CVM",
+    "icao": "MMCV",
+    "airport_name": "general_pedro_j._méndez_international_airport",
+    "location_served": "ciudad_victoria_tamaulipas_mexico"
+  },
+  {
+    "iata": "CVN",
+    "icao": "KCVN",
+    "airport_name": "clovis_municipal_airport",
+    "location_served": "clovis_new_mexico_united_states"
+  },
+  {
+    "iata": "CVO",
+    "icao": "KCVO",
+    "airport_name": "corvallis_municipal_airport",
+    "location_served": "corvallis_oregon_united_states"
+  },
+  {
+    "iata": "CVQ",
+    "icao": "YCAR",
+    "airport_name": "carnarvon_airport",
+    "location_served": "carnarvon_western_australia_australia"
+  },
+  {
+    "iata": "CVS",
+    "icao": "KCVS",
+    "airport_name": "cannon_air_force_base",
+    "location_served": "clovis_new_mexico_united_states"
+  },
+  {
+    "iata": "CVT",
+    "icao": "EGBE",
+    "airport_name": "coventry_airport",
+    "location_served": "coventry_england_united_kingdom"
+  },
+  {
+    "iata": "CVU",
+    "icao": "LPCR",
+    "airport_name": "corvo_airport",
+    "location_served": "corvo_island_azores_portugal"
+  },
+  {
+    "iata": "CWA",
+    "icao": "KCWA",
+    "airport_name": "central_wisconsin_airport",
+    "location_served": "wausau_wisconsin_united_states"
+  },
+  {
+    "iata": "CWB",
+    "icao": "SBCT",
+    "airport_name": "afonso_pena_international_airport",
+    "location_served": "curitiba_paraná_brazil"
+  },
+  {
+    "iata": "CWC",
+    "icao": "UKLN",
+    "airport_name": "chernivtsi_international_airport",
+    "location_served": "chernivtsi_ukraine"
+  },
+  {
+    "iata": "CWF",
+    "icao": "KCWF",
+    "airport_name": "chennault_international_airport",
+    "location_served": "lake_charles_louisiana_united_states"
+  },
+  {
+    "iata": "CWI",
+    "icao": "KCWI",
+    "airport_name": "clinton_municipal_airport",
+    "location_served": "clinton_iowa_united_states"
+  },
+  {
+    "iata": "CWJ",
+    "icao": "ZPCW",
+    "airport_name": "cangyuan_washan_airport",
+    "location_served": "nuoliang_township_china"
+  },
+  {
+    "iata": "CWL",
+    "icao": "EGFF",
+    "airport_name": "cardiff_airport",
+    "location_served": "cardiff_wales_united_kingdom"
+  },
+  {
+    "iata": "CWR",
+    "icao": "YCWI",
+    "airport_name": "cowarie_airport",
+    "location_served": "cowarie_south_australia_australia"
+  },
+  {
+    "iata": "CWS",
+    "icao": "",
+    "airport_name": "center_island_airport_(faa:_dapidapiwa)",
+    "location_served": "center_island_washington_united_states"
+  },
+  {
+    "iata": "CWT",
+    "icao": "YCWR",
+    "airport_name": "cowra_airport",
+    "location_served": "cowra_new_south_wales_australia"
+  },
+  {
+    "iata": "CWW",
+    "icao": "YCOR",
+    "airport_name": "corowa_airport",
+    "location_served": "corowa_new_south_wales_australia"
+  },
+  {
+    "iata": "CWX",
+    "icao": "",
+    "airport_name": "cochise_county_airport[dapi]_(faa:_pdapidapi)",
+    "location_served": "willcox_arizona_united_states"
+  },
+  {
+    "iata": "CXA",
+    "icao": "SVCD",
+    "airport_name": "caicara_del_orinoco_airport",
+    "location_served": "caicara_del_orinoco_venezuela"
+  },
+  {
+    "iata": "CXB",
+    "icao": "VGCB",
+    "airport_name": "cox's_bazar_airport",
+    "location_served": "cox's_bazar_bangladesh"
+  },
+  {
+    "iata": "CXC",
+    "icao": "",
+    "airport_name": "chitina_airport",
+    "location_served": "chitina_alaska_united_states"
+  },
+  {
+    "iata": "CXF",
+    "icao": "PACX",
+    "airport_name": "coldfoot_airport",
+    "location_served": "coldfoot_alaska_united_states"
+  },
+  {
+    "iata": "CXH",
+    "icao": "CYHC",
+    "airport_name": "vancouver_harbour_flight_centre_(coal_harbour_seaplane_base)",
+    "location_served": "vancouver_british_columbia_canada"
+  },
+  {
+    "iata": "CXI",
+    "icao": "PLCH",
+    "airport_name": "cassidy_international_airport",
+    "location_served": "christmas_island_kiribati"
+  },
+  {
+    "iata": "CXJ",
+    "icao": "SBCX",
+    "airport_name": "caxias_do_sul_airport_(hugo_cantergiani_regional_airport)",
+    "location_served": "caxias_do_sul_rio_grande_do_sul_brazil"
+  },
+  {
+    "iata": "CXL",
+    "icao": "KCXL",
+    "airport_name": "calexico_international_airport",
+    "location_served": "calexico_california_united_states"
+  },
+  {
+    "iata": "CXN",
+    "icao": "HCMC",
+    "airport_name": "candala_airport",
+    "location_served": "candala_somalia"
+  },
+  {
+    "iata": "CXO",
+    "icao": "KCXO",
+    "airport_name": "lone_star_executive_airport",
+    "location_served": "houston_texas_united_states"
+  },
+  {
+    "iata": "CXP",
+    "icao": "WIHL",
+    "airport_name": "tunggul_wulung_airport",
+    "location_served": "cilacap_indonesia"
+  },
+  {
+    "iata": "CXQ",
+    "icao": "YCRK",
+    "airport_name": "christmas_creek_airport",
+    "location_served": "christmas_creek_station_western_australia_australia"
+  },
+  {
+    "iata": "CXR",
+    "icao": "VVCR",
+    "airport_name": "cam_ranh_international_airport",
+    "location_served": "cam_ranh_vietnam"
+  },
+  {
+    "iata": "CXT",
+    "icao": "YCHT",
+    "airport_name": "charters_towers_airport",
+    "location_served": "charters_towers_queensland_australia"
+  },
+  {
+    "iata": "CXY",
+    "icao": "MYCC",
+    "airport_name": "cat_cay_airport",
+    "location_served": "cat_cays_bimini_bahamas"
+  },
+  {
+    "iata": "CYA",
+    "icao": "MTCA",
+    "airport_name": "antoine-simon_airport",
+    "location_served": "les_cayes_haiti"
+  },
+  {
+    "iata": "CYB",
+    "icao": "MWCB",
+    "airport_name": "charles_kirkconnell_international_airport",
+    "location_served": "cayman_brac_british_overseas_territory_of_cayman_islands"
+  },
+  {
+    "iata": "CYC",
+    "icao": "",
+    "airport_name": "caye_chapel_airport",
+    "location_served": "caye_chapel_belize"
+  },
+  {
+    "iata": "CYD",
+    "icao": "",
+    "airport_name": "san_ignacio_town_airstrip[dapi]",
+    "location_served": "san_ignacio_belize"
+  },
+  {
+    "iata": "CYF",
+    "icao": "PACK",
+    "airport_name": "chefornak_airport_(faa:_cfk)",
+    "location_served": "chefornak_alaska_united_states"
+  },
+  {
+    "iata": "CYG",
+    "icao": "YCRG",
+    "airport_name": "corryong_airport",
+    "location_served": "corryong_victoria_australia"
+  },
+  {
+    "iata": "CYI",
+    "icao": "RCKU",
+    "airport_name": "chiayi_airport",
+    "location_served": "chiayi_taiwan"
+  },
+  {
+    "iata": "CYL",
+    "icao": "MHCS[3]",
+    "airport_name": "coyoles_airport",
+    "location_served": "coyoles_honduras"
+  },
+  {
+    "iata": "CYM",
+    "icao": "",
+    "airport_name": "chatham_seaplane_base",
+    "location_served": "chatham_alaska_united_states"
+  },
+  {
+    "iata": "CYO",
+    "icao": "MUCL",
+    "airport_name": "vilo_acuña_airport",
+    "location_served": "cayo_largo_del_sur_cuba"
+  },
+  {
+    "iata": "CYP",
+    "icao": "RPVC",
+    "airport_name": "calbayog_airport",
+    "location_served": "calbayog_philippines"
+  },
+  {
+    "iata": "CYR",
+    "icao": "SUCA",
+    "airport_name": "colonia_airport_(laguna_de_los_patos_intn'l_airport)",
+    "location_served": "colonia_del_sacramento_uruguay"
+  },
+  {
+    "iata": "CYS",
+    "icao": "KCYS",
+    "airport_name": "cheyenne_regional_airport_(jerry_olson_field)",
+    "location_served": "cheyenne_wyoming_united_states"
+  },
+  {
+    "iata": "CYT",
+    "icao": "PACY",
+    "airport_name": "yakataga_airport",
+    "location_served": "yakataga_alaska_united_states"
+  },
+  {
+    "iata": "CYU",
+    "icao": "RPLO",
+    "airport_name": "cuyo_airport",
+    "location_served": "cuyo_philippines"
+  },
+  {
+    "iata": "CYW",
+    "icao": "MMCY",
+    "airport_name": "captain_rogelio_castillo_national_airport",
+    "location_served": "celaya_guanajuato_mexico"
+  },
+  {
+    "iata": "CYX",
+    "icao": "UESS",
+    "airport_name": "chersky_airport",
+    "location_served": "chersky_yakutia_russia"
+  },
+  {
+    "iata": "CYZ",
+    "icao": "RPUY",
+    "airport_name": "cauayan_airport",
+    "location_served": "cauayan_philippines"
+  },
+  {
+    "iata": "CZA",
+    "icao": "MMCT",
+    "airport_name": "chichen_itza_international_airport",
+    "location_served": "chichen_itza_yucatán_mexico"
+  },
+  {
+    "iata": "CZB",
+    "icao": "",
+    "airport_name": "carlos_ruhl_airport",
+    "location_served": "cruz_alta_rio_grande_do_sul_brazil"
+  },
+  {
+    "iata": "CZC",
+    "icao": "",
+    "airport_name": "copper_center_dapi_airport_(faa:_zdapidapi)",
+    "location_served": "copper_center_alaska_united_states"
+  },
+  {
+    "iata": "CZE",
+    "icao": "SVCR",
+    "airport_name": "josé_leonardo_chirino_airport",
+    "location_served": "coro_venezuela"
+  },
+  {
+    "iata": "CZF",
+    "icao": "PACZ",
+    "airport_name": "cape_romanzof_lrrs_airport",
+    "location_served": "cape_romanzof_alaska_united_states"
+  },
+  {
+    "iata": "CZH",
+    "icao": "",
+    "airport_name": "corozal_airport",
+    "location_served": "corozal_belize"
+  },
+  {
+    "iata": "CZJ",
+    "icao": "",
+    "airport_name": "corazón_de_jesús_airport",
+    "location_served": "corazón_de_jesús_panama"
+  },
+  {
+    "iata": "CZK",
+    "icao": "KCZK",
+    "airport_name": "cascade_locks_state_airport",
+    "location_served": "cascade_locks_oregon_united_states"
+  },
+  {
+    "iata": "CZL",
+    "icao": "DABC",
+    "airport_name": "mohamed_boudiaf_international_airport",
+    "location_served": "constantine_algeria"
+  },
+  {
+    "iata": "CZM",
+    "icao": "MMCZ",
+    "airport_name": "cozumel_international_airport",
+    "location_served": "cozumel_quintana_roo_mexico"
+  },
+  {
+    "iata": "CZN",
+    "icao": "",
+    "airport_name": "chisana_airport",
+    "location_served": "chisana_alaska_united_states"
+  },
+  {
+    "iata": "CZO",
+    "icao": "",
+    "airport_name": "chistochina_airport",
+    "location_served": "chistochina_alaska_united_states"
+  },
+  {
+    "iata": "CZP",
+    "icao": "",
+    "airport_name": "cape_pole_seaplane_base_(faa:_zdapidapi)",
+    "location_served": "cape_pole_alaska_united_states"
+  },
+  {
+    "iata": "CZS",
+    "icao": "SBCZ",
+    "airport_name": "cruzeiro_do_sul_international_airport",
+    "location_served": "cruzeiro_do_sul_acre_brazil"
+  },
+  {
+    "iata": "CZT",
+    "icao": "KCZT",
+    "airport_name": "dimmit_county_airport",
+    "location_served": "carrizo_springs_texas_united_states"
+  },
+  {
+    "iata": "CZU",
+    "icao": "SKCZ",
+    "airport_name": "las_brujas_airport",
+    "location_served": "corozal_colombia"
+  },
+  {
+    "iata": "CZW",
+    "icao": "EPCH",
+    "airport_name": "częstochowa-rudniki_airport",
+    "location_served": "częstochowa_poland"
+  },
+  {
+    "iata": "CZX",
+    "icao": "ZSCG",
+    "airport_name": "changzhou_benniu_airport",
+    "location_served": "changzhou_jiangsu_china"
+  },
+  {
+    "iata": "CZY",
+    "icao": "YUNY",
+    "airport_name": "cluny_airport",
+    "location_served": "cluny_queensland_australia"
+  }
+]

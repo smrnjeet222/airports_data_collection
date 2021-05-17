@@ -1,0 +1,3050 @@
+[
+  {
+    "iata": "KAA",
+    "icao": "FLKS",
+    "airport_name": "kasama_airport",
+    "location_served": "kasama_zambia"
+  },
+  {
+    "iata": "KAB",
+    "icao": "FVKB",
+    "airport_name": "kariba_airport",
+    "location_served": "kariba_zimbabwe"
+  },
+  {
+    "iata": "KAC",
+    "icao": "OSKL",
+    "airport_name": "kamishly_airport",
+    "location_served": "qamishli_(kamishly)_syria"
+  },
+  {
+    "iata": "KAD",
+    "icao": "DNKA",
+    "airport_name": "kaduna_airport",
+    "location_served": "kaduna_nigeria"
+  },
+  {
+    "iata": "KAE",
+    "icao": "",
+    "airport_name": "kake_seaplane_base",
+    "location_served": "kake_alaska_united_states"
+  },
+  {
+    "iata": "KAF",
+    "icao": "",
+    "airport_name": "karato_airport",
+    "location_served": "karato_papua_new_guinea"
+  },
+  {
+    "iata": "KAG",
+    "icao": "RKNN",
+    "airport_name": "gangneung_air_base",
+    "location_served": "gangneung_south_korea"
+  },
+  {
+    "iata": "KAI",
+    "icao": "SYKA",
+    "airport_name": "kaieteur_international_airport",
+    "location_served": "kaieteur_guyana"
+  },
+  {
+    "iata": "KAJ",
+    "icao": "EFKI",
+    "airport_name": "kajaani_airport",
+    "location_served": "kajaani_finland"
+  },
+  {
+    "iata": "KAK",
+    "icao": "",
+    "airport_name": "kar_airport",
+    "location_served": "kar_papua_new_guinea"
+  },
+  {
+    "iata": "KAL",
+    "icao": "PAKV",
+    "airport_name": "kaltag_airport",
+    "location_served": "kaltag_alaska_united_states"
+  },
+  {
+    "iata": "KAM",
+    "icao": "ODKM",
+    "airport_name": "kamaran_airport",
+    "location_served": "kamaran_yemen"
+  },
+  {
+    "iata": "KAN",
+    "icao": "DNKN",
+    "airport_name": "mallam_aminu_kano_international_airport",
+    "location_served": "kano_nigeria"
+  },
+  {
+    "iata": "KAO",
+    "icao": "EFKS",
+    "airport_name": "kuusamo_airport",
+    "location_served": "kuusamo_finland"
+  },
+  {
+    "iata": "KAP",
+    "icao": "FZSK",
+    "airport_name": "kapanga_airport",
+    "location_served": "kapanga_democratic_republic_of_the_congo"
+  },
+  {
+    "iata": "KAQ",
+    "icao": "AYKH",
+    "airport_name": "kamulai_airport[dapi]",
+    "location_served": "kamulai_papua_new_guinea"
+  },
+  {
+    "iata": "KAR",
+    "icao": "SYKM",
+    "airport_name": "kamarang_airport",
+    "location_served": "kamarang_guyana"
+  },
+  {
+    "iata": "KAS",
+    "icao": "FYKB",
+    "airport_name": "karasburg_airport",
+    "location_served": "karasburg_namibia"
+  },
+  {
+    "iata": "KAT",
+    "icao": "NZKT",
+    "airport_name": "kaitaia_airport",
+    "location_served": "kaitaia_new_zealand"
+  },
+  {
+    "iata": "KAU",
+    "icao": "EFKA",
+    "airport_name": "kauhava_airfield",
+    "location_served": "kauhava_finland"
+  },
+  {
+    "iata": "KAV",
+    "icao": "SVKA",
+    "airport_name": "kavanayén_airport",
+    "location_served": "kavanayén_venezuela"
+  },
+  {
+    "iata": "KAW",
+    "icao": "VYKT",
+    "airport_name": "kawthaung_airport",
+    "location_served": "kawthaung_myanmar"
+  },
+  {
+    "iata": "KAX",
+    "icao": "YKBR",
+    "airport_name": "kalbarri_airport",
+    "location_served": "kalbarri_western_australia_australia"
+  },
+  {
+    "iata": "KAY",
+    "icao": "NFNW",
+    "airport_name": "wakaya_airport",
+    "location_served": "wakaya_island_fiji"
+  },
+  {
+    "iata": "KAZ",
+    "icao": "WAMK",
+    "airport_name": "kuabang_airport",
+    "location_served": "kao_indonesia"
+  },
+  {
+    "iata": "KBA",
+    "icao": "GFKB",
+    "airport_name": "kabala_airport",
+    "location_served": "kabala_sierra_leone"
+  },
+  {
+    "iata": "KBB",
+    "icao": "",
+    "airport_name": "kirkimbie_airport[dapi]",
+    "location_served": "kirkimbie_station_northern_territory_australia"
+  },
+  {
+    "iata": "KBC",
+    "icao": "",
+    "airport_name": "birch_creek_airport_(faa:_zdapidapi)",
+    "location_served": "birch_creek_alaska_united_states"
+  },
+  {
+    "iata": "KBD",
+    "icao": "",
+    "airport_name": "kimberley_downs_airport",
+    "location_served": "kimberley_downs_western_australia_australia"
+  },
+  {
+    "iata": "KBE",
+    "icao": "",
+    "airport_name": "bell_island_hot_springs_seaplane_base",
+    "location_served": "bell_island_alaska_united_states"
+  },
+  {
+    "iata": "KBF",
+    "icao": "WABK",
+    "airport_name": "karubaga_airport",
+    "location_served": "karubaga_indonesia"
+  },
+  {
+    "iata": "KBG",
+    "icao": "HUKF",
+    "airport_name": "kabalega_falls_airport",
+    "location_served": "kabalega_falls_uganda"
+  },
+  {
+    "iata": "KBI",
+    "icao": "FKKB",
+    "airport_name": "kribi_airport",
+    "location_served": "kribi_cameroon"
+  },
+  {
+    "iata": "KBJ",
+    "icao": "YKCA",
+    "airport_name": "kings_canyon_airport",
+    "location_served": "kings_canyon_northern_territory_australia"
+  },
+  {
+    "iata": "KBL",
+    "icao": "OAKB",
+    "airport_name": "hamid_karzai_international_airport",
+    "location_served": "kabul_afghanistan"
+  },
+  {
+    "iata": "KBM",
+    "icao": "AYKB",
+    "airport_name": "kabwum_airport",
+    "location_served": "kabwum_papua_new_guinea"
+  },
+  {
+    "iata": "KBN",
+    "icao": "FZWT",
+    "airport_name": "tunta_airport",
+    "location_served": "kabinda_democratic_republic_of_the_congo"
+  },
+  {
+    "iata": "KBO",
+    "icao": "FZRM",
+    "airport_name": "kabalo_airport",
+    "location_served": "kabalo_democratic_republic_of_the_congo"
+  },
+  {
+    "iata": "KBP",
+    "icao": "UKBB",
+    "airport_name": "boryspil_international_airport",
+    "location_served": "kyiv_ukraine"
+  },
+  {
+    "iata": "KBQ",
+    "icao": "FWKG",
+    "airport_name": "kasungu_airport",
+    "location_served": "kasungu_malawi"
+  },
+  {
+    "iata": "KBR",
+    "icao": "WMKC",
+    "airport_name": "sultan_ismail_petra_airport",
+    "location_served": "kota_bharu_kelantan_malaysia"
+  },
+  {
+    "iata": "KBS",
+    "icao": "GFBO",
+    "airport_name": "bo_airport",
+    "location_served": "bo_sierra_leone"
+  },
+  {
+    "iata": "KBT",
+    "icao": "",
+    "airport_name": "kaben_airport",
+    "location_served": "kaben_maloelap_atoll_marshall_islands"
+  },
+  {
+    "iata": "KBU",
+    "icao": "WRBK",
+    "airport_name": "gusti_syamsir_alam_airport_(stagen_airport)",
+    "location_served": "kotabaru_indonesia"
+  },
+  {
+    "iata": "KBV",
+    "icao": "VTSG",
+    "airport_name": "krabi_airport",
+    "location_served": "krabi_thailand"
+  },
+  {
+    "iata": "KBW",
+    "icao": "",
+    "airport_name": "chignik_bay_seaplane_base_(faa:_zdapidapi)",
+    "location_served": "chignik_alaska_united_states"
+  },
+  {
+    "iata": "KBX",
+    "icao": "WASU",
+    "airport_name": "kambuaya_airport",
+    "location_served": "ayamaru_indonesia"
+  },
+  {
+    "iata": "KBY",
+    "icao": "YKBY",
+    "airport_name": "streaky_bay_airport",
+    "location_served": "streaky_bay_south_australia_australia"
+  },
+  {
+    "iata": "KBZ",
+    "icao": "NZKI",
+    "airport_name": "kaikoura_aerodrome",
+    "location_served": "kaikoura_new_zealand"
+  },
+  {
+    "iata": "KCA",
+    "icao": "ZWKC",
+    "airport_name": "kuqa_qiuci_airport",
+    "location_served": "kuqa_xinjiang_china"
+  },
+  {
+    "iata": "KCB",
+    "icao": "SMTP",
+    "airport_name": "tepoe_airstrip",
+    "location_served": "kasikasima_suriname"
+  },
+  {
+    "iata": "KCC",
+    "icao": "",
+    "airport_name": "coffman_cove_seaplane_base",
+    "location_served": "coffman_cove_alaska_united_states"
+  },
+  {
+    "iata": "KCD",
+    "icao": "",
+    "airport_name": "kamur_airport",
+    "location_served": "kamur_indonesia"
+  },
+  {
+    "iata": "KCE",
+    "icao": "YCSV",
+    "airport_name": "collinsville_airport",
+    "location_served": "collinsville_queensland_australia"
+  },
+  {
+    "iata": "KCF",
+    "icao": "",
+    "airport_name": "kadanwari_airport",
+    "location_served": "kadanwari_pakistan"
+  },
+  {
+    "iata": "KCG",
+    "icao": "",
+    "airport_name": "chignik_fisheries_airport_(closed)",
+    "location_served": "chignik_alaska_united_states"
+  },
+  {
+    "iata": "KCH",
+    "icao": "WBGG",
+    "airport_name": "kuching_international_airport",
+    "location_served": "kuching_sarawak_malaysia"
+  },
+  {
+    "iata": "KCJ",
+    "icao": "",
+    "airport_name": "komaio_airport",
+    "location_served": "komaio_papua_new_guinea"
+  },
+  {
+    "iata": "KCK",
+    "icao": "UIKK",
+    "airport_name": "kirensk_airport",
+    "location_served": "kirensk_irkutsk_oblast_russia"
+  },
+  {
+    "iata": "KCL",
+    "icao": "",
+    "airport_name": "chignik_lagoon_airport_(chignik_flats_airport)",
+    "location_served": "chignik_lagoon_alaska_united_states"
+  },
+  {
+    "iata": "KCM",
+    "icao": "LTCN",
+    "airport_name": "kahramanmaraş_airport",
+    "location_served": "kahramanmaraş_turkey"
+  },
+  {
+    "iata": "KCN",
+    "icao": "",
+    "airport_name": "chernofski_harbor_seaplane_base",
+    "location_served": "chernofski_harbor_alaska_united_states"
+  },
+  {
+    "iata": "KCO",
+    "icao": "LTBQ",
+    "airport_name": "cengiz_topel_naval_air_station",
+    "location_served": "i̇zmit_turkey"
+  },
+  {
+    "iata": "KCP",
+    "icao": "",
+    "airport_name": "kamianets-podilskyi_airport",
+    "location_served": "kamianets-podilskyi_ukraine"
+  },
+  {
+    "iata": "KCQ",
+    "icao": "",
+    "airport_name": "chignik_lake_airport_(faa:_adapidapi)",
+    "location_served": "chignik_lake_alaska_united_states"
+  },
+  {
+    "iata": "KCR",
+    "icao": "",
+    "airport_name": "colorado_creek_airport",
+    "location_served": "colorado_creek_alaska_united_states"
+  },
+  {
+    "iata": "KCS",
+    "icao": "YKCS",
+    "airport_name": "kings_creek_station_airport",
+    "location_served": "kings_creek_station_northern_territory_australia"
+  },
+  {
+    "iata": "KCT",
+    "icao": "VCCK",
+    "airport_name": "koggala_airport",
+    "location_served": "koggala_sri_lanka"
+  },
+  {
+    "iata": "KCU",
+    "icao": "HUMI",
+    "airport_name": "masindi_airport",
+    "location_served": "masindi_uganda"
+  },
+  {
+    "iata": "KCZ",
+    "icao": "RJOK",
+    "airport_name": "kōchi_ryōma_airport",
+    "location_served": "kōchi_shikoku_japan"
+  },
+  {
+    "iata": "KDA",
+    "icao": "GOGK",
+    "airport_name": "kolda_north_airport",
+    "location_served": "kolda_senegal"
+  },
+  {
+    "iata": "KDB",
+    "icao": "YKBL",
+    "airport_name": "kambalda_airport",
+    "location_served": "kambalda_western_australia_australia"
+  },
+  {
+    "iata": "KDC",
+    "icao": "DBBK",
+    "airport_name": "kandi_airport",
+    "location_served": "kandi_benin"
+  },
+  {
+    "iata": "KDD",
+    "icao": "OPKH",
+    "airport_name": "khuzdar_airport",
+    "location_served": "khuzdar_pakistan"
+  },
+  {
+    "iata": "KDE",
+    "icao": "AYOW",
+    "airport_name": "koroba_airport",
+    "location_served": "koroba_papua_new_guinea"
+  },
+  {
+    "iata": "KDH",
+    "icao": "OAKN",
+    "airport_name": "kandahar_international_airport",
+    "location_served": "kandahar_afghanistan"
+  },
+  {
+    "iata": "KDI",
+    "icao": "WAWW",
+    "airport_name": "haluoleo_airport",
+    "location_served": "kendari_indonesia"
+  },
+  {
+    "iata": "KDJ",
+    "icao": "FOGJ",
+    "airport_name": "ndjolé_ville_airport",
+    "location_served": "ndjolé_gabon"
+  },
+  {
+    "iata": "KDK",
+    "icao": "PAKD",
+    "airport_name": "kodiak_municipal_airport",
+    "location_served": "kodiak_alaska_united_states"
+  },
+  {
+    "iata": "KDL",
+    "icao": "EEKA",
+    "airport_name": "kärdla_airport",
+    "location_served": "kärdla_estonia"
+  },
+  {
+    "iata": "KDM",
+    "icao": "VRMT",
+    "airport_name": "kaadedhdhoo_airport",
+    "location_served": "kaadedhdhoo_island_gaafu_dhaalu_atoll_maldives"
+  },
+  {
+    "iata": "KDN",
+    "icao": "FOGE",
+    "airport_name": "ndendé_airport",
+    "location_served": "ndendé_gabon"
+  },
+  {
+    "iata": "KDO",
+    "icao": "VRMK",
+    "airport_name": "kadhdhoo_airport",
+    "location_served": "kadhdhoo_island_laamu_atoll_maldives"
+  },
+  {
+    "iata": "KDP",
+    "icao": "AYNN",
+    "airport_name": "kandep_airport",
+    "location_served": "kandep_papua_new_guinea"
+  },
+  {
+    "iata": "KDQ",
+    "icao": "AYTO",
+    "airport_name": "kamberatoro_airport",
+    "location_served": "kamberatoro_papua_new_guinea"
+  },
+  {
+    "iata": "KDR",
+    "icao": "AYKC",
+    "airport_name": "kandrian_airport",
+    "location_served": "kandrian_papua_new_guinea"
+  },
+  {
+    "iata": "KDS",
+    "icao": "",
+    "airport_name": "kamaran_downs_airport",
+    "location_served": "kamaran_downs_queensland_australia"
+  },
+  {
+    "iata": "KDT",
+    "icao": "VTBK",
+    "airport_name": "kamphaeng_saen_airport",
+    "location_served": "kamphaeng_saen_thailand"
+  },
+  {
+    "iata": "KDU",
+    "icao": "OPSD",
+    "airport_name": "skardu_airport",
+    "location_served": "skardu_pakistan"
+  },
+  {
+    "iata": "KDV",
+    "icao": "NFKD",
+    "airport_name": "vunisea_airport",
+    "location_served": "vunisea_kadavu_island_fiji"
+  },
+  {
+    "iata": "KDW",
+    "icao": "",
+    "airport_name": "victoria_reservoir_seaplane_base[dapi]",
+    "location_served": "kandy_sri_lanka"
+  },
+  {
+    "iata": "KDX",
+    "icao": "HSLI",
+    "airport_name": "kadugli_airport[dapi]",
+    "location_served": "kaduqli_(kadugli)_sudan"
+  },
+  {
+    "iata": "KDY",
+    "icao": "UEMH",
+    "airport_name": "teply_klyuch_airport",
+    "location_served": "khandyga_yakutia_russia"
+  },
+  {
+    "iata": "KDZ",
+    "icao": "",
+    "airport_name": "polgolla_reservoir_seaplane_base[dapi]",
+    "location_served": "kandy_sri_lanka"
+  },
+  {
+    "iata": "KEB",
+    "icao": "",
+    "airport_name": "nanwalek_airport",
+    "location_served": "nanwalek_alaska_united_states"
+  },
+  {
+    "iata": "KEC",
+    "icao": "FZQG",
+    "airport_name": "kasenga_airport",
+    "location_served": "kasenga_democratic_republic_of_the_congo"
+  },
+  {
+    "iata": "KED",
+    "icao": "GQNK",
+    "airport_name": "kaédi_airport",
+    "location_served": "kaédi_mauritania"
+  },
+  {
+    "iata": "KEE",
+    "icao": "FCOK",
+    "airport_name": "kelle_airport",
+    "location_served": "kellé_republic_of_the_congo"
+  },
+  {
+    "iata": "KEF",
+    "icao": "BIKF",
+    "airport_name": "keflavík_international_airport",
+    "location_served": "reykjavík_iceland"
+  },
+  {
+    "iata": "KEG",
+    "icao": "AYLG",
+    "airport_name": "keglsugl_airport",
+    "location_served": "keglsugl_papua_new_guinea"
+  },
+  {
+    "iata": "KEH",
+    "icao": "",
+    "airport_name": "kenmore_air_harbor_(faa:_sdapidapi)",
+    "location_served": "kenmore_washington_united_states"
+  },
+  {
+    "iata": "KEI",
+    "icao": "WAKP",
+    "airport_name": "kepi_airport",
+    "location_served": "kepi_indonesia"
+  },
+  {
+    "iata": "KEJ",
+    "icao": "UNEE",
+    "airport_name": "kemerovo_international_airport",
+    "location_served": "kemerovo_kemerovo_oblast_russia"
+  },
+  {
+    "iata": "KEK",
+    "icao": "",
+    "airport_name": "ekwok_airport",
+    "location_served": "ekwok_alaska_united_states"
+  },
+  {
+    "iata": "KEL",
+    "icao": "EDHK",
+    "airport_name": "kiel_airport",
+    "location_served": "kiel_schleswig-holstein_germany"
+  },
+  {
+    "iata": "KEM",
+    "icao": "EFKE",
+    "airport_name": "kemi-tornio_airport",
+    "location_served": "kemi_/_tornio_finland"
+  },
+  {
+    "iata": "KEN",
+    "icao": "GFKE",
+    "airport_name": "kenema_airport",
+    "location_served": "kenema_sierra_leone"
+  },
+  {
+    "iata": "KEO",
+    "icao": "DIOD",
+    "airport_name": "odienné_airport",
+    "location_served": "odienné_ivory_coast"
+  },
+  {
+    "iata": "KEP",
+    "icao": "VNNG",
+    "airport_name": "nepalgunj_airport",
+    "location_served": "nepalgunj_nepal"
+  },
+  {
+    "iata": "KEQ",
+    "icao": "WASE",
+    "airport_name": "kebar_airport",
+    "location_served": "kebar_indonesia"
+  },
+  {
+    "iata": "KER",
+    "icao": "OIKK",
+    "airport_name": "kerman_airport",
+    "location_served": "kerman_iran"
+  },
+  {
+    "iata": "KES",
+    "icao": "CZEE",
+    "airport_name": "kelsey_airport",
+    "location_served": "kelsey_manitoba_canada"
+  },
+  {
+    "iata": "KET",
+    "icao": "VYKG",
+    "airport_name": "kengtung_airport",
+    "location_served": "kengtung_myanmar"
+  },
+  {
+    "iata": "KEU",
+    "icao": "HKKE",
+    "airport_name": "keekorok_airport[dapi]",
+    "location_served": "keekorok_kenya"
+  },
+  {
+    "iata": "KEV",
+    "icao": "EFHA",
+    "airport_name": "halli_airport",
+    "location_served": "kuorevesi_finland"
+  },
+  {
+    "iata": "KEW",
+    "icao": "",
+    "airport_name": "keewaywin_airport_(tc_lid:_cpvdapi)",
+    "location_served": "keewaywin_ontario_canada"
+  },
+  {
+    "iata": "KEX",
+    "icao": "AYNB",
+    "airport_name": "kanabea_airport",
+    "location_served": "kanabea_papua_new_guinea"
+  },
+  {
+    "iata": "KEY",
+    "icao": "HKKR",
+    "airport_name": "kericho_airport",
+    "location_served": "kericho_kenya"
+  },
+  {
+    "iata": "KEZ",
+    "icao": "",
+    "airport_name": "kelani_river-peliyagoda_waterdrome[dapi]",
+    "location_served": "colombo_sri_lanka"
+  },
+  {
+    "iata": "KFA",
+    "icao": "GQNF",
+    "airport_name": "kiffa_airport",
+    "location_served": "kiffa_mauritania"
+  },
+  {
+    "iata": "KFE",
+    "icao": "YFDF",
+    "airport_name": "fortescue_dave_forrest_airport",
+    "location_served": "cloudbreak_western_australia_australia"
+  },
+  {
+    "iata": "KFG",
+    "icao": "YKKG",
+    "airport_name": "kalkgurung_airport",
+    "location_served": "kalkarindji_northern_territory_australia"
+  },
+  {
+    "iata": "KFM",
+    "icao": "",
+    "airport_name": "kirby_lake_airport",
+    "location_served": "wood_buffalo_alberta_canada"
+  },
+  {
+    "iata": "KFP",
+    "icao": "PAKF",
+    "airport_name": "false_pass_airport",
+    "location_served": "false_pass_alaska_united_states"
+  },
+  {
+    "iata": "KFS",
+    "icao": "LTAL",
+    "airport_name": "kastamonu_airport",
+    "location_served": "kastamonu_turkey"
+  },
+  {
+    "iata": "KGA",
+    "icao": "FZUA",
+    "airport_name": "kananga_airport",
+    "location_served": "kananga_democratic_republic_of_the_congo"
+  },
+  {
+    "iata": "KGB",
+    "icao": "AYOE",
+    "airport_name": "konge_airport",
+    "location_served": "konge_papua_new_guinea"
+  },
+  {
+    "iata": "KGC",
+    "icao": "YKSC",
+    "airport_name": "kingscote_airport",
+    "location_served": "cygnet_river_south_australia_australia"
+  },
+  {
+    "iata": "KGD",
+    "icao": "UMKK",
+    "airport_name": "khrabrovo_airport",
+    "location_served": "kaliningrad_kaliningrad_oblast_russia"
+  },
+  {
+    "iata": "KGE",
+    "icao": "AGKG",
+    "airport_name": "kaghau_airport",
+    "location_served": "kaghau_island_solomon_islands"
+  },
+  {
+    "iata": "KGF",
+    "icao": "UAKK",
+    "airport_name": "sary-arka_airport",
+    "location_served": "karaganda_kazakhstan"
+  },
+  {
+    "iata": "KGG",
+    "icao": "GOTK",
+    "airport_name": "kédougou_airport",
+    "location_served": "kédougou_senegal"
+  },
+  {
+    "iata": "KGH",
+    "icao": "AYJO",
+    "airport_name": "yongai_airport",
+    "location_served": "yongai_papua_new_guinea"
+  },
+  {
+    "iata": "KGI",
+    "icao": "YPKG",
+    "airport_name": "kalgoorlie-boulder_airport",
+    "location_served": "kalgoorlie_western_australia_australia"
+  },
+  {
+    "iata": "KGJ",
+    "icao": "FWKA",
+    "airport_name": "karonga_airport",
+    "location_served": "karonga_malawi"
+  },
+  {
+    "iata": "KGK",
+    "icao": "PAJZ",
+    "airport_name": "koliganek_airport_(faa:_jzz)",
+    "location_served": "koliganek_alaska_united_states"
+  },
+  {
+    "iata": "KGL",
+    "icao": "HRYR",
+    "airport_name": "kigali_international_airport_(kanombe_airport)",
+    "location_served": "kigali_rwanda"
+  },
+  {
+    "iata": "KGM",
+    "icao": "",
+    "airport_name": "kungim_airport[dapi]",
+    "location_served": "kungim_papua_new_guinea"
+  },
+  {
+    "iata": "KGN",
+    "icao": "FZOK",
+    "airport_name": "kasongo_lunda_airport",
+    "location_served": "kasongo_lunda_democratic_republic_of_the_congo"
+  },
+  {
+    "iata": "KGO",
+    "icao": "UKKG",
+    "airport_name": "kirovohrad_airport",
+    "location_served": "kropyvnytskyi_ukraine"
+  },
+  {
+    "iata": "KGP",
+    "icao": "USRK",
+    "airport_name": "kogalym_international_airport",
+    "location_served": "kogalym_khanty-mansi_autonomous_okrug_russia"
+  },
+  {
+    "iata": "KGR",
+    "icao": "",
+    "airport_name": "kulgera_airport",
+    "location_served": "kulgera_northern_territory_australia"
+  },
+  {
+    "iata": "KGS",
+    "icao": "LGKO",
+    "airport_name": "kos_island_international_airport",
+    "location_served": "kos_greece"
+  },
+  {
+    "iata": "KGT",
+    "icao": "ZUKD",
+    "airport_name": "kangding_airport[dapi]",
+    "location_served": "kangding_sichuan_china"
+  },
+  {
+    "iata": "KGU",
+    "icao": "WBKG",
+    "airport_name": "keningau_airport",
+    "location_served": "keningau_sabah_malaysia"
+  },
+  {
+    "iata": "KGW",
+    "icao": "AYKQ",
+    "airport_name": "kagi_airport",
+    "location_served": "kagi_papua_new_guinea"
+  },
+  {
+    "iata": "KGX",
+    "icao": "",
+    "airport_name": "grayling_airport",
+    "location_served": "grayling_alaska_united_states"
+  },
+  {
+    "iata": "KGY",
+    "icao": "YKRY",
+    "airport_name": "kingaroy_airport",
+    "location_served": "kingaroy_queensland_australia"
+  },
+  {
+    "iata": "KGZ",
+    "icao": "",
+    "airport_name": "glacier_creek_airport",
+    "location_served": "glacier_creek_alaska_united_states"
+  },
+  {
+    "iata": "KHA",
+    "icao": "OITH",
+    "airport_name": "khaneh_airport_(piranshahr_airport)",
+    "location_served": "piranshahr_(khaneh)_iran"
+  },
+  {
+    "iata": "KHC",
+    "icao": "UKFK",
+    "airport_name": "kerch_airport_(voykovo_airport)",
+    "location_served": "kerch_ukraine"
+  },
+  {
+    "iata": "KHD",
+    "icao": "OICK",
+    "airport_name": "khorramabad_airport",
+    "location_served": "khorramabad_iran"
+  },
+  {
+    "iata": "KHE",
+    "icao": "UKOH",
+    "airport_name": "kherson_international_airport",
+    "location_served": "kherson_ukraine"
+  },
+  {
+    "iata": "KHG",
+    "icao": "ZWSH",
+    "airport_name": "kashgar_airport_(kashi_airport)",
+    "location_served": "kashgar_xinjiang_china"
+  },
+  {
+    "iata": "KHH",
+    "icao": "RCKH",
+    "airport_name": "kaohsiung_international_airport",
+    "location_served": "kaohsiung_taiwan"
+  },
+  {
+    "iata": "KHI",
+    "icao": "OPKC",
+    "airport_name": "jinnah_international_airport",
+    "location_served": "karachi_pakistan"
+  },
+  {
+    "iata": "KHJ",
+    "icao": "EFKJ",
+    "airport_name": "kauhajoki_airfield",
+    "location_served": "kauhajoki_finland"
+  },
+  {
+    "iata": "KHK",
+    "icao": "OIBQ",
+    "airport_name": "kharg_airport",
+    "location_served": "kharg_island_iran"
+  },
+  {
+    "iata": "KHM",
+    "icao": "VYKI",
+    "airport_name": "khamti_airport",
+    "location_served": "khamti_myanmar"
+  },
+  {
+    "iata": "KHN",
+    "icao": "ZSCN",
+    "airport_name": "nanchang_changbei_international_airport",
+    "location_served": "nanchang_jiangxi_china"
+  },
+  {
+    "iata": "KHO",
+    "icao": "",
+    "airport_name": "khoka_moya_airport",
+    "location_served": "manyeleti_south_africa"
+  },
+  {
+    "iata": "KHR",
+    "icao": "ZMHH",
+    "airport_name": "kharkhorin_airport",
+    "location_served": "kharkhorin_mongolia"
+  },
+  {
+    "iata": "KHS",
+    "icao": "OOKB",
+    "airport_name": "khasab_airport",
+    "location_served": "khasab_oman"
+  },
+  {
+    "iata": "KHT",
+    "icao": "OAKS",
+    "airport_name": "khost_airfield",
+    "location_served": "khost_afghanistan"
+  },
+  {
+    "iata": "KHU",
+    "icao": "",
+    "airport_name": "kremenchuk_airport",
+    "location_served": "kremenchuk_ukraine"
+  },
+  {
+    "iata": "KHV",
+    "icao": "UHHH",
+    "airport_name": "khabarovsk_novy_airport",
+    "location_served": "khabarovsk_khabarovsk_krai_russia"
+  },
+  {
+    "iata": "KHW",
+    "icao": "FBKR",
+    "airport_name": "khwai_river_airport",
+    "location_served": "khwai_river_lodge_botswana"
+  },
+  {
+    "iata": "KHX",
+    "icao": "",
+    "airport_name": "kihihi_airstrip[dapi]",
+    "location_served": "kihihi_uganda"
+  },
+  {
+    "iata": "KHY",
+    "icao": "OITK",
+    "airport_name": "khoy_airport[dapi]",
+    "location_served": "khoy_iran"
+  },
+  {
+    "iata": "KHZ",
+    "icao": "NTKA",
+    "airport_name": "kauehi_aerodrome",
+    "location_served": "kauehi_tuamotus_french_polynesia"
+  },
+  {
+    "iata": "KIA",
+    "icao": "",
+    "airport_name": "kaiapit_airport",
+    "location_served": "kaiapit_papua_new_guinea"
+  },
+  {
+    "iata": "KIB",
+    "icao": "",
+    "airport_name": "ivanof_bay_seaplane_base",
+    "location_served": "ivanof_bay_alaska_united_states"
+  },
+  {
+    "iata": "KIC",
+    "icao": "KKIC",
+    "airport_name": "mesa_del_rey_airport",
+    "location_served": "king_city_california_united_states"
+  },
+  {
+    "iata": "KID",
+    "icao": "ESMK",
+    "airport_name": "kristianstad_airport",
+    "location_served": "kristianstad_sweden"
+  },
+  {
+    "iata": "KIE",
+    "icao": "AYIQ",
+    "airport_name": "aropa_airport",
+    "location_served": "kieta_papua_new_guinea"
+  },
+  {
+    "iata": "KIF",
+    "icao": "",
+    "airport_name": "kingfisher_lake_airport",
+    "location_served": "kingfisher_lake_ontario_canada"
+  },
+  {
+    "iata": "KIG",
+    "icao": "",
+    "airport_name": "koingnaas_airport",
+    "location_served": "koingnaas_south_africa"
+  },
+  {
+    "iata": "KIH",
+    "icao": "OIBK",
+    "airport_name": "kish_international_airport",
+    "location_served": "kish_island_iran"
+  },
+  {
+    "iata": "KII",
+    "icao": "AYLI",
+    "airport_name": "kibuli_airport",
+    "location_served": "kibuli_papua_new_guinea"
+  },
+  {
+    "iata": "KIJ",
+    "icao": "RJSN",
+    "airport_name": "niigata_airport",
+    "location_served": "niigata_honshu_japan"
+  },
+  {
+    "iata": "KIK",
+    "icao": "ORKK",
+    "airport_name": "kirkuk_airport",
+    "location_served": "kirkuk_iraq"
+  },
+  {
+    "iata": "KIL",
+    "icao": "",
+    "airport_name": "kilwa_airport",
+    "location_served": "kilwa_democratic_republic_of_the_congo"
+  },
+  {
+    "iata": "KIM",
+    "icao": "FAKM",
+    "airport_name": "kimberley_airport",
+    "location_served": "kimberley_south_africa"
+  },
+  {
+    "iata": "KIN",
+    "icao": "MKJP",
+    "airport_name": "norman_manley_international_airport",
+    "location_served": "kingston_jamaica"
+  },
+  {
+    "iata": "KIO",
+    "icao": "",
+    "airport_name": "kili_airport_(faa:_qdapidapi)",
+    "location_served": "kili_island_marshall_islands"
+  },
+  {
+    "iata": "KIP",
+    "icao": "KCWC",
+    "airport_name": "kickapoo_downtown_airport_(faa:_cwc)",
+    "location_served": "wichita_falls_texas_united_states"
+  },
+  {
+    "iata": "KIQ",
+    "icao": "AYRA",
+    "airport_name": "kira_airport",
+    "location_served": "kira_papua_new_guinea"
+  },
+  {
+    "iata": "KIR",
+    "icao": "EIKY",
+    "airport_name": "kerry_airport_(farranfore_airport)",
+    "location_served": "kerry_ireland"
+  },
+  {
+    "iata": "KIS",
+    "icao": "HKKI",
+    "airport_name": "kisumu_international_airport",
+    "location_served": "kisumu_kenya"
+  },
+  {
+    "iata": "KIT",
+    "icao": "LGKC",
+    "airport_name": "kithira_island_national_airport",
+    "location_served": "kythira_greece"
+  },
+  {
+    "iata": "KIU",
+    "icao": "",
+    "airport_name": "kiunga_airport",
+    "location_served": "kiunga_kenya"
+  },
+  {
+    "iata": "KIV",
+    "icao": "LUKK",
+    "airport_name": "chișinău_international_airport",
+    "location_served": "chișinău_moldova"
+  },
+  {
+    "iata": "KIW",
+    "icao": "FLSO",
+    "airport_name": "southdowns_airport",
+    "location_served": "kitwe_zambia"
+  },
+  {
+    "iata": "KIX",
+    "icao": "RJBB",
+    "airport_name": "kansai_international_airport",
+    "location_served": "osaka_honshu_japan"
+  },
+  {
+    "iata": "KIY",
+    "icao": "HTKI",
+    "airport_name": "kilwa_masoko_airport",
+    "location_served": "kilwa_masoko_tanzania"
+  },
+  {
+    "iata": "KIZ",
+    "icao": "",
+    "airport_name": "kikinonda_airport",
+    "location_served": "kikinonda_papua_new_guinea"
+  },
+  {
+    "iata": "KJA",
+    "icao": "UNKL",
+    "airport_name": "yemelyanovo_international_airport",
+    "location_served": "krasnoyarsk_krasnoyarsk_krai_russia"
+  },
+  {
+    "iata": "KJH",
+    "icao": "",
+    "airport_name": "kaili_huangping_airport",
+    "location_served": "kaili_guizhou_china"
+  },
+  {
+    "iata": "KJI",
+    "icao": "ZWKN",
+    "airport_name": "kanas_airport",
+    "location_served": "burqin_xinjiang_china"
+  },
+  {
+    "iata": "KJK",
+    "icao": "EBKT",
+    "airport_name": "kortrijk–wevelgem_international_airport",
+    "location_served": "kortrijk_belgium"
+  },
+  {
+    "iata": "KJP",
+    "icao": "ROKR",
+    "airport_name": "kerama_airport",
+    "location_served": "fukaji_island_kerama_islands_japan"
+  },
+  {
+    "iata": "KJT",
+    "icao": "WICA",
+    "airport_name": "kertajati_international_airport",
+    "location_served": "majalengka_west_java_indonesia"
+  },
+  {
+    "iata": "KJU",
+    "icao": "",
+    "airport_name": "kamiraba_airport",
+    "location_served": "kamiraba_papua_new_guinea"
+  },
+  {
+    "iata": "KJX",
+    "icao": "",
+    "airport_name": "blangpidie_airport",
+    "location_served": "blangpidie_southwest_aceh_regency_indonesia"
+  },
+  {
+    "iata": "KKA",
+    "icao": "PAKK",
+    "airport_name": "koyuk_alfred_adams_airport",
+    "location_served": "koyuk_alaska_united_states"
+  },
+  {
+    "iata": "KKB",
+    "icao": "",
+    "airport_name": "kitoi_bay_seaplane_base",
+    "location_served": "kitoi_bay_alaska_united_states"
+  },
+  {
+    "iata": "KKC",
+    "icao": "VTUK",
+    "airport_name": "khon_kaen_airport",
+    "location_served": "khon_kaen_thailand"
+  },
+  {
+    "iata": "KKD",
+    "icao": "AYKO",
+    "airport_name": "kokoda_airport",
+    "location_served": "kokoda_papua_new_guinea"
+  },
+  {
+    "iata": "KKE",
+    "icao": "NZKK",
+    "airport_name": "kerikeri_airport_(bay_of_islands_airport)",
+    "location_served": "kerikeri_new_zealand"
+  },
+  {
+    "iata": "KKG",
+    "icao": "",
+    "airport_name": "konawaruk_airport",
+    "location_served": "konawaruk_guyana"
+  },
+  {
+    "iata": "KKH",
+    "icao": "PADY",
+    "airport_name": "kongiganak_airport_(faa:_duy)",
+    "location_served": "kongiganak_alaska_united_states"
+  },
+  {
+    "iata": "KKI",
+    "icao": "",
+    "airport_name": "akiachak_airport_(faa:_zdapidapi)",
+    "location_served": "akiachak_alaska_united_states"
+  },
+  {
+    "iata": "KKJ",
+    "icao": "RJFR",
+    "airport_name": "kitakyushu_airport",
+    "location_served": "kitakyushu_kyushu_japan"
+  },
+  {
+    "iata": "KKK",
+    "icao": "",
+    "airport_name": "kalakaket_creek_air_station_(faa:_dapikc)",
+    "location_served": "kalakaket_creek_alaska_united_states:_google_earth_view"
+  },
+  {
+    "iata": "KKL",
+    "icao": "",
+    "airport_name": "karluk_lake_seaplane_base",
+    "location_served": "karluk_lake_alaska_united_states"
+  },
+  {
+    "iata": "KKM",
+    "icao": "VTBL",
+    "airport_name": "khok_kathiam_air_force_base",
+    "location_served": "lopburi_thailand"
+  },
+  {
+    "iata": "KKN",
+    "icao": "ENKR",
+    "airport_name": "kirkenes_airport_høybuktmoen",
+    "location_served": "kirkenes_norway"
+  },
+  {
+    "iata": "KKO",
+    "icao": "NZKO",
+    "airport_name": "kaikohe_aerodrome",
+    "location_served": "kaikohe_new_zealand"
+  },
+  {
+    "iata": "KKP",
+    "icao": "YKLB",
+    "airport_name": "koolburra_airport",
+    "location_served": "koolburra_queensland_australia"
+  },
+  {
+    "iata": "KKQ",
+    "icao": "USDP",
+    "airport_name": "krasnoselkup_airport[dapi]",
+    "location_served": "krasnoselkup_yamalo-nenets_autonomous_okrug_russia"
+  },
+  {
+    "iata": "KKR",
+    "icao": "NTGK",
+    "airport_name": "kaukura_airport",
+    "location_served": "kaukura_atoll_tuamotus_french_polynesia"
+  },
+  {
+    "iata": "KKS",
+    "icao": "OIFK",
+    "airport_name": "kashan_airport",
+    "location_served": "kashan_isfahan_iran"
+  },
+  {
+    "iata": "KKT",
+    "icao": "",
+    "airport_name": "kentland_municipal_airport_(faa:_dapidapii)",
+    "location_served": "kentland_indiana_united_states"
+  },
+  {
+    "iata": "KKU",
+    "icao": "",
+    "airport_name": "ekuk_airport",
+    "location_served": "ekuk_alaska_united_states"
+  },
+  {
+    "iata": "KKW",
+    "icao": "FZCA",
+    "airport_name": "kikwit_airport",
+    "location_served": "kikwit_democratic_republic_of_the_congo"
+  },
+  {
+    "iata": "KKX",
+    "icao": "RJKI",
+    "airport_name": "kikai_airport_(kikaiga_shima_airport)",
+    "location_served": "kikai_satsunan_islands_japan"
+  },
+  {
+    "iata": "KKY",
+    "icao": "EIKK",
+    "airport_name": "kilkenny_airport",
+    "location_served": "kilkenny_ireland"
+  },
+  {
+    "iata": "KKZ",
+    "icao": "VDKK",
+    "airport_name": "koh_kong_airport",
+    "location_served": "koh_kong_cambodia"
+  },
+  {
+    "iata": "KLB",
+    "icao": "FLKL",
+    "airport_name": "kalabo_airport",
+    "location_served": "kalabo_zambia"
+  },
+  {
+    "iata": "KLC",
+    "icao": "GOOK",
+    "airport_name": "kaolack_airport",
+    "location_served": "kaolack_senegal"
+  },
+  {
+    "iata": "KLD",
+    "icao": "UUEM",
+    "airport_name": "migalovo_air_base",
+    "location_served": "tver_tver_oblast_russia"
+  },
+  {
+    "iata": "KLE",
+    "icao": "FKKH",
+    "airport_name": "kaélé_airport",
+    "location_served": "kaélé_cameroon"
+  },
+  {
+    "iata": "KLF",
+    "icao": "UUBC",
+    "airport_name": "grabtsevo_airport",
+    "location_served": "kaluga_kaluga_oblast_russia"
+  },
+  {
+    "iata": "KLG",
+    "icao": "PALG",
+    "airport_name": "kalskag_airport",
+    "location_served": "kalskag_alaska_united_states"
+  },
+  {
+    "iata": "KLH",
+    "icao": "VAKP",
+    "airport_name": "kolhapur_airport",
+    "location_served": "kolhapur_maharashtra_india"
+  },
+  {
+    "iata": "KLI",
+    "icao": "FZFP",
+    "airport_name": "kotakoli_air_base",
+    "location_served": "kotakoli_democratic_republic_of_the_congo"
+  },
+  {
+    "iata": "KLK",
+    "icao": "HKFG",
+    "airport_name": "kalokol_airport_(fergusons_gulf_airport)",
+    "location_served": "kalokol_kenya"
+  },
+  {
+    "iata": "KLL",
+    "icao": "",
+    "airport_name": "levelock_airport_(faa:_dapizdapi)",
+    "location_served": "levelock_alaska_united_states"
+  },
+  {
+    "iata": "KLM",
+    "icao": "OINE",
+    "airport_name": "kalaleh_airport[dapi]",
+    "location_served": "kalaleh_iran"
+  },
+  {
+    "iata": "KLN",
+    "icao": "PALB",
+    "airport_name": "larsen_bay_airport_(faa:_dapiadapi)",
+    "location_served": "larsen_bay_alaska_united_states"
+  },
+  {
+    "iata": "KLO",
+    "icao": "RPVK",
+    "airport_name": "kalibo_international_airport",
+    "location_served": "kalibo_philippines"
+  },
+  {
+    "iata": "KLQ",
+    "icao": "WIPV",
+    "airport_name": "keluang_airport",
+    "location_served": "keluang_indonesia"
+  },
+  {
+    "iata": "KLR",
+    "icao": "ESMQ",
+    "airport_name": "kalmar_airport",
+    "location_served": "kalmar_sweden"
+  },
+  {
+    "iata": "KLS",
+    "icao": "KKLS",
+    "airport_name": "southwest_washington_regional_airport",
+    "location_served": "kelso_washington_united_states"
+  },
+  {
+    "iata": "KLU",
+    "icao": "LOWK",
+    "airport_name": "klagenfurt_airport",
+    "location_served": "klagenfurt_austria"
+  },
+  {
+    "iata": "KLV",
+    "icao": "LKKV",
+    "airport_name": "karlovy_vary_airport",
+    "location_served": "karlovy_vary_czech_republic"
+  },
+  {
+    "iata": "KLW",
+    "icao": "PAKW",
+    "airport_name": "klawock_airport_(faa:_akw)",
+    "location_served": "klawock_alaska_united_states"
+  },
+  {
+    "iata": "KLX",
+    "icao": "LGKL",
+    "airport_name": "kalamata_international_airport",
+    "location_served": "kalamata_greece"
+  },
+  {
+    "iata": "KLY",
+    "icao": "FZOD",
+    "airport_name": "kamisuku_airport[dapi]",
+    "location_served": "kalima_democratic_republic_of_the_congo"
+  },
+  {
+    "iata": "KLZ",
+    "icao": "FAKZ",
+    "airport_name": "kleinzee_airport",
+    "location_served": "kleinzee_south_africa"
+  },
+  {
+    "iata": "KMA",
+    "icao": "AYKM",
+    "airport_name": "kerema_airport",
+    "location_served": "kerema_papua_new_guinea"
+  },
+  {
+    "iata": "KMB",
+    "icao": "",
+    "airport_name": "koinambe_airport",
+    "location_served": "koinambe_papua_new_guinea"
+  },
+  {
+    "iata": "KMC",
+    "icao": "OEKK",
+    "airport_name": "king_khaled_military_city_airport",
+    "location_served": "king_khalid_military_city_saudi_arabia"
+  },
+  {
+    "iata": "KME",
+    "icao": "HRZA",
+    "airport_name": "kamembe_airport",
+    "location_served": "cyangugu_rwanda"
+  },
+  {
+    "iata": "KMF",
+    "icao": "AYKD",
+    "airport_name": "kamina_airport",
+    "location_served": "kamina_papua_new_guinea"
+  },
+  {
+    "iata": "KMG",
+    "icao": "ZPPP",
+    "airport_name": "kunming_changshui_international_airport",
+    "location_served": "kunming_yunnan_china"
+  },
+  {
+    "iata": "KMH",
+    "icao": "FAKU",
+    "airport_name": "johan_pienaar_airport",
+    "location_served": "kuruman_south_africa"
+  },
+  {
+    "iata": "KMI",
+    "icao": "RJFM",
+    "airport_name": "miyazaki_airport",
+    "location_served": "miyazaki_kyushu_japan"
+  },
+  {
+    "iata": "KMJ",
+    "icao": "RJFT",
+    "airport_name": "kumamoto_airport",
+    "location_served": "mashiki_kyushu_japan"
+  },
+  {
+    "iata": "KMK",
+    "icao": "FCPA",
+    "airport_name": "makabana_airport",
+    "location_served": "makabana_republic_of_the_congo"
+  },
+  {
+    "iata": "KML",
+    "icao": "YKML",
+    "airport_name": "kamileroi_airport",
+    "location_served": "kamileroi_queensland_australia"
+  },
+  {
+    "iata": "KMM",
+    "icao": "",
+    "airport_name": "kimam_airport",
+    "location_served": "kimam_indonesia"
+  },
+  {
+    "iata": "KMN",
+    "icao": "FZSB",
+    "airport_name": "kamina_airport[dapi]_(kamina_ville_airport)",
+    "location_served": "kamina_democratic_republic_of_the_congo"
+  },
+  {
+    "iata": "KMO",
+    "icao": "PAMB",
+    "airport_name": "manokotak_airport_(faa:_mba)",
+    "location_served": "manokotak_alaska_united_states"
+  },
+  {
+    "iata": "KMP",
+    "icao": "FYKT",
+    "airport_name": "keetmanshoop_airport",
+    "location_served": "keetmanshoop_namibia"
+  },
+  {
+    "iata": "KMQ",
+    "icao": "RJNK",
+    "airport_name": "komatsu_airport_(kanazawa_airport)",
+    "location_served": "komatsu_honshu_japan"
+  },
+  {
+    "iata": "KMR",
+    "icao": "AYRI",
+    "airport_name": "karimui_airport",
+    "location_served": "karimui_papua_new_guinea"
+  },
+  {
+    "iata": "KMS",
+    "icao": "DGSI",
+    "airport_name": "kumasi_airport",
+    "location_served": "kumasi_ghana"
+  },
+  {
+    "iata": "KMT",
+    "icao": "",
+    "airport_name": "kampot_airport",
+    "location_served": "kampot_cambodia"
+  },
+  {
+    "iata": "KMU",
+    "icao": "HCMK",
+    "airport_name": "kismayo_airport_(kisimayu_airport)",
+    "location_served": "kismayo_somalia"
+  },
+  {
+    "iata": "KMV",
+    "icao": "VYKL",
+    "airport_name": "kalaymyo_airport_(kalemyo_airport)",
+    "location_served": "kalaymyo_myanmar"
+  },
+  {
+    "iata": "KMW",
+    "icao": "UUBA",
+    "airport_name": "kostroma_airport",
+    "location_served": "kostroma_kostroma_oblast_russia"
+  },
+  {
+    "iata": "KMX",
+    "icao": "OEKM",
+    "airport_name": "king_khalid_air_base",
+    "location_served": "khamis_mushait_saudi_arabia"
+  },
+  {
+    "iata": "KMY",
+    "icao": "",
+    "airport_name": "moser_bay_seaplane_base",
+    "location_served": "moser_bay_alaska_united_states"
+  },
+  {
+    "iata": "KMZ",
+    "icao": "FLKO",
+    "airport_name": "kaoma_airport",
+    "location_served": "kaoma_zambia"
+  },
+  {
+    "iata": "KNA",
+    "icao": "SCVM",
+    "airport_name": "viña_del_mar_airport",
+    "location_served": "viña_del_mar_chile"
+  },
+  {
+    "iata": "KNB",
+    "icao": "KKNB",
+    "airport_name": "kanab_municipal_airport",
+    "location_served": "kanab_utah_united_states"
+  },
+  {
+    "iata": "KND",
+    "icao": "FZOA",
+    "airport_name": "kindu_airport",
+    "location_served": "kindu_democratic_republic_of_the_congo"
+  },
+  {
+    "iata": "KNE",
+    "icao": "AYKJ",
+    "airport_name": "kanainj_airport",
+    "location_served": "kanainj_papua_new_guinea"
+  },
+  {
+    "iata": "KNF",
+    "icao": "EGYM",
+    "airport_name": "raf_marham",
+    "location_served": "king's_lynn_england_united_kingdom"
+  },
+  {
+    "iata": "KNG",
+    "icao": "WASK",
+    "airport_name": "kaimana_airport",
+    "location_served": "kaimana_indonesia"
+  },
+  {
+    "iata": "KNH",
+    "icao": "RCBS",
+    "airport_name": "kinmen_airport_(shang_yi_airport)",
+    "location_served": "kinmen_taiwan"
+  },
+  {
+    "iata": "KNI",
+    "icao": "YKNG",
+    "airport_name": "katanning_airport",
+    "location_served": "katanning_western_australia_australia"
+  },
+  {
+    "iata": "KNJ",
+    "icao": "FCBK",
+    "airport_name": "kindamba_airport",
+    "location_served": "kindamba_republic_of_the_congo"
+  },
+  {
+    "iata": "KNK",
+    "icao": "PFKK",
+    "airport_name": "kokhanok_airport_(faa:_dapikdapi)",
+    "location_served": "kokhanok_alaska_united_states"
+  },
+  {
+    "iata": "KNL",
+    "icao": "",
+    "airport_name": "kelanoa_airport",
+    "location_served": "kelanoa_papua_new_guinea"
+  },
+  {
+    "iata": "KNM",
+    "icao": "FZTK",
+    "airport_name": "kaniama_airport",
+    "location_served": "kaniama_democratic_republic_of_the_congo"
+  },
+  {
+    "iata": "KNN",
+    "icao": "GUXN",
+    "airport_name": "kankan_airport_(diankana_airport)",
+    "location_served": "kankan_guinea"
+  },
+  {
+    "iata": "KNO",
+    "icao": "WIMM",
+    "airport_name": "kualanamu_international_airport",
+    "location_served": "medan_indonesia"
+  },
+  {
+    "iata": "KNP",
+    "icao": "FNCP",
+    "airport_name": "kapanda_airport",
+    "location_served": "capanda_angola"
+  },
+  {
+    "iata": "KNQ",
+    "icao": "NWWD",
+    "airport_name": "koné_airport",
+    "location_served": "koné_new_caledonia"
+  },
+  {
+    "iata": "KNR",
+    "icao": "OIBJ",
+    "airport_name": "jam_airport",
+    "location_served": "kangan_iran"
+  },
+  {
+    "iata": "KNS",
+    "icao": "YKII",
+    "airport_name": "king_island_airport",
+    "location_served": "king_island_tasmania_australia"
+  },
+  {
+    "iata": "KNT",
+    "icao": "KTKX",
+    "airport_name": "kennett_memorial_airport_(faa:_tkx)",
+    "location_served": "kennett_missouri_united_states"
+  },
+  {
+    "iata": "KNU",
+    "icao": "VIKA",
+    "airport_name": "kanpur_airport_(chakeri_air_force_station)",
+    "location_served": "kanpur_uttar_pradesh_india"
+  },
+  {
+    "iata": "KNW",
+    "icao": "PANW",
+    "airport_name": "new_stuyahok_airport",
+    "location_served": "new_stuyahok_alaska_united_states"
+  },
+  {
+    "iata": "KNX",
+    "icao": "YPKU",
+    "airport_name": "east_kimberley_regional_airport",
+    "location_served": "kununurra_western_australia_australia"
+  },
+  {
+    "iata": "KNZ",
+    "icao": "GAKA",
+    "airport_name": "kéniéba_airport",
+    "location_served": "kéniéba_mali"
+  },
+  {
+    "iata": "KOA",
+    "icao": "PHKO",
+    "airport_name": "kona_international_airport_at_keāhole",
+    "location_served": "kailua_/_kona_hawaii_united_states"
+  },
+  {
+    "iata": "KOC",
+    "icao": "NWWK",
+    "airport_name": "koumac_airport",
+    "location_served": "koumac_new_caledonia"
+  },
+  {
+    "iata": "KOD",
+    "icao": "",
+    "airport_name": "kotabangun_airport",
+    "location_served": "kotabangun_indonesia"
+  },
+  {
+    "iata": "KOE",
+    "icao": "WATT",
+    "airport_name": "el_tari_airport",
+    "location_served": "kupang_indonesia"
+  },
+  {
+    "iata": "KOF",
+    "icao": "FAKP",
+    "airport_name": "komatipoort_airport",
+    "location_served": "komatipoort_south_africa"
+  },
+  {
+    "iata": "KOG",
+    "icao": "VLKG",
+    "airport_name": "khong_island_airport",
+    "location_served": "khong_laos"
+  },
+  {
+    "iata": "KOH",
+    "icao": "YKLA",
+    "airport_name": "koolatah_airport",
+    "location_served": "koolatah_queensland_australia"
+  },
+  {
+    "iata": "KOI",
+    "icao": "EGPA",
+    "airport_name": "kirkwall_airport",
+    "location_served": "kirkwall_scotland_united_kingdom"
+  },
+  {
+    "iata": "KOJ",
+    "icao": "RJFK",
+    "airport_name": "kagoshima_airport",
+    "location_served": "kagoshima_kyushu_japan"
+  },
+  {
+    "iata": "KOK",
+    "icao": "EFKK",
+    "airport_name": "kokkola-pietarsaari_airport",
+    "location_served": "kokkola_/_jakobstad_finland"
+  },
+  {
+    "iata": "KOL",
+    "icao": "",
+    "airport_name": "koumala_airport",
+    "location_served": "koumala_central_african_republic"
+  },
+  {
+    "iata": "KOM",
+    "icao": "",
+    "airport_name": "komo-manda_airport",
+    "location_served": "komo-manda_papua_new_guinea"
+  },
+  {
+    "iata": "KON",
+    "icao": "",
+    "airport_name": "kontum_airport",
+    "location_served": "kon_tum_vietnam"
+  },
+  {
+    "iata": "KOO",
+    "icao": "FZRQ",
+    "airport_name": "kongolo_airport",
+    "location_served": "kongolo_democratic_republic_of_the_congo"
+  },
+  {
+    "iata": "KOP",
+    "icao": "VTUW",
+    "airport_name": "nakhon_phanom_airport",
+    "location_served": "nakhon_phanom_thailand"
+  },
+  {
+    "iata": "KOQ",
+    "icao": "EDCK",
+    "airport_name": "köthen_airport",
+    "location_served": "köthen_saxony-anhalt_germany"
+  },
+  {
+    "iata": "KOR",
+    "icao": "AYRO",
+    "airport_name": "kakoro_airport",
+    "location_served": "kakoro_papua_new_guinea"
+  },
+  {
+    "iata": "KOS",
+    "icao": "VDSV",
+    "airport_name": "sihanoukville_international_airport_(kaong_kang_airport)",
+    "location_served": "sihanoukville_cambodia"
+  },
+  {
+    "iata": "KOT",
+    "icao": "PFKO",
+    "airport_name": "kotlik_airport_(faa:_dapiadapi)",
+    "location_served": "kotlik_alaska_united_states"
+  },
+  {
+    "iata": "KOU",
+    "icao": "FOGK",
+    "airport_name": "koulamoutou_airport",
+    "location_served": "koulamoutou_gabon"
+  },
+  {
+    "iata": "KOV",
+    "icao": "UACK",
+    "airport_name": "kokshetau_airport",
+    "location_served": "kokshetau_kazakhstan"
+  },
+  {
+    "iata": "KOW",
+    "icao": "ZSGZ",
+    "airport_name": "ganzhou_huangjin_airport",
+    "location_served": "ganzhou_jiangxi_china"
+  },
+  {
+    "iata": "KOX",
+    "icao": "WABN",
+    "airport_name": "kokonao_airport",
+    "location_served": "kokonao_indonesia"
+  },
+  {
+    "iata": "KOY",
+    "icao": "",
+    "airport_name": "olga_bay_seaplane_base",
+    "location_served": "olga_bay_alaska_united_states"
+  },
+  {
+    "iata": "KOZ",
+    "icao": "",
+    "airport_name": "ouzinkie_airport_(faa:_dapikdapi)",
+    "location_served": "ouzinkie_alaska_united_states"
+  },
+  {
+    "iata": "KPA",
+    "icao": "AYKG",
+    "airport_name": "kopiago_airport",
+    "location_served": "kopiago_papua_new_guinea"
+  },
+  {
+    "iata": "KPB",
+    "icao": "",
+    "airport_name": "point_baker_seaplane_base",
+    "location_served": "point_baker_alaska_united_states"
+  },
+  {
+    "iata": "KPC",
+    "icao": "PAPC",
+    "airport_name": "port_clarence_coast_guard_station",
+    "location_served": "port_clarence_alaska_united_states"
+  },
+  {
+    "iata": "KPE",
+    "icao": "AYYP",
+    "airport_name": "yapsiei_airport",
+    "location_served": "yapsiei_papua_new_guinea"
+  },
+  {
+    "iata": "KPF",
+    "icao": "AYDL",
+    "airport_name": "kondubol_airport",
+    "location_served": "kondubol_papua_new_guinea"
+  },
+  {
+    "iata": "KPG",
+    "icao": "",
+    "airport_name": "kurupung_airport",
+    "location_served": "kurupung_guyana"
+  },
+  {
+    "iata": "KPI",
+    "icao": "WBGP",
+    "airport_name": "kapit_airport",
+    "location_served": "kapit_sarawak_malaysia"
+  },
+  {
+    "iata": "KPL",
+    "icao": "",
+    "airport_name": "kapal_airport",
+    "location_served": "kapal_papua_new_guinea"
+  },
+  {
+    "iata": "KPM",
+    "icao": "AYAQ",
+    "airport_name": "kompiam_airport",
+    "location_served": "kompiam_papua_new_guinea"
+  },
+  {
+    "iata": "KPN",
+    "icao": "PAKI",
+    "airport_name": "kipnuk_airport_(faa:_iik)",
+    "location_served": "kipnuk_alaska_united_states"
+  },
+  {
+    "iata": "KPO",
+    "icao": "RKTH",
+    "airport_name": "pohang_airport",
+    "location_served": "pohang_south_korea"
+  },
+  {
+    "iata": "KPP",
+    "icao": "YKPR",
+    "airport_name": "kalpowar_airport",
+    "location_served": "kalpowar_queensland_australia"
+  },
+  {
+    "iata": "KPR",
+    "icao": "",
+    "airport_name": "port_williams_seaplane_base",
+    "location_served": "port_williams_alaska_united_states"
+  },
+  {
+    "iata": "KPS",
+    "icao": "YKMP",
+    "airport_name": "kempsey_airport",
+    "location_served": "kempsey_new_south_wales_australia"
+  },
+  {
+    "iata": "KPT",
+    "icao": "",
+    "airport_name": "jackpot_airport_(hayden_field)_(faa:_dapidapiu)",
+    "location_served": "jackpot_nevada_united_states"
+  },
+  {
+    "iata": "KPV",
+    "icao": "PAPE",
+    "airport_name": "perryville_airport_(faa:_pev)",
+    "location_served": "perryville_alaska_united_states"
+  },
+  {
+    "iata": "KPW",
+    "icao": "UHMK",
+    "airport_name": "keperveyem_airport[dapi]",
+    "location_served": "keperveyem_chukotka_russia"
+  },
+  {
+    "iata": "KPY",
+    "icao": "",
+    "airport_name": "port_bailey_seaplane_base",
+    "location_served": "port_bailey_alaska_united_states"
+  },
+  {
+    "iata": "KQA",
+    "icao": "",
+    "airport_name": "akutan_airport",
+    "location_served": "akutan_alaska_united_states"
+  },
+  {
+    "iata": "KQH",
+    "icao": "VIKG",
+    "airport_name": "ajmer_kishangarh_airport",
+    "location_served": "kishangarh_rajasthan_india"
+  },
+  {
+    "iata": "KQL",
+    "icao": "AYOL",
+    "airport_name": "kol_airport",
+    "location_served": "kol_papua_new_guinea"
+  },
+  {
+    "iata": "KQR",
+    "icao": "YKAR",
+    "airport_name": "karara_airport[dapi]",
+    "location_served": "karara_western_australia_australia"
+  },
+  {
+    "iata": "KQT",
+    "icao": "UTDT",
+    "airport_name": "qurghonteppa_international_airport[dapi]",
+    "location_served": "qurghonteppa_tajikistan"
+  },
+  {
+    "iata": "KRA",
+    "icao": "YKER",
+    "airport_name": "kerang_airport",
+    "location_served": "kerang_victoria_australia"
+  },
+  {
+    "iata": "KRB",
+    "icao": "YKMB",
+    "airport_name": "karumba_airport",
+    "location_served": "karumba_queensland_australia"
+  },
+  {
+    "iata": "KRC",
+    "icao": "WIPH",
+    "airport_name": "depati_parbo_airport",
+    "location_served": "kerinci_indonesia"
+  },
+  {
+    "iata": "KRD",
+    "icao": "",
+    "airport_name": "kurundi_airport",
+    "location_served": "kurundi_station_northern_territory_australia"
+  },
+  {
+    "iata": "KRE",
+    "icao": "HBBO",
+    "airport_name": "kirundo_airport",
+    "location_served": "kirundo_burundi"
+  },
+  {
+    "iata": "KRF",
+    "icao": "ESNK",
+    "airport_name": "höga_kusten_airport_(kramfors-sollefteå_airport)",
+    "location_served": "kramfors_/_sollefteå_sweden"
+  },
+  {
+    "iata": "KRG",
+    "icao": "SYKS",
+    "airport_name": "karasabai_airport",
+    "location_served": "karasabai_guyana"
+  },
+  {
+    "iata": "KRI",
+    "icao": "AYKK",
+    "airport_name": "kikori_airport",
+    "location_served": "kikori_papua_new_guinea"
+  },
+  {
+    "iata": "KRJ",
+    "icao": "AYQA",
+    "airport_name": "karawari_airport",
+    "location_served": "karawari_papua_new_guinea"
+  },
+  {
+    "iata": "KRK",
+    "icao": "EPKK",
+    "airport_name": "john_paul_ii_international_airport_kraków–balice",
+    "location_served": "kraków_poland"
+  },
+  {
+    "iata": "KRL",
+    "icao": "ZWKL",
+    "airport_name": "korla_airport",
+    "location_served": "korla_xinjiang_china"
+  },
+  {
+    "iata": "KRM",
+    "icao": "SYKR",
+    "airport_name": "karanambo_airport",
+    "location_served": "karanambo_guyana"
+  },
+  {
+    "iata": "KRN",
+    "icao": "ESNQ",
+    "airport_name": "kiruna_airport",
+    "location_served": "kiruna_sweden"
+  },
+  {
+    "iata": "KRO",
+    "icao": "USUU",
+    "airport_name": "kurgan_airport",
+    "location_served": "kurgan_kurgan_oblast_russia"
+  },
+  {
+    "iata": "KRP",
+    "icao": "EKKA",
+    "airport_name": "karup_airport",
+    "location_served": "karup_denmark"
+  },
+  {
+    "iata": "KRQ",
+    "icao": "UKCK",
+    "airport_name": "kramatorsk_airport",
+    "location_served": "kramatorsk_ukraine"
+  },
+  {
+    "iata": "KRR",
+    "icao": "URKK",
+    "airport_name": "krasnodar_international_airport_(pashkovsky_airport)",
+    "location_served": "krasnodar_krasnodar_krai_russia"
+  },
+  {
+    "iata": "KRS",
+    "icao": "ENCN",
+    "airport_name": "kristiansand_airport_kjevik",
+    "location_served": "kristiansand_norway"
+  },
+  {
+    "iata": "KRT",
+    "icao": "HSSS",
+    "airport_name": "khartoum_international_airport",
+    "location_served": "khartoum_sudan"
+  },
+  {
+    "iata": "KRU",
+    "icao": "AYEA",
+    "airport_name": "kerau_airport",
+    "location_served": "kerau_papua_new_guinea"
+  },
+  {
+    "iata": "KRV",
+    "icao": "",
+    "airport_name": "kimwarer_airport_(kerio_valley_airport)",
+    "location_served": "kimwarer_kenya"
+  },
+  {
+    "iata": "KRW",
+    "icao": "UTAK",
+    "airport_name": "turkmenbashi_international_airport",
+    "location_served": "türkmenbaşy_turkmenistan"
+  },
+  {
+    "iata": "KRX",
+    "icao": "AYKR",
+    "airport_name": "karkar_airport",
+    "location_served": "karkar_island_papua_new_guinea"
+  },
+  {
+    "iata": "KRY",
+    "icao": "ZWKM",
+    "airport_name": "karamay_airport",
+    "location_served": "karamay_xinjiang_china"
+  },
+  {
+    "iata": "KRZ",
+    "icao": "FZBT",
+    "airport_name": "basango_mboliasa_airport",
+    "location_served": "kiri_democratic_republic_of_the_congo"
+  },
+  {
+    "iata": "KSA",
+    "icao": "PTSA",
+    "airport_name": "kosrae_international_airport_(faa:_ttk)",
+    "location_served": "kosrae_federated_states_of_micronesia"
+  },
+  {
+    "iata": "KSB",
+    "icao": "AYNM",
+    "airport_name": "kasanombe_airport",
+    "location_served": "kasanombe_papua_new_guinea"
+  },
+  {
+    "iata": "KSC",
+    "icao": "LZKZ",
+    "airport_name": "košice_international_airport",
+    "location_served": "košice_slovakia"
+  },
+  {
+    "iata": "KSD",
+    "icao": "ESOK",
+    "airport_name": "karlstad_airport",
+    "location_served": "karlstad_sweden"
+  },
+  {
+    "iata": "KSE",
+    "icao": "HUKS",
+    "airport_name": "kasese_airport",
+    "location_served": "kasese_uganda"
+  },
+  {
+    "iata": "KSF",
+    "icao": "EDVK",
+    "airport_name": "kassel_airport",
+    "location_served": "kassel_hesse_germany"
+  },
+  {
+    "iata": "KSG",
+    "icao": "",
+    "airport_name": "kisengam_airport",
+    "location_served": "kisengam_papua_new_guinea"
+  },
+  {
+    "iata": "KSH",
+    "icao": "OICC",
+    "airport_name": "shahid_ashrafi_esfahani_airport_(kermanshah_airport)",
+    "location_served": "kermanshah_iran"
+  },
+  {
+    "iata": "KSI",
+    "icao": "GUKU",
+    "airport_name": "kissidougou_airport",
+    "location_served": "kissidougou_guinea"
+  },
+  {
+    "iata": "KSJ",
+    "icao": "LGKS",
+    "airport_name": "kasos_island_public_airport",
+    "location_served": "kasos_island_greece"
+  },
+  {
+    "iata": "KSK",
+    "icao": "ESKK",
+    "airport_name": "karlskoga_airport",
+    "location_served": "karlskoga_sweden"
+  },
+  {
+    "iata": "KSL",
+    "icao": "HSKA",
+    "airport_name": "kassala_airport",
+    "location_served": "kassala_sudan"
+  },
+  {
+    "iata": "KSM",
+    "icao": "PASM",
+    "airport_name": "st._mary's_airport",
+    "location_served": "st._mary's_alaska_united_states"
+  },
+  {
+    "iata": "KSN",
+    "icao": "UAUU",
+    "airport_name": "kostanay_airport",
+    "location_served": "kostanay_kazakhstan"
+  },
+  {
+    "iata": "KSO",
+    "icao": "LGKA",
+    "airport_name": "kastoria_national_airport_(aristotelis_airport)",
+    "location_served": "kastoria_greece"
+  },
+  {
+    "iata": "KSP",
+    "icao": "AYOP",
+    "airport_name": "kosipe_airport",
+    "location_served": "kosipe_papua_new_guinea"
+  },
+  {
+    "iata": "KSQ",
+    "icao": "UTSL",
+    "airport_name": "karshi_airport",
+    "location_served": "karshi_uzbekistan"
+  },
+  {
+    "iata": "KSR",
+    "icao": "WAWH",
+    "airport_name": "h._aroeppala_airport",
+    "location_served": "selayar_islands_sulawesi_indonesia"
+  },
+  {
+    "iata": "KSS",
+    "icao": "GASK",
+    "airport_name": "sikasso_airport",
+    "location_served": "sikasso_mali"
+  },
+  {
+    "iata": "KST",
+    "icao": "HSKI",
+    "airport_name": "rabak_airport",
+    "location_served": "kosti_sudan"
+  },
+  {
+    "iata": "KSU",
+    "icao": "ENKB",
+    "airport_name": "kristiansund_airport_kvernberget",
+    "location_served": "kristiansund_norway"
+  },
+  {
+    "iata": "KSV",
+    "icao": "YSPV",
+    "airport_name": "springvale_airport",
+    "location_served": "springvale_queensland_australia"
+  },
+  {
+    "iata": "KSW",
+    "icao": "LLKS",
+    "airport_name": "kiryat_shmona_airport",
+    "location_served": "kiryat_shmona_israel"
+  },
+  {
+    "iata": "KSX",
+    "icao": "AYYR",
+    "airport_name": "yasuru_airport",
+    "location_served": "yasuru_papua_new_guinea"
+  },
+  {
+    "iata": "KSY",
+    "icao": "LTCF",
+    "airport_name": "kars_harakani_airport",
+    "location_served": "kars_turkey"
+  },
+  {
+    "iata": "KSZ",
+    "icao": "ULKK",
+    "airport_name": "kotlas_airport",
+    "location_served": "kotlas_arkhangelsk_oblast_russia"
+  },
+  {
+    "iata": "KTA",
+    "icao": "YPKA",
+    "airport_name": "karratha_airport",
+    "location_served": "karratha_western_australia_australia"
+  },
+  {
+    "iata": "KTB",
+    "icao": "",
+    "airport_name": "thorne_bay_seaplane_base",
+    "location_served": "thorne_bay_alaska_united_states"
+  },
+  {
+    "iata": "KTC",
+    "icao": "",
+    "airport_name": "katiola_airport",
+    "location_served": "katiola_ivory_coast"
+  },
+  {
+    "iata": "KTD",
+    "icao": "RORK",
+    "airport_name": "kitadaito_airport",
+    "location_served": "kitadaito_daitō_islands_japan"
+  },
+  {
+    "iata": "KTE",
+    "icao": "WMKE",
+    "airport_name": "kerteh_airport",
+    "location_served": "kerteh_terengganu_malaysia"
+  },
+  {
+    "iata": "KTF",
+    "icao": "NZTK",
+    "airport_name": "takaka_aerodrome",
+    "location_served": "takaka_new_zealand"
+  },
+  {
+    "iata": "KTG",
+    "icao": "WIOK",
+    "airport_name": "rahadi_osman_airport_(ketapang_airport)",
+    "location_served": "ketapang_indonesia"
+  },
+  {
+    "iata": "KTH",
+    "icao": "",
+    "airport_name": "tikchik_lodge_seaplane_base_(faa:_akdapidapi)",
+    "location_served": "tikchik_alaska_united_states"
+  },
+  {
+    "iata": "KTI",
+    "icao": "VDKT",
+    "airport_name": "kratié_airport",
+    "location_served": "kratié_cambodia"
+  },
+  {
+    "iata": "KTJ",
+    "icao": "",
+    "airport_name": "kichwa_tembo_airport[dapi]",
+    "location_served": "kichwa_tembo_kenya"
+  },
+  {
+    "iata": "KTK",
+    "icao": "",
+    "airport_name": "kunua_airport",
+    "location_served": "kunua_papua_new_guinea"
+  },
+  {
+    "iata": "KTL",
+    "icao": "HKKT",
+    "airport_name": "kitale_airport",
+    "location_served": "kitale_kenya"
+  },
+  {
+    "iata": "KTM",
+    "icao": "VNKT",
+    "airport_name": "tribhuvan_international_airport",
+    "location_served": "kathmandu_nepal"
+  },
+  {
+    "iata": "KTN",
+    "icao": "PAKT",
+    "airport_name": "ketchikan_international_airport",
+    "location_served": "ketchikan_alaska_united_states"
+  },
+  {
+    "iata": "KTO",
+    "icao": "SYKT",
+    "airport_name": "kato_airport",
+    "location_served": "kato_guyana"
+  },
+  {
+    "iata": "KTP",
+    "icao": "MKTP",
+    "airport_name": "tinson_pen_aerodrome",
+    "location_served": "kingston_jamaica"
+  },
+  {
+    "iata": "KTQ",
+    "icao": "EFIT",
+    "airport_name": "kitee_airfield",
+    "location_served": "kitee_finland"
+  },
+  {
+    "iata": "KTR",
+    "icao": "YPTN",
+    "airport_name": "raaf_base_tindal",
+    "location_served": "katherine_northern_territory_australia"
+  },
+  {
+    "iata": "KTS",
+    "icao": "PFKT",
+    "airport_name": "brevig_mission_airport",
+    "location_served": "brevig_mission_alaska_united_states"
+  },
+  {
+    "iata": "KTT",
+    "icao": "EFKT",
+    "airport_name": "kittilä_airport",
+    "location_served": "kittilä_finland"
+  },
+  {
+    "iata": "KTU",
+    "icao": "VIKO",
+    "airport_name": "kota_airport",
+    "location_served": "kota_rajasthan_india"
+  },
+  {
+    "iata": "KTV",
+    "icao": "SVKM",
+    "airport_name": "kamarata_airport",
+    "location_served": "kamarata_venezuela"
+  },
+  {
+    "iata": "KTW",
+    "icao": "EPKT",
+    "airport_name": "katowice_international_airport",
+    "location_served": "katowice_poland"
+  },
+  {
+    "iata": "KTX",
+    "icao": "GAKO",
+    "airport_name": "koutiala_airport",
+    "location_served": "koutiala_mali"
+  },
+  {
+    "iata": "KTY",
+    "icao": "VCCN",
+    "airport_name": "katukurunda_airport[dapi]",
+    "location_served": "kalutara_sri_lanka"
+  },
+  {
+    "iata": "KUA",
+    "icao": "WMKD",
+    "airport_name": "sultan_haji_ahmad_shah_airport_(rmaf_kuantan)",
+    "location_served": "kuantan_pahang_malaysia"
+  },
+  {
+    "iata": "KUC",
+    "icao": "NGKT",
+    "airport_name": "kuria_airport",
+    "location_served": "kuria_kiribati"
+  },
+  {
+    "iata": "KUD",
+    "icao": "WBKT",
+    "airport_name": "kudat_airport",
+    "location_served": "kudat_sabah_malaysia"
+  },
+  {
+    "iata": "KUE",
+    "icao": "AGKU",
+    "airport_name": "kukundu_airport",
+    "location_served": "kolombangara_western_province_solomon_islands"
+  },
+  {
+    "iata": "KUF",
+    "icao": "UWWW",
+    "airport_name": "kurumoch_international_airport",
+    "location_served": "samara_samara_oblast_russia"
+  },
+  {
+    "iata": "KUG",
+    "icao": "YKUB",
+    "airport_name": "kubin_airport",
+    "location_served": "moa_island_queensland_australia"
+  },
+  {
+    "iata": "KUH",
+    "icao": "RJCK",
+    "airport_name": "kushiro_airport",
+    "location_served": "kushiro_hokkaido_japan"
+  },
+  {
+    "iata": "KUK",
+    "icao": "PFKA",
+    "airport_name": "kasigluk_airport_(faa:_zdapidapi)",
+    "location_served": "kasigluk_alaska_united_states"
+  },
+  {
+    "iata": "KUL",
+    "icao": "WMKK",
+    "airport_name": "kuala_lumpur_international_airport",
+    "location_served": "kuala_lumpur_dapi_malaysia"
+  },
+  {
+    "iata": "KUM",
+    "icao": "RJFC",
+    "airport_name": "yakushima_airport",
+    "location_served": "yakushima_ōsumi_islands_japan"
+  },
+  {
+    "iata": "KUN",
+    "icao": "EYKA",
+    "airport_name": "kaunas_international_airport",
+    "location_served": "kaunas_lithuania"
+  },
+  {
+    "iata": "KUO",
+    "icao": "EFKU",
+    "airport_name": "kuopio_airport",
+    "location_served": "kuopio_finland"
+  },
+  {
+    "iata": "KUP",
+    "icao": "",
+    "airport_name": "kupiano_airport",
+    "location_served": "kupiano_papua_new_guinea"
+  },
+  {
+    "iata": "KUQ",
+    "icao": "AYKU",
+    "airport_name": "kuri_airport",
+    "location_served": "kuri_papua_new_guinea"
+  },
+  {
+    "iata": "KUR",
+    "icao": "OARZ",
+    "airport_name": "razer_airport",
+    "location_served": "koran_va_monjan_(kiran_wa_munjan)_afghanistan"
+  },
+  {
+    "iata": "KUS",
+    "icao": "BGKK",
+    "airport_name": "kulusuk_airport",
+    "location_served": "kulusuk_greenland"
+  },
+  {
+    "iata": "KUT",
+    "icao": "UGKO",
+    "airport_name": "david_the_builder_kutaisi_international_airport",
+    "location_served": "kutaisi_georgia"
+  },
+  {
+    "iata": "KUU",
+    "icao": "VIBR",
+    "airport_name": "bhuntar_airport_(kullu_manali_airport)",
+    "location_served": "kullu_himachal_pradesh_india"
+  },
+  {
+    "iata": "KUV",
+    "icao": "RKJK",
+    "airport_name": "gunsan_airport",
+    "location_served": "gunsan_south_korea"
+  },
+  {
+    "iata": "KUX",
+    "icao": "",
+    "airport_name": "kuyol_airport[dapi]",
+    "location_served": "kuyol_papua_new_guinea"
+  },
+  {
+    "iata": "KUY",
+    "icao": "",
+    "airport_name": "kamusi_airport[dapi]",
+    "location_served": "kamusi_papua_new_guinea"
+  },
+  {
+    "iata": "KVA",
+    "icao": "LGKV",
+    "airport_name": "kavala_international_airport_(alexander_the_great_airport)",
+    "location_served": "kavala_greece"
+  },
+  {
+    "iata": "KVB",
+    "icao": "ESGR",
+    "airport_name": "skövde_airport",
+    "location_served": "skövde_sweden"
+  },
+  {
+    "iata": "KVC",
+    "icao": "PAVC",
+    "airport_name": "king_cove_airport",
+    "location_served": "king_cove_alaska_united_states"
+  },
+  {
+    "iata": "KVD",
+    "icao": "UBBG",
+    "airport_name": "ganja_international_airport",
+    "location_served": "ganja_azerbaijan"
+  },
+  {
+    "iata": "KVE",
+    "icao": "",
+    "airport_name": "kitava_island_airport",
+    "location_served": "kitava_island_papua_new_guinea"
+  },
+  {
+    "iata": "KVG",
+    "icao": "AYKV",
+    "airport_name": "kavieng_airport",
+    "location_served": "kavieng_papua_new_guinea"
+  },
+  {
+    "iata": "KVK",
+    "icao": "ULMK",
+    "airport_name": "kirovsk-apatity_airport_(khibiny_airport)",
+    "location_served": "kirovsk_/_apatity_murmansk_oblast_russia"
+  },
+  {
+    "iata": "KVL",
+    "icao": "PAVL",
+    "airport_name": "kivalina_airport",
+    "location_served": "kivalina_alaska_united_states"
+  },
+  {
+    "iata": "KVM",
+    "icao": "UHMO",
+    "airport_name": "markovo_airport",
+    "location_served": "markovo_chukotka_russia"
+  },
+  {
+    "iata": "KVO",
+    "icao": "LYKV",
+    "airport_name": "morava_airport",
+    "location_served": "lađevci_serbia"
+  },
+  {
+    "iata": "KVR",
+    "icao": "",
+    "airport_name": "kavalerovo_airport[dapi]",
+    "location_served": "kavalerovo_primorsky_krai_russia"
+  },
+  {
+    "iata": "KVU",
+    "icao": "",
+    "airport_name": "korolevu_seaplane_base",
+    "location_served": "korolevu_fiji"
+  },
+  {
+    "iata": "KVX",
+    "icao": "USKK",
+    "airport_name": "pobedilovo_airport",
+    "location_served": "kirov_kirov_oblast_russia"
+  },
+  {
+    "iata": "KWA",
+    "icao": "PKWA",
+    "airport_name": "bucholz_army_airfield",
+    "location_served": "kwajalein_marshall_islands"
+  },
+  {
+    "iata": "KWB",
+    "icao": "",
+    "airport_name": "dewadaru_airport",
+    "location_served": "karimun_java_indonesia"
+  },
+  {
+    "iata": "KWD",
+    "icao": "",
+    "airport_name": "kavadja_airport[dapi]",
+    "location_served": "kavadja_central_african_republic"
+  },
+  {
+    "iata": "KWE",
+    "icao": "ZUGY",
+    "airport_name": "guiyang_longdongbao_international_airport",
+    "location_served": "guiyang_guizhou_china"
+  },
+  {
+    "iata": "KWF",
+    "icao": "",
+    "airport_name": "waterfall_seaplane_base",
+    "location_served": "waterfall_alaska_united_states"
+  },
+  {
+    "iata": "KWG",
+    "icao": "UKDR",
+    "airport_name": "kryvyi_rih_international_airport",
+    "location_served": "kryvyi_rih_(krivoi_rog)_ukraine"
+  },
+  {
+    "iata": "KWH",
+    "icao": "OAHN",
+    "airport_name": "khwahan_airport",
+    "location_served": "khwahan_afghanistan"
+  },
+  {
+    "iata": "KWI",
+    "icao": "OKBK",
+    "airport_name": "kuwait_international_airport",
+    "location_served": "kuwait_city_kuwait"
+  },
+  {
+    "iata": "KWJ",
+    "icao": "RKJJ",
+    "airport_name": "gwangju_airport",
+    "location_served": "gwangju_(kwangju)_south_korea"
+  },
+  {
+    "iata": "KWK",
+    "icao": "PAGG",
+    "airport_name": "kwigillingok_airport_(faa:_ggv)",
+    "location_served": "kwigillingok_alaska_united_states"
+  },
+  {
+    "iata": "KWL",
+    "icao": "ZGKL",
+    "airport_name": "guilin_liangjiang_international_airport",
+    "location_served": "guilin_guangxi_china"
+  },
+  {
+    "iata": "KWM",
+    "icao": "YKOW",
+    "airport_name": "kowanyama_airport",
+    "location_served": "kowanyama_queensland_australia"
+  },
+  {
+    "iata": "KWN",
+    "icao": "PAQH",
+    "airport_name": "quinhagak_airport_(faa:_aqh)",
+    "location_served": "quinhagak_alaska_united_states"
+  },
+  {
+    "iata": "KWO",
+    "icao": "AYKW",
+    "airport_name": "kawito_airport",
+    "location_served": "kawito_papua_new_guinea"
+  },
+  {
+    "iata": "KWP",
+    "icao": "",
+    "airport_name": "west_point_village_seaplane_base",
+    "location_served": "west_point_alaska_united_states"
+  },
+  {
+    "iata": "KWR",
+    "icao": "",
+    "airport_name": "kwai_harbour_airport",
+    "location_served": "kwai_harbour_solomon_islands"
+  },
+  {
+    "iata": "KWS",
+    "icao": "AGKW[3]",
+    "airport_name": "kwailabesi_airport",
+    "location_served": "kwailabesi_solomon_islands"
+  },
+  {
+    "iata": "KWT",
+    "icao": "PFKW",
+    "airport_name": "kwethluk_airport",
+    "location_served": "kwethluk_alaska_united_states"
+  },
+  {
+    "iata": "KWV",
+    "icao": "",
+    "airport_name": "kurwina_airport",
+    "location_served": "kurwina_papua_new_guinea"
+  },
+  {
+    "iata": "KWX",
+    "icao": "",
+    "airport_name": "kiwai_island_airport",
+    "location_served": "kiwai_island_papua_new_guinea"
+  },
+  {
+    "iata": "KWY",
+    "icao": "",
+    "airport_name": "kiwayu_airport",
+    "location_served": "kiwayu_kenya"
+  },
+  {
+    "iata": "KWZ",
+    "icao": "FZQM",
+    "airport_name": "kolwezi_airport",
+    "location_served": "kolwezi_democratic_republic_of_the_congo"
+  },
+  {
+    "iata": "KXA",
+    "icao": "",
+    "airport_name": "kasaan_seaplane_base",
+    "location_served": "kasaan_alaska_united_states"
+  },
+  {
+    "iata": "KXD",
+    "icao": "USHK",
+    "airport_name": "kondinskoye_airport[dapi]",
+    "location_served": "kondinskoye_khanty-mansi_autonomous_okrug_russia"
+  },
+  {
+    "iata": "KXE",
+    "icao": "FAKD",
+    "airport_name": "klerksdorp_airport_(p.c._pelser_airport)",
+    "location_served": "klerksdorp_south_africa"
+  },
+  {
+    "iata": "KXF",
+    "icao": "NFNO",
+    "airport_name": "koro_airport",
+    "location_served": "koro_island_fiji"
+  },
+  {
+    "iata": "KXK",
+    "icao": "UHKK",
+    "airport_name": "komsomolsk-on-amur_airport",
+    "location_served": "komsomolsk-on-amur_khabarovsk_krai_russia"
+  },
+  {
+    "iata": "KXR",
+    "icao": "",
+    "airport_name": "karoola_airport",
+    "location_served": "karoola_papua_new_guinea"
+  },
+  {
+    "iata": "KXU",
+    "icao": "NTKT",
+    "airport_name": "katiu_airport[dapi]",
+    "location_served": "katiu_tuamotus_french_polynesia"
+  },
+  {
+    "iata": "KYA",
+    "icao": "LTAN",
+    "airport_name": "konya_airport",
+    "location_served": "konya_turkey"
+  },
+  {
+    "iata": "KYD",
+    "icao": "RCLY",
+    "airport_name": "lanyu_airport",
+    "location_served": "orchid_island_taiwan"
+  },
+  {
+    "iata": "KYE",
+    "icao": "OLKA",
+    "airport_name": "rene_mouawad_air_base_(kleyate_airport)",
+    "location_served": "tripoli_lebanon"
+  },
+  {
+    "iata": "KYF",
+    "icao": "YYLR",
+    "airport_name": "yeelirrie_airport",
+    "location_served": "yeelirrie_western_australia_australia"
+  },
+  {
+    "iata": "KYI",
+    "icao": "YYTA",
+    "airport_name": "yalata_airport",
+    "location_served": "yalata_mission_south_australia_australia"
+  },
+  {
+    "iata": "KYK",
+    "icao": "PAKY",
+    "airport_name": "karluk_airport",
+    "location_served": "karluk_alaska_united_states"
+  },
+  {
+    "iata": "KYO",
+    "icao": "",
+    "airport_name": "tampa_north_aero_park[dapi]_(faa:_xdapidapi)",
+    "location_served": "tampa_florida_united_states"
+  },
+  {
+    "iata": "KYP",
+    "icao": "VYKP",
+    "airport_name": "kyaukpyu_airport",
+    "location_served": "kyaukpyu_myanmar"
+  },
+  {
+    "iata": "KYS",
+    "icao": "GAKY",
+    "airport_name": "kayes_airport_(dag-dag_airport)",
+    "location_served": "kayes_mali"
+  },
+  {
+    "iata": "KYT",
+    "icao": "VYKU",
+    "airport_name": "kyauktu_airport",
+    "location_served": "kyaukhtu_myanmar"
+  },
+  {
+    "iata": "KYU",
+    "icao": "PFKU",
+    "airport_name": "koyukuk_airport",
+    "location_served": "koyukuk_alaska_united_states"
+  },
+  {
+    "iata": "KYX",
+    "icao": "AYYE",
+    "airport_name": "yalumet_airport",
+    "location_served": "yalumet_papua_new_guinea"
+  },
+  {
+    "iata": "KYZ",
+    "icao": "UNKY",
+    "airport_name": "kyzyl_airport",
+    "location_served": "kyzyl_tuva_russia"
+  },
+  {
+    "iata": "KZB",
+    "icao": "",
+    "airport_name": "zachar_bay_seaplane_base",
+    "location_served": "zachar_bay_alaska_united_states"
+  },
+  {
+    "iata": "KZC",
+    "icao": "VDKH",
+    "airport_name": "kampong_chhnang_airport",
+    "location_served": "kampong_chhnang_cambodia"
+  },
+  {
+    "iata": "KZD",
+    "icao": "",
+    "airport_name": "krakor_airport",
+    "location_served": "krakor_cambodia"
+  },
+  {
+    "iata": "KZF",
+    "icao": "AYKT",
+    "airport_name": "kaintiba_airport",
+    "location_served": "kaintiba_papua_new_guinea"
+  },
+  {
+    "iata": "KZG",
+    "icao": "ETIN",
+    "airport_name": "kitzingen_airport",
+    "location_served": "kitzingen_bavaria_germany"
+  },
+  {
+    "iata": "KZI",
+    "icao": "LGKZ",
+    "airport_name": "kozani_national_airport_(filippos_airport)",
+    "location_served": "kozani_greece"
+  },
+  {
+    "iata": "KZN",
+    "icao": "UWKD",
+    "airport_name": "kazan_international_airport",
+    "location_served": "kazan_tatarstan_russia"
+  },
+  {
+    "iata": "KZO",
+    "icao": "UAOO",
+    "airport_name": "kyzylorda_airport",
+    "location_served": "kyzylorda_kazakhstan"
+  },
+  {
+    "iata": "KZR",
+    "icao": "LTBZ",
+    "airport_name": "zafer_airport",
+    "location_served": "kütahya_turkey"
+  },
+  {
+    "iata": "KZS",
+    "icao": "LGKJ",
+    "airport_name": "kastellorizo_island_public_airport",
+    "location_served": "kastellorizo_greece"
+  }
+]

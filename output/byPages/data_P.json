@@ -1,0 +1,2882 @@
+[
+  {
+    "iata": "PAA",
+    "icao": "VYPA",
+    "airport_name": "hpa-an_airport[dapi]",
+    "location_served": "hpa-an_myanmar\n"
+  },
+  {
+    "iata": "PAB",
+    "icao": "VEBU",
+    "airport_name": "bilaspur_airport",
+    "location_served": "bilaspur_chhattisgarh_india\n"
+  },
+  {
+    "iata": "PAC",
+    "icao": "MPMG",
+    "airport_name": "albrook_\"marcos_a._gelabert\"_international_airport",
+    "location_served": "panama_city_panama\n"
+  },
+  {
+    "iata": "PAD",
+    "icao": "EDLP",
+    "airport_name": "paderborn_lippstadt_airport",
+    "location_served": "paderborn_/_lippstadt_north_rhine-westphalia_germany\n"
+  },
+  {
+    "iata": "PAE",
+    "icao": "KPAE",
+    "airport_name": "paine_field_(snohomish_county_airport)",
+    "location_served": "everett_washington_united_states\n"
+  },
+  {
+    "iata": "PAF",
+    "icao": "HUPA",
+    "airport_name": "pakuba_airfield",
+    "location_served": "pakuba_uganda\n"
+  },
+  {
+    "iata": "PAG",
+    "icao": "RPMP",
+    "airport_name": "pagadian_airport",
+    "location_served": "pagadian_philippines\n"
+  },
+  {
+    "iata": "PAH",
+    "icao": "KPAH",
+    "airport_name": "barkley_regional_airport",
+    "location_served": "paducah_kentucky_united_states\n"
+  },
+  {
+    "iata": "PAJ",
+    "icao": "OPPC",
+    "airport_name": "parachinar_airport[dapi]",
+    "location_served": "parachinar_pakistan\n"
+  },
+  {
+    "iata": "PAK",
+    "icao": "PHPA",
+    "airport_name": "port_allen_airport",
+    "location_served": "hanapepe_hawaii_united_states\n"
+  },
+  {
+    "iata": "PAL",
+    "icao": "SKPQ",
+    "airport_name": "captain_germán_olano_moreno_air_base[dapi]",
+    "location_served": "palanquero_colombia\n"
+  },
+  {
+    "iata": "PAM",
+    "icao": "KPAM",
+    "airport_name": "tyndall_air_force_base",
+    "location_served": "panama_city_florida_united_states\n"
+  },
+  {
+    "iata": "PAN",
+    "icao": "VTSK",
+    "airport_name": "pattani_airport",
+    "location_served": "pattani_thailand\n"
+  },
+  {
+    "iata": "PAO",
+    "icao": "KPAO",
+    "airport_name": "palo_alto_airport_(santa_clara_county_airport)",
+    "location_served": "palo_alto_california_united_states\n"
+  },
+  {
+    "iata": "PAP",
+    "icao": "MTPP",
+    "airport_name": "toussaint_l'ouverture_international_airport",
+    "location_served": "port-au-prince_haiti\n"
+  },
+  {
+    "iata": "PAQ",
+    "icao": "PAAQ",
+    "airport_name": "palmer_municipal_airport",
+    "location_served": "palmer_alaska_united_states\n"
+  },
+  {
+    "iata": "PAR[1]",
+    "icao": "",
+    "airport_name": "metropolitan_areadapi",
+    "location_served": "paris_île-de-france_france\n"
+  },
+  {
+    "iata": "PAS",
+    "icao": "LGPA",
+    "airport_name": "paros_national_airport",
+    "location_served": "paros_greece\n"
+  },
+  {
+    "iata": "PAT",
+    "icao": "VEPT",
+    "airport_name": "lok_nayak_jayaprakash_airport",
+    "location_served": "patna_bihar_india\n"
+  },
+  {
+    "iata": "PAU",
+    "icao": "VYPK",
+    "airport_name": "pauk_airport[dapi]",
+    "location_served": "pauk_myanmar\n"
+  },
+  {
+    "iata": "PAV",
+    "icao": "SBUF",
+    "airport_name": "paulo_afonso_airport[dapi]",
+    "location_served": "paulo_afonso_bahia_brazil\n"
+  },
+  {
+    "iata": "PAW",
+    "icao": "",
+    "airport_name": "pambwa_airport[dapi]",
+    "location_served": "pambwa_papua_new_guinea\n"
+  },
+  {
+    "iata": "PAX",
+    "icao": "MTPX",
+    "airport_name": "port-de-paix_airport[dapi]",
+    "location_served": "port-de-paix_haiti\n"
+  },
+  {
+    "iata": "PAY",
+    "icao": "WBKP",
+    "airport_name": "pamol_airport[dapi]",
+    "location_served": "pamol_sabah_malaysia\n"
+  },
+  {
+    "iata": "PAZ",
+    "icao": "MMPA",
+    "airport_name": "el_tajín_national_airport",
+    "location_served": "poza_rica_veracruz_mexico\n"
+  },
+  {
+    "iata": "PBB",
+    "icao": "SSPN",
+    "airport_name": "paranaíba_airport[dapi]",
+    "location_served": "paranaíba_mato_grosso_do_sul_brazil\n"
+  },
+  {
+    "iata": "PBC",
+    "icao": "MMPB",
+    "airport_name": "hermanos_serdán_international_airport",
+    "location_served": "puebla_city_puebla_mexico\n"
+  },
+  {
+    "iata": "PBD",
+    "icao": "VAPR",
+    "airport_name": "porbandar_airport[dapi]",
+    "location_served": "porbandar_gujarat_india\n"
+  },
+  {
+    "iata": "PBE",
+    "icao": "SKPR",
+    "airport_name": "morela_airport[dapi]_(puerto_berrío_airport)",
+    "location_served": "puerto_berrío_colombia\n"
+  },
+  {
+    "iata": "PBF",
+    "icao": "KPBF",
+    "airport_name": "grider_field",
+    "location_served": "pine_bluff_arkansas_united_states\n"
+  },
+  {
+    "iata": "PBG",
+    "icao": "KPBG",
+    "airport_name": "plattsburgh_international_airport",
+    "location_served": "plattsburgh_new_york_united_states\n"
+  },
+  {
+    "iata": "PBH",
+    "icao": "VQPR",
+    "airport_name": "paro_international_airport",
+    "location_served": "paro_bhutan\n"
+  },
+  {
+    "iata": "PBI",
+    "icao": "KPBI",
+    "airport_name": "palm_beach_international_airport",
+    "location_served": "west_palm_beach_florida_united_states\n"
+  },
+  {
+    "iata": "PBJ",
+    "icao": "NVSI",
+    "airport_name": "paama_airport[dapi]",
+    "location_served": "paama_vanuatu\n"
+  },
+  {
+    "iata": "PBL",
+    "icao": "SVPC",
+    "airport_name": "bartolomé_salom_airport[dapi]",
+    "location_served": "puerto_cabello_venezuela\n"
+  },
+  {
+    "iata": "PBM",
+    "icao": "SMJP",
+    "airport_name": "johan_adolf_pengel_international_airport",
+    "location_served": "paramaribo_suriname\n"
+  },
+  {
+    "iata": "PBN",
+    "icao": "FNPA",
+    "airport_name": "porto_amboim_airport[dapi]",
+    "location_served": "porto_amboim_angola\n"
+  },
+  {
+    "iata": "PBO",
+    "icao": "YPBO",
+    "airport_name": "paraburdoo_airport",
+    "location_served": "paraburdoo_western_australia_australia\n"
+  },
+  {
+    "iata": "PBP",
+    "icao": "MRIA",
+    "airport_name": "punta_islita_airport",
+    "location_served": "punta_islita_costa_rica\n"
+  },
+  {
+    "iata": "PBQ",
+    "icao": "SWPM",
+    "airport_name": "pimenta_bueno_airport[dapi]",
+    "location_served": "pimenta_bueno_rondônia_brazil\n"
+  },
+  {
+    "iata": "PBR",
+    "icao": "MGPB",
+    "airport_name": "puerto_barrios_airport[dapi]",
+    "location_served": "puerto_barrios_guatemala\n"
+  },
+  {
+    "iata": "PBT",
+    "icao": "",
+    "airport_name": "puerto_leda_airport[dapi]",
+    "location_served": "puerto_leda_paraguay\n"
+  },
+  {
+    "iata": "PBU",
+    "icao": "VYPT",
+    "airport_name": "putao_airport[dapi]",
+    "location_served": "putao_myanmar\n"
+  },
+  {
+    "iata": "PBV",
+    "icao": "SWPG",
+    "airport_name": "porto_dos_gaúchos_airport",
+    "location_served": "porto_dos_gaúchos_mato_grosso_brazil\n"
+  },
+  {
+    "iata": "PBX",
+    "icao": "SWPQ",
+    "airport_name": "fazenda_piraguassu_airport",
+    "location_served": "porto_alegre_do_norte_mato_grosso_brazil\n"
+  },
+  {
+    "iata": "PBZ",
+    "icao": "FAPG",
+    "airport_name": "plettenberg_bay_airport[dapi]",
+    "location_served": "plettenberg_bay_south_africa\n"
+  },
+  {
+    "iata": "PCA",
+    "icao": "PAOC",
+    "airport_name": "portage_creek_airport_(faa:_adapidapi)",
+    "location_served": "portage_creek_alaska_united_states\n"
+  },
+  {
+    "iata": "PCB",
+    "icao": "WIHP",
+    "airport_name": "pondok_cabe_airport[dapi]",
+    "location_served": "south_tangerang_indonesia\n"
+  },
+  {
+    "iata": "PCC",
+    "icao": "",
+    "airport_name": "puerto_rico_airport[dapi]",
+    "location_served": "puerto_rico_colombia\n"
+  },
+  {
+    "iata": "PCD",
+    "icao": "KPDC",
+    "airport_name": "prairie_du_chien_municipal_airport_(faa:_pdc)",
+    "location_served": "prairie_du_chien_wisconsin_united_states\n"
+  },
+  {
+    "iata": "PCF",
+    "icao": "FAPS",
+    "airport_name": "potchefstroom_airport[dapi]",
+    "location_served": "potchefstroom_south_africa\n"
+  },
+  {
+    "iata": "PCH",
+    "icao": "MHPC",
+    "airport_name": "palacios_airport[dapi]",
+    "location_served": "palacios_honduras\n"
+  },
+  {
+    "iata": "PCJ",
+    "icao": "",
+    "airport_name": "puerto_la_victoria_airport[dapi]",
+    "location_served": "puerto_casado_(la_victoria)_paraguay\n"
+  },
+  {
+    "iata": "PCL",
+    "icao": "SPCL",
+    "airport_name": "fap_captain_david_abensur_rengifo_international_airport",
+    "location_served": "pucallpa_peru\n"
+  },
+  {
+    "iata": "PCM",
+    "icao": "",
+    "airport_name": "playa_del_carmen_airport",
+    "location_served": "playa_del_carmen_quintana_roo_mexico\n"
+  },
+  {
+    "iata": "PCN",
+    "icao": "NZOK",
+    "airport_name": "picton_aerodrome",
+    "location_served": "picton_new_zealand\n"
+  },
+  {
+    "iata": "PCO",
+    "icao": "MMPL",
+    "airport_name": "punta_colorada_airstrip[dapi]",
+    "location_served": "la_ribera_baja_california_sur_mexico\n"
+  },
+  {
+    "iata": "PCP",
+    "icao": "FPPR",
+    "airport_name": "príncipe_airport[dapi]",
+    "location_served": "príncipe_island_são_tomé_and_príncipe\n"
+  },
+  {
+    "iata": "PCQ",
+    "icao": "",
+    "airport_name": "boun_neua_airport[dapi]",
+    "location_served": "phongsaly_laos\n"
+  },
+  {
+    "iata": "PCR",
+    "icao": "SKPC",
+    "airport_name": "germán_olano_airport",
+    "location_served": "puerto_carreño_colombia\n"
+  },
+  {
+    "iata": "PCS",
+    "icao": "SNPC",
+    "airport_name": "picos_airport[dapi]",
+    "location_served": "picos_piauí_brazil\n"
+  },
+  {
+    "iata": "PCT",
+    "icao": "",
+    "airport_name": "princeton_airport_(faa:_dapidapin)",
+    "location_served": "princeton_/_rocky_hill_new_jersey_united_states\n"
+  },
+  {
+    "iata": "PCU",
+    "icao": "",
+    "airport_name": "poplarville-pearl_river_county_airport[dapi]_(faa:_mdapidapi)",
+    "location_served": "poplarville_mississippi_united_states\n"
+  },
+  {
+    "iata": "PCV",
+    "icao": "",
+    "airport_name": "punta_chivato_airstrip[dapi]",
+    "location_served": "punta_chivato_baja_california_sur_mexico\n"
+  },
+  {
+    "iata": "PDA",
+    "icao": "SKPD",
+    "airport_name": "obando_airport",
+    "location_served": "puerto_inírida_colombia\n"
+  },
+  {
+    "iata": "PDB",
+    "icao": "",
+    "airport_name": "pedro_bay_airport_(faa:_dapikdapi)",
+    "location_served": "pedro_bay_alaska_united_states\n"
+  },
+  {
+    "iata": "PDC",
+    "icao": "NWWQ",
+    "airport_name": "mueo/nickel_airport",
+    "location_served": "mueo_new_caledonia\n"
+  },
+  {
+    "iata": "PDD",
+    "icao": "FQPO",
+    "airport_name": "ponta_do_ouro_airport[dapi]",
+    "location_served": "ponta_do_ouro_mozambique\n"
+  },
+  {
+    "iata": "PDE",
+    "icao": "YPDI",
+    "airport_name": "pandie_pandie_airport[dapi]",
+    "location_served": "pandie_pandie_station_south_australia_australia\n"
+  },
+  {
+    "iata": "PDF",
+    "icao": "SIAJ",
+    "airport_name": "faz_taua_airport[dapi]",
+    "location_served": "prado_bahia_brazil\n"
+  },
+  {
+    "iata": "PDG",
+    "icao": "WIPT",
+    "airport_name": "minangkabau_international_airport",
+    "location_served": "padang_indonesia\n"
+  },
+  {
+    "iata": "PDI",
+    "icao": "",
+    "airport_name": "pindiu_airport[dapi]",
+    "location_served": "pindiu_papua_new_guinea\n"
+  },
+  {
+    "iata": "PDK",
+    "icao": "KPDK",
+    "airport_name": "dekalb–peachtree_airport",
+    "location_served": "atlanta_georgia_united_states\n"
+  },
+  {
+    "iata": "PDL",
+    "icao": "LPPD",
+    "airport_name": "joão_paulo_ii_airport",
+    "location_served": "ponta_delgada_azores_portugal\n"
+  },
+  {
+    "iata": "PDM",
+    "icao": "",
+    "airport_name": "pedasí_airport[dapi]_(capt._j._montenegro_airport)",
+    "location_served": "pedasí_panama\n"
+  },
+  {
+    "iata": "PDN",
+    "icao": "",
+    "airport_name": "parndana_airport[dapi]",
+    "location_served": "parndana_south_australia_australia\n"
+  },
+  {
+    "iata": "PDO",
+    "icao": "WIPQ",
+    "airport_name": "pendopo_airport[dapi]",
+    "location_served": "pendopo_indonesia\n"
+  },
+  {
+    "iata": "PDP",
+    "icao": "SULS",
+    "airport_name": "capitán_de_corbeta_carlos_a._curbelo_international_airport",
+    "location_served": "punta_del_este_uruguay\n"
+  },
+  {
+    "iata": "PDR",
+    "icao": "",
+    "airport_name": "presidente_dutra_airport[dapi]",
+    "location_served": "presidente_dutra_maranhão_brazil\n"
+  },
+  {
+    "iata": "PDS",
+    "icao": "MMPG",
+    "airport_name": "piedras_negras_international_airport",
+    "location_served": "piedras_negras_coahuila_mexico\n"
+  },
+  {
+    "iata": "PDT",
+    "icao": "KPDT",
+    "airport_name": "eastern_oregon_regional_airport",
+    "location_served": "pendleton_oregon_united_states\n"
+  },
+  {
+    "iata": "PDU",
+    "icao": "SUPU",
+    "airport_name": "tydeo_larre_borges_international_airport",
+    "location_served": "paysandú_uruguay\n"
+  },
+  {
+    "iata": "PDV",
+    "icao": "LBPD",
+    "airport_name": "plovdiv_airport",
+    "location_served": "plovdiv_bulgaria\n"
+  },
+  {
+    "iata": "PDX",
+    "icao": "KPDX",
+    "airport_name": "portland_international_airport",
+    "location_served": "portland_oregon_united_states\n"
+  },
+  {
+    "iata": "PDZ",
+    "icao": "SVPE",
+    "airport_name": "pedernales_airport[dapi]",
+    "location_served": "pedernales_venezuela\n"
+  },
+  {
+    "iata": "PEA",
+    "icao": "YPSH",
+    "airport_name": "penneshaw_airport[dapi]",
+    "location_served": "penneshaw_south_australia_australia\n"
+  },
+  {
+    "iata": "PEB",
+    "icao": "",
+    "airport_name": "pebane_airport[dapi]",
+    "location_served": "pebane_mozambique\n"
+  },
+  {
+    "iata": "PEC",
+    "icao": "",
+    "airport_name": "pelican_seaplane_base[dapi]",
+    "location_served": "pelican_alaska_united_states\n"
+  },
+  {
+    "iata": "PED",
+    "icao": "LKPD",
+    "airport_name": "pardubice_airport",
+    "location_served": "pardubice_czech_republic\n"
+  },
+  {
+    "iata": "PEE",
+    "icao": "USPP",
+    "airport_name": "perm_international_airport_(bolshoye_savino_airport)",
+    "location_served": "perm_perm_krai_russia\n"
+  },
+  {
+    "iata": "PEF",
+    "icao": "EDCP",
+    "airport_name": "peenemünde_airfield[dapi]",
+    "location_served": "peenemünde_mecklenburg-vorpommern_germany\n"
+  },
+  {
+    "iata": "PEG",
+    "icao": "LIRZ",
+    "airport_name": "perugia_san_francesco_d'assisi_–_umbria_international_airport",
+    "location_served": "perugia_umbria_italy\n"
+  },
+  {
+    "iata": "PEH",
+    "icao": "SAZP",
+    "airport_name": "comodoro_pedro_zanni_airport",
+    "location_served": "pehuajó_buenos_aires_argentina\n"
+  },
+  {
+    "iata": "PEI",
+    "icao": "SKPE",
+    "airport_name": "matecaña_international_airport",
+    "location_served": "pereira_colombia\n"
+  },
+  {
+    "iata": "PEK",
+    "icao": "ZBAA",
+    "airport_name": "beijing_capital_international_airport",
+    "location_served": "beijing_china\n"
+  },
+  {
+    "iata": "PEL",
+    "icao": "FXPG",
+    "airport_name": "pelaneng_airport[dapi]",
+    "location_served": "pelaneng_lesotho\n"
+  },
+  {
+    "iata": "PEM",
+    "icao": "SPTU",
+    "airport_name": "padre_aldamiz_international_airport",
+    "location_served": "puerto_maldonado_peru\n"
+  },
+  {
+    "iata": "PEN",
+    "icao": "WMKP",
+    "airport_name": "penang_international_airport",
+    "location_served": "penang_malaysia\n"
+  },
+  {
+    "iata": "PEP",
+    "icao": "",
+    "airport_name": "peppimenarti_airport[dapi]",
+    "location_served": "peppimenarti_northern_territory_australia\n"
+  },
+  {
+    "iata": "PEQ",
+    "icao": "KPEQ",
+    "airport_name": "pecos_municipal_airport",
+    "location_served": "pecos_texas_united_states\n"
+  },
+  {
+    "iata": "PER",
+    "icao": "YPPH",
+    "airport_name": "perth_airport",
+    "location_served": "perth_western_australia_australia\n"
+  },
+  {
+    "iata": "PES",
+    "icao": "ULPB",
+    "airport_name": "petrozavodsk_airport_(besovets_airport)",
+    "location_served": "petrozavodsk_karelia_russia\n"
+  },
+  {
+    "iata": "PET",
+    "icao": "SBPK",
+    "airport_name": "joão_simões_lopes_neto_international_airport",
+    "location_served": "pelotas_rio_grande_do_sul_brazil\n"
+  },
+  {
+    "iata": "PEU",
+    "icao": "MHPL",
+    "airport_name": "puerto_lempira_airport[dapi]",
+    "location_served": "puerto_lempira_honduras\n"
+  },
+  {
+    "iata": "PEV",
+    "icao": "LHPP",
+    "airport_name": "pécs-pogány_international_airport[dapi]",
+    "location_served": "pécs_hungary\n"
+  },
+  {
+    "iata": "PEW",
+    "icao": "OPPS",
+    "airport_name": "bacha_khan_international_airport",
+    "location_served": "peshawar_pakistan\n"
+  },
+  {
+    "iata": "PEX",
+    "icao": "UUYP",
+    "airport_name": "pechora_airport",
+    "location_served": "pechora_komi_republic_russia\n"
+  },
+  {
+    "iata": "PEY",
+    "icao": "",
+    "airport_name": "penong_airport[dapi]",
+    "location_served": "penong_south_australia_australia\n"
+  },
+  {
+    "iata": "PEZ",
+    "icao": "UWPP",
+    "airport_name": "penza_airport_(ternovka_airport)",
+    "location_served": "penza_penza_oblast_russia\n"
+  },
+  {
+    "iata": "PFB",
+    "icao": "SBPF",
+    "airport_name": "lauro_kurtz_airport",
+    "location_served": "passo_fundo_rio_grande_do_sul_brazil\n"
+  },
+  {
+    "iata": "PFC",
+    "icao": "KPFC",
+    "airport_name": "pacific_city_state_airport",
+    "location_served": "pacific_city_oregon_united_states\n"
+  },
+  {
+    "iata": "PFJ",
+    "icao": "BIPA",
+    "airport_name": "patreksfjörður_airport",
+    "location_served": "patreksfjörður_iceland\n"
+  },
+  {
+    "iata": "PFM",
+    "icao": "",
+    "airport_name": "primrose_aerodrome",
+    "location_served": "wood_buffalo_alberta_canada\n"
+  },
+  {
+    "iata": "PFO",
+    "icao": "LCPH",
+    "airport_name": "paphos_international_airport",
+    "location_served": "paphos_cyprus\n"
+  },
+  {
+    "iata": "PFQ",
+    "icao": "OITP",
+    "airport_name": "parsabad-moghan_airport[dapi]",
+    "location_served": "parsabad_iran\n"
+  },
+  {
+    "iata": "PFR",
+    "icao": "FZVS",
+    "airport_name": "ilebo_airport[dapi]",
+    "location_served": "ilebo_democratic_republic_of_the_congo\n"
+  },
+  {
+    "iata": "PGA",
+    "icao": "KPGA",
+    "airport_name": "page_municipal_airport",
+    "location_served": "page_arizona_united_states\n"
+  },
+  {
+    "iata": "PGB",
+    "icao": "",
+    "airport_name": "pangoa_airport[dapi]",
+    "location_served": "pangoa_papua_new_guinea\n"
+  },
+  {
+    "iata": "PGC",
+    "icao": "",
+    "airport_name": "grant_county_airport_(faa:_wdapidapi)",
+    "location_served": "petersburg_west_virginia_united_states\n"
+  },
+  {
+    "iata": "PGD",
+    "icao": "KPGD",
+    "airport_name": "punta_gorda_airport",
+    "location_served": "punta_gorda_florida_united_states\n"
+  },
+  {
+    "iata": "PGE",
+    "icao": "",
+    "airport_name": "yegepa_airport",
+    "location_served": "yegepa_papua_new_guinea\n"
+  },
+  {
+    "iata": "PGF",
+    "icao": "LFMP",
+    "airport_name": "perpignan–rivesaltes_airport",
+    "location_served": "perpignan_languedoc-roussillon_france\n"
+  },
+  {
+    "iata": "PGH",
+    "icao": "VIPT",
+    "airport_name": "pantnagar_airport[dapi]",
+    "location_served": "pantnagar_uttarakhand_india\n"
+  },
+  {
+    "iata": "PGI",
+    "icao": "FNCH",
+    "airport_name": "chitato_airport[dapi]",
+    "location_served": "chitato_angola\n"
+  },
+  {
+    "iata": "PGK",
+    "icao": "WIPK",
+    "airport_name": "depati_amir_airport[dapi]",
+    "location_served": "pangkal_pinang_(pangkalpinang)_indonesia\n"
+  },
+  {
+    "iata": "PGL",
+    "icao": "KPQL",
+    "airport_name": "trent_lott_international_airport_(faa:_pql)",
+    "location_served": "pascagoula_mississippi_united_states\n"
+  },
+  {
+    "iata": "PGM",
+    "icao": "",
+    "airport_name": "port_graham_airport",
+    "location_served": "port_graham_alaska_united_states\n"
+  },
+  {
+    "iata": "PGN",
+    "icao": "",
+    "airport_name": "pangia_airport[dapi]",
+    "location_served": "pangia_papua_new_guinea\n"
+  },
+  {
+    "iata": "PGO",
+    "icao": "KPSO",
+    "airport_name": "stevens_field_(faa:_pso)",
+    "location_served": "pagosa_springs_colorado_united_states\n"
+  },
+  {
+    "iata": "PGQ",
+    "icao": "WAEM",
+    "airport_name": "buli_airport",
+    "location_served": "buli_north_maluku_indonesia\n"
+  },
+  {
+    "iata": "PGR",
+    "icao": "KPGR",
+    "airport_name": "kirk_field",
+    "location_served": "paragould_arkansas_united_states\n"
+  },
+  {
+    "iata": "PGS",
+    "icao": "",
+    "airport_name": "grand_canyon_caverns_airport_(faa:_ldapidapi)",
+    "location_served": "peach_springs_arizona_united_states\n"
+  },
+  {
+    "iata": "PGU",
+    "icao": "OIBP",
+    "airport_name": "persian_gulf_airport[dapi]",
+    "location_served": "asaluyeh_(asaloyeh)_iran\n"
+  },
+  {
+    "iata": "PGV",
+    "icao": "KPGV",
+    "airport_name": "pitt–greenville_airport",
+    "location_served": "greenville_north_carolina_united_states\n"
+  },
+  {
+    "iata": "PGX",
+    "icao": "LFBX",
+    "airport_name": "périgueux_bassillac_airport",
+    "location_served": "périgueux_aquitaine_france\n"
+  },
+  {
+    "iata": "PGZ",
+    "icao": "SSZW",
+    "airport_name": "comte._antonio_amilton_beraldo_airport[dapi]",
+    "location_served": "ponta_grossa_paraná_brazil\n"
+  },
+  {
+    "iata": "PHA",
+    "icao": "VVPR",
+    "airport_name": "phan_rang_air_base[dapi]",
+    "location_served": "phan_rang–tháp_chàm_vietnam\n"
+  },
+  {
+    "iata": "PHB",
+    "icao": "SBPB",
+    "airport_name": "parnaíba-prefeito_dr._joão_silva_filho_international_airport",
+    "location_served": "parnaíba_piauí_brazil\n"
+  },
+  {
+    "iata": "PHC",
+    "icao": "DNPO",
+    "airport_name": "port_harcourt_international_airport",
+    "location_served": "port_harcourt_nigeria\n"
+  },
+  {
+    "iata": "PHD",
+    "icao": "KPHD",
+    "airport_name": "harry_clever_field",
+    "location_served": "new_philadelphia_ohio_united_states\n"
+  },
+  {
+    "iata": "PHE",
+    "icao": "YPPD",
+    "airport_name": "port_hedland_international_airport",
+    "location_served": "port_hedland_western_australia_australia\n"
+  },
+  {
+    "iata": "PHF",
+    "icao": "KPHF",
+    "airport_name": "newport_news/williamsburg_international_airport",
+    "location_served": "newport_news_/_williamsburg_virginia_united_states\n"
+  },
+  {
+    "iata": "PHG",
+    "icao": "",
+    "airport_name": "port_harcourt_city_airport[dapi]",
+    "location_served": "port_harcourt_nigeria\n"
+  },
+  {
+    "iata": "PHI",
+    "icao": "SNYE",
+    "airport_name": "pinheiro_airport[dapi]",
+    "location_served": "pinheiro_maranhão_brazil\n"
+  },
+  {
+    "iata": "PHK",
+    "icao": "KPHK",
+    "airport_name": "palm_beach_county_glades_airport",
+    "location_served": "pahokee_florida_united_states\n"
+  },
+  {
+    "iata": "PHL",
+    "icao": "KPHL",
+    "airport_name": "philadelphia_international_airport",
+    "location_served": "philadelphia_pennsylvania_united_states\n"
+  },
+  {
+    "iata": "PHN",
+    "icao": "KPHN",
+    "airport_name": "st._clair_county_international_airport",
+    "location_served": "port_huron_michigan_united_states\n"
+  },
+  {
+    "iata": "PHO",
+    "icao": "PAPO",
+    "airport_name": "point_hope_airport",
+    "location_served": "point_hope_alaska_united_states\n"
+  },
+  {
+    "iata": "PHP",
+    "icao": "KPHP",
+    "airport_name": "philip_airport",
+    "location_served": "philip_south_dakota_united_states\n"
+  },
+  {
+    "iata": "PHQ",
+    "icao": "YTMO",
+    "airport_name": "the_monument_airport[dapi]",
+    "location_served": "phosphate_hill_queensland_australia\n"
+  },
+  {
+    "iata": "PHR",
+    "icao": "NFND",
+    "airport_name": "pacific_harbour_airport[dapi]",
+    "location_served": "pacific_harbour_fiji\n"
+  },
+  {
+    "iata": "PHS",
+    "icao": "VTPP",
+    "airport_name": "phitsanulok_airport",
+    "location_served": "phitsanulok_thailand\n"
+  },
+  {
+    "iata": "PHT",
+    "icao": "KPHT",
+    "airport_name": "henry_county_airport",
+    "location_served": "paris_tennessee_united_states\n"
+  },
+  {
+    "iata": "PHW",
+    "icao": "FAPH",
+    "airport_name": "hendrik_van_eck_airport",
+    "location_served": "phalaborwa_south_africa\n"
+  },
+  {
+    "iata": "PHX",
+    "icao": "KPHX",
+    "airport_name": "phoenix_sky_harbor_international_airport",
+    "location_served": "phoenix_arizona_united_states\n"
+  },
+  {
+    "iata": "PHY",
+    "icao": "VTPB",
+    "airport_name": "phetchabun_airport",
+    "location_served": "phetchabun_thailand\n"
+  },
+  {
+    "iata": "PIA",
+    "icao": "KPIA",
+    "airport_name": "general_wayne_a._downing_peoria_international_airport",
+    "location_served": "peoria_illinois_united_states\n"
+  },
+  {
+    "iata": "PIB",
+    "icao": "KPIB",
+    "airport_name": "hattiesburg–laurel_regional_airport",
+    "location_served": "hattiesburg_/_laurel_mississippi_united_states\n"
+  },
+  {
+    "iata": "PIC",
+    "icao": "MBPI",
+    "airport_name": "pine_cay_airport[dapi]",
+    "location_served": "pine_cay_british_overseas_territory_of_turks_and_caicos_islands\n"
+  },
+  {
+    "iata": "PIE",
+    "icao": "KPIE",
+    "airport_name": "st._pete–clearwater_international_airport",
+    "location_served": "st._petersburg_/_clearwater_united_states\n"
+  },
+  {
+    "iata": "PIF",
+    "icao": "RCDC[2]",
+    "airport_name": "pingtung_south_airport[dapi]",
+    "location_served": "pingtung_city_taiwan\n"
+  },
+  {
+    "iata": "PIH",
+    "icao": "KPIH",
+    "airport_name": "pocatello_regional_airport",
+    "location_served": "pocatello_idaho_united_states\n"
+  },
+  {
+    "iata": "PIK",
+    "icao": "EGPK",
+    "airport_name": "glasgow_prestwick_airport",
+    "location_served": "glasgow_scotland_united_kingdom\n"
+  },
+  {
+    "iata": "PIL",
+    "icao": "SGPI",
+    "airport_name": "carlos_miguel_jiménez_airport",
+    "location_served": "pilar_paraguay\n"
+  },
+  {
+    "iata": "PIM",
+    "icao": "KPIM",
+    "airport_name": "harris_county_airport",
+    "location_served": "pine_mountain_georgia_united_states\n"
+  },
+  {
+    "iata": "PIN",
+    "icao": "SWPI",
+    "airport_name": "júlio_belém_airport",
+    "location_served": "parintins_amazonas_brazil\n"
+  },
+  {
+    "iata": "PIO",
+    "icao": "SPSO",
+    "airport_name": "capitán_fap_renán_elías_olivera_airport",
+    "location_served": "pisco_peru\n"
+  },
+  {
+    "iata": "PIP",
+    "icao": "PAPN",
+    "airport_name": "pilot_point_airport_(faa:_pnp)",
+    "location_served": "pilot_point_alaska_united_states\n"
+  },
+  {
+    "iata": "PIQ",
+    "icao": "",
+    "airport_name": "pipillipai_airport[dapi]",
+    "location_served": "pipillipai_guyana\n"
+  },
+  {
+    "iata": "PIR",
+    "icao": "KPIR",
+    "airport_name": "pierre_regional_airport",
+    "location_served": "pierre_south_dakota_united_states\n"
+  },
+  {
+    "iata": "PIS",
+    "icao": "LFBI",
+    "airport_name": "poitiers–biard_airport",
+    "location_served": "poitiers_poitou-charentes_france\n"
+  },
+  {
+    "iata": "PIT",
+    "icao": "KPIT",
+    "airport_name": "pittsburgh_international_airport",
+    "location_served": "pittsburgh_pennsylvania_united_states\n"
+  },
+  {
+    "iata": "PIU",
+    "icao": "SPUR",
+    "airport_name": "fap_captain_guillermo_concha_iberico_international_airport",
+    "location_served": "piura_peru\n"
+  },
+  {
+    "iata": "PIV",
+    "icao": "SNPX",
+    "airport_name": "pirapora_airport[dapi]",
+    "location_served": "pirapora_minas_gerais_brazil\n"
+  },
+  {
+    "iata": "PIW",
+    "icao": "CZMN",
+    "airport_name": "pikwitonei_airport[dapi]",
+    "location_served": "pikwitonei_manitoba_canada\n"
+  },
+  {
+    "iata": "PIX",
+    "icao": "LPPI",
+    "airport_name": "pico_airport",
+    "location_served": "pico_island_azores_portugal\n"
+  },
+  {
+    "iata": "PIZ",
+    "icao": "PPIZ",
+    "airport_name": "point_lay_lrrs_airport",
+    "location_served": "point_lay_alaska_united_states\n"
+  },
+  {
+    "iata": "PJA",
+    "icao": "ESUP",
+    "airport_name": "pajala_airport",
+    "location_served": "pajala_sweden\n"
+  },
+  {
+    "iata": "PJB",
+    "icao": "KPAN",
+    "airport_name": "payson_airport_(faa:_pan)",
+    "location_served": "payson_arizona_united_states\n"
+  },
+  {
+    "iata": "PJC",
+    "icao": "SGPJ",
+    "airport_name": "dr._augusto_roberto_fuster_international_airport",
+    "location_served": "pedro_juan_caballero_paraguay\n"
+  },
+  {
+    "iata": "PJG",
+    "icao": "OPPG",
+    "airport_name": "panjgur_airport",
+    "location_served": "panjgur_pakistan\n"
+  },
+  {
+    "iata": "PJM",
+    "icao": "MRPJ",
+    "airport_name": "puerto_jiménez_airport",
+    "location_served": "puerto_jiménez_costa_rica\n"
+  },
+  {
+    "iata": "PKA",
+    "icao": "PAPK",
+    "airport_name": "napaskiak_airport",
+    "location_served": "napaskiak_alaska_united_states\n"
+  },
+  {
+    "iata": "PKB",
+    "icao": "KPKB",
+    "airport_name": "mid-ohio_valley_regional_airport",
+    "location_served": "parkersburg_west_virginia_united_states\n"
+  },
+  {
+    "iata": "PKC",
+    "icao": "UHPP",
+    "airport_name": "petropavlovsk-kamchatsky_airport_(yelizovo_airport)",
+    "location_served": "petropavlovsk-kamchatsky_kamchatka_krai_russia\n"
+  },
+  {
+    "iata": "PKD",
+    "icao": "KPKD",
+    "airport_name": "park_rapids_municipal_airport_(konshok_field)",
+    "location_served": "park_rapids_minnesota_united_states\n"
+  },
+  {
+    "iata": "PKE",
+    "icao": "YPKS",
+    "airport_name": "parkes_airport[dapi]",
+    "location_served": "parkes_new_south_wales_australia\n"
+  },
+  {
+    "iata": "PKF",
+    "icao": "KPKF",
+    "airport_name": "park_falls_municipal_airport",
+    "location_served": "park_falls_wisconsin_united_states\n"
+  },
+  {
+    "iata": "PKG",
+    "icao": "WMPA",
+    "airport_name": "pangkor_airport[dapi]",
+    "location_served": "pangkor_island_perak_malaysia\n"
+  },
+  {
+    "iata": "PKH",
+    "icao": "LGHL",
+    "airport_name": "porto_cheli_airport",
+    "location_served": "porto_cheli_(portochelion)_greece\n"
+  },
+  {
+    "iata": "PKJ",
+    "icao": "MGPG",
+    "airport_name": "playa_grande_airport[dapi]",
+    "location_served": "playa_grande_guatemala\n"
+  },
+  {
+    "iata": "PKK",
+    "icao": "VYPU",
+    "airport_name": "pakokku_airport[dapi]",
+    "location_served": "pakokku_myanmar\n"
+  },
+  {
+    "iata": "PKM",
+    "icao": "",
+    "airport_name": "port_kaituma_airstrip[dapi]",
+    "location_served": "port_kaituma_guyana\n"
+  },
+  {
+    "iata": "PKN",
+    "icao": "WAOI",
+    "airport_name": "iskandar_airport[dapi]",
+    "location_served": "pangkalan_bun_(pangkalanbuun)_indonesia\n"
+  },
+  {
+    "iata": "PKO",
+    "icao": "DBBP",
+    "airport_name": "parakou_airport",
+    "location_served": "parakou_benin\n"
+  },
+  {
+    "iata": "PKP",
+    "icao": "NTGP",
+    "airport_name": "puka-puka_airport[dapi]",
+    "location_served": "puka-puka_tuamotus_french_polynesia\n"
+  },
+  {
+    "iata": "PKR",
+    "icao": "VNPK",
+    "airport_name": "pokhara_airport",
+    "location_served": "pokhara_nepal\n"
+  },
+  {
+    "iata": "PKT",
+    "icao": "YKPT",
+    "airport_name": "port_keats_airfield",
+    "location_served": "wadeye_(port_keats)_northern_territory_australia\n"
+  },
+  {
+    "iata": "PKU",
+    "icao": "WIBB",
+    "airport_name": "sultan_syarif_kasim_ii_international_airport",
+    "location_served": "pekanbaru_indonesia\n"
+  },
+  {
+    "iata": "PKV",
+    "icao": "ULOO",
+    "airport_name": "pskov_airport",
+    "location_served": "pskov_pskov_oblast_russia\n"
+  },
+  {
+    "iata": "PKW",
+    "icao": "FBSP",
+    "airport_name": "selebi-phikwe_airport",
+    "location_served": "selebi-phikwe_botswana\n"
+  },
+  {
+    "iata": "PKX",
+    "icao": "ZBAD",
+    "airport_name": "beijing_daxing_international_airport",
+    "location_served": "beijing_china\n"
+  },
+  {
+    "iata": "PKY",
+    "icao": "WAGG",
+    "airport_name": "tjilik_riwut_airport[dapi]",
+    "location_served": "palangkaraya_indonesia\n"
+  },
+  {
+    "iata": "PKZ",
+    "icao": "VLPS",
+    "airport_name": "pakse_international_airport",
+    "location_served": "pakse_laos\n"
+  },
+  {
+    "iata": "PLA",
+    "icao": "",
+    "airport_name": "planadas_airport[dapi]",
+    "location_served": "planadas_colombia\n"
+  },
+  {
+    "iata": "PLC",
+    "icao": "",
+    "airport_name": "planeta_rica_airport[dapi]",
+    "location_served": "planeta_rica_colombia\n"
+  },
+  {
+    "iata": "PLD",
+    "icao": "MRCR",
+    "airport_name": "carrillo_airport[dapi]_(playa_samara/carrillo_airport)",
+    "location_served": "sámara_/_puerto_carrillo_costa_rica\n"
+  },
+  {
+    "iata": "PLE",
+    "icao": "",
+    "airport_name": "paiela_airport",
+    "location_served": "paiela_papua_new_guinea\n"
+  },
+  {
+    "iata": "PLF",
+    "icao": "FTTP",
+    "airport_name": "pala_airport[dapi]",
+    "location_served": "pala_chad\n"
+  },
+  {
+    "iata": "PLH",
+    "icao": "EGHD",
+    "airport_name": "plymouth_city_airport",
+    "location_served": "plymouth_england_united_kingdom\n"
+  },
+  {
+    "iata": "PLI",
+    "icao": "",
+    "airport_name": "palm_island_airport[dapi]",
+    "location_served": "palm_island_saint_vincent_and_the_grenadines\n"
+  },
+  {
+    "iata": "PLJ",
+    "icao": "",
+    "airport_name": "placencia_airport",
+    "location_served": "placencia_belize\n"
+  },
+  {
+    "iata": "PLK",
+    "icao": "KPLK",
+    "airport_name": "m._graham_clark_downtown_airport",
+    "location_served": "point_lookout_missouri_united_states\n"
+  },
+  {
+    "iata": "PLL",
+    "icao": "SBMN",
+    "airport_name": "manaus_air_force_base",
+    "location_served": "manaus_amazonas_brazil\n"
+  },
+  {
+    "iata": "PLM",
+    "icao": "WIPP",
+    "airport_name": "sultan_mahmud_badaruddin_ii_international_airport",
+    "location_served": "palembang_indonesia\n"
+  },
+  {
+    "iata": "PLN",
+    "icao": "KPLN",
+    "airport_name": "pellston_regional_airport_(emmet_county)",
+    "location_served": "pellston_michigan_united_states\n"
+  },
+  {
+    "iata": "PLO",
+    "icao": "YPLC",
+    "airport_name": "port_lincoln_airport",
+    "location_served": "port_lincoln_south_australia_australia\n"
+  },
+  {
+    "iata": "PLP",
+    "icao": "MPLP",
+    "airport_name": "captain_ramon_xatruch_airport[dapi]",
+    "location_served": "la_palma_panama\n"
+  },
+  {
+    "iata": "PLQ",
+    "icao": "EYPA",
+    "airport_name": "palanga_international_airport",
+    "location_served": "palanga_lithuania\n"
+  },
+  {
+    "iata": "PLR",
+    "icao": "KPLR",
+    "airport_name": "st._clair_county_airport",
+    "location_served": "pell_city_alabama_united_states\n"
+  },
+  {
+    "iata": "PLS",
+    "icao": "MBPV",
+    "airport_name": "providenciales_international_airport",
+    "location_served": "providenciales_british_overseas_territory_of_turks_and_caicos_islands\n"
+  },
+  {
+    "iata": "PLT",
+    "icao": "SKPL",
+    "airport_name": "plato_airport[dapi]",
+    "location_served": "plato_colombia\n"
+  },
+  {
+    "iata": "PLU",
+    "icao": "SBBH",
+    "airport_name": "belo_horizonte/pampulha_–_carlos_drummond_de_andrade_airport",
+    "location_served": "belo_horizonte_minas_gerais_brazil\n"
+  },
+  {
+    "iata": "PLV",
+    "icao": "UKHP",
+    "airport_name": "poltava_airport[dapi]",
+    "location_served": "poltava_ukraine\n"
+  },
+  {
+    "iata": "PLW",
+    "icao": "WAFF",
+    "airport_name": "mutiara_airport[dapi]",
+    "location_served": "palu_indonesia\n"
+  },
+  {
+    "iata": "PLX",
+    "icao": "UASS",
+    "airport_name": "semey_airport",
+    "location_served": "semey_kazakhstan\n"
+  },
+  {
+    "iata": "PLY",
+    "icao": "",
+    "airport_name": "plymouth_municipal_airport_(faa:_cdapidapi)",
+    "location_served": "plymouth_indiana_united_states\n"
+  },
+  {
+    "iata": "PLZ",
+    "icao": "FAPE",
+    "airport_name": "port_elizabeth_airport",
+    "location_served": "port_elizabeth_south_africa\n"
+  },
+  {
+    "iata": "PMA",
+    "icao": "HTPE",
+    "airport_name": "pemba_airport[dapi]",
+    "location_served": "pemba_island_tanzania\n"
+  },
+  {
+    "iata": "PMB",
+    "icao": "KPMB",
+    "airport_name": "pembina_municipal_airport",
+    "location_served": "pembina_north_dakota_united_states\n"
+  },
+  {
+    "iata": "PMC",
+    "icao": "SCTE",
+    "airport_name": "el_tepual_airport",
+    "location_served": "puerto_montt_chile\n"
+  },
+  {
+    "iata": "PMD",
+    "icao": "KPMD",
+    "airport_name": "palmdale_regional_airport",
+    "location_served": "palmdale_california_united_states\n"
+  },
+  {
+    "iata": "PMF",
+    "icao": "LIMP",
+    "airport_name": "parma_airport_(giuseppe_verdi_airport)",
+    "location_served": "parma_emilia-romagna_italy\n"
+  },
+  {
+    "iata": "PMG",
+    "icao": "SBPP",
+    "airport_name": "ponta_porã_international_airport",
+    "location_served": "ponta_porã_mato_grosso_do_sul_brazil\n"
+  },
+  {
+    "iata": "PMH",
+    "icao": "KPMH",
+    "airport_name": "greater_portsmouth_regional_airport",
+    "location_served": "portsmouth_ohio_united_states\n"
+  },
+  {
+    "iata": "PMI",
+    "icao": "LEPA",
+    "airport_name": "palma_de_mallorca_airport",
+    "location_served": "palma_de_mallorca_balearic_islands_spain\n"
+  },
+  {
+    "iata": "PMK",
+    "icao": "YPAM",
+    "airport_name": "palm_island_airport[dapi]",
+    "location_served": "palm_island_queensland_australia\n"
+  },
+  {
+    "iata": "PML",
+    "icao": "PAAL",
+    "airport_name": "port_moller_airport_(faa:_dapiakdapi)",
+    "location_served": "cold_bay_alaska_united_states\n"
+  },
+  {
+    "iata": "PMN",
+    "icao": "",
+    "airport_name": "pumani_airport[dapi]",
+    "location_served": "pumani_papua_new_guinea\n"
+  },
+  {
+    "iata": "PMO",
+    "icao": "LICJ",
+    "airport_name": "falcone–borsellino_airport_(punta_raisi_airport)",
+    "location_served": "palermo_sicily_italy\n"
+  },
+  {
+    "iata": "PMP",
+    "icao": "",
+    "airport_name": "pimaga_airport",
+    "location_served": "pimaga_papua_new_guinea\n"
+  },
+  {
+    "iata": "PMQ",
+    "icao": "SAWP",
+    "airport_name": "perito_moreno_airport",
+    "location_served": "perito_moreno_santa_cruz_argentina\n"
+  },
+  {
+    "iata": "PMR",
+    "icao": "NZPM",
+    "airport_name": "palmerston_north_airport",
+    "location_served": "palmerston_north_new_zealand\n"
+  },
+  {
+    "iata": "PMS",
+    "icao": "OSPR",
+    "airport_name": "palmyra_airport",
+    "location_served": "palmyra_(tadmur)_syria\n"
+  },
+  {
+    "iata": "PMT",
+    "icao": "",
+    "airport_name": "paramakatoi_airstrip[dapi]",
+    "location_served": "paramakatoi_guyana\n"
+  },
+  {
+    "iata": "PMV",
+    "icao": "SVMG",
+    "airport_name": "santiago_mariño_caribbean_international_airport",
+    "location_served": "porlamar_venezuela\n"
+  },
+  {
+    "iata": "PMW",
+    "icao": "SBPJ",
+    "airport_name": "palmas–brigadeiro_lysias_rodrigues_airport",
+    "location_served": "palmas_tocantins_brazil\n"
+  },
+  {
+    "iata": "PMX",
+    "icao": "",
+    "airport_name": "metropolitan_airport[dapi]_(faa:_dapidapima)",
+    "location_served": "palmer_massachusetts_united_states\n"
+  },
+  {
+    "iata": "PMY",
+    "icao": "SAVY",
+    "airport_name": "el_tehuelche_airport",
+    "location_served": "puerto_madryn_chubut_argentina\n"
+  },
+  {
+    "iata": "PMZ",
+    "icao": "MRPM",
+    "airport_name": "palmar_sur_airport",
+    "location_served": "palmar_sur_costa_rica\n"
+  },
+  {
+    "iata": "PNA",
+    "icao": "LEPP",
+    "airport_name": "pamplona_airport",
+    "location_served": "pamplona_navarre_spain\n"
+  },
+  {
+    "iata": "PNB",
+    "icao": "SBPN",
+    "airport_name": "porto_nacional_airport[dapi]",
+    "location_served": "porto_nacional_tocantins_brazil\n"
+  },
+  {
+    "iata": "PNC",
+    "icao": "KPNC",
+    "airport_name": "ponca_city_regional_airport",
+    "location_served": "ponca_city_oklahoma_united_states\n"
+  },
+  {
+    "iata": "PND",
+    "icao": "",
+    "airport_name": "punta_gorda_airport[dapi]",
+    "location_served": "punta_gorda_belize\n"
+  },
+  {
+    "iata": "PNE",
+    "icao": "KPNE",
+    "airport_name": "northeast_philadelphia_airport",
+    "location_served": "philadelphia_pennsylvania_united_states\n"
+  },
+  {
+    "iata": "PNG",
+    "icao": "SSPG",
+    "airport_name": "santos_dumont_airport[dapi]",
+    "location_served": "paranaguá_paraná_brazil\n"
+  },
+  {
+    "iata": "PNH",
+    "icao": "VDPP",
+    "airport_name": "phnom_penh_international_airport",
+    "location_served": "phnom_penh_cambodia\n"
+  },
+  {
+    "iata": "PNI",
+    "icao": "PTPN",
+    "airport_name": "pohnpei_international_airport",
+    "location_served": "pohnpei_federated_states_of_micronesia\n"
+  },
+  {
+    "iata": "PNJ",
+    "icao": "",
+    "airport_name": "penglai_shahekou_airport[dapi]",
+    "location_served": "penglai_shandong_china\n"
+  },
+  {
+    "iata": "PNK",
+    "icao": "WIOO",
+    "airport_name": "supadio_airport",
+    "location_served": "pontianak_indonesia\n"
+  },
+  {
+    "iata": "PNL",
+    "icao": "LICG",
+    "airport_name": "pantelleria_airport[dapi]",
+    "location_served": "pantelleria_sicily_italy\n"
+  },
+  {
+    "iata": "PNN",
+    "icao": "KPNN",
+    "airport_name": "princeton_municipal_airport",
+    "location_served": "princeton_maine_united_states\n"
+  },
+  {
+    "iata": "PNP",
+    "icao": "AYGR",
+    "airport_name": "girua_airport[dapi]",
+    "location_served": "popondetta_papua_new_guinea\n"
+  },
+  {
+    "iata": "PNQ",
+    "icao": "VAPO",
+    "airport_name": "pune_airport",
+    "location_served": "pune_maharashtra_india\n"
+  },
+  {
+    "iata": "PNR",
+    "icao": "FCPP",
+    "airport_name": "pointe_noire_airport",
+    "location_served": "pointe-noire_republic_of_the_congo\n"
+  },
+  {
+    "iata": "PNS",
+    "icao": "KPNS",
+    "airport_name": "pensacola_international_airport",
+    "location_served": "pensacola_florida_united_states\n"
+  },
+  {
+    "iata": "PNT",
+    "icao": "SCNT",
+    "airport_name": "teniente_julio_gallardo_airport",
+    "location_served": "puerto_natales_chile\n"
+  },
+  {
+    "iata": "PNU",
+    "icao": "",
+    "airport_name": "panguitch_municipal_airport_(faa:_udapidapi)",
+    "location_served": "panguitch_utah_united_states\n"
+  },
+  {
+    "iata": "PNV",
+    "icao": "EYPP",
+    "airport_name": "panevėžys_air_base[dapi]_(pajuostis_airport)",
+    "location_served": "panevėžys_lithuania\n"
+  },
+  {
+    "iata": "PNX",
+    "icao": "KGYI",
+    "airport_name": "north_texas_regional_airport_(faa:_gyi)",
+    "location_served": "sherman_/_denison_texas_united_states\n"
+  },
+  {
+    "iata": "PNY",
+    "icao": "VOTY",
+    "airport_name": "puducherry_airport",
+    "location_served": "pondicherry_puducherry_india\n"
+  },
+  {
+    "iata": "PNZ",
+    "icao": "SBPL",
+    "airport_name": "senador_nilo_coelho_airport",
+    "location_served": "petrolina_pernambuco_brazil\n"
+  },
+  {
+    "iata": "POA",
+    "icao": "SBPA",
+    "airport_name": "salgado_filho_international_airport",
+    "location_served": "porto_alegre_rio_grande_do_sul_brazil\n"
+  },
+  {
+    "iata": "POB",
+    "icao": "KPOB",
+    "airport_name": "pope_field_(pope_afb)",
+    "location_served": "fort_bragg_north_carolina_united_states\n"
+  },
+  {
+    "iata": "POC",
+    "icao": "KPOC",
+    "airport_name": "brackett_field",
+    "location_served": "la_verne_california_united_states\n"
+  },
+  {
+    "iata": "POD",
+    "icao": "GOSP",
+    "airport_name": "podor_airport",
+    "location_served": "podor_senegal\n"
+  },
+  {
+    "iata": "POE",
+    "icao": "KPOE",
+    "airport_name": "polk_army_airfield",
+    "location_served": "fort_polk_louisiana_united_states\n"
+  },
+  {
+    "iata": "POF",
+    "icao": "KPOF",
+    "airport_name": "poplar_bluff_municipal_airport",
+    "location_served": "poplar_bluff_missouri_united_states\n"
+  },
+  {
+    "iata": "POG",
+    "icao": "FOOG",
+    "airport_name": "port-gentil_international_airport",
+    "location_served": "port-gentil_gabon\n"
+  },
+  {
+    "iata": "POH",
+    "icao": "KPOH",
+    "airport_name": "pocahontas_municipal_airport",
+    "location_served": "pocahontas_iowa_united_states\n"
+  },
+  {
+    "iata": "POI",
+    "icao": "SLPO",
+    "airport_name": "captain_nicolas_rojas_airport[dapi]",
+    "location_served": "potosí_bolivia\n"
+  },
+  {
+    "iata": "POJ",
+    "icao": "SNPD",
+    "airport_name": "pedro_pereira_dos_santos_airport",
+    "location_served": "patos_de_minas_minas_gerais_brazil\n"
+  },
+  {
+    "iata": "POL",
+    "icao": "FQPB",
+    "airport_name": "pemba_airport",
+    "location_served": "pemba_mozambique\n"
+  },
+  {
+    "iata": "POM",
+    "icao": "AYPY",
+    "airport_name": "jacksons_international_airport",
+    "location_served": "port_moresby_papua_new_guinea\n"
+  },
+  {
+    "iata": "PON",
+    "icao": "MGPP",
+    "airport_name": "poptún_airport[dapi]",
+    "location_served": "poptún_guatemala\n"
+  },
+  {
+    "iata": "POO",
+    "icao": "SBPC",
+    "airport_name": "poços_de_caldas_airport[dapi]",
+    "location_served": "poços_de_caldas_minas_gerais_brazil\n"
+  },
+  {
+    "iata": "POP",
+    "icao": "MDPP",
+    "airport_name": "gregorio_luperón_international_airport",
+    "location_served": "san_felipe_de_puerto_plata_dominican_republic\n"
+  },
+  {
+    "iata": "POR",
+    "icao": "EFPO",
+    "airport_name": "pori_airport",
+    "location_served": "pori_finland\n"
+  },
+  {
+    "iata": "POS",
+    "icao": "TTPP",
+    "airport_name": "piarco_international_airport",
+    "location_served": "port_of_spain_trinidad_and_tobago\n"
+  },
+  {
+    "iata": "POT",
+    "icao": "MKKJ",
+    "airport_name": "ken_jones_aerodrome",
+    "location_served": "port_antonio_jamaica\n"
+  },
+  {
+    "iata": "POU",
+    "icao": "KPOU",
+    "airport_name": "dutchess_county_airport",
+    "location_served": "poughkeepsie_new_york_united_states\n"
+  },
+  {
+    "iata": "POV",
+    "icao": "LZPW",
+    "airport_name": "prešov_air_base[dapi]",
+    "location_served": "prešov_slovakia\n"
+  },
+  {
+    "iata": "POW",
+    "icao": "LJPZ",
+    "airport_name": "portorož_airport",
+    "location_served": "portorož_slovenia\n"
+  },
+  {
+    "iata": "POX",
+    "icao": "LFPT",
+    "airport_name": "pontoise_–_cormeilles_aerodrome",
+    "location_served": "paris_île-de-france_france\n"
+  },
+  {
+    "iata": "POY",
+    "icao": "KPOY",
+    "airport_name": "powell_municipal_airport",
+    "location_served": "powell_/_lovell_wyoming_united_states\n"
+  },
+  {
+    "iata": "POZ",
+    "icao": "EPPO",
+    "airport_name": "poznań–ławica_airport",
+    "location_served": "poznań_poland\n"
+  },
+  {
+    "iata": "PPA",
+    "icao": "KPPA",
+    "airport_name": "perry_lefors_field",
+    "location_served": "pampa_texas_united_states\n"
+  },
+  {
+    "iata": "PPB",
+    "icao": "SBDN",
+    "airport_name": "presidente_prudente_airport",
+    "location_served": "presidente_prudente_são_paulo_brazil\n"
+  },
+  {
+    "iata": "PPC",
+    "icao": "PAPR",
+    "airport_name": "prospect_creek_airport",
+    "location_served": "prospect_creek_alaska_united_states\n"
+  },
+  {
+    "iata": "PPE",
+    "icao": "MMPE",
+    "airport_name": "puerto_peñasco_international_airport",
+    "location_served": "puerto_peñasco_sonora_mexico\n"
+  },
+  {
+    "iata": "PPF",
+    "icao": "KPPF",
+    "airport_name": "tri-city_airport",
+    "location_served": "parsons_kansas_united_states\n"
+  },
+  {
+    "iata": "PPG",
+    "icao": "NSTU",
+    "airport_name": "pago_pago_international_airport",
+    "location_served": "pago_pago_american_samoa\n"
+  },
+  {
+    "iata": "PPH",
+    "icao": "",
+    "airport_name": "parai-tepuí_airport[dapi]",
+    "location_served": "parai-tepuí_(peraitepuy)_venezuela\n"
+  },
+  {
+    "iata": "PPI",
+    "icao": "YPIR",
+    "airport_name": "port_pirie_airport",
+    "location_served": "port_pirie_south_australia_australia\n"
+  },
+  {
+    "iata": "PPJ",
+    "icao": "WIIG",
+    "airport_name": "panjang_island_airport[dapi]",
+    "location_served": "panjang_island_indonesia\n"
+  },
+  {
+    "iata": "PPK",
+    "icao": "UACP",
+    "airport_name": "petropavl_airport",
+    "location_served": "petropavl_(petropavlovsk)_kazakhstan\n"
+  },
+  {
+    "iata": "PPL",
+    "icao": "VNPL",
+    "airport_name": "phaplu_airport",
+    "location_served": "phaphlu_nepal\n"
+  },
+  {
+    "iata": "PPM",
+    "icao": "KPMP",
+    "airport_name": "pompano_beach_airpark_(faa:_pmp)",
+    "location_served": "pompano_beach_florida_united_states\n"
+  },
+  {
+    "iata": "PPN",
+    "icao": "SKPP",
+    "airport_name": "guillermo_león_valencia_airport",
+    "location_served": "popayán_colombia\n"
+  },
+  {
+    "iata": "PPP",
+    "icao": "YBPN",
+    "airport_name": "whitsunday_coast_airport",
+    "location_served": "proserpine_queensland_australia\n"
+  },
+  {
+    "iata": "PPQ",
+    "icao": "NZPP",
+    "airport_name": "kapiti_coast_airport",
+    "location_served": "paraparaumu_beach_new_zealand\n"
+  },
+  {
+    "iata": "PPR",
+    "icao": "WIDE",
+    "airport_name": "tuanku_tambusai_airport[dapi]",
+    "location_served": "pasir_pangaraian_(pasir_pangarayan)_indonesia\n"
+  },
+  {
+    "iata": "PPS",
+    "icao": "RPVP",
+    "airport_name": "puerto_princesa_international_airport",
+    "location_served": "puerto_princesa_philippines\n"
+  },
+  {
+    "iata": "PPT",
+    "icao": "NTAA",
+    "airport_name": "fa'a'ā_international_airport",
+    "location_served": "papeete_tahiti_french_polynesia\n"
+  },
+  {
+    "iata": "PPU",
+    "icao": "VYPP",
+    "airport_name": "papun_airport[dapi]",
+    "location_served": "papun_myanmar\n"
+  },
+  {
+    "iata": "PPV",
+    "icao": "",
+    "airport_name": "port_protection_seaplane_base_(faa:_dapidapip)",
+    "location_served": "port_protection_alaska_united_states\n"
+  },
+  {
+    "iata": "PPW",
+    "icao": "EGEP",
+    "airport_name": "papa_westray_airport",
+    "location_served": "papa_westray_scotland_united_kingdom\n"
+  },
+  {
+    "iata": "PPX",
+    "icao": "",
+    "airport_name": "param_airport[dapi]",
+    "location_served": "param_papua_new_guinea\n"
+  },
+  {
+    "iata": "PPY",
+    "icao": "SNZA",
+    "airport_name": "pouso_alegre_airport[dapi]",
+    "location_served": "pouso_alegre_minas_gerais_brazil\n"
+  },
+  {
+    "iata": "PPZ",
+    "icao": "",
+    "airport_name": "puerto_páez_airport[dapi]",
+    "location_served": "puerto_páez_venezuela\n"
+  },
+  {
+    "iata": "PQC",
+    "icao": "VVPQ",
+    "airport_name": "phu_quoc_international_airport",
+    "location_served": "phu_quoc_island_vietnam\n"
+  },
+  {
+    "iata": "PQD",
+    "icao": "",
+    "airport_name": "batticaloa_seaplane_base[dapi]",
+    "location_served": "batticaloa_sri_lanka\n"
+  },
+  {
+    "iata": "PQI",
+    "icao": "KPQI",
+    "airport_name": "northern_maine_regional_airport_at_presque_isle",
+    "location_served": "presque_isle_maine_united_states\n"
+  },
+  {
+    "iata": "PQM",
+    "icao": "MMPQ",
+    "airport_name": "palenque_international_airport[dapi]",
+    "location_served": "palenque_chiapas_mexico\n"
+  },
+  {
+    "iata": "PQQ",
+    "icao": "YPMQ",
+    "airport_name": "port_macquarie_airport",
+    "location_served": "port_macquarie_new_south_wales_australia\n"
+  },
+  {
+    "iata": "PQS",
+    "icao": "",
+    "airport_name": "pilot_station_airport_(faa:_dapiak)",
+    "location_served": "pilot_station_alaska_united_states\n"
+  },
+  {
+    "iata": "PRA",
+    "icao": "SAAP",
+    "airport_name": "general_justo_josé_de_urquiza_airport",
+    "location_served": "paraná_entre_ríos_argentina\n"
+  },
+  {
+    "iata": "PRB",
+    "icao": "KPRB",
+    "airport_name": "paso_robles_municipal_airport",
+    "location_served": "paso_robles_california_united_states\n"
+  },
+  {
+    "iata": "PRC",
+    "icao": "KPRC",
+    "airport_name": "ernest_a._love_field",
+    "location_served": "prescott_arizona_united_states\n"
+  },
+  {
+    "iata": "PRD",
+    "icao": "YPDO",
+    "airport_name": "pardoo_airport[dapi]",
+    "location_served": "pardoo_station_western_australia_australia\n"
+  },
+  {
+    "iata": "PRE",
+    "icao": "",
+    "airport_name": "pore_airport[dapi]",
+    "location_served": "pore_colombia\n"
+  },
+  {
+    "iata": "PRG",
+    "icao": "LKPR",
+    "airport_name": "václav_havel_airport_prague",
+    "location_served": "prague_czech_republic\n"
+  },
+  {
+    "iata": "PRH",
+    "icao": "VTCP",
+    "airport_name": "phrae_airport",
+    "location_served": "phrae_thailand\n"
+  },
+  {
+    "iata": "PRI",
+    "icao": "FSPP",
+    "airport_name": "praslin_island_airport",
+    "location_served": "praslin_island_seychelles\n"
+  },
+  {
+    "iata": "PRK",
+    "icao": "FAPK",
+    "airport_name": "prieska_airport[dapi]",
+    "location_served": "prieska_south_africa\n"
+  },
+  {
+    "iata": "PRM",
+    "icao": "LPPM",
+    "airport_name": "portimão_airport",
+    "location_served": "portimão_portugal\n"
+  },
+  {
+    "iata": "PRN",
+    "icao": "BKPR",
+    "airport_name": "pristina_international_airport",
+    "location_served": "pristina_kosovo\n"
+  },
+  {
+    "iata": "PRO",
+    "icao": "KPRO",
+    "airport_name": "perry_municipal_airport",
+    "location_served": "perry_iowa_united_states\n"
+  },
+  {
+    "iata": "PRP",
+    "icao": "LFKO",
+    "airport_name": "propriano_airport",
+    "location_served": "propriano_corsica_france\n"
+  },
+  {
+    "iata": "PRQ",
+    "icao": "SARS",
+    "airport_name": "presidencia_roque_sáenz_peña_airport",
+    "location_served": "presidencia_roque_sáenz_peña_chaco_argentina\n"
+  },
+  {
+    "iata": "PRR",
+    "icao": "SYPR",
+    "airport_name": "paruima_airport",
+    "location_served": "paruima_guyana\n"
+  },
+  {
+    "iata": "PRS",
+    "icao": "AGGP",
+    "airport_name": "parasi_airport[dapi]",
+    "location_served": "parasi_solomon_islands\n"
+  },
+  {
+    "iata": "PRU",
+    "icao": "VYPY",
+    "airport_name": "pyay_airport[dapi]",
+    "location_served": "pyay_(prome)_myanmar\n"
+  },
+  {
+    "iata": "PRV",
+    "icao": "LKPO",
+    "airport_name": "přerov_airport[dapi]",
+    "location_served": "přerov_czech_republic\n"
+  },
+  {
+    "iata": "PRW",
+    "icao": "",
+    "airport_name": "prentice_airport_(faa:_dapindapi)",
+    "location_served": "prentice_wisconsin_united_states\n"
+  },
+  {
+    "iata": "PRX",
+    "icao": "KPRX",
+    "airport_name": "cox_field",
+    "location_served": "paris_texas_united_states\n"
+  },
+  {
+    "iata": "PRY",
+    "icao": "FAWB",
+    "airport_name": "wonderboom_airport",
+    "location_served": "pretoria_south_africa\n"
+  },
+  {
+    "iata": "PRZ",
+    "icao": "",
+    "airport_name": "prineville_airport_(faa:_sdapidapi)",
+    "location_served": "prineville_oregon_united_states\n"
+  },
+  {
+    "iata": "PSA",
+    "icao": "LIRP",
+    "airport_name": "pisa_international_airport_(galileo_galilei_airport)",
+    "location_served": "pisa_tuscany_italy\n"
+  },
+  {
+    "iata": "PSB",
+    "icao": "",
+    "airport_name": "bellefonte_airport[dapi]_(faa:_ndapidapi)",
+    "location_served": "philipsburg_pennsylvania_united_states\n"
+  },
+  {
+    "iata": "PSC",
+    "icao": "KPSC",
+    "airport_name": "tri-cities_airport",
+    "location_served": "pasco_washington_united_states\n"
+  },
+  {
+    "iata": "PSD",
+    "icao": "HEPS",
+    "airport_name": "port_said_airport[dapi]",
+    "location_served": "port_said_egypt\n"
+  },
+  {
+    "iata": "PSE",
+    "icao": "TJPS",
+    "airport_name": "mercedita_airport",
+    "location_served": "ponce_puerto_rico\n"
+  },
+  {
+    "iata": "PSF",
+    "icao": "KPSF",
+    "airport_name": "pittsfield_municipal_airport",
+    "location_served": "pittsfield_massachusetts_united_states\n"
+  },
+  {
+    "iata": "PSG",
+    "icao": "PAPG",
+    "airport_name": "petersburg_james_a._johnson_airport",
+    "location_served": "petersburg_alaska_united_states\n"
+  },
+  {
+    "iata": "PSH",
+    "icao": "EDXO",
+    "airport_name": "sankt_peter-ording_airport[dapi]",
+    "location_served": "sankt_peter-ording_schleswig-holstein_germany\n"
+  },
+  {
+    "iata": "PSI",
+    "icao": "OPPI",
+    "airport_name": "pasni_airport[dapi]",
+    "location_served": "pasni_pakistan\n"
+  },
+  {
+    "iata": "PSJ",
+    "icao": "WAMP",
+    "airport_name": "kasiguncu_airport[dapi]",
+    "location_served": "poso_indonesia\n"
+  },
+  {
+    "iata": "PSK",
+    "icao": "KPSK",
+    "airport_name": "new_river_valley_airport",
+    "location_served": "dublin_virginia_united_states\n"
+  },
+  {
+    "iata": "PSL",
+    "icao": "EGPT",
+    "airport_name": "perth_airport_(scone_airport)",
+    "location_served": "perth_scotland_united_kingdom\n"
+  },
+  {
+    "iata": "PSM",
+    "icao": "KPSM",
+    "airport_name": "portsmouth_international_airport_at_pease",
+    "location_served": "portsmouth_new_hampshire_united_states\n"
+  },
+  {
+    "iata": "PSN",
+    "icao": "KPSN",
+    "airport_name": "palestine_municipal_airport",
+    "location_served": "palestine_texas_united_states\n"
+  },
+  {
+    "iata": "PSO",
+    "icao": "SKPS",
+    "airport_name": "antonio_nariño_airport",
+    "location_served": "pasto_colombia\n"
+  },
+  {
+    "iata": "PSP",
+    "icao": "KPSP",
+    "airport_name": "palm_springs_international_airport",
+    "location_served": "palm_springs_california_united_states\n"
+  },
+  {
+    "iata": "PSQ",
+    "icao": "",
+    "airport_name": "philadelphia_seaplane_base_(faa:_dapindapi)",
+    "location_served": "philadelphia_pennsylvania_united_states\n"
+  },
+  {
+    "iata": "PSR",
+    "icao": "LIBP",
+    "airport_name": "abruzzo_airport",
+    "location_served": "pescara_abruzzo_italy\n"
+  },
+  {
+    "iata": "PSS",
+    "icao": "SARP",
+    "airport_name": "libertador_general_josé_de_san_martín_airport",
+    "location_served": "posadas_misiones_argentina\n"
+  },
+  {
+    "iata": "PSU",
+    "icao": "WIOP",
+    "airport_name": "pangsuma_airport[dapi]",
+    "location_served": "putussibau_indonesia\n"
+  },
+  {
+    "iata": "PSV",
+    "icao": "",
+    "airport_name": "papa_stour_airstrip[dapi]",
+    "location_served": "papa_stour_scotland_united_kingdom\n"
+  },
+  {
+    "iata": "PSW",
+    "icao": "SNOS",
+    "airport_name": "passos_airport[dapi]",
+    "location_served": "passos_minas_gerais_brazil\n"
+  },
+  {
+    "iata": "PSX",
+    "icao": "KPSX",
+    "airport_name": "palacios_municipal_airport",
+    "location_served": "palacios_texas_united_states\n"
+  },
+  {
+    "iata": "PSY",
+    "icao": "SFAL",
+    "airport_name": "port_stanley_airport",
+    "location_served": "stanley_british_overseas_territory_of_falkland_islands\n"
+  },
+  {
+    "iata": "PSZ",
+    "icao": "SLPS",
+    "airport_name": "puerto_suárez_international_airport",
+    "location_served": "puerto_suárez_bolivia\n"
+  },
+  {
+    "iata": "PTA",
+    "icao": "PALJ",
+    "airport_name": "port_alsworth_airport_(faa:_tpo)",
+    "location_served": "port_alsworth_alaska_united_states\n"
+  },
+  {
+    "iata": "PTB",
+    "icao": "KPTB",
+    "airport_name": "dinwiddie_county_airport",
+    "location_served": "petersburg_virginia_united_states\n"
+  },
+  {
+    "iata": "PTC",
+    "icao": "",
+    "airport_name": "port_alice_seaplane_base_(faa:_dapidapik)",
+    "location_served": "port_alice_alaska_united_states\n"
+  },
+  {
+    "iata": "PTD",
+    "icao": "PAAP",
+    "airport_name": "port_alexander_seaplane_base_(faa:_ahp)",
+    "location_served": "port_alexander_alaska_united_states\n"
+  },
+  {
+    "iata": "PTF",
+    "icao": "NFFO",
+    "airport_name": "malolo_lailai_airport[dapi]",
+    "location_served": "malolo_lailai_fiji\n"
+  },
+  {
+    "iata": "PTG",
+    "icao": "FAPP",
+    "airport_name": "polokwane_international_airport",
+    "location_served": "polokwane_south_africa\n"
+  },
+  {
+    "iata": "PTH",
+    "icao": "PAPH",
+    "airport_name": "port_heiden_airport",
+    "location_served": "port_heiden_alaska_united_states\n"
+  },
+  {
+    "iata": "PTJ",
+    "icao": "YPOD",
+    "airport_name": "portland_airport",
+    "location_served": "portland_victoria_australia\n"
+  },
+  {
+    "iata": "PTK",
+    "icao": "KPTK",
+    "airport_name": "oakland_county_international_airport",
+    "location_served": "pontiac_michigan_united_states\n"
+  },
+  {
+    "iata": "PTM",
+    "icao": "SVPT",
+    "airport_name": "palmarito_airport[dapi]",
+    "location_served": "palmarito_venezuela\n"
+  },
+  {
+    "iata": "PTN",
+    "icao": "KPTN",
+    "airport_name": "harry_p._williams_memorial_airport",
+    "location_served": "patterson_louisiana_united_states\n"
+  },
+  {
+    "iata": "PTO",
+    "icao": "SSPB",
+    "airport_name": "juvenal_loureiro_cardoso_airport[dapi]",
+    "location_served": "pato_branco_paraná_brazil\n"
+  },
+  {
+    "iata": "PTP",
+    "icao": "TFFR",
+    "airport_name": "pointe-à-pitre_international_airport_(le_raizet_airport)",
+    "location_served": "pointe-à-pitre_guadeloupe\n"
+  },
+  {
+    "iata": "PTQ",
+    "icao": "SNMZ",
+    "airport_name": "porto_de_moz_airport[dapi]",
+    "location_served": "porto_de_moz_pará_brazil\n"
+  },
+  {
+    "iata": "PTS",
+    "icao": "KPTS",
+    "airport_name": "atkinson_municipal_airport",
+    "location_served": "pittsburg_kansas_united_states\n"
+  },
+  {
+    "iata": "PTT",
+    "icao": "KPTT",
+    "airport_name": "pratt_regional_airport",
+    "location_served": "pratt_kansas_united_states\n"
+  },
+  {
+    "iata": "PTU",
+    "icao": "PAPM",
+    "airport_name": "platinum_airport",
+    "location_served": "platinum_alaska_united_states\n"
+  },
+  {
+    "iata": "PTV",
+    "icao": "KPTV",
+    "airport_name": "porterville_municipal_airport",
+    "location_served": "porterville_california_united_states\n"
+  },
+  {
+    "iata": "PTW",
+    "icao": "KPTW",
+    "airport_name": "heritage_field",
+    "location_served": "pottstown_pennsylvania_united_states\n"
+  },
+  {
+    "iata": "PTX",
+    "icao": "SKPI",
+    "airport_name": "contador_airport[dapi]",
+    "location_served": "pitalito_colombia\n"
+  },
+  {
+    "iata": "PTY",
+    "icao": "MPTO",
+    "airport_name": "tocumen_international_airport",
+    "location_served": "panama_city_panama\n"
+  },
+  {
+    "iata": "PTZ",
+    "icao": "SEPA",
+    "airport_name": "río_amazonas_airport",
+    "location_served": "shell_mera_ecuador\n"
+  },
+  {
+    "iata": "PUA",
+    "icao": "",
+    "airport_name": "puas_airport[dapi]",
+    "location_served": "puas_papua_new_guinea\n"
+  },
+  {
+    "iata": "PUB",
+    "icao": "KPUB",
+    "airport_name": "pueblo_memorial_airport",
+    "location_served": "pueblo_colorado_united_states\n"
+  },
+  {
+    "iata": "PUC",
+    "icao": "KPUC",
+    "airport_name": "carbon_county_regional_airport",
+    "location_served": "price_utah_united_states\n"
+  },
+  {
+    "iata": "PUD",
+    "icao": "SAWD",
+    "airport_name": "puerto_deseado_airport",
+    "location_served": "puerto_deseado_santa_cruz_argentina\n"
+  },
+  {
+    "iata": "PUE",
+    "icao": "MPOA",
+    "airport_name": "puerto_obaldia_airport[dapi]",
+    "location_served": "puerto_obaldía_panama\n"
+  },
+  {
+    "iata": "PUF",
+    "icao": "LFBP",
+    "airport_name": "pau_pyrénées_airport",
+    "location_served": "pau_aquitaine_france\n"
+  },
+  {
+    "iata": "PUG",
+    "icao": "YPAG",
+    "airport_name": "port_augusta_airport[dapi]",
+    "location_served": "port_augusta_south_australia_australia\n"
+  },
+  {
+    "iata": "PUI",
+    "icao": "",
+    "airport_name": "pureni_airport",
+    "location_served": "pureni_papua_new_guinea\n"
+  },
+  {
+    "iata": "PUJ",
+    "icao": "MDPC",
+    "airport_name": "punta_cana_international_airport",
+    "location_served": "punta_cana_dominican_republic\n"
+  },
+  {
+    "iata": "PUK",
+    "icao": "NTGQ",
+    "airport_name": "pukarua_airport",
+    "location_served": "pukarua_tuamotus_french_polynesia\n"
+  },
+  {
+    "iata": "PUL",
+    "icao": "",
+    "airport_name": "port_of_poulsbo_marina_moorage_seaplane_base_(faa:_dapidapiq)",
+    "location_served": "poulsbo_washington_united_states\n"
+  },
+  {
+    "iata": "PUM",
+    "icao": "WAWP",
+    "airport_name": "sangia_nibandera_airport[dapi]",
+    "location_served": "kolaka_indonesia\n"
+  },
+  {
+    "iata": "PUN",
+    "icao": "FZOP",
+    "airport_name": "punia_airport[dapi]",
+    "location_served": "punia_democratic_republic_of_the_congo\n"
+  },
+  {
+    "iata": "PUP",
+    "icao": "DFCP",
+    "airport_name": "pô_airport",
+    "location_served": "pô_burkina_faso\n"
+  },
+  {
+    "iata": "PUQ",
+    "icao": "SCCI",
+    "airport_name": "presidente_carlos_ibáñez_del_campo_international_airport",
+    "location_served": "punta_arenas_chile\n"
+  },
+  {
+    "iata": "PUR",
+    "icao": "SLPR",
+    "airport_name": "puerto_rico_airport[dapi]",
+    "location_served": "puerto_rico_bolivia\n"
+  },
+  {
+    "iata": "PUS",
+    "icao": "RKPK",
+    "airport_name": "gimhae_international_airport",
+    "location_served": "busan_south_korea\n"
+  },
+  {
+    "iata": "PUT",
+    "icao": "VOPN",
+    "airport_name": "sri_sathya_sai_airport[dapi]",
+    "location_served": "puttaparthi_andhra_pradesh_india\n"
+  },
+  {
+    "iata": "PUU",
+    "icao": "SKAS",
+    "airport_name": "tres_de_mayo_airport",
+    "location_served": "puerto_asís_colombia\n"
+  },
+  {
+    "iata": "PUV",
+    "icao": "NWWP",
+    "airport_name": "malabou_airport[dapi]",
+    "location_served": "poum_new_caledonia\n"
+  },
+  {
+    "iata": "PUW",
+    "icao": "KPUW",
+    "airport_name": "pullman–moscow_regional_airport",
+    "location_served": "pullman_/_moscow_(id)_washington_united_states\n"
+  },
+  {
+    "iata": "PUX",
+    "icao": "SCPV",
+    "airport_name": "el_mirador_airport[dapi]",
+    "location_served": "puerto_varas_chile\n"
+  },
+  {
+    "iata": "PUY",
+    "icao": "LDPL",
+    "airport_name": "pula_airport",
+    "location_served": "pula_croatia\n"
+  },
+  {
+    "iata": "PUZ",
+    "icao": "MNPC",
+    "airport_name": "puerto_cabezas_airport",
+    "location_served": "puerto_cabezas_nicaragua\n"
+  },
+  {
+    "iata": "PVA",
+    "icao": "SKPV",
+    "airport_name": "el_embrujo_airport",
+    "location_served": "providencia_island_colombia\n"
+  },
+  {
+    "iata": "PVC",
+    "icao": "KPVC",
+    "airport_name": "provincetown_municipal_airport",
+    "location_served": "provincetown_massachusetts_united_states\n"
+  },
+  {
+    "iata": "PVD",
+    "icao": "KPVD",
+    "airport_name": "theodore_francis_green_state_airport",
+    "location_served": "providence_rhode_island_united_states\n"
+  },
+  {
+    "iata": "PVE",
+    "icao": "MPVR",
+    "airport_name": "el_porvenir_airport[dapi]",
+    "location_served": "el_porvenir_panama\n"
+  },
+  {
+    "iata": "PVF",
+    "icao": "KPVF",
+    "airport_name": "placerville_airport",
+    "location_served": "placerville_california_united_states\n"
+  },
+  {
+    "iata": "PVG",
+    "icao": "ZSPD",
+    "airport_name": "shanghai_pudong_international_airport",
+    "location_served": "shanghai_china\n"
+  },
+  {
+    "iata": "PVH",
+    "icao": "SBPV",
+    "airport_name": "governador_jorge_teixeira_de_oliveira_international_airport",
+    "location_served": "porto_velho_rondônia_brazil\n"
+  },
+  {
+    "iata": "PVI",
+    "icao": "SSPI",
+    "airport_name": "edu_chaves_airport[dapi]",
+    "location_served": "paranavaí_paraná_brazil\n"
+  },
+  {
+    "iata": "PVK",
+    "icao": "LGPZ",
+    "airport_name": "aktion_national_airport",
+    "location_served": "preveza_/_lefkada_greece\n"
+  },
+  {
+    "iata": "PVL",
+    "icao": "KPBX",
+    "airport_name": "pike_county_airport[dapi]_(faa:_pbx)",
+    "location_served": "pikeville_kentucky_united_states\n"
+  },
+  {
+    "iata": "PVO",
+    "icao": "SEPV",
+    "airport_name": "reales_tamarindos_airport",
+    "location_served": "portoviejo_ecuador\n"
+  },
+  {
+    "iata": "PVR",
+    "icao": "MMPR",
+    "airport_name": "licenciado_gustavo_díaz_ordaz_international_airport",
+    "location_served": "puerto_vallarta_jalisco_mexico\n"
+  },
+  {
+    "iata": "PVS",
+    "icao": "UHMD",
+    "airport_name": "provideniya_bay_airport",
+    "location_served": "provideniya_chukotka_russia\n"
+  },
+  {
+    "iata": "PVU",
+    "icao": "KPVU",
+    "airport_name": "provo_municipal_airport",
+    "location_served": "provo_utah_united_states\n"
+  },
+  {
+    "iata": "PVW",
+    "icao": "KPVW",
+    "airport_name": "hale_county_airport",
+    "location_served": "plainview_texas_united_states\n"
+  },
+  {
+    "iata": "PWA",
+    "icao": "KPWA",
+    "airport_name": "wiley_post_airport",
+    "location_served": "oklahoma_city_oklahoma_united_states\n"
+  },
+  {
+    "iata": "PWD",
+    "icao": "KPWD",
+    "airport_name": "sher-wood_airport",
+    "location_served": "plentywood_montana_united_states\n"
+  },
+  {
+    "iata": "PWE",
+    "icao": "UHMP",
+    "airport_name": "pevek_airport",
+    "location_served": "pevek_chukotka_russia\n"
+  },
+  {
+    "iata": "PWI",
+    "icao": "",
+    "airport_name": "beles_airport[dapi]",
+    "location_served": "pawi_ethiopia\n"
+  },
+  {
+    "iata": "PWK",
+    "icao": "KPWK",
+    "airport_name": "chicago_executive_airport",
+    "location_served": "chicago_illinois_united_states\n"
+  },
+  {
+    "iata": "PWL",
+    "icao": "WICP",
+    "airport_name": "wirasaba_airport",
+    "location_served": "purwokerto_indonesia\n"
+  },
+  {
+    "iata": "PWM",
+    "icao": "KPWM",
+    "airport_name": "portland_international_jetport",
+    "location_served": "portland_maine_united_states\n"
+  },
+  {
+    "iata": "PWN",
+    "icao": "MYCP",
+    "airport_name": "pitts_town_airport[dapi]",
+    "location_served": "pitts_town_crooked_island_bahamas\n"
+  },
+  {
+    "iata": "PWO",
+    "icao": "FZQC",
+    "airport_name": "pweto_airport[dapi]",
+    "location_served": "pweto_democratic_republic_of_the_congo\n"
+  },
+  {
+    "iata": "PWQ",
+    "icao": "UASP",
+    "airport_name": "pavlodar_airport",
+    "location_served": "pavlodar_kazakhstan\n"
+  },
+  {
+    "iata": "PWR",
+    "icao": "",
+    "airport_name": "port_walter_seaplane_base[dapi]",
+    "location_served": "port_walter_alaska_united_states\n"
+  },
+  {
+    "iata": "PWT",
+    "icao": "KPWT",
+    "airport_name": "bremerton_national_airport",
+    "location_served": "bremerton_washington_united_states\n"
+  },
+  {
+    "iata": "PWY",
+    "icao": "KPNA",
+    "airport_name": "ralph_wenz_field_(faa:_pna)",
+    "location_served": "pinedale_wyoming_united_states\n"
+  },
+  {
+    "iata": "PXA",
+    "icao": "WIPY",
+    "airport_name": "atung_bungsu_airport[dapi]",
+    "location_served": "pagar_alam_south_sumatra_indonesia\n"
+  },
+  {
+    "iata": "PXH",
+    "icao": "YPMH",
+    "airport_name": "prominent_hill_airport[dapi]",
+    "location_served": "prominent_hill_south_australia_australia\n"
+  },
+  {
+    "iata": "PXL",
+    "icao": "",
+    "airport_name": "polacca_airport_(faa:_pdapidapi)",
+    "location_served": "polacca_arizona_united_states\n"
+  },
+  {
+    "iata": "PXM",
+    "icao": "MMPS",
+    "airport_name": "puerto_escondido_international_airport",
+    "location_served": "puerto_escondido_oaxaca_mexico\n"
+  },
+  {
+    "iata": "PXO",
+    "icao": "LPPS",
+    "airport_name": "porto_santo_airport",
+    "location_served": "porto_santo_island_madeira_portugal\n"
+  },
+  {
+    "iata": "PXR",
+    "icao": "VTUJ",
+    "airport_name": "surin_airport[dapi]",
+    "location_served": "surin_thailand\n"
+  },
+  {
+    "iata": "PXU",
+    "icao": "VVPK",
+    "airport_name": "pleiku_airport",
+    "location_served": "pleiku_vietnam\n"
+  },
+  {
+    "iata": "PYA",
+    "icao": "SKVL",
+    "airport_name": "velasquez_airport[dapi]",
+    "location_served": "puerto_boyacá_colombia\n"
+  },
+  {
+    "iata": "PYB",
+    "icao": "VEJP",
+    "airport_name": "jeypore_airport[dapi]",
+    "location_served": "jeypore_odisha_india\n"
+  },
+  {
+    "iata": "PYC",
+    "icao": "",
+    "airport_name": "playón_chico_airport",
+    "location_served": "ukupseni_(playón_chico)_panama\n"
+  },
+  {
+    "iata": "PYE",
+    "icao": "NCPY",
+    "airport_name": "tongareva_airport[dapi]",
+    "location_served": "penrhyn_atoll_cook_islands\n"
+  },
+  {
+    "iata": "PYG",
+    "icao": "",
+    "airport_name": "pakyong_airport",
+    "location_served": "pakyong_sikkim_india\n"
+  },
+  {
+    "iata": "PYH",
+    "icao": "SVPA",
+    "airport_name": "cacique_aramare_airport",
+    "location_served": "puerto_ayacucho_venezuela\n"
+  },
+  {
+    "iata": "PYJ",
+    "icao": "UERP",
+    "airport_name": "polyarny_airport",
+    "location_served": "polyarny_yakutia_russia\n"
+  },
+  {
+    "iata": "PYK",
+    "icao": "OIIP",
+    "airport_name": "payam_international_airport[dapi]",
+    "location_served": "karaj_iran\n"
+  },
+  {
+    "iata": "PYL",
+    "icao": "",
+    "airport_name": "perry_island_seaplane_base[dapi]",
+    "location_served": "perry_island_alaska_united_states\n"
+  },
+  {
+    "iata": "PYM",
+    "icao": "KPYM",
+    "airport_name": "plymouth_municipal_airport",
+    "location_served": "plymouth_massachusetts_united_states\n"
+  },
+  {
+    "iata": "PYN",
+    "icao": "",
+    "airport_name": "payán_airport[dapi]",
+    "location_served": "payán_colombia\n"
+  },
+  {
+    "iata": "PYO",
+    "icao": "SEPT",
+    "airport_name": "putumayo_airport[dapi]",
+    "location_served": "puerto_el_carmen_de_putumayo_ecuador\n"
+  },
+  {
+    "iata": "PYR",
+    "icao": "LGAD",
+    "airport_name": "andravida_air_base[dapi]",
+    "location_served": "pyrgos_greece\n"
+  },
+  {
+    "iata": "PYS",
+    "icao": "",
+    "airport_name": "paradise_skypark[dapi]_(faa:_cadapidapi)",
+    "location_served": "paradise_california_united_states\n"
+  },
+  {
+    "iata": "PYV",
+    "icao": "",
+    "airport_name": "yaviza_airport[dapi]",
+    "location_served": "yaviza_panama\n"
+  },
+  {
+    "iata": "PYY",
+    "icao": "",
+    "airport_name": "pai_airport",
+    "location_served": "pai_thailand\n"
+  },
+  {
+    "iata": "PZA",
+    "icao": "SKPZ",
+    "airport_name": "paz_de_ariporo_airport[dapi]",
+    "location_served": "paz_de_ariporo_colombia\n"
+  },
+  {
+    "iata": "PZB",
+    "icao": "FAPM",
+    "airport_name": "pietermaritzburg_airport",
+    "location_served": "pietermaritzburg_south_africa\n"
+  },
+  {
+    "iata": "PZH",
+    "icao": "OPZB",
+    "airport_name": "zhob_airport",
+    "location_served": "zhob_pakistan\n"
+  },
+  {
+    "iata": "PZI",
+    "icao": "ZUZH",
+    "airport_name": "panzhihua_bao'anying_airport[dapi]",
+    "location_served": "panzhihua_sichuan_china\n"
+  },
+  {
+    "iata": "PZK",
+    "icao": "NCPK",
+    "airport_name": "pukapuka_island_airfield[dapi]",
+    "location_served": "pukapuka_island_cook_islands\n"
+  },
+  {
+    "iata": "PZL",
+    "icao": "FADQ",
+    "airport_name": "zulu_inyala_airport[dapi]",
+    "location_served": "phinda_south_africa\n"
+  },
+  {
+    "iata": "PZO",
+    "icao": "SVPR",
+    "airport_name": "manuel_carlos_piar_guayana_airport",
+    "location_served": "ciudad_guayana_/_puerto_ordaz_venezuela\n"
+  },
+  {
+    "iata": "PZS",
+    "icao": "SCTC",
+    "airport_name": "maquehue_airport[dapi]",
+    "location_served": "temuco_chile\n"
+  },
+  {
+    "iata": "PZU",
+    "icao": "HSPN",
+    "airport_name": "port_sudan_new_international_airport",
+    "location_served": "port_sudan_sudan\n"
+  },
+  {
+    "iata": "PZY",
+    "icao": "LZPP",
+    "airport_name": "piešťany_airport",
+    "location_served": "piešťany_slovakia\n"
+  }
+]

@@ -1,0 +1,1610 @@
+[
+  {
+    "iata": "IAA",
+    "icao": "UOII",
+    "airport_name": "igarka_airport",
+    "location_served": "igarka_krasnoyarsk_krai_russia"
+  },
+  {
+    "iata": "IAB",
+    "icao": "KIAB",
+    "airport_name": "mcconnell_air_force_base",
+    "location_served": "wichita_kansas_united_states"
+  },
+  {
+    "iata": "IAD",
+    "icao": "KIAD",
+    "airport_name": "washington_dulles_international_airport",
+    "location_served": "washington_d.c._dapi_united_states"
+  },
+  {
+    "iata": "IAG",
+    "icao": "KIAG",
+    "airport_name": "niagara_falls_international_airport",
+    "location_served": "niagara_falls_new_york_united_states"
+  },
+  {
+    "iata": "IAH",
+    "icao": "KIAH",
+    "airport_name": "george_bush_intercontinental_airport",
+    "location_served": "houston_texas_united_states"
+  },
+  {
+    "iata": "IAM",
+    "icao": "DAUZ",
+    "airport_name": "in_amenas_airport_(zarzaitine_airport)",
+    "location_served": "in_amenas_algeria"
+  },
+  {
+    "iata": "IAN",
+    "icao": "PAIK",
+    "airport_name": "bob_baker_memorial_airport",
+    "location_served": "kiana_alaska_united_states"
+  },
+  {
+    "iata": "IAO",
+    "icao": "RPNS",
+    "airport_name": "sayak_airport[dapi]_(siargao_airport)",
+    "location_served": "del_carmen_philippines"
+  },
+  {
+    "iata": "IAQ",
+    "icao": "OIBH[2]",
+    "airport_name": "bahregan_airport",
+    "location_served": "bahregan_iran"
+  },
+  {
+    "iata": "IAR",
+    "icao": "UUDL",
+    "airport_name": "tunoshna_airport",
+    "location_served": "yaroslavl_yaroslavl_oblast_russia"
+  },
+  {
+    "iata": "IAS",
+    "icao": "LRIA",
+    "airport_name": "iași_international_airport",
+    "location_served": "iași_romania"
+  },
+  {
+    "iata": "IAU",
+    "icao": "",
+    "airport_name": "iaura_airport",
+    "location_served": "iaura_papua_new_guinea"
+  },
+  {
+    "iata": "IBA",
+    "icao": "DNIB",
+    "airport_name": "ibadan_airport",
+    "location_served": "ibadan_nigeria"
+  },
+  {
+    "iata": "IBB",
+    "icao": "SEII[3]",
+    "airport_name": "general_villamil_airport[dapi]",
+    "location_served": "isabela_island_galápagos_islands_ecuador"
+  },
+  {
+    "iata": "IBE",
+    "icao": "SKIB",
+    "airport_name": "perales_airport",
+    "location_served": "ibagué_colombia"
+  },
+  {
+    "iata": "IBI",
+    "icao": "",
+    "airport_name": "iboki_airport",
+    "location_served": "iboki_papua_new_guinea"
+  },
+  {
+    "iata": "IBL",
+    "icao": "",
+    "airport_name": "indigo_bay_lodge_airport",
+    "location_served": "bazaruto_island_mozambique"
+  },
+  {
+    "iata": "IBO",
+    "icao": "",
+    "airport_name": "ibo_island_airport[dapi]",
+    "location_served": "ibo_island_mozambique"
+  },
+  {
+    "iata": "IBP",
+    "icao": "SPBR",
+    "airport_name": "iberia_airport",
+    "location_served": "iberia_peru"
+  },
+  {
+    "iata": "IBR",
+    "icao": "RJAH",
+    "airport_name": "ibaraki_airport",
+    "location_served": "omitama_honshu_japan"
+  },
+  {
+    "iata": "IBZ",
+    "icao": "LEIB",
+    "airport_name": "ibiza_airport",
+    "location_served": "ibiza_balearic_islands_spain"
+  },
+  {
+    "iata": "ICA",
+    "icao": "SVIC",
+    "airport_name": "icabarú_airport",
+    "location_served": "icabarú_venezuela"
+  },
+  {
+    "iata": "ICC",
+    "icao": "SVIE",
+    "airport_name": "andrés_miguel_salazar_marcano_airport[dapi]",
+    "location_served": "coche_island_venezuela"
+  },
+  {
+    "iata": "ICI",
+    "icao": "NFCI",
+    "airport_name": "cicia_airport",
+    "location_served": "cicia_island_fiji"
+  },
+  {
+    "iata": "ICK",
+    "icao": "SMNI",
+    "airport_name": "majoor_henk_fernandes_airport_(nieuw_nickerie_airport)",
+    "location_served": "nieuw_nickerie_suriname"
+  },
+  {
+    "iata": "ICL",
+    "icao": "KICL",
+    "airport_name": "schenck_field",
+    "location_served": "clarinda_iowa_united_states"
+  },
+  {
+    "iata": "ICN",
+    "icao": "RKSI",
+    "airport_name": "incheon_international_airport",
+    "location_served": "seoul_south_korea"
+  },
+  {
+    "iata": "ICO",
+    "icao": "RPSG",
+    "airport_name": "sicogon_airport",
+    "location_served": "sicogon_philippines"
+  },
+  {
+    "iata": "ICS",
+    "icao": "",
+    "airport_name": "cascade_airport[dapi]_(faa:_kudapidapi)",
+    "location_served": "cascade_idaho_united_states"
+  },
+  {
+    "iata": "ICT",
+    "icao": "KICT",
+    "airport_name": "wichita_dwight_d._eisenhower_national_airport",
+    "location_served": "wichita_kansas_united_states"
+  },
+  {
+    "iata": "ICY",
+    "icao": "",
+    "airport_name": "icy_bay_airport_(faa:_dapidapiak)",
+    "location_served": "icy_bay_alaska_united_states"
+  },
+  {
+    "iata": "IDA",
+    "icao": "KIDA",
+    "airport_name": "idaho_falls_regional_airport",
+    "location_served": "idaho_falls_idaho_united_states"
+  },
+  {
+    "iata": "IDB",
+    "icao": "ESUE",
+    "airport_name": "idre_airport",
+    "location_served": "idre_sweden"
+  },
+  {
+    "iata": "IDC",
+    "icao": "",
+    "airport_name": "chilonzuine_island_airstrip[dapi]",
+    "location_served": "chilonzuine_island_mozambique"
+  },
+  {
+    "iata": "IDF",
+    "icao": "FZCB",
+    "airport_name": "idiofa_airport",
+    "location_served": "idiofa_democratic_republic_of_the_congo"
+  },
+  {
+    "iata": "IDG",
+    "icao": "KIDG",
+    "airport_name": "ida_grove_municipal_airport",
+    "location_served": "ida_grove_iowa_united_states"
+  },
+  {
+    "iata": "IDH",
+    "icao": "KGIC",
+    "airport_name": "idaho_county_airport[dapi]_(faa:_gic)",
+    "location_served": "grangeville_idaho_united_states"
+  },
+  {
+    "iata": "IDI",
+    "icao": "KIDI",
+    "airport_name": "indiana_county–jimmy_stewart_airport",
+    "location_served": "indiana_pennsylvania_united_states"
+  },
+  {
+    "iata": "IDK",
+    "icao": "YIDK",
+    "airport_name": "indulkana_airport",
+    "location_served": "indulkana_south_australia_australia"
+  },
+  {
+    "iata": "IDN",
+    "icao": "",
+    "airport_name": "indagen_airport",
+    "location_served": "indagen_papua_new_guinea"
+  },
+  {
+    "iata": "IDO",
+    "icao": "SWIY",
+    "airport_name": "santa_isabel_do_morro_airport",
+    "location_served": "santa_isabel_do_morro_tocantins_brazil"
+  },
+  {
+    "iata": "IDP",
+    "icao": "KIDP",
+    "airport_name": "independence_municipal_airport",
+    "location_served": "independence_kansas_united_states"
+  },
+  {
+    "iata": "IDR",
+    "icao": "VAID",
+    "airport_name": "devi_ahilyabai_holkar_international_airport",
+    "location_served": "indore_madhya_pradesh_india"
+  },
+  {
+    "iata": "IDY",
+    "icao": "LFEY",
+    "airport_name": "île_d'yeu_aerodrome",
+    "location_served": "île_d'yeu_pays_de_la_loire_france"
+  },
+  {
+    "iata": "IEG",
+    "icao": "EPZG",
+    "airport_name": "zielona_góra_airport",
+    "location_served": "zielona_góra_poland"
+  },
+  {
+    "iata": "IEJ",
+    "icao": "RORE",
+    "airport_name": "iejima_airport",
+    "location_served": "iejima_okinawa_japan"
+  },
+  {
+    "iata": "IES",
+    "icao": "EDAU",
+    "airport_name": "riesa–göhlis_airfield",
+    "location_served": "riesa_saxony_germany"
+  },
+  {
+    "iata": "IEV",
+    "icao": "UKKK",
+    "airport_name": "kyiv_international_airport_(zhuliany)",
+    "location_served": "kyiv_ukraine"
+  },
+  {
+    "iata": "IFA",
+    "icao": "KIFA",
+    "airport_name": "iowa_falls_municipal_airport",
+    "location_served": "iowa_falls_iowa_united_states"
+  },
+  {
+    "iata": "IFF",
+    "icao": "YIFY",
+    "airport_name": "iffley_airport",
+    "location_served": "iffley_queensland_australia"
+  },
+  {
+    "iata": "IFH",
+    "icao": "OIFE",
+    "airport_name": "hesa_air_base[dapi]",
+    "location_served": "shahin_shahr_iran"
+  },
+  {
+    "iata": "IFJ",
+    "icao": "BIIS",
+    "airport_name": "ísafjörður_airport",
+    "location_served": "ísafjörður_iceland"
+  },
+  {
+    "iata": "IFL",
+    "icao": "YIFL",
+    "airport_name": "innisfail_airport",
+    "location_served": "innisfail_queensland_australia"
+  },
+  {
+    "iata": "IFN",
+    "icao": "OIFM",
+    "airport_name": "isfahan_international_airport_(shahid_beheshti_int'l)",
+    "location_served": "isfahan_iran"
+  },
+  {
+    "iata": "IFO",
+    "icao": "UKLI",
+    "airport_name": "ivano-frankivsk_international_airport",
+    "location_served": "ivano-frankivsk_ukraine"
+  },
+  {
+    "iata": "IFP",
+    "icao": "KIFP",
+    "airport_name": "laughlin/bullhead_international_airport",
+    "location_served": "bullhead_city_arizona_united_states"
+  },
+  {
+    "iata": "IFU",
+    "icao": "VREI",
+    "airport_name": "ifuru_airport[dapi]",
+    "location_served": "ifuru_raa_atoll_maldives"
+  },
+  {
+    "iata": "IGA",
+    "icao": "MYIG",
+    "airport_name": "inagua_airport_(matthew_town_airport)",
+    "location_served": "inagua_islands_bahamas"
+  },
+  {
+    "iata": "IGB",
+    "icao": "SAVJ",
+    "airport_name": "ingeniero_jacobacci_airport_(capitán_faa_h._r._borden_airport)",
+    "location_served": "ingeniero_jacobacci_río_negro_argentina"
+  },
+  {
+    "iata": "IGD",
+    "icao": "LTCT",
+    "airport_name": "iğdır_airport[dapi]",
+    "location_served": "iğdır_turkey"
+  },
+  {
+    "iata": "IGE",
+    "icao": "FOOI",
+    "airport_name": "tchongorove_airport",
+    "location_served": "iguela_gabon"
+  },
+  {
+    "iata": "IGG",
+    "icao": "PAIG",
+    "airport_name": "igiugig_airport",
+    "location_served": "igiugig_alaska_united_states"
+  },
+  {
+    "iata": "IGH",
+    "icao": "YIGM",
+    "airport_name": "ingham_airport",
+    "location_served": "ingham_queensland_australia"
+  },
+  {
+    "iata": "IGL",
+    "icao": "LTBL",
+    "airport_name": "çiğli_air_base",
+    "location_served": "i̇zmir_turkey"
+  },
+  {
+    "iata": "IGM",
+    "icao": "KIGM",
+    "airport_name": "kingman_airport",
+    "location_served": "kingman_arizona_united_states"
+  },
+  {
+    "iata": "IGN",
+    "icao": "RPMI",
+    "airport_name": "maria_cristina_airport_(iligan_airport)",
+    "location_served": "iligan_philippines"
+  },
+  {
+    "iata": "IGO",
+    "icao": "SKIG",
+    "airport_name": "jaime_ortíz_betancur_airport",
+    "location_served": "chigorodó_colombia"
+  },
+  {
+    "iata": "IGR",
+    "icao": "SARI",
+    "airport_name": "cataratas_del_iguazú_international_airport",
+    "location_served": "puerto_iguazú_misiones_argentina"
+  },
+  {
+    "iata": "IGS",
+    "icao": "ETSI",
+    "airport_name": "ingolstadt_manching_airport",
+    "location_served": "ingolstadt_bavaria_germany"
+  },
+  {
+    "iata": "IGT",
+    "icao": "URMS",
+    "airport_name": "magas_airport_(sleptsovskaya_airport)",
+    "location_served": "nazran_ingushetia_russia"
+  },
+  {
+    "iata": "IGU",
+    "icao": "SBFI",
+    "airport_name": "foz_do_iguaçu_international_airport",
+    "location_served": "foz_do_iguaçu_paraná_brazil"
+  },
+  {
+    "iata": "IHC",
+    "icao": "FQIA",
+    "airport_name": "inhaca_airport[dapi]",
+    "location_served": "inhaca_island_mozambique"
+  },
+  {
+    "iata": "IHN",
+    "icao": "OYQN",
+    "airport_name": "qishn_airport",
+    "location_served": "qishn_yemen"
+  },
+  {
+    "iata": "IHO",
+    "icao": "FMSI",
+    "airport_name": "ihosy_airport",
+    "location_served": "ihosy_madagascar"
+  },
+  {
+    "iata": "IHR",
+    "icao": "OIZI",
+    "airport_name": "iranshahr_airport[dapi]",
+    "location_served": "iranshahr_iran"
+  },
+  {
+    "iata": "IHU",
+    "icao": "",
+    "airport_name": "ihu_airport",
+    "location_served": "ihu_papua_new_guinea"
+  },
+  {
+    "iata": "IIA",
+    "icao": "EIMN",
+    "airport_name": "inishmaan_aerodrome",
+    "location_served": "inishmaan_ireland"
+  },
+  {
+    "iata": "IIL",
+    "icao": "OICI",
+    "airport_name": "ilam_airport[dapi]",
+    "location_served": "ilam_iran"
+  },
+  {
+    "iata": "IIS",
+    "icao": "AYIA",
+    "airport_name": "nissan_island_airport",
+    "location_served": "nissan_island_papua_new_guinea"
+  },
+  {
+    "iata": "IJK",
+    "icao": "USII",
+    "airport_name": "izhevsk_airport",
+    "location_served": "izhevsk_udmurtia_russia"
+  },
+  {
+    "iata": "IJU",
+    "icao": "SSIJ",
+    "airport_name": "joão_batista_bos_filho_airport",
+    "location_served": "ijuí_rio_grande_do_sul_brazil"
+  },
+  {
+    "iata": "IJX",
+    "icao": "KIJX",
+    "airport_name": "jacksonville_municipal_airport",
+    "location_served": "jacksonville_illinois_united_states"
+  },
+  {
+    "iata": "IKA",
+    "icao": "OIIE",
+    "airport_name": "tehran_imam_khomeini_international_airport",
+    "location_served": "tehran_iran"
+  },
+  {
+    "iata": "IKB",
+    "icao": "KUKF",
+    "airport_name": "wilkes_county_airport_(faa:_ukf)",
+    "location_served": "north_wilkesboro_north_carolina_united_states"
+  },
+  {
+    "iata": "IKI",
+    "icao": "RJDB",
+    "airport_name": "iki_airport",
+    "location_served": "iki_iki_island_japan"
+  },
+  {
+    "iata": "IKK",
+    "icao": "KIKK",
+    "airport_name": "greater_kankakee_airport",
+    "location_served": "kankakee_illinois_united_states"
+  },
+  {
+    "iata": "IKL",
+    "icao": "FZGV",
+    "airport_name": "ikela_airport",
+    "location_served": "ikela_democratic_republic_of_the_congo"
+  },
+  {
+    "iata": "IKO",
+    "icao": "PAKO",
+    "airport_name": "nikolski_air_station",
+    "location_served": "nikolski_alaska_united_states"
+  },
+  {
+    "iata": "IKP",
+    "icao": "YIKM",
+    "airport_name": "inkerman_airport",
+    "location_served": "inkerman_queensland_australia"
+  },
+  {
+    "iata": "IKS",
+    "icao": "UEST",
+    "airport_name": "tiksi_airport",
+    "location_served": "tiksi_yakutia_russia"
+  },
+  {
+    "iata": "IKT",
+    "icao": "UIII",
+    "airport_name": "international_airport_irkutsk",
+    "location_served": "irkutsk_irkutsk_oblast_russia"
+  },
+  {
+    "iata": "IKU",
+    "icao": "UCFL",
+    "airport_name": "issyk-kul_international_airport",
+    "location_served": "tamchy_issyk-kul_region_kyrgyzstan"
+  },
+  {
+    "iata": "ILA",
+    "icao": "WABL",
+    "airport_name": "illaga_airport",
+    "location_served": "illaga_indonesia"
+  },
+  {
+    "iata": "ILD",
+    "icao": "LEDA",
+    "airport_name": "lleida–alguaire_airport",
+    "location_served": "lleida_catalonia_spain"
+  },
+  {
+    "iata": "ILE",
+    "icao": "KILE",
+    "airport_name": "skylark_field",
+    "location_served": "killeen_texas_united_states"
+  },
+  {
+    "iata": "ILF",
+    "icao": "CZBD",
+    "airport_name": "ilford_airport",
+    "location_served": "ilford_manitoba_canada"
+  },
+  {
+    "iata": "ILG",
+    "icao": "KILG",
+    "airport_name": "wilmington_airport_(new_castle_airport)",
+    "location_served": "wilmington_delaware_united_states"
+  },
+  {
+    "iata": "ILH",
+    "icao": "ETIK",
+    "airport_name": "storck_barracks",
+    "location_served": "illesheim_bavaria_germany"
+  },
+  {
+    "iata": "ILI",
+    "icao": "PAIL",
+    "airport_name": "iliamna_airport",
+    "location_served": "iliamna_alaska_united_states"
+  },
+  {
+    "iata": "ILK",
+    "icao": "FMMQ",
+    "airport_name": "ilaka-est_airport_(atsinanana_airport)",
+    "location_served": "ilaka_madagascar"
+  },
+  {
+    "iata": "ILL",
+    "icao": "KBDH",
+    "airport_name": "willmar_municipal_airport_(john_l._rice_field)",
+    "location_served": "willmar_minnesota_united_states"
+  },
+  {
+    "iata": "ILM",
+    "icao": "KILM",
+    "airport_name": "wilmington_international_airport",
+    "location_served": "wilmington_north_carolina_united_states"
+  },
+  {
+    "iata": "ILN",
+    "icao": "KILN",
+    "airport_name": "wilmington_air_park",
+    "location_served": "wilmington_ohio_united_states"
+  },
+  {
+    "iata": "ILO",
+    "icao": "RPVI",
+    "airport_name": "iloilo_international_airport",
+    "location_served": "iloilo_philippines"
+  },
+  {
+    "iata": "ILP",
+    "icao": "NWWE",
+    "airport_name": "île_des_pins_airport",
+    "location_served": "île_des_pins_new_caledonia"
+  },
+  {
+    "iata": "ILQ",
+    "icao": "SPLO",
+    "airport_name": "ilo_airport",
+    "location_served": "ilo_peru"
+  },
+  {
+    "iata": "ILR",
+    "icao": "DNIL",
+    "airport_name": "ilorin_international_airport",
+    "location_served": "ilorin_nigeria"
+  },
+  {
+    "iata": "ILS",
+    "icao": "MSSS",
+    "airport_name": "ilopango_international_airport",
+    "location_served": "san_salvador_el_salvador"
+  },
+  {
+    "iata": "ILU",
+    "icao": "HKKL",
+    "airport_name": "kilaguni_airport",
+    "location_served": "kilaguni_kenya"
+  },
+  {
+    "iata": "ILX",
+    "icao": "",
+    "airport_name": "ileg_airport",
+    "location_served": "ileg_papua_new_guinea"
+  },
+  {
+    "iata": "ILY",
+    "icao": "EGPI",
+    "airport_name": "islay_airport_(glenegedale_airport)",
+    "location_served": "islay_scotland_united_kingdom"
+  },
+  {
+    "iata": "ILZ",
+    "icao": "LZZI",
+    "airport_name": "žilina_airport",
+    "location_served": "žilina_slovakia"
+  },
+  {
+    "iata": "IMA",
+    "icao": "",
+    "airport_name": "iamalele_airport",
+    "location_served": "iamalele_papua_new_guinea"
+  },
+  {
+    "iata": "IMB",
+    "icao": "SYIB",
+    "airport_name": "imbaimadai_airport",
+    "location_served": "imbaimadai_guyana"
+  },
+  {
+    "iata": "IMD",
+    "icao": "",
+    "airport_name": "imonda_airport",
+    "location_served": "imonda_papua_new_guinea"
+  },
+  {
+    "iata": "IMF",
+    "icao": "VEIM",
+    "airport_name": "imphal_international_airport_(tulihal_airport)",
+    "location_served": "imphal_manipur_india"
+  },
+  {
+    "iata": "IMG",
+    "icao": "",
+    "airport_name": "inhaminga_airport",
+    "location_served": "inhaminga_mozambique"
+  },
+  {
+    "iata": "IMI",
+    "icao": "",
+    "airport_name": "ine_airport_(faa:_ndapidapi)",
+    "location_served": "ine_arno_atoll_marshall_islands"
+  },
+  {
+    "iata": "IMK",
+    "icao": "VNST",
+    "airport_name": "simikot_airport",
+    "location_served": "simikot_nepal"
+  },
+  {
+    "iata": "IML",
+    "icao": "KIML",
+    "airport_name": "imperial_municipal_airport",
+    "location_served": "imperial_nebraska_united_states"
+  },
+  {
+    "iata": "IMM",
+    "icao": "KIMM",
+    "airport_name": "immokalee_regional_airport",
+    "location_served": "immokalee_florida_united_states"
+  },
+  {
+    "iata": "IMN",
+    "icao": "AYII",
+    "airport_name": "imane_airport",
+    "location_served": "imane_papua_new_guinea"
+  },
+  {
+    "iata": "IMO",
+    "icao": "FEFZ",
+    "airport_name": "zemio_airport",
+    "location_served": "zemio_central_african_republic"
+  },
+  {
+    "iata": "IMP",
+    "icao": "SBIZ",
+    "airport_name": "imperatriz_airport_(prefeito_renato_moreira_airport)",
+    "location_served": "imperatriz_maranhão_brazil"
+  },
+  {
+    "iata": "IMQ",
+    "icao": "OITU",
+    "airport_name": "maku_international_airport",
+    "location_served": "maku_west_azerbaijan_province_iran"
+  },
+  {
+    "iata": "IMT",
+    "icao": "KIMT",
+    "airport_name": "ford_airport",
+    "location_served": "iron_mountain_/_kingsford_michigan_united_states"
+  },
+  {
+    "iata": "INA",
+    "icao": "UUYI",
+    "airport_name": "inta_airport",
+    "location_served": "inta_komi_republic_russia"
+  },
+  {
+    "iata": "INB",
+    "icao": "",
+    "airport_name": "independence_airport",
+    "location_served": "independence_belize"
+  },
+  {
+    "iata": "INC",
+    "icao": "ZLIC",
+    "airport_name": "yinchuan_hedong_international_airport",
+    "location_served": "yinchuan_ningxia_china"
+  },
+  {
+    "iata": "IND",
+    "icao": "KIND",
+    "airport_name": "indianapolis_international_airport",
+    "location_served": "indianapolis_indiana_united_states"
+  },
+  {
+    "iata": "INE",
+    "icao": "",
+    "airport_name": "chinde_airport",
+    "location_served": "chinde_mozambique"
+  },
+  {
+    "iata": "INF",
+    "icao": "DATG",
+    "airport_name": "in_guezzam_airport",
+    "location_served": "in_guezzam_algeria"
+  },
+  {
+    "iata": "INH",
+    "icao": "FQIN",
+    "airport_name": "inhambane_airport",
+    "location_served": "inhambane_mozambique"
+  },
+  {
+    "iata": "INI",
+    "icao": "LYNI",
+    "airport_name": "niš_constantine_the_great_airport",
+    "location_served": "niš_serbia"
+  },
+  {
+    "iata": "INJ",
+    "icao": "YINJ",
+    "airport_name": "injune_airport",
+    "location_served": "injune_queensland_australia"
+  },
+  {
+    "iata": "INK",
+    "icao": "KINK",
+    "airport_name": "winkler_county_airport",
+    "location_served": "wink_texas_united_states"
+  },
+  {
+    "iata": "INL",
+    "icao": "KINL",
+    "airport_name": "falls_international_airport",
+    "location_served": "international_falls_minnesota_united_states"
+  },
+  {
+    "iata": "INM",
+    "icao": "YINN",
+    "airport_name": "innamincka_airport",
+    "location_served": "innamincka_south_australia_australia"
+  },
+  {
+    "iata": "INN",
+    "icao": "LOWI",
+    "airport_name": "innsbruck_airport_(kranebitten_airport)",
+    "location_served": "innsbruck_austria"
+  },
+  {
+    "iata": "INO",
+    "icao": "FZBA",
+    "airport_name": "inongo_airport",
+    "location_served": "inongo_democratic_republic_of_the_congo"
+  },
+  {
+    "iata": "INQ",
+    "icao": "EIIR",
+    "airport_name": "inisheer_aerodrome",
+    "location_served": "inisheer_ireland"
+  },
+  {
+    "iata": "INS",
+    "icao": "KINS",
+    "airport_name": "creech_air_force_base",
+    "location_served": "indian_springs_nevada_united_states"
+  },
+  {
+    "iata": "INT",
+    "icao": "KINT",
+    "airport_name": "smith_reynolds_airport",
+    "location_served": "winston-salem_north_carolina_united_states"
+  },
+  {
+    "iata": "INU",
+    "icao": "ANYN",
+    "airport_name": "nauru_international_airport",
+    "location_served": "yaren_nauru"
+  },
+  {
+    "iata": "INV",
+    "icao": "EGPE",
+    "airport_name": "inverness_airport",
+    "location_served": "inverness_scotland_united_kingdom"
+  },
+  {
+    "iata": "INW",
+    "icao": "KINW",
+    "airport_name": "winslow–lindbergh_regional_airport",
+    "location_served": "winslow_arizona_united_states"
+  },
+  {
+    "iata": "INX",
+    "icao": "WASI",
+    "airport_name": "inanwatan_airport",
+    "location_served": "inanwatan_indonesia"
+  },
+  {
+    "iata": "INY",
+    "icao": "",
+    "airport_name": "inyati_airport",
+    "location_served": "inyati_south_africa"
+  },
+  {
+    "iata": "INZ",
+    "icao": "DAUI",
+    "airport_name": "in_salah_airport",
+    "location_served": "in_salah_algeria"
+  },
+  {
+    "iata": "IOA",
+    "icao": "LGIO",
+    "airport_name": "ioannina_national_airport",
+    "location_served": "ioannina_greece"
+  },
+  {
+    "iata": "IOK",
+    "icao": "",
+    "airport_name": "iokea_airport",
+    "location_served": "iokea_papua_new_guinea"
+  },
+  {
+    "iata": "IOM",
+    "icao": "EGNS",
+    "airport_name": "isle_of_man_airport_(ronaldsway_airport)",
+    "location_served": "isle_of_man_united_kingdom"
+  },
+  {
+    "iata": "ION",
+    "icao": "FCOI",
+    "airport_name": "impfondo_airport",
+    "location_served": "impfondo_republic_of_the_congo"
+  },
+  {
+    "iata": "IOP",
+    "icao": "",
+    "airport_name": "ioma_airport",
+    "location_served": "ioma_papua_new_guinea"
+  },
+  {
+    "iata": "IOR",
+    "icao": "EIIM",
+    "airport_name": "inishmore_aerodrome_(kilronan_airport)",
+    "location_served": "inishmore_ireland"
+  },
+  {
+    "iata": "IOS",
+    "icao": "SBIL",
+    "airport_name": "ilhéus_jorge_amado_airport",
+    "location_served": "ilhéus_bahia_brazil"
+  },
+  {
+    "iata": "IOT",
+    "icao": "BGLL",
+    "airport_name": "illorsuit_heliport",
+    "location_served": "avannaata_greenland"
+  },
+  {
+    "iata": "IOW",
+    "icao": "KIOW",
+    "airport_name": "iowa_city_municipal_airport",
+    "location_served": "iowa_city_iowa_united_states"
+  },
+  {
+    "iata": "IPA",
+    "icao": "NVVI",
+    "airport_name": "ipota_airport",
+    "location_served": "erromango_tafea_vanuatu"
+  },
+  {
+    "iata": "IPC",
+    "icao": "SCIP",
+    "airport_name": "mataveri_international_airport_(isla_de_pascua_airport)",
+    "location_served": "easter_island_chile"
+  },
+  {
+    "iata": "IPE",
+    "icao": "RPMV",
+    "airport_name": "ipil_airport",
+    "location_served": "ipil_philippines"
+  },
+  {
+    "iata": "IPG",
+    "icao": "SWII",
+    "airport_name": "ipiranga_airport",
+    "location_served": "santo_antônio_do_içá_amazonas_brazil"
+  },
+  {
+    "iata": "IPH",
+    "icao": "WMKI",
+    "airport_name": "sultan_azlan_shah_airport",
+    "location_served": "ipoh_perak_malaysia"
+  },
+  {
+    "iata": "IPI",
+    "icao": "SKIP",
+    "airport_name": "san_luis_airport",
+    "location_served": "ipiales_colombia"
+  },
+  {
+    "iata": "IPL",
+    "icao": "KIPL",
+    "airport_name": "imperial_county_airport_(boley_field)",
+    "location_served": "imperial_/_el_centro_california_united_states"
+  },
+  {
+    "iata": "IPN",
+    "icao": "SBIP",
+    "airport_name": "usiminas_airport",
+    "location_served": "ipatinga_minas_gerais_brazil"
+  },
+  {
+    "iata": "IPT",
+    "icao": "KIPT",
+    "airport_name": "williamsport_regional_airport",
+    "location_served": "williamsport_pennsylvania_united_states"
+  },
+  {
+    "iata": "IPU",
+    "icao": "SNIU",
+    "airport_name": "ipiaú_airport",
+    "location_served": "ipiaú_bahia_brazil"
+  },
+  {
+    "iata": "IPZ",
+    "icao": "MRSI",
+    "airport_name": "san_isidro_de_el_general_airport",
+    "location_served": "san_isidro_de_el_general_pérez_zeledón_costa_rica"
+  },
+  {
+    "iata": "IQA",
+    "icao": "ORAA",
+    "airport_name": "al_asad_airbase[dapi]",
+    "location_served": "anbar_province_iraq"
+  },
+  {
+    "iata": "IQM",
+    "icao": "ZWCM",
+    "airport_name": "qiemo_airport",
+    "location_served": "qiemo_xinjiang_china"
+  },
+  {
+    "iata": "IQN",
+    "icao": "ZLQY",
+    "airport_name": "qingyang_airport",
+    "location_served": "qingyang_gansu_china"
+  },
+  {
+    "iata": "IQQ",
+    "icao": "SCDA",
+    "airport_name": "diego_aracena_international_airport",
+    "location_served": "iquique_chile"
+  },
+  {
+    "iata": "IQT",
+    "icao": "SPQT",
+    "airport_name": "coronel_fap_francisco_secada_vignetta_international_airport",
+    "location_served": "iquitos_peru"
+  },
+  {
+    "iata": "IRA",
+    "icao": "AGGK",
+    "airport_name": "kirakira_airport_(ngorangora_airstrip)",
+    "location_served": "kirakira_makira_island_solomon_islands"
+  },
+  {
+    "iata": "IRB",
+    "icao": "",
+    "airport_name": "iraan_municipal_airport_(faa:_dapifdapi)",
+    "location_served": "iraan_texas_united_states"
+  },
+  {
+    "iata": "IRC",
+    "icao": "PACR",
+    "airport_name": "circle_city_airport_(faa:_crc)",
+    "location_served": "circle_alaska_united_states"
+  },
+  {
+    "iata": "IRD",
+    "icao": "VGIS",
+    "airport_name": "ishwardi_airport",
+    "location_served": "ishwardi_bangladesh"
+  },
+  {
+    "iata": "IRE",
+    "icao": "SNIC",
+    "airport_name": "irecê_airport",
+    "location_served": "irecê_bahia_brazil"
+  },
+  {
+    "iata": "IRG",
+    "icao": "YLHR",
+    "airport_name": "lockhart_river_airport",
+    "location_served": "lockhart_river_queensland_australia"
+  },
+  {
+    "iata": "IRI",
+    "icao": "HTIR",
+    "airport_name": "iringa_airport_(nduli_airport)",
+    "location_served": "iringa_tanzania"
+  },
+  {
+    "iata": "IRJ",
+    "icao": "SANL",
+    "airport_name": "capitán_vicente_almandos_almonacid_airport",
+    "location_served": "la_rioja_argentina"
+  },
+  {
+    "iata": "IRK",
+    "icao": "KIRK",
+    "airport_name": "kirksville_regional_airport",
+    "location_served": "kirksville_missouri_united_states"
+  },
+  {
+    "iata": "IRM",
+    "icao": "USHI",
+    "airport_name": "igrim_airport[dapi]",
+    "location_served": "igrim_khanty-mansi_autonomous_okrug_russia"
+  },
+  {
+    "iata": "IRN",
+    "icao": "MHIR",
+    "airport_name": "iriona_airport",
+    "location_served": "iriona_honduras"
+  },
+  {
+    "iata": "IRO",
+    "icao": "FEFI",
+    "airport_name": "birao_airport",
+    "location_served": "birao_central_african_republic"
+  },
+  {
+    "iata": "IRP",
+    "icao": "FZJH",
+    "airport_name": "matari_airport",
+    "location_served": "isiro_democratic_republic_of_the_congo"
+  },
+  {
+    "iata": "IRS",
+    "icao": "KIRS",
+    "airport_name": "kirsch_municipal_airport",
+    "location_served": "sturgis_michigan_united_states"
+  },
+  {
+    "iata": "IRU",
+    "icao": "",
+    "airport_name": "iranamadu_waterdrome",
+    "location_served": "kilinochchi_sri_lanka"
+  },
+  {
+    "iata": "IRZ",
+    "icao": "SWTP",
+    "airport_name": "tapuruquara_airport[dapi]",
+    "location_served": "santa_isabel_do_rio_negro_amazonas_brazil"
+  },
+  {
+    "iata": "ISA",
+    "icao": "YBMA",
+    "airport_name": "mount_isa_airport",
+    "location_served": "mount_isa_queensland_australia"
+  },
+  {
+    "iata": "ISB",
+    "icao": "OPIS",
+    "airport_name": "islamabad_international_airport",
+    "location_served": "islamabad_/_rawalpindi_pakistan"
+  },
+  {
+    "iata": "ISC",
+    "icao": "EGHE",
+    "airport_name": "st_mary's_airport",
+    "location_served": "st_mary's_isles_of_scilly_united_kingdom"
+  },
+  {
+    "iata": "ISD",
+    "icao": "",
+    "airport_name": "iscuande_airport",
+    "location_served": "iscuande_colombia"
+  },
+  {
+    "iata": "ISE",
+    "icao": "LTFC",
+    "airport_name": "isparta_süleyman_demirel_airport",
+    "location_served": "isparta_turkey"
+  },
+  {
+    "iata": "ISG",
+    "icao": "ROIG",
+    "airport_name": "new_ishigaki_airport",
+    "location_served": "ishigaki_yaeyama_islands_japan"
+  },
+  {
+    "iata": "ISI",
+    "icao": "YISF",
+    "airport_name": "isisford_airport",
+    "location_served": "isisford_queensland_australia"
+  },
+  {
+    "iata": "ISJ",
+    "icao": "MMIM",
+    "airport_name": "isla_mujeres_airport",
+    "location_served": "isla_mujeres_quintana_roo_mexico"
+  },
+  {
+    "iata": "ISK",
+    "icao": "VAOZ",
+    "airport_name": "ozar_airport",
+    "location_served": "nashik_maharashtra_india"
+  },
+  {
+    "iata": "ISL",
+    "icao": "LTBA",
+    "airport_name": "istanbul_atatürk_airport",
+    "location_served": "istanbul_turkey"
+  },
+  {
+    "iata": "ISM",
+    "icao": "KISM",
+    "airport_name": "kissimmee_gateway_airport",
+    "location_served": "orlando_florida_united_states"
+  },
+  {
+    "iata": "ISN",
+    "icao": "KISN",
+    "airport_name": "sloulin_field_international_airport",
+    "location_served": "williston_north_dakota_united_states"
+  },
+  {
+    "iata": "ISO",
+    "icao": "KISO",
+    "airport_name": "kinston_regional_jetport_(stallings_field)",
+    "location_served": "kinston_north_carolina_united_states"
+  },
+  {
+    "iata": "ISP",
+    "icao": "KISP",
+    "airport_name": "long_island_macarthur_airport",
+    "location_served": "islip_new_york_united_states"
+  },
+  {
+    "iata": "ISQ",
+    "icao": "KISQ",
+    "airport_name": "schoolcraft_county_airport",
+    "location_served": "manistique_michigan_united_states"
+  },
+  {
+    "iata": "ISS",
+    "icao": "KIWI",
+    "airport_name": "wiscasset_airport_(faa:_iwi)",
+    "location_served": "wiscasset_maine_united_states"
+  },
+  {
+    "iata": "IST",
+    "icao": "LTFM",
+    "airport_name": "istanbul_new_airport",
+    "location_served": "istanbul_turkey"
+  },
+  {
+    "iata": "ISU",
+    "icao": "ORSU",
+    "airport_name": "sulaimaniyah_international_airport",
+    "location_served": "sulaymaniyah_iraq"
+  },
+  {
+    "iata": "ISW",
+    "icao": "KISW",
+    "airport_name": "south_wood_county_airport_(alexander_field)",
+    "location_served": "wisconsin_rapids_wisconsin_united_states"
+  },
+  {
+    "iata": "ITA",
+    "icao": "SBIC",
+    "airport_name": "itacoatiara_airport",
+    "location_served": "itacoatiara_amazonas_brazil"
+  },
+  {
+    "iata": "ITB",
+    "icao": "SBIH",
+    "airport_name": "itaituba_airport",
+    "location_served": "itaituba_pará_brazil"
+  },
+  {
+    "iata": "ITE",
+    "icao": "SNZW",
+    "airport_name": "ituberá_airport",
+    "location_served": "ituberá_bahia_brazil"
+  },
+  {
+    "iata": "ITH",
+    "icao": "KITH",
+    "airport_name": "ithaca_tompkins_regional_airport",
+    "location_served": "ithaca_new_york_united_states"
+  },
+  {
+    "iata": "ITI",
+    "icao": "",
+    "airport_name": "itambacuri_airport",
+    "location_served": "itambacuri_minas_gerais_brazil"
+  },
+  {
+    "iata": "ITK",
+    "icao": "",
+    "airport_name": "itokama_airport",
+    "location_served": "itokama_papua_new_guinea"
+  },
+  {
+    "iata": "ITM",
+    "icao": "RJOO",
+    "airport_name": "osaka_international_airport_(itami_int'l)",
+    "location_served": "osaka_honshu_japan"
+  },
+  {
+    "iata": "ITN",
+    "icao": "SNHA",
+    "airport_name": "itabuna_airport",
+    "location_served": "itabuna_bahia_brazil"
+  },
+  {
+    "iata": "ITO",
+    "icao": "PHTO",
+    "airport_name": "hilo_international_airport",
+    "location_served": "hilo_hawaii_united_states"
+  },
+  {
+    "iata": "ITP",
+    "icao": "SDUN",
+    "airport_name": "itaperuna_airport",
+    "location_served": "itaperuna_rio_de_janeiro_brazil"
+  },
+  {
+    "iata": "ITQ",
+    "icao": "SSIQ",
+    "airport_name": "itaqui_airport",
+    "location_served": "itaqui_rio_grande_do_sul_brazil"
+  },
+  {
+    "iata": "ITR",
+    "icao": "SBIT",
+    "airport_name": "itumbiara_airport",
+    "location_served": "itumbiara_goiás_brazil"
+  },
+  {
+    "iata": "ITU",
+    "icao": "UHSI",
+    "airport_name": "iturup_airport[dapi]",
+    "location_served": "kurilsk_sakhalin_oblast_russia"
+  },
+  {
+    "iata": "IUE",
+    "icao": "NIUE",
+    "airport_name": "niue_international_airport_(hanan_int'l)",
+    "location_served": "alofi_niue"
+  },
+  {
+    "iata": "IUL",
+    "icao": "",
+    "airport_name": "ilu_airport",
+    "location_served": "ilu_indonesia"
+  },
+  {
+    "iata": "IUS",
+    "icao": "",
+    "airport_name": "inus_airport",
+    "location_served": "inus_papua_new_guinea"
+  },
+  {
+    "iata": "IVA",
+    "icao": "FMNJ",
+    "airport_name": "ambanja_airport",
+    "location_served": "ambanja_madagascar"
+  },
+  {
+    "iata": "IVC",
+    "icao": "NZNV",
+    "airport_name": "invercargill_airport",
+    "location_served": "invercargill_new_zealand"
+  },
+  {
+    "iata": "IVG",
+    "icao": "LYBR",
+    "airport_name": "dolac_airport",
+    "location_served": "berane_montenegro"
+  },
+  {
+    "iata": "IVI",
+    "icao": "",
+    "airport_name": "viveros_island_airport[dapi]",
+    "location_served": "viveros_island_panama"
+  },
+  {
+    "iata": "IVL",
+    "icao": "EFIV",
+    "airport_name": "ivalo_airport",
+    "location_served": "ivalo_finland"
+  },
+  {
+    "iata": "IVO",
+    "icao": "",
+    "airport_name": "chibolo_airport",
+    "location_served": "chibolo_colombia"
+  },
+  {
+    "iata": "IVR",
+    "icao": "YIVL",
+    "airport_name": "inverell_airport",
+    "location_served": "inverell_new_south_wales_australia"
+  },
+  {
+    "iata": "IVW",
+    "icao": "YINW",
+    "airport_name": "inverway_airport",
+    "location_served": "inverway_northern_territory_australia"
+  },
+  {
+    "iata": "IWA",
+    "icao": "UUBI",
+    "airport_name": "ivanovo_yuzhny_airport",
+    "location_served": "ivanovo_ivanovo_oblast_russia"
+  },
+  {
+    "iata": "IWD",
+    "icao": "KIWD",
+    "airport_name": "gogebic–iron_county_airport",
+    "location_served": "ironwood_michigan_united_states"
+  },
+  {
+    "iata": "IWJ",
+    "icao": "RJOW",
+    "airport_name": "iwami_airport_(hagi-iwami_airport)",
+    "location_served": "masuda_honshu_japan"
+  },
+  {
+    "iata": "IWK",
+    "icao": "RJOI",
+    "airport_name": "marine_corps_air_station_iwakuni[dapi]",
+    "location_served": "iwakuni_honshu_japan"
+  },
+  {
+    "iata": "IWO",
+    "icao": "RJAW",
+    "airport_name": "iwo_jima_air_base",
+    "location_served": "iwo_jima_bonin_islands_japan"
+  },
+  {
+    "iata": "IWS",
+    "icao": "KIWS",
+    "airport_name": "west_houston_airport",
+    "location_served": "houston_texas_united_states"
+  },
+  {
+    "iata": "IXA",
+    "icao": "VEAT",
+    "airport_name": "agartala_airport_(singerbhil_airport)",
+    "location_served": "agartala_tripura_india"
+  },
+  {
+    "iata": "IXB",
+    "icao": "VEBD",
+    "airport_name": "bagdogra_airport",
+    "location_served": "siliguri_west_bengal_india"
+  },
+  {
+    "iata": "IXC",
+    "icao": "VICG",
+    "airport_name": "chandigarh_airport",
+    "location_served": "chandigarh_india"
+  },
+  {
+    "iata": "IXD",
+    "icao": "VIAL",
+    "airport_name": "allahabad_airport_(bamrauli_air_force_base)",
+    "location_served": "prayagraj_uttar_pradesh_india"
+  },
+  {
+    "iata": "IXE",
+    "icao": "VOML",
+    "airport_name": "mangalore_airport",
+    "location_served": "mangalore_karnataka_india"
+  },
+  {
+    "iata": "IXG",
+    "icao": "VABM",
+    "airport_name": "belgaum_airport",
+    "location_served": "belgaum_karnataka_india"
+  },
+  {
+    "iata": "IXH",
+    "icao": "VEKR",
+    "airport_name": "kailashahar_airport",
+    "location_served": "kailashahar_tripura_india"
+  },
+  {
+    "iata": "IXI",
+    "icao": "VELR",
+    "airport_name": "lilabari_airport",
+    "location_served": "north_lakhimpur_assam_india"
+  },
+  {
+    "iata": "IXJ",
+    "icao": "VIJU",
+    "airport_name": "jammu_airport_(satwari_airport)",
+    "location_served": "jammu_jammu_and_kashmir_india"
+  },
+  {
+    "iata": "IXK",
+    "icao": "VAKS",
+    "airport_name": "keshod_airport",
+    "location_served": "keshod_gujarat_india"
+  },
+  {
+    "iata": "IXL",
+    "icao": "VILH",
+    "airport_name": "kushok_bakula_rimpochee_airport",
+    "location_served": "leh_ladakh_india"
+  },
+  {
+    "iata": "IXM",
+    "icao": "VOMD",
+    "airport_name": "madurai_airport",
+    "location_served": "madurai_tamil_nadu_india"
+  },
+  {
+    "iata": "IXN",
+    "icao": "VEKW",
+    "airport_name": "khowai_airport",
+    "location_served": "khowai_tripura_india"
+  },
+  {
+    "iata": "IXP",
+    "icao": "VIPK",
+    "airport_name": "pathankot_airport",
+    "location_served": "pathankot_punjab_india"
+  },
+  {
+    "iata": "IXQ",
+    "icao": "VEKM",
+    "airport_name": "kamalpur_airport",
+    "location_served": "kamalpur_tripura_india"
+  },
+  {
+    "iata": "IXR",
+    "icao": "VERC",
+    "airport_name": "birsa_munda_airport",
+    "location_served": "ranchi_jharkhand_india"
+  },
+  {
+    "iata": "IXS",
+    "icao": "VEKU",
+    "airport_name": "silchar_airport_(kumbhirgram_air_force_base)",
+    "location_served": "silchar_assam_india"
+  },
+  {
+    "iata": "IXT",
+    "icao": "VEPG",
+    "airport_name": "pasighat_airport",
+    "location_served": "pasighat_arunachal_pradesh_india"
+  },
+  {
+    "iata": "IXU",
+    "icao": "VAAU",
+    "airport_name": "aurangabad_airport_(chikkalthana_airport)",
+    "location_served": "aurangabad_maharashtra_india"
+  },
+  {
+    "iata": "IXV",
+    "icao": "VEAN",
+    "airport_name": "along_airport",
+    "location_served": "along_(aalo)_arunachal_pradesh_india"
+  },
+  {
+    "iata": "IXW",
+    "icao": "VEJS",
+    "airport_name": "sonari_airport",
+    "location_served": "jamshedpur_jharkhand_india"
+  },
+  {
+    "iata": "IXX",
+    "icao": "VOBR",
+    "airport_name": "bidar_airport",
+    "location_served": "bidar_karnataka_india"
+  },
+  {
+    "iata": "IXY",
+    "icao": "VAKE",
+    "airport_name": "kandla_airport_(gandhidham_airport)",
+    "location_served": "kandla_/_gandhidham_gujarat_india"
+  },
+  {
+    "iata": "IXZ",
+    "icao": "VOPB",
+    "airport_name": "veer_savarkar_international_airport_(port_blair_airport)",
+    "location_served": "port_blair_andaman_and_nicobar_islands_india"
+  },
+  {
+    "iata": "IYK",
+    "icao": "KIYK",
+    "airport_name": "inyokern_airport",
+    "location_served": "inyokern_california_united_states"
+  },
+  {
+    "iata": "IZA",
+    "icao": "SBZM",
+    "airport_name": "presidente_itamar_franco_airport_(zona_da_mata_regional_airport)",
+    "location_served": "juiz_de_fora_minas_gerais_brazil"
+  },
+  {
+    "iata": "IZM[1]",
+    "icao": "",
+    "airport_name": "metropolitan_areadapi",
+    "location_served": "i̇zmir_turkey"
+  },
+  {
+    "iata": "IZO",
+    "icao": "RJOC",
+    "airport_name": "izumo_airport",
+    "location_served": "izumo_honshu_japan"
+  },
+  {
+    "iata": "IZT",
+    "icao": "MMIT",
+    "airport_name": "ixtepec_airport",
+    "location_served": "ixtepec_oaxaca_mexico"
+  }
+]

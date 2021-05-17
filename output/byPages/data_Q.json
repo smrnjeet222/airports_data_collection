@@ -1,0 +1,122 @@
+[
+  {
+    "iata": "QAQ",
+    "icao": "LIAP",
+    "airport_name": "l'aquila–preturo_airport[dapi]",
+    "location_served": "l'aquila_abruzzo_italy\n"
+  },
+  {
+    "iata": "QBC",
+    "icao": "CYBD",
+    "airport_name": "bella_coola_airport",
+    "location_served": "bella_coola_british_columbia_canada\n"
+  },
+  {
+    "iata": "QCY",
+    "icao": "EGXC",
+    "airport_name": "raf_coningsby",
+    "location_served": "coningsby_england_united_kingdom\n"
+  },
+  {
+    "iata": "QHU",
+    "icao": "EDXJ",
+    "airport_name": "husum_schwesing_airport[dapi]",
+    "location_served": "husum_schleswig-holstein_germany\n"
+  },
+  {
+    "iata": "QLR",
+    "icao": "LPMR",
+    "airport_name": "monte_real_air_base",
+    "location_served": "monte_real_portugal\n"
+  },
+  {
+    "iata": "QOW",
+    "icao": "DNIM",
+    "airport_name": "sam_mbakwe_airport",
+    "location_served": "owerri_nigeria\n"
+  },
+  {
+    "iata": "QPG",
+    "icao": "WSAP",
+    "airport_name": "paya_lebar_air_base",
+    "location_served": "singapore\n"
+  },
+  {
+    "iata": "QRA",
+    "icao": "FAGM",
+    "airport_name": "rand_airport",
+    "location_served": "johannesburg_south_africa\n"
+  },
+  {
+    "iata": "QRC",
+    "icao": "SCRG",
+    "airport_name": "rancagua_de_la_independencia_airport",
+    "location_served": "rancagua_chile\n"
+  },
+  {
+    "iata": "QRO",
+    "icao": "MMQT",
+    "airport_name": "querétaro_intercontinental_airport",
+    "location_served": "querétaro_city_querétaro_mexico\n"
+  },
+  {
+    "iata": "QRW",
+    "icao": "DNSU",
+    "airport_name": "warri_airport_(osubi_airport)",
+    "location_served": "warri_nigeria\n"
+  },
+  {
+    "iata": "QSC",
+    "icao": "SDSC",
+    "airport_name": "mário_pereira_lopes_airport",
+    "location_served": "são_carlos_são_paulo_brazil\n"
+  },
+  {
+    "iata": "QSF",
+    "icao": "DAAS",
+    "airport_name": "ain_arnat_airport",
+    "location_served": "sétif_algeria\n"
+  },
+  {
+    "iata": "QSR",
+    "icao": "LIRI",
+    "airport_name": "salerno_costa_d'amalfi_airport_(pontecagnano_airport)",
+    "location_served": "salerno_campania_italy\n"
+  },
+  {
+    "iata": "QSZ",
+    "icao": "",
+    "airport_name": "shache_airport",
+    "location_served": "shache_xinjiang_china\n"
+  },
+  {
+    "iata": "QUB",
+    "icao": "HLUB",
+    "airport_name": "ubari_airport[dapi]",
+    "location_served": "ubari_libya\n"
+  },
+  {
+    "iata": "QUG",
+    "icao": "EGHR",
+    "airport_name": "chichester/goodwood_airport",
+    "location_served": "chichester_england_united_kingdom\n"
+  },
+  {
+    "iata": "QUO",
+    "icao": "DNAI",
+    "airport_name": "akwa_ibom_international_airport",
+    "location_served": "uyo_nigeria\n"
+  },
+  {
+    "iata": "QUY",
+    "icao": "EGUY",
+    "airport_name": "raf_wyton[dapi]",
+    "location_served": "wyton_england_united_kingdom\n"
+  },
+  {
+    "iata": "QWG",
+    "icao": "",
+    "airport_name": "wilgrove_air_park_(faa:_dapiadapi)",
+    "location_served": "charlotte_north_carolina_united_states\n"
+  }
+]

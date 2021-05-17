@@ -1,0 +1,1808 @@
+[
+  {
+    "iata": "HAA",
+    "icao": "ENHK",
+    "airport_name": "hasvik_airport",
+    "location_served": "hasvik_norway"
+  },
+  {
+    "iata": "HAB",
+    "icao": "KHAB",
+    "airport_name": "marion_county_–_rankin_fite_airport",
+    "location_served": "hamilton_alabama_united_states"
+  },
+  {
+    "iata": "HAC",
+    "icao": "RJTH",
+    "airport_name": "hachijojima_airport",
+    "location_served": "hachijō-jima_(hachijojima)_izu_islands_japan"
+  },
+  {
+    "iata": "HAD",
+    "icao": "ESMT",
+    "airport_name": "halmstad_airport_(halmstad_city_airport)",
+    "location_served": "halmstad_sweden"
+  },
+  {
+    "iata": "HAF",
+    "icao": "KHAF",
+    "airport_name": "half_moon_bay_airport",
+    "location_served": "half_moon_bay_california_united_states"
+  },
+  {
+    "iata": "HAH",
+    "icao": "FMCH",
+    "airport_name": "prince_said_ibrahim_international_airport",
+    "location_served": "moroni_comoros"
+  },
+  {
+    "iata": "HAI",
+    "icao": "KHAI",
+    "airport_name": "three_rivers_municipal_airport_(dr._haines_flying_field)",
+    "location_served": "three_rivers_michigan_united_states"
+  },
+  {
+    "iata": "HAJ",
+    "icao": "EDDV",
+    "airport_name": "hannover_airport",
+    "location_served": "hanover_lower_saxony_germany"
+  },
+  {
+    "iata": "HAK",
+    "icao": "ZJHK",
+    "airport_name": "haikou_meilan_international_airport",
+    "location_served": "haikou_hainan_china"
+  },
+  {
+    "iata": "HAL",
+    "icao": "FYHI",
+    "airport_name": "halali_airport",
+    "location_served": "halali_namibia"
+  },
+  {
+    "iata": "HAM",
+    "icao": "EDDH",
+    "airport_name": "hamburg_airport",
+    "location_served": "hamburg_germany"
+  },
+  {
+    "iata": "HAN",
+    "icao": "VVNB",
+    "airport_name": "noi_bai_international_airport",
+    "location_served": "hanoi_vietnam"
+  },
+  {
+    "iata": "HAO",
+    "icao": "KHAO",
+    "airport_name": "butler_county_regional_airport",
+    "location_served": "hamilton_ohio_united_states"
+  },
+  {
+    "iata": "HAQ",
+    "icao": "VRMH",
+    "airport_name": "hanimaadhoo_international_airport",
+    "location_served": "hanimaadhoo_haa_dhaalu_atoll_maldives"
+  },
+  {
+    "iata": "HAR",
+    "icao": "KCXY",
+    "airport_name": "capital_city_airport_(faa:_cxy)",
+    "location_served": "harrisburg_pennsylvania_united_states"
+  },
+  {
+    "iata": "HAS",
+    "icao": "OEHL",
+    "airport_name": "ha'il_regional_airport",
+    "location_served": "ha'il_(hail)_saudi_arabia"
+  },
+  {
+    "iata": "HAT",
+    "icao": "YHTL",
+    "airport_name": "heathlands_airport",
+    "location_served": "heathlands_queensland_australia"
+  },
+  {
+    "iata": "HAU",
+    "icao": "ENHD",
+    "airport_name": "haugesund_airport_karmøy",
+    "location_served": "haugesund_norway"
+  },
+  {
+    "iata": "HAV",
+    "icao": "MUHA",
+    "airport_name": "josé_martí_international_airport",
+    "location_served": "havana_cuba"
+  },
+  {
+    "iata": "HAW",
+    "icao": "EGFE",
+    "airport_name": "haverfordwest_aerodrome",
+    "location_served": "haverfordwest_wales_united_kingdom"
+  },
+  {
+    "iata": "HAY",
+    "icao": "",
+    "airport_name": "hacaritama_airport",
+    "location_served": "aguachica_colombia"
+  },
+  {
+    "iata": "HAZ",
+    "icao": "",
+    "airport_name": "hatzfeldthaven_airport",
+    "location_served": "hatzfeldthaven_papua_new_guinea"
+  },
+  {
+    "iata": "HBA",
+    "icao": "YMHB",
+    "airport_name": "hobart_international_airport",
+    "location_served": "hobart_tasmania_australia"
+  },
+  {
+    "iata": "HBB",
+    "icao": "",
+    "airport_name": "hobbs_industrial_airpark",
+    "location_served": "hobbs_new_mexico_united_states"
+  },
+  {
+    "iata": "HBD",
+    "icao": "",
+    "airport_name": "habi_airport",
+    "location_served": "habi_papua_new_guinea"
+  },
+  {
+    "iata": "HBE",
+    "icao": "HEBA",
+    "airport_name": "borg_el_arab_airport",
+    "location_served": "alexandria_/_borg_el_arab_egypt"
+  },
+  {
+    "iata": "HBG",
+    "icao": "KHBG",
+    "airport_name": "hattiesburg_bobby_l._chain_municipal_airport",
+    "location_served": "hattiesburg_mississippi_united_states"
+  },
+  {
+    "iata": "HBH",
+    "icao": "",
+    "airport_name": "entrance_island_seaplane_base_(hobart_bay)_(faa:_dapizdapi)",
+    "location_served": "entrance_island_alaska_united_states"
+  },
+  {
+    "iata": "HBK",
+    "icao": "",
+    "airport_name": "holbrook_municipal_airport[dapi]_(faa:_pdapidapi)",
+    "location_served": "holbrook_arizona_united_states"
+  },
+  {
+    "iata": "HBQ",
+    "icao": "",
+    "airport_name": "qilian_airport",
+    "location_served": "qilian_qinghai_china"
+  },
+  {
+    "iata": "HBR",
+    "icao": "KHBR",
+    "airport_name": "hobart_regional_airport",
+    "location_served": "hobart_oklahoma_united_states"
+  },
+  {
+    "iata": "HBT",
+    "icao": "",
+    "airport_name": "hambantota_sea_plane_base",
+    "location_served": "hambantota_sri_lanka"
+  },
+  {
+    "iata": "HBU",
+    "icao": "ZMBS",
+    "airport_name": "bulgan_airport_khovd[dapi]",
+    "location_served": "bulgan_(khovd_province)_mongolia"
+  },
+  {
+    "iata": "HBX",
+    "icao": "VAHB",
+    "airport_name": "hubli_airport",
+    "location_served": "hubli_/_dharwad_karnataka_india"
+  },
+  {
+    "iata": "HCA",
+    "icao": "KBPG",
+    "airport_name": "big_spring_mcmahon–wrinkle_airport[dapi]_(faa:_bpg)",
+    "location_served": "big_spring_texas_united_states"
+  },
+  {
+    "iata": "HCC",
+    "icao": "",
+    "airport_name": "columbia_county_airport_(faa:_dapibdapi)",
+    "location_served": "hudson_new_york_united_states"
+  },
+  {
+    "iata": "HCJ",
+    "icao": "ZGHC",
+    "airport_name": "hechi_jinchengjiang_airport",
+    "location_served": "hechi_guangxi_china"
+  },
+  {
+    "iata": "HCM",
+    "icao": "HCME",
+    "airport_name": "eyl_airport",
+    "location_served": "eyl_somalia"
+  },
+  {
+    "iata": "HCN",
+    "icao": "RCKW",
+    "airport_name": "hengchun_airport",
+    "location_served": "hengchun_taiwan"
+  },
+  {
+    "iata": "HCQ",
+    "icao": "YHLC",
+    "airport_name": "halls_creek_airport",
+    "location_served": "halls_creek_western_australia_australia"
+  },
+  {
+    "iata": "HCR",
+    "icao": "PAHC",
+    "airport_name": "holy_cross_airport_(faa:_hca)",
+    "location_served": "holy_cross_alaska_united_states"
+  },
+  {
+    "iata": "HCW",
+    "icao": "KCQW",
+    "airport_name": "cheraw_municipal_airport_(lynch_bellinger_field_faa:_cqw)",
+    "location_served": "cheraw_south_carolina_united_states"
+  },
+  {
+    "iata": "HDB",
+    "icao": "EDIU",
+    "airport_name": "heidelberg_airport",
+    "location_served": "heidelberg_baden-württemberg_germany"
+  },
+  {
+    "iata": "HDD",
+    "icao": "OPKD",
+    "airport_name": "hyderabad_airport",
+    "location_served": "hyderabad_pakistan"
+  },
+  {
+    "iata": "HDE",
+    "icao": "KHDE",
+    "airport_name": "brewster_field",
+    "location_served": "holdrege_nebraska_united_states"
+  },
+  {
+    "iata": "HDF",
+    "icao": "EDAH",
+    "airport_name": "heringsdorf_airport",
+    "location_served": "heringsdorf_mecklenburg-vorpommern_germany"
+  },
+  {
+    "iata": "HDG",
+    "icao": "ZBHD",
+    "airport_name": "handan_airport",
+    "location_served": "handan_hebei_china"
+  },
+  {
+    "iata": "HDH",
+    "icao": "PHDH",
+    "airport_name": "dillingham_airfield",
+    "location_served": "mokulēia_hawaii_united_states"
+  },
+  {
+    "iata": "HDK",
+    "icao": "VRBK",
+    "airport_name": "kulhudhuffushi_airport",
+    "location_served": "haa_dhaalu_atoll_maldives"
+  },
+  {
+    "iata": "HDM",
+    "icao": "OIHH",
+    "airport_name": "hamadan_airport",
+    "location_served": "hamadan_iran"
+  },
+  {
+    "iata": "HDN",
+    "icao": "KHDN",
+    "airport_name": "yampa_valley_airport",
+    "location_served": "hayden_colorado_united_states"
+  },
+  {
+    "iata": "HDR",
+    "icao": "OIKP",
+    "airport_name": "havadarya_airport[dapi]",
+    "location_served": "bandar_abbas_iran"
+  },
+  {
+    "iata": "HDS",
+    "icao": "FAHS",
+    "airport_name": "air_force_base_hoedspruit",
+    "location_served": "hoedspruit_south_africa"
+  },
+  {
+    "iata": "HDY",
+    "icao": "VTSS",
+    "airport_name": "hat_yai_international_airport",
+    "location_served": "hat_yai_thailand"
+  },
+  {
+    "iata": "HEA",
+    "icao": "OAHR",
+    "airport_name": "herat_international_airport",
+    "location_served": "herat_afghanistan"
+  },
+  {
+    "iata": "HEB",
+    "icao": "VBHD",
+    "airport_name": "hinthada_airport",
+    "location_served": "hinthada_myanmar"
+  },
+  {
+    "iata": "HED",
+    "icao": "",
+    "airport_name": "herendeen_bay_airport_(faa:_akdapidapi)",
+    "location_served": "herendeen_bay_alaska_united_states"
+  },
+  {
+    "iata": "HEE",
+    "icao": "KHEE",
+    "airport_name": "thompson–robbins_airport",
+    "location_served": "helena-west_helena_arkansas_united_states"
+  },
+  {
+    "iata": "HEH",
+    "icao": "VYHH",
+    "airport_name": "heho_airport",
+    "location_served": "heho_myanmar"
+  },
+  {
+    "iata": "HEI",
+    "icao": "EDXB",
+    "airport_name": "heide–büsum_airport",
+    "location_served": "heide_/_büsum_schleswig-holstein_germany"
+  },
+  {
+    "iata": "HEK",
+    "icao": "ZYHE",
+    "airport_name": "heihe_airport",
+    "location_served": "heihe_heilongjiang_china"
+  },
+  {
+    "iata": "HEL",
+    "icao": "EFHK",
+    "airport_name": "helsinki_airport_(helsinki-vantaa_airport)",
+    "location_served": "helsinki_finland"
+  },
+  {
+    "iata": "HEM",
+    "icao": "EFHF",
+    "airport_name": "helsinki-malmi_airport",
+    "location_served": "helsinki_finland"
+  },
+  {
+    "iata": "HEO",
+    "icao": "",
+    "airport_name": "haelogo_airport",
+    "location_served": "haelogo_papua_new_guinea"
+  },
+  {
+    "iata": "HER",
+    "icao": "LGIR",
+    "airport_name": "heraklion_international_airport_(nikos_kazantzakis_airport)",
+    "location_served": "heraklion_greece"
+  },
+  {
+    "iata": "HES",
+    "icao": "KHRI",
+    "airport_name": "hermiston_municipal_airport_(faa:_hri)",
+    "location_served": "hermiston_oregon_united_states"
+  },
+  {
+    "iata": "HET",
+    "icao": "ZBHH",
+    "airport_name": "hohhot_baita_international_airport",
+    "location_served": "hohhot_inner_mongolia_china"
+  },
+  {
+    "iata": "HEZ",
+    "icao": "KHEZ",
+    "airport_name": "natchez–adams_county_airport_(hardy–anders_field)",
+    "location_served": "natchez_mississippi_united_states"
+  },
+  {
+    "iata": "HFA",
+    "icao": "LLHA",
+    "airport_name": "haifa_airport_(uri_michaeli_airport)",
+    "location_served": "haifa_israel"
+  },
+  {
+    "iata": "HFD",
+    "icao": "KHFD",
+    "airport_name": "hartford–brainard_airport",
+    "location_served": "hartford_connecticut_united_states"
+  },
+  {
+    "iata": "HFE",
+    "icao": "ZSOF",
+    "airport_name": "hefei_xinqiao_international_airport_(formerly_hefei_luogang_international_airport)",
+    "location_served": "hefei_anhui_china"
+  },
+  {
+    "iata": "HFF",
+    "icao": "KHFF",
+    "airport_name": "mackall_army_airfield",
+    "location_served": "hoffman_north_carolina_united_states"
+  },
+  {
+    "iata": "HFN",
+    "icao": "BIHN",
+    "airport_name": "hornafjörður_airport",
+    "location_served": "höfn_iceland"
+  },
+  {
+    "iata": "HFS",
+    "icao": "ESOH",
+    "airport_name": "hagfors_airport",
+    "location_served": "hagfors_sweden"
+  },
+  {
+    "iata": "HFT",
+    "icao": "ENHF",
+    "airport_name": "hammerfest_airport",
+    "location_served": "hammerfest_norway"
+  },
+  {
+    "iata": "HGA",
+    "icao": "HCMH",
+    "airport_name": "hargeisa_international_airport_(egal_int'l)",
+    "location_served": "hargeisa_somalia"
+  },
+  {
+    "iata": "HGD",
+    "icao": "YHUG",
+    "airport_name": "hughenden_airport",
+    "location_served": "hughenden_queensland_australia"
+  },
+  {
+    "iata": "HGE",
+    "icao": "SVHG[2]",
+    "airport_name": "higuerote_airport[dapi]",
+    "location_served": "higuerote_venezuela"
+  },
+  {
+    "iata": "HGH",
+    "icao": "ZSHC",
+    "airport_name": "hangzhou_xiaoshan_international_airport",
+    "location_served": "hangzhou_zhejiang_china"
+  },
+  {
+    "iata": "HGI",
+    "icao": "HSFA",
+    "airport_name": "paloich_airport[dapi]",
+    "location_served": "higlieg_sudan"
+  },
+  {
+    "iata": "HGL",
+    "icao": "EDXH",
+    "airport_name": "heligoland_airport_(düne_airport)",
+    "location_served": "heligoland_schleswig-holstein_germany"
+  },
+  {
+    "iata": "HGN",
+    "icao": "VTCH",
+    "airport_name": "mae_hong_son_airport",
+    "location_served": "mae_hong_son_thailand"
+  },
+  {
+    "iata": "HGO",
+    "icao": "DIKO",
+    "airport_name": "korhogo_airport",
+    "location_served": "korhogo_ivory_coast"
+  },
+  {
+    "iata": "HGR",
+    "icao": "KHGR",
+    "airport_name": "hagerstown_regional_airport_(richard_a._henson_field)",
+    "location_served": "hagerstown_maryland_united_states"
+  },
+  {
+    "iata": "HGS",
+    "icao": "GFHA",
+    "airport_name": "hastings_airport",
+    "location_served": "freetown_sierra_leone"
+  },
+  {
+    "iata": "HGU",
+    "icao": "AYMH",
+    "airport_name": "mount_hagen_airport",
+    "location_served": "mount_hagen_papua_new_guinea"
+  },
+  {
+    "iata": "HGZ",
+    "icao": "",
+    "airport_name": "hog_river_airport_(faa:_dapiakdapi)",
+    "location_served": "hogatza_alaska_united_states"
+  },
+  {
+    "iata": "HHE",
+    "icao": "RJSH",
+    "airport_name": "jmsdf_hachinohe_air_base",
+    "location_served": "hachinohe_honshu_japan"
+  },
+  {
+    "iata": "HHH",
+    "icao": "KHXD",
+    "airport_name": "hilton_head_airport_(faa:_hxd)",
+    "location_served": "hilton_head_island_south_carolina_united_states"
+  },
+  {
+    "iata": "HHI",
+    "icao": "PHHI",
+    "airport_name": "wheeler_army_airfield",
+    "location_served": "wahiawa_hawaii_united_states"
+  },
+  {
+    "iata": "HHN",
+    "icao": "EDFH",
+    "airport_name": "frankfurt–hahn_airport",
+    "location_served": "hahn_rhineland-palatinate_germany"
+  },
+  {
+    "iata": "HHQ",
+    "icao": "VTPH",
+    "airport_name": "hua_hin_airport",
+    "location_served": "hua_hin_thailand"
+  },
+  {
+    "iata": "HHR",
+    "icao": "KHHR",
+    "airport_name": "hawthorne_municipal_airport_(jack_northrop_field)",
+    "location_served": "hawthorne_california_united_states"
+  },
+  {
+    "iata": "HHZ",
+    "icao": "NTGH",
+    "airport_name": "hikueru_airport",
+    "location_served": "hikueru_atoll_french_polynesia"
+  },
+  {
+    "iata": "HIA",
+    "icao": "ZSSH",
+    "airport_name": "huai'an_lianshui_airport",
+    "location_served": "huai'an_jiangsu_china"
+  },
+  {
+    "iata": "HIB",
+    "icao": "KHIB",
+    "airport_name": "range_regional_airport",
+    "location_served": "hibbing_minnesota_united_states"
+  },
+  {
+    "iata": "HID",
+    "icao": "YHID",
+    "airport_name": "horn_island_airport",
+    "location_served": "horn_island_queensland_australia"
+  },
+  {
+    "iata": "HIE",
+    "icao": "KHIE",
+    "airport_name": "mount_washington_regional_airport",
+    "location_served": "whitefield_new_hampshire_united_states"
+  },
+  {
+    "iata": "HIF",
+    "icao": "KHIF",
+    "airport_name": "hill_air_force_base",
+    "location_served": "ogden_utah_united_states"
+  },
+  {
+    "iata": "HIG",
+    "icao": "YHHY",
+    "airport_name": "highbury_airport",
+    "location_served": "highbury_queensland_australia"
+  },
+  {
+    "iata": "HII",
+    "icao": "KHII",
+    "airport_name": "lake_havasu_city_airport",
+    "location_served": "lake_havasu_city_arizona_united_states"
+  },
+  {
+    "iata": "HIJ",
+    "icao": "RJOA",
+    "airport_name": "hiroshima_airport",
+    "location_served": "hiroshima_honshu_japan"
+  },
+  {
+    "iata": "HIL",
+    "icao": "HASL",
+    "airport_name": "shilavo_airport",
+    "location_served": "shilavo_ethiopia"
+  },
+  {
+    "iata": "HIM",
+    "icao": "VCCH",
+    "airport_name": "hingurakgoda_airport_(minneriya_airport)",
+    "location_served": "hingurakgoda_sri_lanka"
+  },
+  {
+    "iata": "HIN",
+    "icao": "RKPS",
+    "airport_name": "sacheon_airport",
+    "location_served": "jinju_south_korea"
+  },
+  {
+    "iata": "HIO",
+    "icao": "KHIO",
+    "airport_name": "hillsboro_airport_(portland–hillsboro_airport)",
+    "location_served": "hillsboro_/_portland_oregon_united_states"
+  },
+  {
+    "iata": "HIP",
+    "icao": "YHDY",
+    "airport_name": "headingly_airport",
+    "location_served": "headingly_queensland_australia"
+  },
+  {
+    "iata": "HIR",
+    "icao": "AGGH",
+    "airport_name": "honiara_international_airport",
+    "location_served": "honiara_guadalcanal_solomon_islands"
+  },
+  {
+    "iata": "HIT",
+    "icao": "AYHO",
+    "airport_name": "haivaro_airport",
+    "location_served": "haivaro_papua_new_guinea"
+  },
+  {
+    "iata": "HIW",
+    "icao": "RJBH",
+    "airport_name": "hiroshima–nishi_airport",
+    "location_served": "hiroshima_honshu_japan"
+  },
+  {
+    "iata": "HJJ",
+    "icao": "ZGCJ",
+    "airport_name": "huaihua_zhijiang_airport",
+    "location_served": "huaihua_hunan_china"
+  },
+  {
+    "iata": "HJR",
+    "icao": "VAKJ",
+    "airport_name": "civil_aerodrome_khajuraho",
+    "location_served": "khajuraho_madhya_pradesh_india"
+  },
+  {
+    "iata": "HJT",
+    "icao": "ZMHU",
+    "airport_name": "khujirt_airport",
+    "location_served": "khujirt_mongolia"
+  },
+  {
+    "iata": "HKA",
+    "icao": "KHKA",
+    "airport_name": "blytheville_municipal_airport",
+    "location_served": "blytheville_arkansas_united_states"
+  },
+  {
+    "iata": "HKB",
+    "icao": "",
+    "airport_name": "healy_lake_airport",
+    "location_served": "healy_lake_alaska_united_states"
+  },
+  {
+    "iata": "HKD",
+    "icao": "RJCH",
+    "airport_name": "hakodate_airport",
+    "location_served": "hakodate_hokkaido_japan"
+  },
+  {
+    "iata": "HKG",
+    "icao": "VHHH",
+    "airport_name": "hong_kong_international_airport_(chek_lap_kok_airport)",
+    "location_served": "hong_kong"
+  },
+  {
+    "iata": "HKK",
+    "icao": "NZHK",
+    "airport_name": "hokitika_airport",
+    "location_served": "hokitika_new_zealand"
+  },
+  {
+    "iata": "HKN",
+    "icao": "AYHK",
+    "airport_name": "hoskins_airport",
+    "location_served": "kimbe_papua_new_guinea"
+  },
+  {
+    "iata": "HKS",
+    "icao": "KHKS",
+    "airport_name": "hawkins_field",
+    "location_served": "jackson_mississippi_united_states"
+  },
+  {
+    "iata": "HKT",
+    "icao": "VTSP",
+    "airport_name": "phuket_international_airport",
+    "location_served": "phuket_thailand"
+  },
+  {
+    "iata": "HKV",
+    "icao": "LBHS",
+    "airport_name": "haskovo_malevo_airport",
+    "location_served": "haskovo_bulgaria"
+  },
+  {
+    "iata": "HKY",
+    "icao": "KHKY",
+    "airport_name": "hickory_regional_airport",
+    "location_served": "hickory_north_carolina_united_states"
+  },
+  {
+    "iata": "HLA",
+    "icao": "FALA",
+    "airport_name": "lanseria_international_airport",
+    "location_served": "johannesburg_south_africa"
+  },
+  {
+    "iata": "HLB",
+    "icao": "KHLB",
+    "airport_name": "hillenbrand_industries_airport",
+    "location_served": "batesville_indiana_united_states"
+  },
+  {
+    "iata": "HLC",
+    "icao": "KHLC",
+    "airport_name": "hill_city_municipal_airport",
+    "location_served": "hill_city_kansas_united_states"
+  },
+  {
+    "iata": "HLD",
+    "icao": "ZBLA",
+    "airport_name": "hulunbuir_hailar_airport",
+    "location_served": "hailar_inner_mongolia_china"
+  },
+  {
+    "iata": "HLE",
+    "icao": "FHSH",
+    "airport_name": "saint_helena_airport",
+    "location_served": "jamestown_british_overseas_territoryof_saint_helena_ascension_and_tristan_da_cunha"
+  },
+  {
+    "iata": "HLF",
+    "icao": "ESSF",
+    "airport_name": "hultsfred-vimmerby_airport",
+    "location_served": "hultsfred_/_vimmerby_sweden"
+  },
+  {
+    "iata": "HLG",
+    "icao": "KHLG",
+    "airport_name": "wheeling_ohio_county_airport",
+    "location_served": "wheeling_west_virginia_united_states"
+  },
+  {
+    "iata": "HLH",
+    "icao": "ZBUL",
+    "airport_name": "ulanhot_airport",
+    "location_served": "ulanhot_inner_mongolia_china"
+  },
+  {
+    "iata": "HLI",
+    "icao": "KCVH",
+    "airport_name": "hollister_municipal_airport_(faa:_cvh)",
+    "location_served": "hollister_california_united_states"
+  },
+  {
+    "iata": "HLL",
+    "icao": "YHIL",
+    "airport_name": "hillside_airport",
+    "location_served": "hillside_western_australia_australia"
+  },
+  {
+    "iata": "HLM",
+    "icao": "KHLM",
+    "airport_name": "park_township_airport",
+    "location_served": "holland_michigan_united_states"
+  },
+  {
+    "iata": "HLN",
+    "icao": "KHLN",
+    "airport_name": "helena_regional_airport",
+    "location_served": "helena_montana_united_states"
+  },
+  {
+    "iata": "HLP",
+    "icao": "WIHH",
+    "airport_name": "halim_perdanakusuma_international_airport",
+    "location_served": "jakarta_indonesia"
+  },
+  {
+    "iata": "HLR",
+    "icao": "KHLR",
+    "airport_name": "hood_army_airfield",
+    "location_served": "fort_hood_/_killeen_texas_united_states"
+  },
+  {
+    "iata": "HLS",
+    "icao": "YSTH",
+    "airport_name": "st_helens_airport",
+    "location_served": "st_helens_tasmania_australia"
+  },
+  {
+    "iata": "HLT",
+    "icao": "YHML",
+    "airport_name": "hamilton_airport",
+    "location_served": "hamilton_victoria_australia"
+  },
+  {
+    "iata": "HLV",
+    "icao": "",
+    "airport_name": "helenvale_airport",
+    "location_served": "helenvale_queensland_australia"
+  },
+  {
+    "iata": "HLW",
+    "icao": "FAHL",
+    "airport_name": "hluhluwe_airport",
+    "location_served": "hluhluwe_south_africa"
+  },
+  {
+    "iata": "HLZ",
+    "icao": "NZHN",
+    "airport_name": "hamilton_airport",
+    "location_served": "hamilton_new_zealand"
+  },
+  {
+    "iata": "HMA",
+    "icao": "USHH",
+    "airport_name": "khanty-mansiysk_airport",
+    "location_served": "khanty-mansiysk_khanty-mansi_autonomous_okrug_russia"
+  },
+  {
+    "iata": "HMB",
+    "icao": "HEMK",
+    "airport_name": "sohag_international_airport[dapi]",
+    "location_served": "sohag_egypt"
+  },
+  {
+    "iata": "HME",
+    "icao": "DAUH",
+    "airport_name": "oued_irara–krim_belkacem_airport",
+    "location_served": "hassi_messaoud_algeria"
+  },
+  {
+    "iata": "HMG",
+    "icao": "YHMB",
+    "airport_name": "hermannsburg_airport",
+    "location_served": "hermannsburg_northern_territory_australia"
+  },
+  {
+    "iata": "HMI",
+    "icao": "ZWHM",
+    "airport_name": "hami_airport_(kumul_airport)",
+    "location_served": "hami_xinjiang_china"
+  },
+  {
+    "iata": "HMJ",
+    "icao": "UKLH",
+    "airport_name": "khmelnytskyi_airport",
+    "location_served": "khmelnytsky_ukraine"
+  },
+  {
+    "iata": "HMN",
+    "icao": "KHMN",
+    "airport_name": "holloman_air_force_base",
+    "location_served": "alamogordo_new_mexico_united_states"
+  },
+  {
+    "iata": "HMO",
+    "icao": "MMHO",
+    "airport_name": "general_ignacio_pesqueira_garcía_international_airport",
+    "location_served": "hermosillo_sonora_mexico"
+  },
+  {
+    "iata": "HMR",
+    "icao": "ENHA",
+    "airport_name": "hamar_airport_stafsberg",
+    "location_served": "hamar_norway"
+  },
+  {
+    "iata": "HMT",
+    "icao": "KHMT",
+    "airport_name": "hemet-ryan_airport",
+    "location_served": "hemet_california_united_states"
+  },
+  {
+    "iata": "HMV",
+    "icao": "ESUT",
+    "airport_name": "hemavan_tärnaby_airport",
+    "location_served": "hemavan_/_tärnaby_sweden"
+  },
+  {
+    "iata": "HMY",
+    "icao": "RKTP",
+    "airport_name": "seosan_air_base[dapi]",
+    "location_served": "seosan_south_korea"
+  },
+  {
+    "iata": "HNA",
+    "icao": "RJSI",
+    "airport_name": "hanamaki_airport",
+    "location_served": "hanamaki_honshu_japan"
+  },
+  {
+    "iata": "HNB",
+    "icao": "KHNB",
+    "airport_name": "huntingburg_airport",
+    "location_served": "huntingburg_indiana_united_states"
+  },
+  {
+    "iata": "HNC",
+    "icao": "KHSE",
+    "airport_name": "billy_mitchell_airport_(faa:_hse)",
+    "location_served": "hatteras_north_carolina_united_states"
+  },
+  {
+    "iata": "HND",
+    "icao": "RJTT",
+    "airport_name": "haneda_airport",
+    "location_served": "tokyo_honshu_japan"
+  },
+  {
+    "iata": "HNH",
+    "icao": "PAOH",
+    "airport_name": "hoonah_airport",
+    "location_served": "hoonah_alaska_united_states"
+  },
+  {
+    "iata": "HNI",
+    "icao": "",
+    "airport_name": "heiweni_airport",
+    "location_served": "heiweni_papua_new_guinea"
+  },
+  {
+    "iata": "HNL",
+    "icao": "PHNL",
+    "airport_name": "honolulu_international_airport",
+    "location_served": "honolulu_hawaii_united_states"
+  },
+  {
+    "iata": "HNM",
+    "icao": "PHHN",
+    "airport_name": "hana_airport",
+    "location_served": "hana_hawaii_united_states"
+  },
+  {
+    "iata": "HNN",
+    "icao": "",
+    "airport_name": "honinabi_airport",
+    "location_served": "honinabi_papua_new_guinea"
+  },
+  {
+    "iata": "HNS",
+    "icao": "PAHN",
+    "airport_name": "haines_airport",
+    "location_served": "haines_alaska_united_states"
+  },
+  {
+    "iata": "HNY",
+    "icao": "ZGHY",
+    "airport_name": "hengyang_nanyue_airport",
+    "location_served": "hengyang_hunan_china"
+  },
+  {
+    "iata": "HOA",
+    "icao": "HKHO",
+    "airport_name": "hola_airport",
+    "location_served": "hola_kenya"
+  },
+  {
+    "iata": "HOB",
+    "icao": "KHOB",
+    "airport_name": "lea_county_regional_airport",
+    "location_served": "hobbs_new_mexico_united_states"
+  },
+  {
+    "iata": "HOC",
+    "icao": "",
+    "airport_name": "komako_airport",
+    "location_served": "komako_papua_new_guinea"
+  },
+  {
+    "iata": "HOD",
+    "icao": "OYHD",
+    "airport_name": "hodeida_international_airport",
+    "location_served": "al_hudaydah_(hodeida)_yemen"
+  },
+  {
+    "iata": "HOE",
+    "icao": "VLHS",
+    "airport_name": "ban_huoeisay_airport",
+    "location_served": "ban_houayxay_(ban_huoeisay)_laos"
+  },
+  {
+    "iata": "HOF",
+    "icao": "OEAH",
+    "airport_name": "al-ahsa_international_airport",
+    "location_served": "hofuf_saudi_arabia"
+  },
+  {
+    "iata": "HOG",
+    "icao": "MUHG",
+    "airport_name": "frank_país_airport",
+    "location_served": "holguín_cuba"
+  },
+  {
+    "iata": "HOH",
+    "icao": "LOIH",
+    "airport_name": "hohenems-dornbirn_airport",
+    "location_served": "dornbirn_austria"
+  },
+  {
+    "iata": "HOI",
+    "icao": "NTTO",
+    "airport_name": "hao_airport",
+    "location_served": "hao_tuamotus_french_polynesia"
+  },
+  {
+    "iata": "HOK",
+    "icao": "YHOO",
+    "airport_name": "hooker_creek_airport",
+    "location_served": "lajamanu_northern_territory_australia"
+  },
+  {
+    "iata": "HOM",
+    "icao": "PAHO",
+    "airport_name": "homer_airport",
+    "location_served": "homer_alaska_united_states"
+  },
+  {
+    "iata": "HON",
+    "icao": "KHON",
+    "airport_name": "huron_regional_airport",
+    "location_served": "huron_south_dakota_united_states"
+  },
+  {
+    "iata": "HOO",
+    "icao": "",
+    "airport_name": "nhon_co_airport",
+    "location_served": "quang_duc_vietnam"
+  },
+  {
+    "iata": "HOP",
+    "icao": "KHOP",
+    "airport_name": "campbell_army_airfield",
+    "location_served": "fort_campbell_/_hopkinsville_kentucky_united_states"
+  },
+  {
+    "iata": "HOQ",
+    "icao": "EDQM",
+    "airport_name": "hof–plauen_airport",
+    "location_served": "hof_bavaria_germany"
+  },
+  {
+    "iata": "HOR",
+    "icao": "LPHR",
+    "airport_name": "horta_airport",
+    "location_served": "horta_azores_portugal"
+  },
+  {
+    "iata": "HOS",
+    "icao": "SAHC",
+    "airport_name": "chos_malal_airport",
+    "location_served": "chos_malal_neuquén_argentina"
+  },
+  {
+    "iata": "HOT",
+    "icao": "KHOT",
+    "airport_name": "memorial_field_airport",
+    "location_served": "hot_springs_arkansas_united_states"
+  },
+  {
+    "iata": "HOU",
+    "icao": "KHOU",
+    "airport_name": "william_p._hobby_airport",
+    "location_served": "houston_texas_united_states"
+  },
+  {
+    "iata": "HOV",
+    "icao": "ENOV",
+    "airport_name": "ørsta–volda_airport_hovden",
+    "location_served": "ørsta_/_volda_norway"
+  },
+  {
+    "iata": "HOX",
+    "icao": "VYHL",
+    "airport_name": "homalin_airport",
+    "location_served": "homalin_myanmar"
+  },
+  {
+    "iata": "HOY",
+    "icao": "",
+    "airport_name": "hoy_island_airport",
+    "location_served": "longhope_scotland_united_kingdom"
+  },
+  {
+    "iata": "HPA",
+    "icao": "NFTL",
+    "airport_name": "lifuka_island_airport_(salote_pilolevu_airport)",
+    "location_served": "lifuka_haʻapai_tonga"
+  },
+  {
+    "iata": "HPB",
+    "icao": "PAHP",
+    "airport_name": "hooper_bay_airport",
+    "location_served": "hooper_bay_alaska_united_states"
+  },
+  {
+    "iata": "HPE",
+    "icao": "",
+    "airport_name": "hopevale_airport",
+    "location_served": "hopevale_queensland_australia"
+  },
+  {
+    "iata": "HPG",
+    "icao": "ZHSN",
+    "airport_name": "shennongjia_hongping_airport",
+    "location_served": "shennongjia_hubei_china"
+  },
+  {
+    "iata": "HPH",
+    "icao": "VVCI",
+    "airport_name": "cat_bi_international_airport",
+    "location_served": "haiphong_vietnam"
+  },
+  {
+    "iata": "HPN",
+    "icao": "KHPN",
+    "airport_name": "westchester_county_airport",
+    "location_served": "white_plains_new_york_united_states"
+  },
+  {
+    "iata": "HPT",
+    "icao": "KHPT",
+    "airport_name": "hampton_municipal_airport",
+    "location_served": "hampton_iowa_united_states"
+  },
+  {
+    "iata": "HPV",
+    "icao": "",
+    "airport_name": "princeville_airport_(faa:_hidapidapi)",
+    "location_served": "hanalei_hawaii_united_states"
+  },
+  {
+    "iata": "HPY",
+    "icao": "KHPY",
+    "airport_name": "baytown_airport",
+    "location_served": "baytown_texas_united_states"
+  },
+  {
+    "iata": "HQM",
+    "icao": "KHQM",
+    "airport_name": "bowerman_airport",
+    "location_served": "hoquiam_washington_united_states"
+  },
+  {
+    "iata": "HRB",
+    "icao": "ZYHB",
+    "airport_name": "harbin_taiping_international_airport",
+    "location_served": "harbin_heilongjiang_china"
+  },
+  {
+    "iata": "HRC",
+    "icao": "",
+    "airport_name": "zhayrem_airport",
+    "location_served": "zhayrem_kazakhstan"
+  },
+  {
+    "iata": "HRE",
+    "icao": "FVHA",
+    "airport_name": "harare_international_airport",
+    "location_served": "harare_zimbabwe"
+  },
+  {
+    "iata": "HRG",
+    "icao": "HEGN",
+    "airport_name": "hurghada_international_airport",
+    "location_served": "hurghada_egypt"
+  },
+  {
+    "iata": "HRI",
+    "icao": "VCRI",
+    "airport_name": "mattala_rajapaksa_international_airport",
+    "location_served": "hambantota_sri_lanka"
+  },
+  {
+    "iata": "HRK",
+    "icao": "UKHH",
+    "airport_name": "kharkiv_international_airport_(osnova_airport)",
+    "location_served": "kharkiv_ukraine"
+  },
+  {
+    "iata": "HRL",
+    "icao": "KHRL",
+    "airport_name": "valley_international_airport",
+    "location_served": "harlingen_texas_united_states"
+  },
+  {
+    "iata": "HRM",
+    "icao": "DAFH",
+    "airport_name": "hassi_r'mel_airport_(tilrempt_airport)",
+    "location_served": "hassi_r'mel_algeria"
+  },
+  {
+    "iata": "HRO",
+    "icao": "KHRO",
+    "airport_name": "boone_county_airport",
+    "location_served": "harrison_arkansas_united_states"
+  },
+  {
+    "iata": "HRR",
+    "icao": "",
+    "airport_name": "la_herrera_airport",
+    "location_served": "la_herrera_colombia"
+  },
+  {
+    "iata": "HRS",
+    "icao": "FAHR",
+    "airport_name": "harrismith_airport",
+    "location_served": "harrismith_south_africa"
+  },
+  {
+    "iata": "HRT",
+    "icao": "EGXU",
+    "airport_name": "raf_linton-on-ouse",
+    "location_served": "linton-on-ouse_england_united_kingdom"
+  },
+  {
+    "iata": "HRY",
+    "icao": "YHBY",
+    "airport_name": "henbury_airport",
+    "location_served": "henbury_northern_territory_australia"
+  },
+  {
+    "iata": "HRZ",
+    "icao": "SSHZ[3]",
+    "airport_name": "horizontina_airport",
+    "location_served": "horizontina_rio_grande_do_sul_brazil"
+  },
+  {
+    "iata": "HSA",
+    "icao": "UAIT",
+    "airport_name": "hazret_sultan_international_airport",
+    "location_served": "turkistan_turkistan_region_kazakhstan"
+  },
+  {
+    "iata": "HSB",
+    "icao": "KHSB",
+    "airport_name": "harrisburg-raleigh_airport",
+    "location_served": "harrisburg_illinois_united_states"
+  },
+  {
+    "iata": "HSC",
+    "icao": "",
+    "airport_name": "shaoguan_guitou_airport",
+    "location_served": "shaoguan_guangdong_china"
+  },
+  {
+    "iata": "HSG",
+    "icao": "RJFS",
+    "airport_name": "saga_airport",
+    "location_served": "saga_kyushu_japan"
+  },
+  {
+    "iata": "HSH",
+    "icao": "KHND",
+    "airport_name": "henderson_executive_airport_(faa:_hnd)",
+    "location_served": "las_vegas_nevada_united_states"
+  },
+  {
+    "iata": "HSI",
+    "icao": "KHSI",
+    "airport_name": "hastings_municipal_airport",
+    "location_served": "hastings_nebraska_united_states"
+  },
+  {
+    "iata": "HSJ",
+    "icao": "",
+    "airport_name": "zhengzhou_shangjie_airport[dapi]",
+    "location_served": "zhengzhou_henan_china"
+  },
+  {
+    "iata": "HSK",
+    "icao": "LEHC",
+    "airport_name": "huesca–pirineos_airport",
+    "location_served": "huesca_aragon_spain"
+  },
+  {
+    "iata": "HSL",
+    "icao": "PAHL",
+    "airport_name": "huslia_airport_(faa:_hla)",
+    "location_served": "huslia_alaska_united_states"
+  },
+  {
+    "iata": "HSM",
+    "icao": "YHSM",
+    "airport_name": "horsham_airport",
+    "location_served": "horsham_victoria_australia"
+  },
+  {
+    "iata": "HSN",
+    "icao": "ZSZS",
+    "airport_name": "zhoushan_putuoshan_airport",
+    "location_served": "zhoushan_zhejiang_china"
+  },
+  {
+    "iata": "HSP",
+    "icao": "KHSP",
+    "airport_name": "ingalls_field",
+    "location_served": "hot_springs_virginia_united_states"
+  },
+  {
+    "iata": "HSS",
+    "icao": "VIHR",
+    "airport_name": "hisar_airport",
+    "location_served": "hisar_haryana_india"
+  },
+  {
+    "iata": "HST",
+    "icao": "KHST",
+    "airport_name": "homestead_air_reserve_base",
+    "location_served": "homestead_florida_united_states"
+  },
+  {
+    "iata": "HSV",
+    "icao": "KHSV",
+    "airport_name": "huntsville_international_airport_(carl_t._jones_field)",
+    "location_served": "huntsville_alabama_united_states"
+  },
+  {
+    "iata": "HSZ",
+    "icao": "RCPO",
+    "airport_name": "hsinchu_air_base",
+    "location_served": "hsinchu_taiwan"
+  },
+  {
+    "iata": "HTA",
+    "icao": "UIAA",
+    "airport_name": "chita_international_airport_(kadala_airport)",
+    "location_served": "chita_zabaykalsky_krai_russia"
+  },
+  {
+    "iata": "HTG",
+    "icao": "UOHH",
+    "airport_name": "khatanga_airport",
+    "location_served": "khatanga_krasnoyarsk_krai_russia"
+  },
+  {
+    "iata": "HTH",
+    "icao": "KHTH",
+    "airport_name": "hawthorne_industrial_airport",
+    "location_served": "hawthorne_nevada_united_states"
+  },
+  {
+    "iata": "HTI",
+    "icao": "YBHM",
+    "airport_name": "great_barrier_reef_airport",
+    "location_served": "hamilton_island_queensland_australia"
+  },
+  {
+    "iata": "HTL",
+    "icao": "KHTL",
+    "airport_name": "roscommon_county–blodgett_memorial_airport",
+    "location_served": "houghton_lake_michigan_united_states"
+  },
+  {
+    "iata": "HTM",
+    "icao": "ZMHG",
+    "airport_name": "khatgal_airport[dapi]",
+    "location_served": "khatgal_mongolia"
+  },
+  {
+    "iata": "HTN",
+    "icao": "ZWTN",
+    "airport_name": "hotan_airport",
+    "location_served": "hotan_xinjiang_china"
+  },
+  {
+    "iata": "HTO",
+    "icao": "KHTO",
+    "airport_name": "east_hampton_airport",
+    "location_served": "east_hampton_new_york_united_states"
+  },
+  {
+    "iata": "HTR",
+    "icao": "RORH",
+    "airport_name": "hateruma_airport",
+    "location_served": "hateruma_yaeyama_islands_japan"
+  },
+  {
+    "iata": "HTS",
+    "icao": "KHTS",
+    "airport_name": "tri-state_airport_(milton_j._ferguson_field)",
+    "location_served": "huntington_west_virginia_united_states"
+  },
+  {
+    "iata": "HTT",
+    "icao": "",
+    "airport_name": "huatugou_airport",
+    "location_served": "huatugou_qinghai_china"
+  },
+  {
+    "iata": "HTU",
+    "icao": "YHPN",
+    "airport_name": "hopetoun_airport",
+    "location_served": "hopetoun_victoria_australia"
+  },
+  {
+    "iata": "HTV",
+    "icao": "KUTS",
+    "airport_name": "huntsville_municipal_airport_(bruce_brothers_regional)",
+    "location_served": "huntsville_texas_united_states"
+  },
+  {
+    "iata": "HTW",
+    "icao": "KHTW",
+    "airport_name": "lawrence_county_airpark",
+    "location_served": "chesapeake_/_huntington_(wv)_ohio_united_states"
+  },
+  {
+    "iata": "HTY",
+    "icao": "LTDA",
+    "airport_name": "hatay_airport",
+    "location_served": "hatay_turkey"
+  },
+  {
+    "iata": "HTZ",
+    "icao": "SKHC",
+    "airport_name": "hato_corozal_airport",
+    "location_served": "hato_corozal_colombia"
+  },
+  {
+    "iata": "HUA",
+    "icao": "KHUA",
+    "airport_name": "redstone_army_airfield",
+    "location_served": "redstone_arsenal_/_huntsville_alabama_united_states"
+  },
+  {
+    "iata": "HUB",
+    "icao": "YHBR",
+    "airport_name": "humbert_river_airport",
+    "location_served": "humbert_river_northern_territory_australia"
+  },
+  {
+    "iata": "HUC",
+    "icao": "",
+    "airport_name": "humacao_airport",
+    "location_served": "humacao_puerto_rico_united_states"
+  },
+  {
+    "iata": "HUD",
+    "icao": "",
+    "airport_name": "humboldt_municipal_airport_(faa:_dapikdapi)",
+    "location_served": "humboldt_iowa_united_states"
+  },
+  {
+    "iata": "HUE",
+    "icao": "HAHU",
+    "airport_name": "humera_airport",
+    "location_served": "humera_ethiopia"
+  },
+  {
+    "iata": "HUF",
+    "icao": "KHUF",
+    "airport_name": "terre_haute_international_airport_(hulman_field)",
+    "location_served": "terre_haute_indiana_united_states"
+  },
+  {
+    "iata": "HUG",
+    "icao": "MGHT",
+    "airport_name": "huehuetenango_airport",
+    "location_served": "huehuetenango_guatemala"
+  },
+  {
+    "iata": "HUH",
+    "icao": "NTTH",
+    "airport_name": "huahine_–_fare_airport",
+    "location_served": "huahine_society_islands_french_polynesia"
+  },
+  {
+    "iata": "HUI",
+    "icao": "VVPB",
+    "airport_name": "phu_bai_international_airport",
+    "location_served": "huế_vietnam"
+  },
+  {
+    "iata": "HUJ",
+    "icao": "KHHW",
+    "airport_name": "stan_stamper_municipal_airport_(faa:_hhw)",
+    "location_served": "hugo_oklahoma_united_states"
+  },
+  {
+    "iata": "HUK",
+    "icao": "",
+    "airport_name": "hukuntsi_airport",
+    "location_served": "hukuntsi_botswana"
+  },
+  {
+    "iata": "HUL",
+    "icao": "KHUL",
+    "airport_name": "houlton_international_airport",
+    "location_served": "houlton_maine_united_states"
+  },
+  {
+    "iata": "HUM",
+    "icao": "KHUM",
+    "airport_name": "houma–terrebonne_airport",
+    "location_served": "houma_louisiana_united_states"
+  },
+  {
+    "iata": "HUN",
+    "icao": "RCYU",
+    "airport_name": "hualien_airport",
+    "location_served": "hualien_taiwan"
+  },
+  {
+    "iata": "HUO",
+    "icao": "ZBHZ",
+    "airport_name": "holingol_huolinhe_airport[dapi]",
+    "location_served": "holingol_(huolinguole)_inner_mongolia_china"
+  },
+  {
+    "iata": "HUQ",
+    "icao": "HLON",
+    "airport_name": "hun_airport",
+    "location_served": "hun_libya"
+  },
+  {
+    "iata": "HUS",
+    "icao": "PAHU",
+    "airport_name": "hughes_airport",
+    "location_served": "hughes_alaska_united_states"
+  },
+  {
+    "iata": "HUT",
+    "icao": "KHUT",
+    "airport_name": "hutchinson_municipal_airport",
+    "location_served": "hutchinson_kansas_united_states"
+  },
+  {
+    "iata": "HUU",
+    "icao": "SPNC",
+    "airport_name": "alférez_fap_david_figueroa_fernandini_airport",
+    "location_served": "huánuco_peru"
+  },
+  {
+    "iata": "HUV",
+    "icao": "ESNH",
+    "airport_name": "hudiksvall_airport",
+    "location_served": "hudiksvall_sweden"
+  },
+  {
+    "iata": "HUW",
+    "icao": "SWHT",
+    "airport_name": "francisco_correa_da_cruz_airport[dapi]",
+    "location_served": "humaitá_amazonas_brazil"
+  },
+  {
+    "iata": "HUX",
+    "icao": "MMBT",
+    "airport_name": "bahías_de_huatulco_international_airport",
+    "location_served": "huatulco_oaxaca_mexico"
+  },
+  {
+    "iata": "HUY",
+    "icao": "EGNJ",
+    "airport_name": "humberside_airport",
+    "location_served": "kingston_upon_hull_england_united_kingdom"
+  },
+  {
+    "iata": "HUZ",
+    "icao": "ZGHZ",
+    "airport_name": "huizhou_pingtan_airport",
+    "location_served": "huizhou_guangdong_china"
+  },
+  {
+    "iata": "HVA",
+    "icao": "FMNL",
+    "airport_name": "analalava_airport",
+    "location_served": "analalava_madagascar"
+  },
+  {
+    "iata": "HVB",
+    "icao": "YHBA",
+    "airport_name": "hervey_bay_airport",
+    "location_served": "hervey_bay_queensland_australia"
+  },
+  {
+    "iata": "HVD",
+    "icao": "ZMKD",
+    "airport_name": "khovd_airport",
+    "location_served": "khovd_mongolia"
+  },
+  {
+    "iata": "HVE",
+    "icao": "KHVE",
+    "airport_name": "hanksville_airport",
+    "location_served": "hanksville_utah_united_states"
+  },
+  {
+    "iata": "HVG",
+    "icao": "ENHV",
+    "airport_name": "honningsvåg_airport_valan",
+    "location_served": "honningsvåg_norway"
+  },
+  {
+    "iata": "HVK",
+    "icao": "BIHK",
+    "airport_name": "hólmavík_airport",
+    "location_served": "hólmavík_iceland"
+  },
+  {
+    "iata": "HVN",
+    "icao": "KHVN",
+    "airport_name": "tweed_new_haven_airport",
+    "location_served": "new_haven_connecticut_united_states"
+  },
+  {
+    "iata": "HVR",
+    "icao": "KHVR",
+    "airport_name": "havre_city–county_airport",
+    "location_served": "havre_montana_united_states"
+  },
+  {
+    "iata": "HVS",
+    "icao": "KHVS",
+    "airport_name": "hartsville_regional_airport",
+    "location_served": "hartsville_south_carolina_united_states"
+  },
+  {
+    "iata": "HWA",
+    "icao": "",
+    "airport_name": "hawabango_airport",
+    "location_served": "hawabango_papua_new_guinea"
+  },
+  {
+    "iata": "HWD",
+    "icao": "KHWD",
+    "airport_name": "hayward_executive_airport",
+    "location_served": "hayward_california_united_states"
+  },
+  {
+    "iata": "HWI",
+    "icao": "",
+    "airport_name": "hawk_inlet_seaplane_base",
+    "location_served": "hawk_inlet_alaska_united_states"
+  },
+  {
+    "iata": "HWK",
+    "icao": "YHAW",
+    "airport_name": "wilpena_pound_airport",
+    "location_served": "hawker_south_australia_australia"
+  },
+  {
+    "iata": "HWN",
+    "icao": "FVWN",
+    "airport_name": "hwange_national_park_airport",
+    "location_served": "hwange_national_park_zimbabwe"
+  },
+  {
+    "iata": "HWO",
+    "icao": "KHWO",
+    "airport_name": "north_perry_airport",
+    "location_served": "hollywood_florida_united_states"
+  },
+  {
+    "iata": "HXD",
+    "icao": "ZLDL",
+    "airport_name": "delingha_airport",
+    "location_served": "delingha_qinghai_china"
+  },
+  {
+    "iata": "HXX",
+    "icao": "YHAY",
+    "airport_name": "hay_airport",
+    "location_served": "hay_new_south_wales_australia"
+  },
+  {
+    "iata": "HYA",
+    "icao": "KHYA",
+    "airport_name": "barnstable_municipal_airport_(boardman/polando_field)",
+    "location_served": "hyannis_massachusetts_united_states"
+  },
+  {
+    "iata": "HYC",
+    "icao": "EGTB[4]",
+    "airport_name": "wycombe_air_park",
+    "location_served": "high_wycombe_england_united_kingdom"
+  },
+  {
+    "iata": "HYD",
+    "icao": "VOHS",
+    "airport_name": "rajiv_gandhi_international_airport",
+    "location_served": "hyderabad_telangana_india"
+  },
+  {
+    "iata": "HYF",
+    "icao": "",
+    "airport_name": "hayfields_airport",
+    "location_served": "hayfields_papua_new_guinea"
+  },
+  {
+    "iata": "HYG",
+    "icao": "PAHY",
+    "airport_name": "hydaburg_seaplane_base",
+    "location_served": "hydaburg_alaska_united_states"
+  },
+  {
+    "iata": "HYL",
+    "icao": "",
+    "airport_name": "hollis_clark_bay_seaplane_base",
+    "location_served": "hollis_alaska_united_states"
+  },
+  {
+    "iata": "HYN",
+    "icao": "ZSLQ",
+    "airport_name": "taizhou_luqiao_airport",
+    "location_served": "taizhou_zhejiang_china"
+  },
+  {
+    "iata": "HYR",
+    "icao": "KHYR",
+    "airport_name": "sawyer_county_airport",
+    "location_served": "hayward_wisconsin_united_states"
+  },
+  {
+    "iata": "HYS",
+    "icao": "KHYS",
+    "airport_name": "hays_regional_airport",
+    "location_served": "hays_kansas_united_states"
+  },
+  {
+    "iata": "HYV",
+    "icao": "EFHV",
+    "airport_name": "hyvinkää_airfield",
+    "location_served": "hyvinkää_finland"
+  },
+  {
+    "iata": "HZB",
+    "icao": "LFQT",
+    "airport_name": "merville–calonne_airport",
+    "location_served": "hazebrouck_nord-pas-de-calais_france"
+  },
+  {
+    "iata": "HZG",
+    "icao": "ZLHZ",
+    "airport_name": "hanzhong_chenggu_airport",
+    "location_served": "hanzhong_shaanxi_china"
+  },
+  {
+    "iata": "HZH",
+    "icao": "ZUNP",
+    "airport_name": "liping_airport",
+    "location_served": "liping_guizhou_china"
+  },
+  {
+    "iata": "HZK",
+    "icao": "BIHU",
+    "airport_name": "húsavík_airport",
+    "location_served": "húsavík_iceland"
+  },
+  {
+    "iata": "HZL",
+    "icao": "KHZL",
+    "airport_name": "hazleton_municipal_airport",
+    "location_served": "hazleton_pennsylvania_united_states"
+  },
+  {
+    "iata": "HZP",
+    "icao": "CYNR",
+    "airport_name": "fort_mackay/horizon_airport[dapi]",
+    "location_served": "fort_mckay_alberta_canada"
+  },
+  {
+    "iata": "HZV",
+    "icao": "FAHW",
+    "airport_name": "hazyview_airport",
+    "location_served": "hazyview_south_africa"
+  }
+]

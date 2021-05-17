@@ -1,0 +1,1526 @@
+[
+  {
+    "iata": "EAA",
+    "icao": "PAEG",
+    "airport_name": "eagle_airport",
+    "location_served": "eagle_alaska_united_states"
+  },
+  {
+    "iata": "EAB",
+    "icao": "ODAS",
+    "airport_name": "abbs_airport",
+    "location_served": "abbs_yemen"
+  },
+  {
+    "iata": "EAE",
+    "icao": "NVSE",
+    "airport_name": "siwo_airport",
+    "location_served": "emae_island_shefa_vanuatu"
+  },
+  {
+    "iata": "EAL",
+    "icao": "",
+    "airport_name": "elenak_airport",
+    "location_served": "mejato_island_kwajalein_atoll_marshall_islands"
+  },
+  {
+    "iata": "EAM",
+    "icao": "OENG",
+    "airport_name": "najran_domestic_airport",
+    "location_served": "najran_saudi_arabia"
+  },
+  {
+    "iata": "EAN",
+    "icao": "KEAN",
+    "airport_name": "phifer_airfield",
+    "location_served": "wheatland_wyoming_united_states"
+  },
+  {
+    "iata": "EAP[1]",
+    "icao": "",
+    "airport_name": "metropolitan_areadapi",
+    "location_served": "basel_switzerland_/_mulhouse_alsace_france"
+  },
+  {
+    "iata": "EAR",
+    "icao": "KEAR",
+    "airport_name": "kearney_regional_airport",
+    "location_served": "kearney_nebraska_united_states"
+  },
+  {
+    "iata": "EAS",
+    "icao": "LESO",
+    "airport_name": "san_sebastián_airport",
+    "location_served": "san_sebastián_basque_country_spain"
+  },
+  {
+    "iata": "EAT",
+    "icao": "KEAT",
+    "airport_name": "pangborn_memorial_airport",
+    "location_served": "wenatchee_washington_united_states"
+  },
+  {
+    "iata": "EAU",
+    "icao": "KEAU",
+    "airport_name": "chippewa_valley_regional_airport",
+    "location_served": "eau_claire_wisconsin_united_states"
+  },
+  {
+    "iata": "EBA",
+    "icao": "LIRJ",
+    "airport_name": "marina_di_campo_airport",
+    "location_served": "elba_island_tuscany_italy"
+  },
+  {
+    "iata": "EBB",
+    "icao": "HUEN",
+    "airport_name": "entebbe_international_airport",
+    "location_served": "entebbe_uganda"
+  },
+  {
+    "iata": "EBD",
+    "icao": "HSOB",
+    "airport_name": "el_obeid_airport",
+    "location_served": "el_obeid_sudan"
+  },
+  {
+    "iata": "EBG",
+    "icao": "SKEB",
+    "airport_name": "el_bagre_airport_(el_tomin_airport)",
+    "location_served": "el_bagre_colombia"
+  },
+  {
+    "iata": "EBH",
+    "icao": "DAOY",
+    "airport_name": "el_bayadh_airport[dapi]",
+    "location_served": "el_bayadh_algeria"
+  },
+  {
+    "iata": "EBJ",
+    "icao": "EKEB",
+    "airport_name": "esbjerg_airport",
+    "location_served": "esbjerg_denmark"
+  },
+  {
+    "iata": "EBL",
+    "icao": "ORER",
+    "airport_name": "erbil_international_airport",
+    "location_served": "erbil_iraq"
+  },
+  {
+    "iata": "EBM",
+    "icao": "DTTR",
+    "airport_name": "el_borma_airport",
+    "location_served": "el_borma_tunisia"
+  },
+  {
+    "iata": "EBN",
+    "icao": "",
+    "airport_name": "ebadon_airstrip",
+    "location_served": "ebadon_island_kwajalein_atoll_marshall_islands"
+  },
+  {
+    "iata": "EBO",
+    "icao": "",
+    "airport_name": "ebon_airport",
+    "location_served": "ebon_atoll_marshall_islands"
+  },
+  {
+    "iata": "EBS",
+    "icao": "KEBS",
+    "airport_name": "webster_city_municipal_airport",
+    "location_served": "webster_city_iowa_united_states"
+  },
+  {
+    "iata": "EBU",
+    "icao": "LFMH",
+    "airport_name": "saint-étienne–bouthéon_airport",
+    "location_served": "saint-étienne_rhône-alpes_france"
+  },
+  {
+    "iata": "EBW",
+    "icao": "FKKW",
+    "airport_name": "ebolowa_airport",
+    "location_served": "ebolowa_cameroon"
+  },
+  {
+    "iata": "ECA",
+    "icao": "",
+    "airport_name": "iosco_county_airport_(faa:_dapiddapi)",
+    "location_served": "east_tawas_michigan_united_states"
+  },
+  {
+    "iata": "ECG",
+    "icao": "KECG",
+    "airport_name": "elizabeth_city_regional_airport",
+    "location_served": "elizabeth_city_north_carolina_united_states"
+  },
+  {
+    "iata": "ECH",
+    "icao": "YECH",
+    "airport_name": "echuca_airport",
+    "location_served": "echuca_victoria_australia"
+  },
+  {
+    "iata": "ECI",
+    "icao": "MNLP",
+    "airport_name": "costa_esmeralda_airport[dapi]",
+    "location_served": "rivas_nicaragua"
+  },
+  {
+    "iata": "ECN",
+    "icao": "LCEN",
+    "airport_name": "ercan_international_airport[dapi]",
+    "location_served": "nicosia_(lefkoşa)_northern_cyprus"
+  },
+  {
+    "iata": "ECO",
+    "icao": "",
+    "airport_name": "el_encanto_airport",
+    "location_served": "el_encanto_colombia"
+  },
+  {
+    "iata": "ECP",
+    "icao": "KECP",
+    "airport_name": "northwest_florida_beaches_international_airport",
+    "location_served": "panama_city_florida_united_states"
+  },
+  {
+    "iata": "ECR",
+    "icao": "SKEH[2]",
+    "airport_name": "el_charco_airport",
+    "location_served": "el_charco_colombia"
+  },
+  {
+    "iata": "ECS",
+    "icao": "KECS",
+    "airport_name": "mondell_field",
+    "location_served": "newcastle_wyoming_united_states"
+  },
+  {
+    "iata": "EDA",
+    "icao": "",
+    "airport_name": "edna_bay_seaplane_base[dapi]",
+    "location_served": "edna_bay_alaska_united_states"
+  },
+  {
+    "iata": "EDB",
+    "icao": "HSDB",
+    "airport_name": "el_debba_airport",
+    "location_served": "el_debba_sudan"
+  },
+  {
+    "iata": "EDD",
+    "icao": "",
+    "airport_name": "erldunda_airport",
+    "location_served": "erldunda_northern_territory_australia"
+  },
+  {
+    "iata": "EDE",
+    "icao": "KEDE",
+    "airport_name": "northeastern_regional_airport",
+    "location_served": "edenton_north_carolina_united_states"
+  },
+  {
+    "iata": "EDF",
+    "icao": "PAED",
+    "airport_name": "elmendorf_air_force_base",
+    "location_served": "anchorage_alaska_united_states"
+  },
+  {
+    "iata": "EDI",
+    "icao": "EGPH",
+    "airport_name": "edinburgh_airport",
+    "location_served": "edinburgh_scotland_united_kingdom"
+  },
+  {
+    "iata": "EDK",
+    "icao": "KEQA",
+    "airport_name": "captain_jack_thomas/el_dorado_airport_(faa:_eqa)",
+    "location_served": "el_dorado_kansas_united_states"
+  },
+  {
+    "iata": "EDL",
+    "icao": "HKEL",
+    "airport_name": "eldoret_international_airport",
+    "location_served": "eldoret_kenya"
+  },
+  {
+    "iata": "EDM",
+    "icao": "LFRI",
+    "airport_name": "la_roche-sur-yon_aerodrome",
+    "location_served": "la_roche-sur-yon_pays_de_la_loire_france"
+  },
+  {
+    "iata": "EDO",
+    "icao": "LTFD",
+    "airport_name": "balıkesir_koca_seyit_airport",
+    "location_served": "edremit_turkey"
+  },
+  {
+    "iata": "EDQ",
+    "icao": "",
+    "airport_name": "erandique_airport",
+    "location_served": "erandique_honduras"
+  },
+  {
+    "iata": "EDR",
+    "icao": "YPMP",
+    "airport_name": "edward_river_airport",
+    "location_served": "pormpuraaw_queensland_australia"
+  },
+  {
+    "iata": "EDW",
+    "icao": "KEDW",
+    "airport_name": "edwards_air_force_base",
+    "location_served": "edwards_california_united_states"
+  },
+  {
+    "iata": "EED",
+    "icao": "KEED",
+    "airport_name": "needles_airport",
+    "location_served": "needles_california_united_states"
+  },
+  {
+    "iata": "EEK",
+    "icao": "PAEE",
+    "airport_name": "eek_airport",
+    "location_served": "eek_alaska_united_states"
+  },
+  {
+    "iata": "EEN",
+    "icao": "KEEN",
+    "airport_name": "dillant–hopkins_airport",
+    "location_served": "keene_new_hampshire_united_states"
+  },
+  {
+    "iata": "EFD",
+    "icao": "KEFD",
+    "airport_name": "ellington_field",
+    "location_served": "houston_texas_united_states"
+  },
+  {
+    "iata": "EFG",
+    "icao": "AYEF",
+    "airport_name": "efogi_airport",
+    "location_served": "efogi_papua_new_guinea"
+  },
+  {
+    "iata": "EFK",
+    "icao": "KEFK",
+    "airport_name": "newport_state_airport",
+    "location_served": "newport_vermont_united_states"
+  },
+  {
+    "iata": "EFL",
+    "icao": "LGKF",
+    "airport_name": "cephalonia_international_airport",
+    "location_served": "cephalonia_greece"
+  },
+  {
+    "iata": "EFW",
+    "icao": "KEFW",
+    "airport_name": "jefferson_municipal_airport",
+    "location_served": "jefferson_iowa_united_states"
+  },
+  {
+    "iata": "EGA",
+    "icao": "AYEN",
+    "airport_name": "engati_airport",
+    "location_served": "engati_papua_new_guinea"
+  },
+  {
+    "iata": "EGC",
+    "icao": "LFBE",
+    "airport_name": "bergerac_dordogne_périgord_airport",
+    "location_served": "bergerac_aquitaine_france"
+  },
+  {
+    "iata": "EGE",
+    "icao": "KEGE",
+    "airport_name": "eagle_county_regional_airport",
+    "location_served": "eagle_/_vail_colorado_united_states"
+  },
+  {
+    "iata": "EGI",
+    "icao": "KEGI",
+    "airport_name": "duke_field_(eglin_auxiliary_field_dapi)",
+    "location_served": "crestview_florida_united_states"
+  },
+  {
+    "iata": "EGL",
+    "icao": "HANG",
+    "airport_name": "neghelle_airport",
+    "location_served": "neghelle_ethiopia"
+  },
+  {
+    "iata": "EGM",
+    "icao": "AGGS",
+    "airport_name": "seghe_airport",
+    "location_served": "seghe_western_province_solomon_islands"
+  },
+  {
+    "iata": "EGN",
+    "icao": "HSGN",
+    "airport_name": "geneina_airport",
+    "location_served": "geneina_sudan"
+  },
+  {
+    "iata": "EGO",
+    "icao": "UUOB",
+    "airport_name": "belgorod_international_airport",
+    "location_served": "belgorod_belgorod_oblast_russia"
+  },
+  {
+    "iata": "EGP",
+    "icao": "",
+    "airport_name": "maverick_county_memorial_international_airport",
+    "location_served": "eagle_pass_texas_united_states"
+  },
+  {
+    "iata": "EGS",
+    "icao": "BIEG",
+    "airport_name": "egilsstaðir_airport",
+    "location_served": "egilsstaðir_iceland"
+  },
+  {
+    "iata": "EGV",
+    "icao": "KEGV",
+    "airport_name": "eagle_river_union_airport",
+    "location_served": "eagle_river_wisconsin_united_states"
+  },
+  {
+    "iata": "EGX",
+    "icao": "PAII",
+    "airport_name": "egegik_airport_(faa:_eii)",
+    "location_served": "egegik_alaska_united_states"
+  },
+  {
+    "iata": "EHL",
+    "icao": "SAVB",
+    "airport_name": "el_bolsón_airport",
+    "location_served": "el_bolsón_río_negro_argentina"
+  },
+  {
+    "iata": "EHM",
+    "icao": "PAEH",
+    "airport_name": "cape_newenham_lrrs_airport",
+    "location_served": "cape_newenham_alaska_united_states"
+  },
+  {
+    "iata": "EIA",
+    "icao": "",
+    "airport_name": "popondetta_airport",
+    "location_served": "eia_papua_new_guinea"
+  },
+  {
+    "iata": "EIB",
+    "icao": "EDGE",
+    "airport_name": "eisenach-kindel_airport[dapi]",
+    "location_served": "eisenach_thuringia_germany"
+  },
+  {
+    "iata": "EIE",
+    "icao": "UNII",
+    "airport_name": "yeniseysk_airport",
+    "location_served": "yeniseysk_krasnoyarsk_krai_russia"
+  },
+  {
+    "iata": "EIH",
+    "icao": "",
+    "airport_name": "einasleigh_airport",
+    "location_served": "einasleigh_queensland_australia"
+  },
+  {
+    "iata": "EIK",
+    "icao": "URKE",
+    "airport_name": "yeysk_airport[dapi]",
+    "location_served": "yeysk_krasnodar_krai_russia"
+  },
+  {
+    "iata": "EIL",
+    "icao": "PAEI",
+    "airport_name": "eielson_air_force_base",
+    "location_served": "fairbanks_alaska_united_states"
+  },
+  {
+    "iata": "EIN",
+    "icao": "EHEH",
+    "airport_name": "eindhoven_airport",
+    "location_served": "eindhoven_netherlands"
+  },
+  {
+    "iata": "EIS",
+    "icao": "TUPJ",
+    "airport_name": "terrance_b._lettsome_international_airport",
+    "location_served": "tortola_british_overseas_territory_of_virgin_islands"
+  },
+  {
+    "iata": "EIY",
+    "icao": "LLEY",
+    "airport_name": "ein_yahav_airfield",
+    "location_served": "ein_yahav_israel"
+  },
+  {
+    "iata": "EJA",
+    "icao": "SKEJ",
+    "airport_name": "yariguíes_airport",
+    "location_served": "barrancabermeja_colombia"
+  },
+  {
+    "iata": "EJH",
+    "icao": "OEWJ",
+    "airport_name": "al_wajh_domestic_airport",
+    "location_served": "al_wajh_saudi_arabia"
+  },
+  {
+    "iata": "EJN",
+    "icao": "",
+    "airport_name": "ejin_banner_taolai_airport",
+    "location_served": "ejin_banner_inner_mongolia_china"
+  },
+  {
+    "iata": "EJT",
+    "icao": "",
+    "airport_name": "enejit_airport",
+    "location_served": "enejit_mili_atoll_marshall_islands"
+  },
+  {
+    "iata": "EKA",
+    "icao": "KEKA",
+    "airport_name": "murray_field",
+    "location_served": "eureka_california_united_states"
+  },
+  {
+    "iata": "EKB",
+    "icao": "UASB",
+    "airport_name": "ekibastuz_airport",
+    "location_served": "ekibastuz_kazakhstan"
+  },
+  {
+    "iata": "EKD",
+    "icao": "",
+    "airport_name": "elkedra_airport",
+    "location_served": "elkedra_northern_territory_australia"
+  },
+  {
+    "iata": "EKE",
+    "icao": "",
+    "airport_name": "ekereku_airport",
+    "location_served": "ekereku_guyana"
+  },
+  {
+    "iata": "EKI",
+    "icao": "KEKM",
+    "airport_name": "elkhart_municipal_airport_(faa:_ekm)",
+    "location_served": "elkhart_indiana_united_states"
+  },
+  {
+    "iata": "EKN",
+    "icao": "KEKN",
+    "airport_name": "elkins-randolph_county_airport",
+    "location_served": "elkins_west_virginia_united_states"
+  },
+  {
+    "iata": "EKO",
+    "icao": "KEKO",
+    "airport_name": "elko_regional_airport",
+    "location_served": "elko_nevada_united_states"
+  },
+  {
+    "iata": "EKS",
+    "icao": "UHSK",
+    "airport_name": "shakhtyorsk_airport[dapi]",
+    "location_served": "shakhtyorsk_sakhalin_oblast_russia"
+  },
+  {
+    "iata": "EKT",
+    "icao": "ESSU",
+    "airport_name": "eskilstuna_airport",
+    "location_served": "eskilstuna_sweden"
+  },
+  {
+    "iata": "EKX",
+    "icao": "KEKX",
+    "airport_name": "elizabethtown_regional_airport_(addington_field)",
+    "location_served": "elizabethtown_kentucky_united_states"
+  },
+  {
+    "iata": "ELA",
+    "icao": "KELA",
+    "airport_name": "eagle_lake_airport",
+    "location_served": "eagle_lake_texas_united_states"
+  },
+  {
+    "iata": "ELB",
+    "icao": "SKBC",
+    "airport_name": "las_flores_airport",
+    "location_served": "el_banco_colombia"
+  },
+  {
+    "iata": "ELC",
+    "icao": "YELD",
+    "airport_name": "elcho_island_airport",
+    "location_served": "elcho_island_northern_territory_australia"
+  },
+  {
+    "iata": "ELD",
+    "icao": "KELD",
+    "airport_name": "south_arkansas_regional_airport_at_goodwin_field",
+    "location_served": "el_dorado_arkansas_united_states"
+  },
+  {
+    "iata": "ELE",
+    "icao": "",
+    "airport_name": "el_real_airport",
+    "location_served": "el_real_panama"
+  },
+  {
+    "iata": "ELF",
+    "icao": "HSFS",
+    "airport_name": "el_fasher_airport",
+    "location_served": "el_fasher_sudan"
+  },
+  {
+    "iata": "ELG",
+    "icao": "DAUE",
+    "airport_name": "el_golea_airport",
+    "location_served": "el_goléa_algeria"
+  },
+  {
+    "iata": "ELH",
+    "icao": "MYEH",
+    "airport_name": "north_eleuthera_airport",
+    "location_served": "north_eleuthera_eleuthera_island_bahamas"
+  },
+  {
+    "iata": "ELI",
+    "icao": "PFEL",
+    "airport_name": "elim_airport",
+    "location_served": "elim_alaska_united_states"
+  },
+  {
+    "iata": "ELJ",
+    "icao": "SVWX[3]",
+    "airport_name": "el_recreo_airport",
+    "location_served": "el_recreo_colombia"
+  },
+  {
+    "iata": "ELK",
+    "icao": "KELK",
+    "airport_name": "elk_city_regional_business_airport",
+    "location_served": "elk_city_oklahoma_united_states"
+  },
+  {
+    "iata": "ELL",
+    "icao": "FAER",
+    "airport_name": "ellisras_airport",
+    "location_served": "ellisras_south_africa"
+  },
+  {
+    "iata": "ELM",
+    "icao": "KELM",
+    "airport_name": "elmira/corning_regional_airport",
+    "location_served": "elmira_/_corning_new_york_united_states"
+  },
+  {
+    "iata": "ELN",
+    "icao": "KELN",
+    "airport_name": "bowers_field",
+    "location_served": "ellensburg_washington_united_states"
+  },
+  {
+    "iata": "ELO",
+    "icao": "SATD",
+    "airport_name": "eldorado_airport",
+    "location_served": "eldorado_misiones_argentina"
+  },
+  {
+    "iata": "ELP",
+    "icao": "KELP",
+    "airport_name": "el_paso_international_airport",
+    "location_served": "el_paso_texas_united_states"
+  },
+  {
+    "iata": "ELQ",
+    "icao": "OEGS",
+    "airport_name": "prince_nayef_bin_abdulaziz_regional_airport",
+    "location_served": "buraidah_saudi_arabia"
+  },
+  {
+    "iata": "ELR",
+    "icao": "",
+    "airport_name": "elelim_airport",
+    "location_served": "elelim_indonesia"
+  },
+  {
+    "iata": "ELS",
+    "icao": "FAEL",
+    "airport_name": "east_london_airport",
+    "location_served": "east_london_south_africa"
+  },
+  {
+    "iata": "ELT",
+    "icao": "HETR",
+    "airport_name": "el_tor_airport",
+    "location_served": "el_tor_egypt"
+  },
+  {
+    "iata": "ELU",
+    "icao": "DAUO",
+    "airport_name": "guemar_airport",
+    "location_served": "el_oued_algeria"
+  },
+  {
+    "iata": "ELV",
+    "icao": "PAEL",
+    "airport_name": "elfin_cove_seaplane_base",
+    "location_served": "elfin_cove_alaska_united_states"
+  },
+  {
+    "iata": "ELW",
+    "icao": "",
+    "airport_name": "ellamar_seaplane_base_(faa:_dapizdapi)",
+    "location_served": "ellamar_alaska_united_states"
+  },
+  {
+    "iata": "ELX",
+    "icao": "",
+    "airport_name": "el_tigre_airport",
+    "location_served": "el_tigre_venezuela"
+  },
+  {
+    "iata": "ELY",
+    "icao": "KELY",
+    "airport_name": "ely_airport",
+    "location_served": "ely_nevada_united_states"
+  },
+  {
+    "iata": "ELZ",
+    "icao": "KELZ",
+    "airport_name": "wellsville_municipal_airport_(tarantine_field)",
+    "location_served": "wellsville_new_york_united_states"
+  },
+  {
+    "iata": "EMA",
+    "icao": "EGNX",
+    "airport_name": "east_midlands_airport",
+    "location_served": "nottingham_/_leicester_/_derby_england_united_kingdom"
+  },
+  {
+    "iata": "EMD",
+    "icao": "YEML",
+    "airport_name": "emerald_airport",
+    "location_served": "emerald_queensland_australia"
+  },
+  {
+    "iata": "EME",
+    "icao": "EDWE",
+    "airport_name": "emden_airport",
+    "location_served": "emden_lower_saxony_germany"
+  },
+  {
+    "iata": "EMG",
+    "icao": "FAEM",
+    "airport_name": "empangeni_airport",
+    "location_served": "empangeni_south_africa"
+  },
+  {
+    "iata": "EMI",
+    "icao": "AYEE",
+    "airport_name": "emirau_airport",
+    "location_served": "emirau_island_papua_new_guinea"
+  },
+  {
+    "iata": "EMK",
+    "icao": "PAEM",
+    "airport_name": "emmonak_airport_(faa:_enm)",
+    "location_served": "emmonak_alaska_united_states"
+  },
+  {
+    "iata": "EML",
+    "icao": "LSME",
+    "airport_name": "emmen_air_base",
+    "location_served": "emmen_switzerland"
+  },
+  {
+    "iata": "EMM",
+    "icao": "KEMM",
+    "airport_name": "kemmerer_municipal_airport",
+    "location_served": "kemmerer_wyoming_united_states"
+  },
+  {
+    "iata": "EMN",
+    "icao": "GQNI",
+    "airport_name": "néma_airport",
+    "location_served": "néma_mauritania"
+  },
+  {
+    "iata": "EMO",
+    "icao": "AYEO",
+    "airport_name": "emo_airport",
+    "location_served": "emo_papua_new_guinea"
+  },
+  {
+    "iata": "EMP",
+    "icao": "KEMP",
+    "airport_name": "emporia_municipal_airport",
+    "location_served": "emporia_kansas_united_states"
+  },
+  {
+    "iata": "EMS",
+    "icao": "AYEB",
+    "airport_name": "embessa_airport",
+    "location_served": "embessa_papua_new_guinea"
+  },
+  {
+    "iata": "EMT",
+    "icao": "KEMT",
+    "airport_name": "san_gabriel_valley_airport",
+    "location_served": "el_monte_california_united_states"
+  },
+  {
+    "iata": "EMX",
+    "icao": "SAVD",
+    "airport_name": "el_maitén_airport",
+    "location_served": "el_maitén_chubut_argentina"
+  },
+  {
+    "iata": "EMY",
+    "icao": "HEMN",
+    "airport_name": "el_minya_airport",
+    "location_served": "el_minya_egypt"
+  },
+  {
+    "iata": "ENA",
+    "icao": "PAEN",
+    "airport_name": "kenai_municipal_airport",
+    "location_served": "kenai_alaska_united_states"
+  },
+  {
+    "iata": "ENB",
+    "icao": "YEEB",
+    "airport_name": "eneabba_airport",
+    "location_served": "eneabba_western_australia_australia"
+  },
+  {
+    "iata": "ENC",
+    "icao": "LFSN",
+    "airport_name": "nancy-essey_airport",
+    "location_served": "nancy_lorraine_france"
+  },
+  {
+    "iata": "END",
+    "icao": "KEND",
+    "airport_name": "vance_air_force_base",
+    "location_served": "enid_oklahoma_united_states"
+  },
+  {
+    "iata": "ENE",
+    "icao": "WATE",
+    "airport_name": "h._hasan_aroeboesman_airport",
+    "location_served": "ende_indonesia"
+  },
+  {
+    "iata": "ENF",
+    "icao": "EFET",
+    "airport_name": "enontekiö_airport",
+    "location_served": "enontekiö_finland"
+  },
+  {
+    "iata": "ENH",
+    "icao": "ZHES",
+    "airport_name": "enshi_xujiaping_airport",
+    "location_served": "enshi_hubei_china"
+  },
+  {
+    "iata": "ENI",
+    "icao": "RPEN",
+    "airport_name": "el_nido_airport",
+    "location_served": "el_nido_philippines"
+  },
+  {
+    "iata": "ENJ",
+    "icao": "",
+    "airport_name": "el_naranjo_airport",
+    "location_served": "el_naranjo_guatemala"
+  },
+  {
+    "iata": "ENK",
+    "icao": "EGAB",
+    "airport_name": "enniskillen/st_angelo_airport",
+    "location_served": "enniskillen_northern_ireland_united_kingdom"
+  },
+  {
+    "iata": "ENL",
+    "icao": "KENL",
+    "airport_name": "centralia_municipal_airport",
+    "location_served": "centralia_illinois_united_states"
+  },
+  {
+    "iata": "ENN",
+    "icao": "PANN",
+    "airport_name": "nenana_municipal_airport",
+    "location_served": "nenana_alaska_united_states"
+  },
+  {
+    "iata": "ENO",
+    "icao": "SGEN",
+    "airport_name": "teniente_amin_ayub_gonzalez_airport",
+    "location_served": "encarnacion_paraguay"
+  },
+  {
+    "iata": "ENS",
+    "icao": "EHTW",
+    "airport_name": "enschede_airport_twente",
+    "location_served": "enschede_netherlands"
+  },
+  {
+    "iata": "ENT",
+    "icao": "PKMA",
+    "airport_name": "enewetak_auxiliary_airfield",
+    "location_served": "enewetak_marshall_islands"
+  },
+  {
+    "iata": "ENU",
+    "icao": "DNEN",
+    "airport_name": "akanu_ibiam_international_airport",
+    "location_served": "enugu_nigeria"
+  },
+  {
+    "iata": "ENV",
+    "icao": "KENV",
+    "airport_name": "wendover_airport",
+    "location_served": "wendover_utah_united_states"
+  },
+  {
+    "iata": "ENW",
+    "icao": "KENW",
+    "airport_name": "kenosha_regional_airport",
+    "location_served": "kenosha_wisconsin_united_states"
+  },
+  {
+    "iata": "ENY",
+    "icao": "ZLYA",
+    "airport_name": "yan'an_nanniwan_airport",
+    "location_served": "yan'an_shaanxi_china"
+  },
+  {
+    "iata": "EOH",
+    "icao": "SKMD",
+    "airport_name": "olaya_herrera_airport",
+    "location_served": "medellín_colombia"
+  },
+  {
+    "iata": "EOI",
+    "icao": "EGED",
+    "airport_name": "eday_airport",
+    "location_served": "eday_scotland_united_kingdom"
+  },
+  {
+    "iata": "EOK",
+    "icao": "KEOK",
+    "airport_name": "keokuk_municipal_airport",
+    "location_served": "keokuk_iowa_united_states"
+  },
+  {
+    "iata": "EOR",
+    "icao": "SVED",
+    "airport_name": "el_dorado_airport",
+    "location_served": "el_dorado_venezuela"
+  },
+  {
+    "iata": "EOS",
+    "icao": "KEOS",
+    "airport_name": "neosho_hugh_robinson_airport",
+    "location_served": "neosho_missouri_united_states"
+  },
+  {
+    "iata": "EOZ",
+    "icao": "SVEZ",
+    "airport_name": "elorza_airport",
+    "location_served": "elorza_venezuela"
+  },
+  {
+    "iata": "EPA",
+    "icao": "SADP",
+    "airport_name": "el_palomar_airport[dapi]",
+    "location_served": "el_palomar_buenos_aires_argentina"
+  },
+  {
+    "iata": "EPG",
+    "icao": "",
+    "airport_name": "browns_airport_(faa:_nedapidapi)",
+    "location_served": "weeping_water_nebraska_united_states"
+  },
+  {
+    "iata": "EPH",
+    "icao": "KEPH",
+    "airport_name": "ephrata_municipal_airport",
+    "location_served": "ephrata_washington_united_states"
+  },
+  {
+    "iata": "EPL",
+    "icao": "LFSG",
+    "airport_name": "épinal_–_mirecourt_airport",
+    "location_served": "épinal_/_mirecourt_lorraine_france"
+  },
+  {
+    "iata": "EPN",
+    "icao": "",
+    "airport_name": "epéna_airport",
+    "location_served": "epéna_republic_of_the_congo"
+  },
+  {
+    "iata": "EPR",
+    "icao": "YESP",
+    "airport_name": "esperance_airport",
+    "location_served": "esperance_western_australia_australia"
+  },
+  {
+    "iata": "EPS",
+    "icao": "MDAB",
+    "airport_name": "arroyo_barril_airport",
+    "location_served": "samaná_dominican_republic"
+  },
+  {
+    "iata": "EPT",
+    "icao": "AYEL",
+    "airport_name": "eliptamin_airport",
+    "location_served": "eliptamin_papua_new_guinea"
+  },
+  {
+    "iata": "EPU",
+    "icao": "EEPU",
+    "airport_name": "pärnu_airport",
+    "location_served": "pärnu_estonia"
+  },
+  {
+    "iata": "EQS",
+    "icao": "SAVE",
+    "airport_name": "esquel_airport",
+    "location_served": "esquel_chubut_argentina"
+  },
+  {
+    "iata": "ERA",
+    "icao": "HCMU",
+    "airport_name": "erigavo_airport",
+    "location_served": "erigavo_somalia"
+  },
+  {
+    "iata": "ERB",
+    "icao": "YERN",
+    "airport_name": "pukatja_airport_(ernabella_airport)",
+    "location_served": "pukatja_south_australia_australia"
+  },
+  {
+    "iata": "ERC",
+    "icao": "LTCD",
+    "airport_name": "erzincan_airport",
+    "location_served": "erzincan_turkey"
+  },
+  {
+    "iata": "ERD",
+    "icao": "UKDB",
+    "airport_name": "berdiansk_airport",
+    "location_served": "berdiansk_ukraine"
+  },
+  {
+    "iata": "ERE",
+    "icao": "AYEV",
+    "airport_name": "erave_airport",
+    "location_served": "erave_papua_new_guinea"
+  },
+  {
+    "iata": "ERF",
+    "icao": "EDDE",
+    "airport_name": "erfurt–weimar_airport",
+    "location_served": "erfurt_thuringia_germany"
+  },
+  {
+    "iata": "ERG",
+    "icao": "UIKE",
+    "airport_name": "erbogachen_airport",
+    "location_served": "yerbogachen_irkutsk_oblast_russia"
+  },
+  {
+    "iata": "ERH",
+    "icao": "GMFK",
+    "airport_name": "moulay_ali_cherif_airport",
+    "location_served": "errachidia_morocco"
+  },
+  {
+    "iata": "ERI",
+    "icao": "KERI",
+    "airport_name": "erie_international_airport_(tom_ridge_field)",
+    "location_served": "erie_pennsylvania_united_states"
+  },
+  {
+    "iata": "ERL",
+    "icao": "ZBER",
+    "airport_name": "erenhot_saiwusu_international_airport",
+    "location_served": "erenhot_inner_mongolia_china"
+  },
+  {
+    "iata": "ERM",
+    "icao": "SSER",
+    "airport_name": "erechim_airport",
+    "location_served": "erechim_rio_grande_do_sul_brazil"
+  },
+  {
+    "iata": "ERN",
+    "icao": "SWEI",
+    "airport_name": "eirunepé_airport_(amaury_feitosa_tomaz_airport)",
+    "location_served": "eirunepé_amazonas_brazil"
+  },
+  {
+    "iata": "ERQ",
+    "icao": "YESE",
+    "airport_name": "elrose_airport",
+    "location_served": "eloise_copper_mine_queensland_australia"
+  },
+  {
+    "iata": "ERR",
+    "icao": "KERR",
+    "airport_name": "errol_airport",
+    "location_served": "errol_new_hampshire_united_states"
+  },
+  {
+    "iata": "ERS",
+    "icao": "FYWE",
+    "airport_name": "eros_airport",
+    "location_served": "windhoek_namibia"
+  },
+  {
+    "iata": "ERT",
+    "icao": "",
+    "airport_name": "erdenet_airport",
+    "location_served": "erdenet_mongolia"
+  },
+  {
+    "iata": "ERU",
+    "icao": "AYER",
+    "airport_name": "erume_airport",
+    "location_served": "erume_papua_new_guinea"
+  },
+  {
+    "iata": "ERV",
+    "icao": "KERV",
+    "airport_name": "kerrville_municipal_airport_(louis_schreiner_field)",
+    "location_served": "kerrville_texas_united_states"
+  },
+  {
+    "iata": "ERZ",
+    "icao": "LTCE",
+    "airport_name": "erzurum_airport",
+    "location_served": "erzurum_turkey"
+  },
+  {
+    "iata": "ESA",
+    "icao": "",
+    "airport_name": "esa'ala_airport",
+    "location_served": "esa'ala_papua_new_guinea"
+  },
+  {
+    "iata": "ESB",
+    "icao": "LTAC",
+    "airport_name": "esenboğa_international_airport",
+    "location_served": "ankara_turkey"
+  },
+  {
+    "iata": "ESC",
+    "icao": "KESC",
+    "airport_name": "delta_county_airport",
+    "location_served": "escanaba_michigan_united_states"
+  },
+  {
+    "iata": "ESD",
+    "icao": "KORS",
+    "airport_name": "orcas_island_airport_(faa:_ors)",
+    "location_served": "eastsound_washington_united_states"
+  },
+  {
+    "iata": "ESE",
+    "icao": "MMES",
+    "airport_name": "ensenada_airport",
+    "location_served": "ensenada_baja_california_mexico"
+  },
+  {
+    "iata": "ESF",
+    "icao": "KESF",
+    "airport_name": "esler_airfield_(esler_regional_airport)",
+    "location_served": "alexandria_louisiana_united_states"
+  },
+  {
+    "iata": "ESG",
+    "icao": "SGME",
+    "airport_name": "dr._luis_maría_argaña_international_airport",
+    "location_served": "mariscal_estigarribia_paraguay"
+  },
+  {
+    "iata": "ESH",
+    "icao": "EGKA",
+    "airport_name": "shoreham_airport_(brighton_city_airport)",
+    "location_served": "shoreham-by-sea_england_united_kingdom"
+  },
+  {
+    "iata": "ESI",
+    "icao": "",
+    "airport_name": "espinosa_airport",
+    "location_served": "espinosa_minas_gerais_brazil"
+  },
+  {
+    "iata": "ESK",
+    "icao": "LTBI",
+    "airport_name": "eskişehir_airport",
+    "location_served": "eskişehir_turkey"
+  },
+  {
+    "iata": "ESL",
+    "icao": "URWI",
+    "airport_name": "elista_airport",
+    "location_served": "elista_kalmykia_russia"
+  },
+  {
+    "iata": "ESM",
+    "icao": "SETN",
+    "airport_name": "carlos_concha_torres_international_airport",
+    "location_served": "esmeraldas_ecuador"
+  },
+  {
+    "iata": "ESN",
+    "icao": "KESN",
+    "airport_name": "easton_airport_(newnam_field)",
+    "location_served": "easton_maryland_united_states"
+  },
+  {
+    "iata": "ESO",
+    "icao": "",
+    "airport_name": "ohkay_owingeh_airport_(faa:_edapidapi)",
+    "location_served": "española_new_mexico_united_states"
+  },
+  {
+    "iata": "ESP",
+    "icao": "",
+    "airport_name": "stroudsburg–pocono_airport[dapi]_(faa:_ndapidapi)",
+    "location_served": "east_stroudsburg_pennsylvania_united_states"
+  },
+  {
+    "iata": "ESR",
+    "icao": "SCES",
+    "airport_name": "ricardo_garcía_posada_airport",
+    "location_served": "el_salvador_chile"
+  },
+  {
+    "iata": "ESS",
+    "icao": "EDLE",
+    "airport_name": "essen/mülheim_airport",
+    "location_served": "essen_north_rhine-westphalia_germany"
+  },
+  {
+    "iata": "EST",
+    "icao": "KEST",
+    "airport_name": "estherville_municipal_airport",
+    "location_served": "estherville_iowa_united_states"
+  },
+  {
+    "iata": "ESU",
+    "icao": "GMMI",
+    "airport_name": "essaouira-mogador_airport",
+    "location_served": "essaouira_morocco"
+  },
+  {
+    "iata": "ESW",
+    "icao": "KESW",
+    "airport_name": "easton_state_airport",
+    "location_served": "easton_washington_united_states"
+  },
+  {
+    "iata": "ETB",
+    "icao": "KETB",
+    "airport_name": "west_bend_municipal_airport",
+    "location_served": "west_bend_wisconsin_united_states"
+  },
+  {
+    "iata": "ETD",
+    "icao": "YEDA",
+    "airport_name": "etadunna_airport",
+    "location_served": "etadunna_south_australia_australia"
+  },
+  {
+    "iata": "ETE",
+    "icao": "HAMM",
+    "airport_name": "genda_wuha_airport",
+    "location_served": "metemma_ethiopia"
+  },
+  {
+    "iata": "ETH",
+    "icao": "LLET",
+    "airport_name": "j._hozman_airport",
+    "location_served": "eilat_israel"
+  },
+  {
+    "iata": "ETM",
+    "icao": "LLER",
+    "airport_name": "ramon_airport",
+    "location_served": "eilat_israel"
+  },
+  {
+    "iata": "ETN",
+    "icao": "KETN",
+    "airport_name": "eastland_municipal_airport",
+    "location_served": "eastland_texas_united_states"
+  },
+  {
+    "iata": "ETR",
+    "icao": "SERO",
+    "airport_name": "santa_rosa_international_airport",
+    "location_served": "santa_rosa_ecuador"
+  },
+  {
+    "iata": "ETS",
+    "icao": "KEDN",
+    "airport_name": "enterprise_municipal_airport_(faa:_edn)",
+    "location_served": "enterprise_alabama_united_states"
+  },
+  {
+    "iata": "ETZ",
+    "icao": "LFJL",
+    "airport_name": "metz–nancy–lorraine_airport",
+    "location_served": "metz_/_nancy_lorraine_france"
+  },
+  {
+    "iata": "EUA",
+    "icao": "NFTE",
+    "airport_name": "eua_airport_(kaufana_airport)",
+    "location_served": "eua_tonga"
+  },
+  {
+    "iata": "EUC",
+    "icao": "YECL",
+    "airport_name": "eucla_airport",
+    "location_served": "eucla_western_australia_australia"
+  },
+  {
+    "iata": "EUE",
+    "icao": "",
+    "airport_name": "eureka_airport_(faa:_dapidapiu)",
+    "location_served": "eureka_nevada_united_states"
+  },
+  {
+    "iata": "EUF",
+    "icao": "KEUF",
+    "airport_name": "weedon_field",
+    "location_served": "eufaula_alabama_united_states"
+  },
+  {
+    "iata": "EUG",
+    "icao": "KEUG",
+    "airport_name": "eugene_airport_(mahlon_sweet_airport)",
+    "location_served": "eugene_oregon_united_states"
+  },
+  {
+    "iata": "EUM",
+    "icao": "EDHN",
+    "airport_name": "neumünster_airport",
+    "location_served": "neumünster_schleswig-holstein_germany"
+  },
+  {
+    "iata": "EUN",
+    "icao": "GMML",
+    "airport_name": "hassan_i_airport",
+    "location_served": "laayoune_morocco"
+  },
+  {
+    "iata": "EUO",
+    "icao": "",
+    "airport_name": "paratebueno_airport[dapi]",
+    "location_served": "paratebueno_colombia"
+  },
+  {
+    "iata": "EUQ",
+    "icao": "RPVS",
+    "airport_name": "evelio_javier_airport_(antique_airport)",
+    "location_served": "san_jose_de_buenavista_philippines"
+  },
+  {
+    "iata": "EUX",
+    "icao": "TNCE",
+    "airport_name": "f._d._roosevelt_airport",
+    "location_served": "oranjestad_sint_eustatius_caribbean_netherlands"
+  },
+  {
+    "iata": "EVA",
+    "icao": "",
+    "airport_name": "ben_bruce_memorial_airpark_(faa:_dapitedapi)",
+    "location_served": "evadale_texas_united_states"
+  },
+  {
+    "iata": "EVD",
+    "icao": "",
+    "airport_name": "eva_downs_airport",
+    "location_served": "eva_downs_northern_territory_australia"
+  },
+  {
+    "iata": "EVE",
+    "icao": "ENEV",
+    "airport_name": "harstad/narvik_airport_evenes",
+    "location_served": "harstad_/_narvik_norway"
+  },
+  {
+    "iata": "EVG",
+    "icao": "ESND",
+    "airport_name": "sveg_airport",
+    "location_served": "sveg_sweden"
+  },
+  {
+    "iata": "EVH",
+    "icao": "YEVD",
+    "airport_name": "evans_head_memorial_aerodrome",
+    "location_served": "evans_head_new_south_wales_australia"
+  },
+  {
+    "iata": "EVM",
+    "icao": "KEVM",
+    "airport_name": "eveleth-virginia_municipal_airport",
+    "location_served": "eveleth_minnesota_united_states"
+  },
+  {
+    "iata": "EVN",
+    "icao": "UDYZ",
+    "airport_name": "zvartnots_international_airport",
+    "location_served": "yerevan_armenia"
+  },
+  {
+    "iata": "EVV",
+    "icao": "KEVV",
+    "airport_name": "evansville_regional_airport",
+    "location_served": "evansville_indiana_united_states"
+  },
+  {
+    "iata": "EVW",
+    "icao": "KEVW",
+    "airport_name": "evanston-uinta_county_burns_field",
+    "location_served": "evanston_wyoming_united_states"
+  },
+  {
+    "iata": "EVX",
+    "icao": "LFOE",
+    "airport_name": "évreux-fauville_air_base",
+    "location_served": "évreux_upper_normandy_france"
+  },
+  {
+    "iata": "EWB",
+    "icao": "KEWB",
+    "airport_name": "new_bedford_regional_airport",
+    "location_served": "new_bedford_/_fall_river_massachusetts_united_states"
+  },
+  {
+    "iata": "EWE",
+    "icao": "",
+    "airport_name": "ewer_airport",
+    "location_served": "ewer_indonesia"
+  },
+  {
+    "iata": "EWI",
+    "icao": "WABT",
+    "airport_name": "enarotali_airport",
+    "location_served": "enarotali_indonesia"
+  },
+  {
+    "iata": "EWK",
+    "icao": "KEWK",
+    "airport_name": "newton_city/county_airport",
+    "location_served": "newton_kansas_united_states"
+  },
+  {
+    "iata": "EWN",
+    "icao": "KEWN",
+    "airport_name": "coastal_carolina_regional_airport",
+    "location_served": "new_bern_north_carolina_united_states"
+  },
+  {
+    "iata": "EWO",
+    "icao": "FCOE",
+    "airport_name": "ewo_airport",
+    "location_served": "ewo_republic_of_the_congo"
+  },
+  {
+    "iata": "EWR",
+    "icao": "KEWR",
+    "airport_name": "newark_liberty_international_airport",
+    "location_served": "newark_new_jersey_united_states"
+  },
+  {
+    "iata": "EXI",
+    "icao": "",
+    "airport_name": "excursion_inlet_seaplane_base",
+    "location_served": "excursion_inlet_alaska_united_states"
+  },
+  {
+    "iata": "EXM",
+    "icao": "YEXM",
+    "airport_name": "exmouth_airport",
+    "location_served": "exmouth_western_australia_australia"
+  },
+  {
+    "iata": "EXT",
+    "icao": "EGTE",
+    "airport_name": "exeter_international_airport",
+    "location_served": "exeter_england_united_kingdom"
+  },
+  {
+    "iata": "EYK",
+    "icao": "USHQ",
+    "airport_name": "beloyarsk_airport",
+    "location_served": "beloyarsky_khanty-mansi_autonomous_okrug_russia"
+  },
+  {
+    "iata": "EYL",
+    "icao": "GAYE",
+    "airport_name": "yélimané_airport",
+    "location_served": "yélimané_mali"
+  },
+  {
+    "iata": "EYP",
+    "icao": "SKYP",
+    "airport_name": "el_alcaraván_airport",
+    "location_served": "yopal_colombia"
+  },
+  {
+    "iata": "EYR",
+    "icao": "",
+    "airport_name": "yerington_municipal_airport[dapi]_(faa:_odapidapi)",
+    "location_served": "yerington_nevada_united_states"
+  },
+  {
+    "iata": "EYS",
+    "icao": "HKES",
+    "airport_name": "eliye_springs_airport",
+    "location_served": "eliye_springs_kenya"
+  },
+  {
+    "iata": "EYW",
+    "icao": "KEYW",
+    "airport_name": "key_west_international_airport",
+    "location_served": "key_west_florida_united_states"
+  },
+  {
+    "iata": "EZE",
+    "icao": "SAEZ",
+    "airport_name": "ministro_pistarini_international_airport",
+    "location_served": "buenos_aires_argentina"
+  },
+  {
+    "iata": "EZS",
+    "icao": "LTCA",
+    "airport_name": "elazığ_airport",
+    "location_served": "elazığ_turkey"
+  },
+  {
+    "iata": "EZV",
+    "icao": "",
+    "airport_name": "beryozovo_airport[dapi]",
+    "location_served": "beryozovo_khanty-mansi_autonomous_okrug_russia"
+  }
+]

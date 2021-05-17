@@ -1,0 +1,3020 @@
+[
+  {
+    "iata": "TAA",
+    "icao": "",
+    "airport_name": "tarapaina_airport[dapi]",
+    "location_served": "tarapaina_solomon_islands\n"
+  },
+  {
+    "iata": "TAB",
+    "icao": "TTCP",
+    "airport_name": "arthur_napoleon_raymond_robinson_international_airport",
+    "location_served": "tobago_trinidad_and_tobago\n"
+  },
+  {
+    "iata": "TAC",
+    "icao": "RPVA",
+    "airport_name": "daniel_z._romualdez_airport",
+    "location_served": "tacloban_philippines\n"
+  },
+  {
+    "iata": "TAD",
+    "icao": "KTAD",
+    "airport_name": "perry_stokes_airport",
+    "location_served": "trinidad_colorado_united_states\n"
+  },
+  {
+    "iata": "TAE",
+    "icao": "RKTN",
+    "airport_name": "daegu_international_airport",
+    "location_served": "daegu_south_korea\n"
+  },
+  {
+    "iata": "TAF",
+    "icao": "DAOL",
+    "airport_name": "oran_tafaraoui_airport",
+    "location_served": "oran_algeria\n"
+  },
+  {
+    "iata": "TAG",
+    "icao": "RPSP",
+    "airport_name": "bohol–panglao_international_airport",
+    "location_served": "tagbilaran_philippines\n"
+  },
+  {
+    "iata": "TAH",
+    "icao": "NVVW",
+    "airport_name": "whitegrass_airport",
+    "location_served": "tanna_island_vanuatu\n"
+  },
+  {
+    "iata": "TAI",
+    "icao": "OYTZ",
+    "airport_name": "taiz_international_airport",
+    "location_served": "taiz_(ta'izz)_yemen\n"
+  },
+  {
+    "iata": "TAJ",
+    "icao": "",
+    "airport_name": "tadji_airport",
+    "location_served": "aitape_papua_new_guinea\n"
+  },
+  {
+    "iata": "TAK",
+    "icao": "RJOT",
+    "airport_name": "takamatsu_airport",
+    "location_served": "takamatsu_shikoku_japan\n"
+  },
+  {
+    "iata": "TAL",
+    "icao": "PATA",
+    "airport_name": "ralph_m._calhoun_memorial_airport",
+    "location_served": "tanana_alaska_united_states\n"
+  },
+  {
+    "iata": "TAM",
+    "icao": "MMTM",
+    "airport_name": "general_francisco_javier_mina_international_airport",
+    "location_served": "tampico_tamaulipas_mexico\n"
+  },
+  {
+    "iata": "TAN",
+    "icao": "YTGA",
+    "airport_name": "tangalooma_airport",
+    "location_served": "tangalooma_queensland_australia\n"
+  },
+  {
+    "iata": "TAO",
+    "icao": "ZSQD",
+    "airport_name": "qingdao_liuting_international_airport",
+    "location_served": "qingdao_shandong_china\n"
+  },
+  {
+    "iata": "TAP",
+    "icao": "MMTP",
+    "airport_name": "tapachula_international_airport",
+    "location_served": "tapachula_chiapas_mexico\n"
+  },
+  {
+    "iata": "TAQ",
+    "icao": "",
+    "airport_name": "tarcoola_airport[dapi]",
+    "location_served": "tarcoola_south_australia_australia\n"
+  },
+  {
+    "iata": "TAR",
+    "icao": "LIBG",
+    "airport_name": "taranto-grottaglie_airport",
+    "location_served": "taranto_apulia_italy\n"
+  },
+  {
+    "iata": "TAS",
+    "icao": "UTTT",
+    "airport_name": "tashkent_international_airport",
+    "location_served": "tashkent_uzbekistan\n"
+  },
+  {
+    "iata": "TAT",
+    "icao": "LZTT",
+    "airport_name": "poprad–tatry_airport",
+    "location_served": "poprad_slovakia\n"
+  },
+  {
+    "iata": "TAU",
+    "icao": "",
+    "airport_name": "tauramena_airport[dapi]",
+    "location_served": "tauramena_colombia\n"
+  },
+  {
+    "iata": "TAV",
+    "icao": "",
+    "airport_name": "tau_airport_(faa:_hidapidapi)",
+    "location_served": "tau_american_samoa\n"
+  },
+  {
+    "iata": "TAW",
+    "icao": "SUTB",
+    "airport_name": "tacuarembó_airport",
+    "location_served": "tacuarembó_uruguay\n"
+  },
+  {
+    "iata": "TAX",
+    "icao": "WAPT",
+    "airport_name": "taliabu_airport",
+    "location_served": "taliabu_indonesia\n"
+  },
+  {
+    "iata": "TAY",
+    "icao": "EETU",
+    "airport_name": "tartu_airport",
+    "location_served": "tartu_estonia\n"
+  },
+  {
+    "iata": "TAZ",
+    "icao": "UTAT",
+    "airport_name": "daşoguz_airport",
+    "location_served": "daşoguz_(dashoguz)_turkmenistan\n"
+  },
+  {
+    "iata": "TBA",
+    "icao": "",
+    "airport_name": "tabibuga_airport[dapi]",
+    "location_served": "tabibuga_papua_new_guinea\n"
+  },
+  {
+    "iata": "TBB",
+    "icao": "VVTH",
+    "airport_name": "dong_tac_airport[dapi]",
+    "location_served": "tuy_hòa_vietnam\n"
+  },
+  {
+    "iata": "TBC",
+    "icao": "",
+    "airport_name": "tuba_city_airport[dapi]_(faa:_tdapidapi)",
+    "location_served": "tuba_city_arizona_united_states\n"
+  },
+  {
+    "iata": "TBD",
+    "icao": "SKMB",
+    "airport_name": "timbiquí_airport[dapi]",
+    "location_served": "timbiquí_colombia\n"
+  },
+  {
+    "iata": "TBE",
+    "icao": "",
+    "airport_name": "timbunke_airport[dapi]",
+    "location_served": "timbunke_papua_new_guinea\n"
+  },
+  {
+    "iata": "TBF",
+    "icao": "NGTE",
+    "airport_name": "tabiteuea_north_airport[dapi]",
+    "location_served": "tabiteuea_north_kiribati\n"
+  },
+  {
+    "iata": "TBG",
+    "icao": "AYTB",
+    "airport_name": "tabubil_airport[dapi]",
+    "location_served": "tabubil_papua_new_guinea\n"
+  },
+  {
+    "iata": "TBH",
+    "icao": "RPVU",
+    "airport_name": "tugdan_airport",
+    "location_served": "tablas_island_philippines\n"
+  },
+  {
+    "iata": "TBI",
+    "icao": "MYCB",
+    "airport_name": "new_bight_airport",
+    "location_served": "new_bight_cat_island_bahamas\n"
+  },
+  {
+    "iata": "TBJ",
+    "icao": "DTKA",
+    "airport_name": "tabarka–aïn_draham_international_airport",
+    "location_served": "tabarka_tunisia\n"
+  },
+  {
+    "iata": "TBK",
+    "icao": "YTBR",
+    "airport_name": "timber_creek_airport[dapi]",
+    "location_served": "timber_creek_northern_territory_australia\n"
+  },
+  {
+    "iata": "TBL",
+    "icao": "YTAB",
+    "airport_name": "tableland_homestead_airport[dapi]",
+    "location_served": "tableland_western_australia_australia\n"
+  },
+  {
+    "iata": "TBM",
+    "icao": "WAOW",
+    "airport_name": "tumbang_samba_airport[dapi]",
+    "location_served": "tumbang_samba_indonesia\n"
+  },
+  {
+    "iata": "TBN",
+    "icao": "KTBN",
+    "airport_name": "waynesville-st._robert_regional_airport_(forney_field)",
+    "location_served": "fort_leonard_wood_missouri_united_states\n"
+  },
+  {
+    "iata": "TBO",
+    "icao": "HTTB",
+    "airport_name": "tabora_airport[dapi]",
+    "location_served": "tabora_tanzania\n"
+  },
+  {
+    "iata": "TBP",
+    "icao": "SPME",
+    "airport_name": "cap._fap_pedro_canga_rodríguez_airport",
+    "location_served": "tumbes_peru\n"
+  },
+  {
+    "iata": "TBQ",
+    "icao": "",
+    "airport_name": "tarabo_airport[dapi]",
+    "location_served": "tarabo_papua_new_guinea\n"
+  },
+  {
+    "iata": "TBR",
+    "icao": "KTBR",
+    "airport_name": "statesboro–bulloch_county_airport",
+    "location_served": "statesboro_georgia_united_states\n"
+  },
+  {
+    "iata": "TBS",
+    "icao": "UGTB",
+    "airport_name": "tbilisi_international_airport",
+    "location_served": "tbilisi_georgia\n"
+  },
+  {
+    "iata": "TBT",
+    "icao": "SBTT",
+    "airport_name": "tabatinga_international_airport",
+    "location_served": "tabatinga_amazonas_brazil\n"
+  },
+  {
+    "iata": "TBU",
+    "icao": "NFTF",
+    "airport_name": "fuaʻamotu_international_airport",
+    "location_served": "nukuʻalofa_tonga\n"
+  },
+  {
+    "iata": "TBV",
+    "icao": "",
+    "airport_name": "tabal_airport[dapi]",
+    "location_served": "tabal_island_aur_atoll_marshall_islands\n"
+  },
+  {
+    "iata": "TBW",
+    "icao": "UUOT",
+    "airport_name": "tambov_donskoye_airport",
+    "location_served": "tambov_tambov_oblast_russia\n"
+  },
+  {
+    "iata": "TBY",
+    "icao": "FBTS",
+    "airport_name": "tshabong_airport[dapi]",
+    "location_served": "tsabong_botswana\n"
+  },
+  {
+    "iata": "TBZ",
+    "icao": "OITT",
+    "airport_name": "tabriz_international_airport",
+    "location_served": "tabriz_iran\n"
+  },
+  {
+    "iata": "TCA",
+    "icao": "YTNK",
+    "airport_name": "tennant_creek_airport",
+    "location_served": "tennant_creek_northern_territory_australia\n"
+  },
+  {
+    "iata": "TCB",
+    "icao": "MYAT",
+    "airport_name": "treasure_cay_airport",
+    "location_served": "treasure_cay_abaco_islands_bahamas\n"
+  },
+  {
+    "iata": "TCC",
+    "icao": "KTCC",
+    "airport_name": "tucumcari_municipal_airport",
+    "location_served": "tucumcari_new_mexico_united_states\n"
+  },
+  {
+    "iata": "TCD",
+    "icao": "SKRA",
+    "airport_name": "tarapacá_airport[dapi]",
+    "location_served": "tarapacá_colombia\n"
+  },
+  {
+    "iata": "TCE",
+    "icao": "LRTC",
+    "airport_name": "tulcea_danube_delta_airport[dapi]",
+    "location_served": "tulcea_romania\n"
+  },
+  {
+    "iata": "TCF",
+    "icao": "",
+    "airport_name": "tocoa_airport[dapi]",
+    "location_served": "tocoa_honduras\n"
+  },
+  {
+    "iata": "TCG",
+    "icao": "ZWTC",
+    "airport_name": "tacheng_airport[dapi]",
+    "location_served": "tacheng_xinjiang_china\n"
+  },
+  {
+    "iata": "TCH",
+    "icao": "FOOT",
+    "airport_name": "tchibanga_airport[dapi]",
+    "location_served": "tchibanga_gabon\n"
+  },
+  {
+    "iata": "TCI[1]",
+    "icao": "",
+    "airport_name": "metropolitan_areadapi",
+    "location_served": "tenerife_canary_islands_spain\n"
+  },
+  {
+    "iata": "TCJ",
+    "icao": "",
+    "airport_name": "torembi_airport[dapi]",
+    "location_served": "torembi_papua_new_guinea\n"
+  },
+  {
+    "iata": "TCK",
+    "icao": "",
+    "airport_name": "tinboli_airport[dapi]",
+    "location_served": "tinboli_papua_new_guinea\n"
+  },
+  {
+    "iata": "TCL",
+    "icao": "KTCL",
+    "airport_name": "tuscaloosa_regional_airport",
+    "location_served": "tuscaloosa_alabama_united_states\n"
+  },
+  {
+    "iata": "TCM",
+    "icao": "KTCM",
+    "airport_name": "mcchord_field",
+    "location_served": "tacoma_washington_united_states\n"
+  },
+  {
+    "iata": "TCN",
+    "icao": "MMHC",
+    "airport_name": "tehuacán_airport",
+    "location_served": "tehuacán_puebla_mexico\n"
+  },
+  {
+    "iata": "TCO",
+    "icao": "SKCO",
+    "airport_name": "la_florida_airport[dapi]",
+    "location_served": "tumaco_colombia\n"
+  },
+  {
+    "iata": "TCP",
+    "icao": "HETB",
+    "airport_name": "taba_international_airport",
+    "location_served": "taba_egypt\n"
+  },
+  {
+    "iata": "TCQ",
+    "icao": "SPTN",
+    "airport_name": "coronel_fap_carlos_ciriani_santa_rosa_international_airport[dapi]",
+    "location_served": "tacna_peru\n"
+  },
+  {
+    "iata": "TCR",
+    "icao": "VOTK",
+    "airport_name": "tuticorin_airport[dapi]",
+    "location_served": "thoothukudi_(tuticorin)_tamil_nadu_india\n"
+  },
+  {
+    "iata": "TCS",
+    "icao": "KTCS",
+    "airport_name": "truth_or_consequences_municipal_airport",
+    "location_served": "truth_or_consequences_new_mexico_united_states\n"
+  },
+  {
+    "iata": "TCT",
+    "icao": "",
+    "airport_name": "takotna_airport",
+    "location_served": "takotna_alaska_united_states\n"
+  },
+  {
+    "iata": "TCU",
+    "icao": "FATN",
+    "airport_name": "thaba_nchu_airport[dapi]",
+    "location_served": "thaba_'nchu_south_africa\n"
+  },
+  {
+    "iata": "TCW",
+    "icao": "YTOC",
+    "airport_name": "tocumwal_airport[dapi]",
+    "location_served": "tocumwal_new_south_wales_australia\n"
+  },
+  {
+    "iata": "TCX",
+    "icao": "OIMT",
+    "airport_name": "tabas_airport",
+    "location_served": "tabas_iran\n"
+  },
+  {
+    "iata": "TCY",
+    "icao": "FYTE",
+    "airport_name": "terrace_bay_airport[dapi]",
+    "location_served": "terrace_bay_namibia\n"
+  },
+  {
+    "iata": "TCZ",
+    "icao": "ZUTC",
+    "airport_name": "tengchong_tuofeng_airport",
+    "location_served": "tengchong_yunnan_china\n"
+  },
+  {
+    "iata": "TDA",
+    "icao": "SKTD",
+    "airport_name": "trinidad_airport[dapi]",
+    "location_served": "trinidad_colombia\n"
+  },
+  {
+    "iata": "TDB",
+    "icao": "",
+    "airport_name": "tetebedi_airport[dapi]",
+    "location_served": "tetebedi_papua_new_guinea\n"
+  },
+  {
+    "iata": "TDD",
+    "icao": "SLTR",
+    "airport_name": "teniente_jorge_henrich_arauz_airport",
+    "location_served": "trinidad_bolivia\n"
+  },
+  {
+    "iata": "TDG",
+    "icao": "RPMW",
+    "airport_name": "tandag_airport",
+    "location_served": "tandag_philippines\n"
+  },
+  {
+    "iata": "TDJ",
+    "icao": "HDTJ",
+    "airport_name": "tadjoura_airport[dapi]",
+    "location_served": "tadjoura_djibouti\n"
+  },
+  {
+    "iata": "TDK",
+    "icao": "",
+    "airport_name": "taldykorgan_airport",
+    "location_served": "taldykorgan_kazakhstan\n"
+  },
+  {
+    "iata": "TDL",
+    "icao": "SAZT",
+    "airport_name": "tandil_airport",
+    "location_served": "tandil_buenos_aires_argentina\n"
+  },
+  {
+    "iata": "TDN",
+    "icao": "YTHD",
+    "airport_name": "theda_station_airport[dapi]",
+    "location_served": "theda_station_western_australia_australia\n"
+  },
+  {
+    "iata": "TDO",
+    "icao": "KTDO",
+    "airport_name": "south_lewis_county_airport_(ed_carlson_memorial_field)",
+    "location_served": "toledo_washington_united_states\n"
+  },
+  {
+    "iata": "TDP",
+    "icao": "SPDR",
+    "airport_name": "trompeteros_airport[dapi]",
+    "location_served": "trompeteros_peru\n"
+  },
+  {
+    "iata": "TDR",
+    "icao": "YTDR",
+    "airport_name": "theodore_airport",
+    "location_served": "theodore_queensland_australia\n"
+  },
+  {
+    "iata": "TDS",
+    "icao": "AYSS",
+    "airport_name": "sasereme_airport",
+    "location_served": "sasereme_papua_new_guinea\n"
+  },
+  {
+    "iata": "TDT",
+    "icao": "",
+    "airport_name": "tanda_tula_airport[dapi]",
+    "location_served": "timbavati_south_africa\n"
+  },
+  {
+    "iata": "TDV",
+    "icao": "FMSN",
+    "airport_name": "samangoky_airport",
+    "location_served": "tanandava_madagascar\n"
+  },
+  {
+    "iata": "TDW",
+    "icao": "KTDW",
+    "airport_name": "tradewind_airport",
+    "location_served": "amarillo_texas_united_states\n"
+  },
+  {
+    "iata": "TDX",
+    "icao": "VTBO",
+    "airport_name": "trat_airport",
+    "location_served": "trat_thailand\n"
+  },
+  {
+    "iata": "TDZ",
+    "icao": "KTDZ",
+    "airport_name": "toledo_executive_airport",
+    "location_served": "toledo_ohio_united_states\n"
+  },
+  {
+    "iata": "TEA",
+    "icao": "MHTE",
+    "airport_name": "tela_airport[dapi]",
+    "location_served": "tela_honduras\n"
+  },
+  {
+    "iata": "TEB",
+    "icao": "KTEB",
+    "airport_name": "teterboro_airport",
+    "location_served": "teterboro_new_jersey_united_states\n"
+  },
+  {
+    "iata": "TEC",
+    "icao": "SBTL",
+    "airport_name": "telêmaco_borba_airport[dapi]",
+    "location_served": "telêmaco_borba_paraná_brazil\n"
+  },
+  {
+    "iata": "TED",
+    "icao": "EKTS",
+    "airport_name": "thisted_airport",
+    "location_served": "thisted_denmark\n"
+  },
+  {
+    "iata": "TEE",
+    "icao": "DABS",
+    "airport_name": "cheikh_larbi_tébessi_airport[dapi]",
+    "location_served": "tébessa_algeria\n"
+  },
+  {
+    "iata": "TEF",
+    "icao": "YTEF",
+    "airport_name": "telfer_airport[dapi]",
+    "location_served": "telfer_western_australia_australia\n"
+  },
+  {
+    "iata": "TEG",
+    "icao": "DFET",
+    "airport_name": "tenkodogo_airport",
+    "location_served": "tenkodogo_burkina_faso\n"
+  },
+  {
+    "iata": "TEH",
+    "icao": "",
+    "airport_name": "tetlin_airport[dapi]_(faa:_dapitdapi)",
+    "location_served": "tetlin_alaska_united_states\n"
+  },
+  {
+    "iata": "TEI",
+    "icao": "VETJ",
+    "airport_name": "tezu_airport",
+    "location_served": "tezu_arunachal_pradesh_india\n"
+  },
+  {
+    "iata": "TEK",
+    "icao": "",
+    "airport_name": "tatitlek_airport_(faa:_dapika)",
+    "location_served": "tatitlek_alaska_united_states\n"
+  },
+  {
+    "iata": "TEL",
+    "icao": "WBKE",
+    "airport_name": "telupid_airport[dapi]",
+    "location_served": "telupid_sabah_malaysia\n"
+  },
+  {
+    "iata": "TEM",
+    "icao": "YTEM",
+    "airport_name": "temora_airport[dapi]",
+    "location_served": "temora_new_south_wales_australia\n"
+  },
+  {
+    "iata": "TEN",
+    "icao": "ZUTR",
+    "airport_name": "tongren_fenghuang_airport",
+    "location_served": "tongren_guizhou_china\n"
+  },
+  {
+    "iata": "TEO",
+    "icao": "",
+    "airport_name": "terapo_airport[dapi]",
+    "location_served": "terapo_papua_new_guinea\n"
+  },
+  {
+    "iata": "TEP",
+    "icao": "",
+    "airport_name": "teptep_airport[dapi]",
+    "location_served": "teptep_papua_new_guinea\n"
+  },
+  {
+    "iata": "TEQ",
+    "icao": "LTBU",
+    "airport_name": "tekirdağ_çorlu_airport",
+    "location_served": "tekirdağ_turkey\n"
+  },
+  {
+    "iata": "TER",
+    "icao": "LPLA",
+    "airport_name": "lajes_airport",
+    "location_served": "terceira_island_azores_portugal\n"
+  },
+  {
+    "iata": "TES",
+    "icao": "HHTS",
+    "airport_name": "teseney_airport[dapi]",
+    "location_served": "teseney_eritrea\n"
+  },
+  {
+    "iata": "TET",
+    "icao": "FQTT",
+    "airport_name": "chingozi_airport",
+    "location_served": "tete_mozambique\n"
+  },
+  {
+    "iata": "TEU",
+    "icao": "NZMO",
+    "airport_name": "te_anau_airport[dapi]_(manapouri_airport)",
+    "location_served": "te_anau_new_zealand\n"
+  },
+  {
+    "iata": "TEV",
+    "icao": "LETL",
+    "airport_name": "teruel_airport[dapi]",
+    "location_served": "teruel_aragon_spain\n"
+  },
+  {
+    "iata": "TEX",
+    "icao": "KTEX",
+    "airport_name": "telluride_regional_airport",
+    "location_served": "telluride_colorado_united_states\n"
+  },
+  {
+    "iata": "TEY",
+    "icao": "BITE",
+    "airport_name": "thingeyri_airport[dapi]",
+    "location_served": "thingeyri_(þingeyri)_iceland\n"
+  },
+  {
+    "iata": "TEZ",
+    "icao": "VETZ",
+    "airport_name": "tezpur_airport",
+    "location_served": "tezpur_assam_india\n"
+  },
+  {
+    "iata": "TFB",
+    "icao": "",
+    "airport_name": "tifalmin_airport[dapi]",
+    "location_served": "tifalmin_papua_new_guinea\n"
+  },
+  {
+    "iata": "TFF",
+    "icao": "SBTF",
+    "airport_name": "tefé_airport",
+    "location_served": "tefé_amazonas_brazil\n"
+  },
+  {
+    "iata": "TFI",
+    "icao": "AYTU",
+    "airport_name": "tufi_airport[dapi]",
+    "location_served": "tufi_papua_new_guinea\n"
+  },
+  {
+    "iata": "TFL",
+    "icao": "SNTO",
+    "airport_name": "teófilo_otoni_airport[dapi]_(juscelino_kubitscheck_airport)",
+    "location_served": "teófilo_otoni_minas_gerais_brazil\n"
+  },
+  {
+    "iata": "TFM",
+    "icao": "AYTE",
+    "airport_name": "telefomin_airport[dapi]",
+    "location_served": "telefomin_papua_new_guinea\n"
+  },
+  {
+    "iata": "TFN",
+    "icao": "GCXO",
+    "airport_name": "tenerife–north_airport_(los_rodeos_airport)",
+    "location_served": "tenerife_canary_islands_spain\n"
+  },
+  {
+    "iata": "TFR",
+    "icao": "HE13",
+    "airport_name": "wadi_al_jandali_airport[dapi]",
+    "location_served": "dapidapith_of_ramadan_city_egypt\n"
+  },
+  {
+    "iata": "TFS",
+    "icao": "GCTS",
+    "airport_name": "tenerife–south_airport_(reina_sofia_airport)",
+    "location_served": "tenerife_canary_islands_spain\n"
+  },
+  {
+    "iata": "TFT",
+    "icao": "",
+    "airport_name": "taftan_airport[dapi]",
+    "location_served": "taftan_pakistan\n"
+  },
+  {
+    "iata": "TFU",
+    "icao": "",
+    "airport_name": "chengdu_tianfu_international_airport",
+    "location_served": "jianyang_chengdu_china\n"
+  },
+  {
+    "iata": "TGA",
+    "icao": "WSAT",
+    "airport_name": "tengah_air_base",
+    "location_served": "singapore\n"
+  },
+  {
+    "iata": "TGB",
+    "icao": "",
+    "airport_name": "tagbita_airport",
+    "location_served": "rizal_philippines\n"
+  },
+  {
+    "iata": "TGC",
+    "icao": "WBTM",
+    "airport_name": "tanjung_manis_airport[dapi]",
+    "location_served": "tanjung_manis_sarawak_malaysia\n"
+  },
+  {
+    "iata": "TGD",
+    "icao": "LYPG",
+    "airport_name": "podgorica_airport",
+    "location_served": "podgorica_montenegro\n"
+  },
+  {
+    "iata": "TGE",
+    "icao": "",
+    "airport_name": "sharpe_field_(faa:_aldapidapi)",
+    "location_served": "tuskegee_alabama_united_states\n"
+  },
+  {
+    "iata": "TGG",
+    "icao": "WMKN",
+    "airport_name": "sultan_mahmud_airport",
+    "location_served": "kuala_terengganu_terengganu_malaysia\n"
+  },
+  {
+    "iata": "TGH",
+    "icao": "NVST",
+    "airport_name": "tongoa_airport",
+    "location_served": "tongoa_shefa_vanuatu\n"
+  },
+  {
+    "iata": "TGI",
+    "icao": "SPGM",
+    "airport_name": "tingo_maría_airport",
+    "location_served": "tingo_maría_peru\n"
+  },
+  {
+    "iata": "TGJ",
+    "icao": "NWWA",
+    "airport_name": "tiga_airport[dapi]",
+    "location_served": "tiga_island_loyalty_islands_new_caledonia\n"
+  },
+  {
+    "iata": "TGK",
+    "icao": "URRT",
+    "airport_name": "taganrog_airport[dapi]",
+    "location_served": "taganrog_rostov_oblast_russia\n"
+  },
+  {
+    "iata": "TGL",
+    "icao": "",
+    "airport_name": "tagula_airport[dapi]",
+    "location_served": "vanatinai_(tagula_island)_papua_new_guinea\n"
+  },
+  {
+    "iata": "TGM",
+    "icao": "LRTM",
+    "airport_name": "târgu_mureș_international_airport",
+    "location_served": "târgu_mureș_romania\n"
+  },
+  {
+    "iata": "TGN",
+    "icao": "YLTV",
+    "airport_name": "latrobe_regional_airport[dapi]",
+    "location_served": "traralgon_victoria_australia\n"
+  },
+  {
+    "iata": "TGO",
+    "icao": "ZBTL",
+    "airport_name": "tongliao_airport[dapi]",
+    "location_served": "tongliao_inner_mongolia_china\n"
+  },
+  {
+    "iata": "TGP",
+    "icao": "UNIP",
+    "airport_name": "podkamennaya_tunguska_airport",
+    "location_served": "bor_krasnoyarsk_krai_russia\n"
+  },
+  {
+    "iata": "TGQ",
+    "icao": "SWTS",
+    "airport_name": "tangará_da_serra_airport[dapi]",
+    "location_served": "tangará_da_serra_mato_grosso_brazil\n"
+  },
+  {
+    "iata": "TGR",
+    "icao": "DAUK",
+    "airport_name": "sidi_mahdi_airport[dapi]",
+    "location_served": "touggourt_algeria\n"
+  },
+  {
+    "iata": "TGS",
+    "icao": "",
+    "airport_name": "chokwe_airport[dapi]",
+    "location_served": "chokwe_mozambique\n"
+  },
+  {
+    "iata": "TGT",
+    "icao": "HTTG",
+    "airport_name": "tanga_airport[dapi]",
+    "location_served": "tanga_tanzania\n"
+  },
+  {
+    "iata": "TGU",
+    "icao": "MHTG",
+    "airport_name": "toncontín_international_airport",
+    "location_served": "tegucigalpa_honduras\n"
+  },
+  {
+    "iata": "TGV",
+    "icao": "LBTG",
+    "airport_name": "targovishte_airport[dapi]_(buhovtsi_airfield)",
+    "location_served": "targovishte_bulgaria\n"
+  },
+  {
+    "iata": "TGZ",
+    "icao": "MMTG",
+    "airport_name": "ángel_albino_corzo_international_airport",
+    "location_served": "tuxtla_gutiérrez_chiapas_mexico\n"
+  },
+  {
+    "iata": "THA",
+    "icao": "KTHA",
+    "airport_name": "tullahoma_regional_airport_(william_northern_field)",
+    "location_served": "tullahoma_tennessee_united_states\n"
+  },
+  {
+    "iata": "THB",
+    "icao": "FXTA",
+    "airport_name": "thaba_tseka_airport[dapi]",
+    "location_served": "thaba-tseka_lesotho\n"
+  },
+  {
+    "iata": "THC",
+    "icao": "GLTN",
+    "airport_name": "tchien_airport",
+    "location_served": "tchien_liberia\n"
+  },
+  {
+    "iata": "THD",
+    "icao": "VVTX",
+    "airport_name": "tho_xuan_airport",
+    "location_served": "thanh_hóa_vietnam\n"
+  },
+  {
+    "iata": "THE",
+    "icao": "SBTE",
+    "airport_name": "teresina–senador_petrônio_portella_airport",
+    "location_served": "teresina_piauí_brazil\n"
+  },
+  {
+    "iata": "THG",
+    "icao": "YTNG",
+    "airport_name": "thangool_airport[dapi]",
+    "location_served": "thangool_queensland_australia\n"
+  },
+  {
+    "iata": "THH",
+    "icao": "",
+    "airport_name": "taharoa_aerodrome[dapi]",
+    "location_served": "taharoa_new_zealand\n"
+  },
+  {
+    "iata": "THI",
+    "icao": "GQNC",
+    "airport_name": "tichitt_airport",
+    "location_served": "tichit_mauritania\n"
+  },
+  {
+    "iata": "THK",
+    "icao": "VLTK",
+    "airport_name": "thakhek_airport[dapi]",
+    "location_served": "thakhek_laos\n"
+  },
+  {
+    "iata": "THL",
+    "icao": "VYTL",
+    "airport_name": "tachilek_airport",
+    "location_served": "tachileik_(tachilek)_myanmar\n"
+  },
+  {
+    "iata": "THM",
+    "icao": "KTHM",
+    "airport_name": "thompson_falls_airport[dapi]",
+    "location_served": "thompson_falls_montana_united_states\n"
+  },
+  {
+    "iata": "THN",
+    "icao": "ESGT",
+    "airport_name": "trollhättan–vänersborg_airport",
+    "location_served": "trollhättan_/_vänersborg_sweden\n"
+  },
+  {
+    "iata": "THO",
+    "icao": "BITN",
+    "airport_name": "thorshofn_airport",
+    "location_served": "thorshofn_(þórshöfn)_iceland\n"
+  },
+  {
+    "iata": "THP",
+    "icao": "KTHP",
+    "airport_name": "hot_springs_county–thermopolis_municipal_airport",
+    "location_served": "thermopolis_wyoming_united_states\n"
+  },
+  {
+    "iata": "THQ",
+    "icao": "ZLTS",
+    "airport_name": "tianshui_maijishan_airport[dapi]",
+    "location_served": "tianshui_gansu_china\n"
+  },
+  {
+    "iata": "THR",
+    "icao": "OIII",
+    "airport_name": "mehrabad_international_airport",
+    "location_served": "tehran_iran\n"
+  },
+  {
+    "iata": "THS",
+    "icao": "VTPO",
+    "airport_name": "sukhothai_airport",
+    "location_served": "sukhothai_thailand\n"
+  },
+  {
+    "iata": "THT",
+    "icao": "GQNT",
+    "airport_name": "tamchakett_airport",
+    "location_served": "tamchakett_mauritania\n"
+  },
+  {
+    "iata": "THU",
+    "icao": "BGTL",
+    "airport_name": "thule_air_base",
+    "location_served": "pituffik_greenland\n"
+  },
+  {
+    "iata": "THV",
+    "icao": "KTHV",
+    "airport_name": "york_airport",
+    "location_served": "york_pennsylvania_united_states\n"
+  },
+  {
+    "iata": "THW",
+    "icao": "",
+    "airport_name": "trincomalee_harbour_seaplane_base[dapi]",
+    "location_served": "trincomalee_sri_lanka\n"
+  },
+  {
+    "iata": "THX",
+    "icao": "UOTT",
+    "airport_name": "turukhansk_airport",
+    "location_served": "turukhansk_krasnoyarsk_krai_russia\n"
+  },
+  {
+    "iata": "THY",
+    "icao": "FATH",
+    "airport_name": "p.r._mphephu_airport[dapi]",
+    "location_served": "thohoyandou_south_africa\n"
+  },
+  {
+    "iata": "THZ",
+    "icao": "DRRT",
+    "airport_name": "tahoua_airport",
+    "location_served": "tahoua_niger\n"
+  },
+  {
+    "iata": "TIA",
+    "icao": "LATI",
+    "airport_name": "tirana_international_airport_nënë_tereza",
+    "location_served": "tirana_albania\n"
+  },
+  {
+    "iata": "TIB",
+    "icao": "SKTB",
+    "airport_name": "tibú_airport[dapi]",
+    "location_served": "tibú_colombia\n"
+  },
+  {
+    "iata": "TIC",
+    "icao": "",
+    "airport_name": "tinak_airport_(faa:_ndapidapi)",
+    "location_served": "tinak_island_arno_atoll_marshall_islands\n"
+  },
+  {
+    "iata": "TID",
+    "icao": "DAOB",
+    "airport_name": "abdelhafid_boussouf_bou_chekif_airport[dapi]",
+    "location_served": "tiaret_algeria\n"
+  },
+  {
+    "iata": "TIE",
+    "icao": "HATP",
+    "airport_name": "tippi_airport[dapi]",
+    "location_served": "tepi_(tippi)_ethiopia\n"
+  },
+  {
+    "iata": "TIF",
+    "icao": "OETF",
+    "airport_name": "ta'if_regional_airport",
+    "location_served": "ta'if_saudi_arabia\n"
+  },
+  {
+    "iata": "TIG",
+    "icao": "",
+    "airport_name": "tingwon_airport[dapi]",
+    "location_served": "tingwon_papua_new_guinea\n"
+  },
+  {
+    "iata": "TIH",
+    "icao": "NTGC",
+    "airport_name": "tikehau_airport[dapi]",
+    "location_served": "tikehau_tuamotus_french_polynesia\n"
+  },
+  {
+    "iata": "TII",
+    "icao": "OATN",
+    "airport_name": "tarinkot_airport",
+    "location_served": "tarinkot_(tarin_kowt)_afghanistan\n"
+  },
+  {
+    "iata": "TIJ",
+    "icao": "MMTJ",
+    "airport_name": "tijuana_international_airport",
+    "location_served": "tijuana_baja_california_mexico\n"
+  },
+  {
+    "iata": "TIK",
+    "icao": "KTIK",
+    "airport_name": "tinker_air_force_base",
+    "location_served": "oklahoma_city_oklahoma_united_states\n"
+  },
+  {
+    "iata": "TIL",
+    "icao": "",
+    "airport_name": "cheadle_airport[dapi]_(tc:_cfqdapi)",
+    "location_served": "cheadle_alberta_canada\n"
+  },
+  {
+    "iata": "TIM",
+    "icao": "WABP",
+    "airport_name": "mozes_kilangin_airport",
+    "location_served": "tembagapura_/_timika_indonesia\n"
+  },
+  {
+    "iata": "TIN",
+    "icao": "DAOF",
+    "airport_name": "tindouf_airport[dapi]",
+    "location_served": "tindouf_algeria\n"
+  },
+  {
+    "iata": "TIO",
+    "icao": "VYHN",
+    "airport_name": "tilin_airport[dapi]",
+    "location_served": "htilin_(tilin)_myanmar\n"
+  },
+  {
+    "iata": "TIP",
+    "icao": "HLLT",
+    "airport_name": "tripoli_international_airport",
+    "location_served": "tripoli_libya\n"
+  },
+  {
+    "iata": "TIQ",
+    "icao": "PGWT",
+    "airport_name": "tinian_international_airport_(west_tinian_airport)_(faa:_tni)",
+    "location_served": "tinian_northern_mariana_islands\n"
+  },
+  {
+    "iata": "TIR",
+    "icao": "VOTP",
+    "airport_name": "tirupati_airport",
+    "location_served": "tirupati_andhra_pradesh_india\n"
+  },
+  {
+    "iata": "TIU",
+    "icao": "NZTU",
+    "airport_name": "richard_pearse_airport",
+    "location_served": "timaru_new_zealand\n"
+  },
+  {
+    "iata": "TIV",
+    "icao": "LYTV",
+    "airport_name": "tivat_airport",
+    "location_served": "tivat_montenegro\n"
+  },
+  {
+    "iata": "TIW",
+    "icao": "KTIW",
+    "airport_name": "tacoma_narrows_airport",
+    "location_served": "tacoma_washington_united_states\n"
+  },
+  {
+    "iata": "TIX",
+    "icao": "KTIX",
+    "airport_name": "space_coast_regional_airport",
+    "location_served": "titusville_florida_united_states\n"
+  },
+  {
+    "iata": "TIY",
+    "icao": "GQND",
+    "airport_name": "tidjikja_airport",
+    "location_served": "tidjikja_mauritania\n"
+  },
+  {
+    "iata": "TIZ",
+    "icao": "AYTA",
+    "airport_name": "tari_airport[dapi]",
+    "location_served": "tari_papua_new_guinea\n"
+  },
+  {
+    "iata": "TJA",
+    "icao": "SLTJ",
+    "airport_name": "capitán_oriel_lea_plaza_airport",
+    "location_served": "tarija_bolivia\n"
+  },
+  {
+    "iata": "TJB",
+    "icao": "WIBT",
+    "airport_name": "sei_bati_airport[dapi]",
+    "location_served": "tanjung_balai_indonesia\n"
+  },
+  {
+    "iata": "TJC",
+    "icao": "",
+    "airport_name": "ticantiquí_airport[dapi]",
+    "location_served": "ticantiquí_panama\n"
+  },
+  {
+    "iata": "TJG",
+    "icao": "WAON",
+    "airport_name": "warukin_airport[dapi]",
+    "location_served": "tanjung_indonesia\n"
+  },
+  {
+    "iata": "TJH",
+    "icao": "RJBT",
+    "airport_name": "tajima_airport[dapi]",
+    "location_served": "toyooka_honshu_japan\n"
+  },
+  {
+    "iata": "TJI",
+    "icao": "MHTJ",
+    "airport_name": "trujillo_airport[dapi]_(capiro_airport)",
+    "location_served": "trujillo_honduras\n"
+  },
+  {
+    "iata": "TJK",
+    "icao": "LTAW",
+    "airport_name": "tokat_airport",
+    "location_served": "tokat_turkey\n"
+  },
+  {
+    "iata": "TJL",
+    "icao": "SBTG",
+    "airport_name": "plínio_alarcom_airport",
+    "location_served": "três_lagoas_mato_grosso_do_sul_brazil\n"
+  },
+  {
+    "iata": "TJM",
+    "icao": "USTR",
+    "airport_name": "roshchino_international_airport",
+    "location_served": "tyumen_tyumen_oblast_russia\n"
+  },
+  {
+    "iata": "TJN",
+    "icao": "NTKM",
+    "airport_name": "takume_airport[dapi]",
+    "location_served": "takume_tuamotus_french_polynesia\n"
+  },
+  {
+    "iata": "TJQ",
+    "icao": "WIKD",
+    "airport_name": "h.a.s._hanandjoeddin_airport_(buluh_tumbang_airport)",
+    "location_served": "tanjung_pandan_indonesia\n"
+  },
+  {
+    "iata": "TJS",
+    "icao": "WAGD",
+    "airport_name": "tanjung_harapan_airport[dapi]",
+    "location_served": "tanjung_selor_indonesia\n"
+  },
+  {
+    "iata": "TJU",
+    "icao": "UTDK",
+    "airport_name": "kulob_airport[dapi]",
+    "location_served": "kulob_tajikistan\n"
+  },
+  {
+    "iata": "TJV",
+    "icao": "VOTJ",
+    "airport_name": "thanjavur_air_force_station[dapi]",
+    "location_served": "thanjavur_tamil_nadu_india\n"
+  },
+  {
+    "iata": "TKA",
+    "icao": "PATK",
+    "airport_name": "talkeetna_airport",
+    "location_served": "talkeetna_alaska_united_states\n"
+  },
+  {
+    "iata": "TKB",
+    "icao": "",
+    "airport_name": "tekadu_airport[dapi]",
+    "location_served": "tekadu_papua_new_guinea\n"
+  },
+  {
+    "iata": "TKC",
+    "icao": "FKKC",
+    "airport_name": "tiko_airport[dapi]",
+    "location_served": "tiko_cameroon\n"
+  },
+  {
+    "iata": "TKD",
+    "icao": "DGTK",
+    "airport_name": "takoradi_airport",
+    "location_served": "sekondi-takoradi_ghana\n"
+  },
+  {
+    "iata": "TKE",
+    "icao": "",
+    "airport_name": "tenakee_seaplane_base[dapi]",
+    "location_served": "tenakee_springs_alaska_united_states\n"
+  },
+  {
+    "iata": "TKF",
+    "icao": "KTRK",
+    "airport_name": "truckee_tahoe_airport_(faa:_trk)",
+    "location_served": "truckee_california_united_states\n"
+  },
+  {
+    "iata": "TKG",
+    "icao": "WILL",
+    "airport_name": "radin_inten_ii_airport",
+    "location_served": "bandar_lampung_indonesia\n"
+  },
+  {
+    "iata": "TKH",
+    "icao": "VTPI",
+    "airport_name": "takhli_royal_thai_air_force_base[dapi]",
+    "location_served": "takhli_thailand\n"
+  },
+  {
+    "iata": "TKI",
+    "icao": "",
+    "airport_name": "tokeen_seaplane_base_(faa:_dapidapia)",
+    "location_served": "tokeen_alaska_united_states\n"
+  },
+  {
+    "iata": "TKJ",
+    "icao": "PFTO",
+    "airport_name": "tok_junction_airport[dapi]_(faa:_dapikdapi)",
+    "location_served": "tok_alaska_united_states\n"
+  },
+  {
+    "iata": "TKK",
+    "icao": "PTKK",
+    "airport_name": "chuuk_international_airport",
+    "location_served": "chuuk_federated_states_of_micronesia\n"
+  },
+  {
+    "iata": "TKL",
+    "icao": "",
+    "airport_name": "taku_lodge_seaplane_base[dapi]",
+    "location_served": "taku_lodge_alaska_united_states\n"
+  },
+  {
+    "iata": "TKN",
+    "icao": "RJKN",
+    "airport_name": "tokunoshima_airport[dapi]",
+    "location_served": "tokunoshima_amami_islands_japan\n"
+  },
+  {
+    "iata": "TKO",
+    "icao": "FXTK",
+    "airport_name": "tlokoeng_airport[dapi]",
+    "location_served": "tlokoeng_lesotho\n"
+  },
+  {
+    "iata": "TKP",
+    "icao": "NTGT",
+    "airport_name": "takapoto_airport[dapi]",
+    "location_served": "takapoto_tuamotus_french_polynesia\n"
+  },
+  {
+    "iata": "TKQ",
+    "icao": "HTKA",
+    "airport_name": "kigoma_airport",
+    "location_served": "kigoma_tanzania\n"
+  },
+  {
+    "iata": "TKR",
+    "icao": "VGSG",
+    "airport_name": "thakurgaon_airport[dapi]",
+    "location_served": "thakurgaon_bangladesh\n"
+  },
+  {
+    "iata": "TKS",
+    "icao": "RJOS",
+    "airport_name": "tokushima_airport[dapi]",
+    "location_served": "tokushima_shikoku_japan\n"
+  },
+  {
+    "iata": "TKT",
+    "icao": "VTPT",
+    "airport_name": "tak_airport",
+    "location_served": "tak_thailand\n"
+  },
+  {
+    "iata": "TKU",
+    "icao": "EFTU",
+    "airport_name": "turku_airport",
+    "location_served": "turku_finland\n"
+  },
+  {
+    "iata": "TKV",
+    "icao": "NTGO",
+    "airport_name": "tatakoto_airport[dapi]",
+    "location_served": "tatakoto_tuamotus_french_polynesia\n"
+  },
+  {
+    "iata": "TKW",
+    "icao": "AYTN",
+    "airport_name": "tekin_airport[dapi]",
+    "location_served": "tekin_papua_new_guinea\n"
+  },
+  {
+    "iata": "TKX",
+    "icao": "NTKR",
+    "airport_name": "takaroa_airport[dapi]",
+    "location_served": "takaroa_tuamotus_french_polynesia\n"
+  },
+  {
+    "iata": "TKY",
+    "icao": "YTKY",
+    "airport_name": "turkey_creek_airport[dapi]",
+    "location_served": "warmun_(turkey_creek)_western_australia_australia\n"
+  },
+  {
+    "iata": "TKZ",
+    "icao": "NZTO",
+    "airport_name": "tokoroa_aerodrome[dapi]",
+    "location_served": "tokoroa_new_zealand\n"
+  },
+  {
+    "iata": "TLA",
+    "icao": "PATE",
+    "airport_name": "teller_airport_(faa:_ter)",
+    "location_served": "teller_alaska_united_states\n"
+  },
+  {
+    "iata": "TLB",
+    "icao": "OPTA",
+    "airport_name": "tarbela_dam_airport[dapi]",
+    "location_served": "tarbela_dam_pakistan\n"
+  },
+  {
+    "iata": "TLC",
+    "icao": "MMTO",
+    "airport_name": "licenciado_adolfo_lópez_mateos_international_airport",
+    "location_served": "toluca_state_of_mexico_mexico\n"
+  },
+  {
+    "iata": "TLD",
+    "icao": "FBTL",
+    "airport_name": "tuli_lodge_airport[dapi]",
+    "location_served": "tuli_lodge_botswana\n"
+  },
+  {
+    "iata": "TLE",
+    "icao": "FMST",
+    "airport_name": "toliara_airport[dapi]",
+    "location_served": "toliara_madagascar\n"
+  },
+  {
+    "iata": "TLF",
+    "icao": "",
+    "airport_name": "telida_airport_(faa:_dapikdapi)",
+    "location_served": "telida_alaska_united_states\n"
+  },
+  {
+    "iata": "TLG",
+    "icao": "AGTI",
+    "airport_name": "tulaghi_heliport[dapi]",
+    "location_served": "tulagi_solomon_islands\n"
+  },
+  {
+    "iata": "TLH",
+    "icao": "KTLH",
+    "airport_name": "tallahassee_international_airport",
+    "location_served": "tallahassee_florida_united_states\n"
+  },
+  {
+    "iata": "TLI",
+    "icao": "WAMI",
+    "airport_name": "sultan_bantilan_airport[dapi]_(lalos_airport)",
+    "location_served": "tolitoli_indonesia\n"
+  },
+  {
+    "iata": "TLJ",
+    "icao": "PATL",
+    "airport_name": "tatalina_lrrs_airport",
+    "location_served": "tatalina_alaska_united_states\n"
+  },
+  {
+    "iata": "TLK",
+    "icao": "UECT",
+    "airport_name": "talakan_airport",
+    "location_served": "talakan_yakutia_russia\n"
+  },
+  {
+    "iata": "TLL",
+    "icao": "EETN",
+    "airport_name": "tallinn_airport_(lennart_meri_tallinn_airport)",
+    "location_served": "tallinn_estonia\n"
+  },
+  {
+    "iata": "TLM",
+    "icao": "DAON",
+    "airport_name": "zenata_–_messali_el_hadj_airport[dapi]",
+    "location_served": "tlemcen_algeria\n"
+  },
+  {
+    "iata": "TLN",
+    "icao": "LFTH",
+    "airport_name": "toulon–hyères_airport_(hyères_le_palyvestre_airport)",
+    "location_served": "toulon_/_hyères_provence-alpes-côte_d'azur_france\n"
+  },
+  {
+    "iata": "TLO",
+    "icao": "",
+    "airport_name": "tol_airport[dapi]",
+    "location_served": "tol_papua_new_guinea\n"
+  },
+  {
+    "iata": "TLP",
+    "icao": "",
+    "airport_name": "tumolbil_airport[dapi]",
+    "location_served": "tumolbil_papua_new_guinea\n"
+  },
+  {
+    "iata": "TLQ",
+    "icao": "ZWTP",
+    "airport_name": "turpan_jiaohe_airport",
+    "location_served": "turpan_xinjiang_china\n"
+  },
+  {
+    "iata": "TLR",
+    "icao": "KTLR",
+    "airport_name": "mefford_field_airport",
+    "location_served": "tulare_california_united_states\n"
+  },
+  {
+    "iata": "TLS",
+    "icao": "LFBO",
+    "airport_name": "toulouse–blagnac_airport",
+    "location_served": "toulouse_midi-pyrénées_france\n"
+  },
+  {
+    "iata": "TLT",
+    "icao": "",
+    "airport_name": "tuluksak_airport",
+    "location_served": "tuluksak_alaska_united_states\n"
+  },
+  {
+    "iata": "TLU",
+    "icao": "SKTL",
+    "airport_name": "golfo_de_morrosquillo_airport[dapi]",
+    "location_served": "tolú_colombia\n"
+  },
+  {
+    "iata": "TLV",
+    "icao": "LLBG",
+    "airport_name": "ben_gurion_airport",
+    "location_served": "tel_aviv_israel\n"
+  },
+  {
+    "iata": "TLW",
+    "icao": "AYVL",
+    "airport_name": "talasea_airport[dapi]",
+    "location_served": "talasea_papua_new_guinea\n"
+  },
+  {
+    "iata": "TLX",
+    "icao": "SCTL",
+    "airport_name": "panguilemo_airport[dapi]",
+    "location_served": "talca_chile\n"
+  },
+  {
+    "iata": "TLY",
+    "icao": "UHWP",
+    "airport_name": "plastun_airport[dapi]",
+    "location_served": "plastun_primorsky_krai_russia\n"
+  },
+  {
+    "iata": "TLZ",
+    "icao": "SWKT",
+    "airport_name": "catalão_airport[dapi]",
+    "location_served": "catalão_goiás_brazil\n"
+  },
+  {
+    "iata": "TMA",
+    "icao": "KTMA",
+    "airport_name": "henry_tift_myers_airport",
+    "location_served": "tifton_georgia_united_states\n"
+  },
+  {
+    "iata": "TMB",
+    "icao": "KTMB",
+    "airport_name": "miami_executive_airport",
+    "location_served": "miami_florida_united_states\n"
+  },
+  {
+    "iata": "TMC",
+    "icao": "WADT",
+    "airport_name": "tambolaka_airport[dapi]_(waikabubak_airport)",
+    "location_served": "tambolaka_indonesia\n"
+  },
+  {
+    "iata": "TMD",
+    "icao": "GQNH",
+    "airport_name": "timbedra_airport",
+    "location_served": "timbédra_mauritania\n"
+  },
+  {
+    "iata": "TME",
+    "icao": "SKTM",
+    "airport_name": "gabriel_vargas_santos_airport",
+    "location_served": "tame_colombia\n"
+  },
+  {
+    "iata": "TMF",
+    "icao": "VRNT",
+    "airport_name": "thimarafushi_airport",
+    "location_served": "thimarafushi_thaa_atoll_maldives\n"
+  },
+  {
+    "iata": "TMG",
+    "icao": "WBKM",
+    "airport_name": "tommanggong_airport[dapi]",
+    "location_served": "tommanggong_sabah_malaysia\n"
+  },
+  {
+    "iata": "TMH",
+    "icao": "WAKT",
+    "airport_name": "tanah_merah_airport[dapi]",
+    "location_served": "tanahmerah_indonesia\n"
+  },
+  {
+    "iata": "TMI",
+    "icao": "VNTR",
+    "airport_name": "tumlingtar_airport[dapi]",
+    "location_served": "tumlingtar_nepal\n"
+  },
+  {
+    "iata": "TMJ",
+    "icao": "UTST",
+    "airport_name": "termez_airport",
+    "location_served": "termez_uzbekistan\n"
+  },
+  {
+    "iata": "TMK",
+    "icao": "",
+    "airport_name": "tam_kỳ_airport[dapi]",
+    "location_served": "tam_kỳ_vietnam\n"
+  },
+  {
+    "iata": "TML",
+    "icao": "DGLE",
+    "airport_name": "tamale_airport",
+    "location_served": "tamale_ghana\n"
+  },
+  {
+    "iata": "TMM",
+    "icao": "FMMT",
+    "airport_name": "toamasina_airport",
+    "location_served": "toamasina_madagascar\n"
+  },
+  {
+    "iata": "TMN",
+    "icao": "NGTM",
+    "airport_name": "tamana_airport[dapi]",
+    "location_served": "tamana_kiribati\n"
+  },
+  {
+    "iata": "TMO",
+    "icao": "SVTM",
+    "airport_name": "tumeremo_airport[dapi]",
+    "location_served": "tumeremo_venezuela\n"
+  },
+  {
+    "iata": "TMP",
+    "icao": "EFTP",
+    "airport_name": "tampere–pirkkala_airport",
+    "location_served": "tampere_finland\n"
+  },
+  {
+    "iata": "TMQ",
+    "icao": "DFEM",
+    "airport_name": "tambao_airport",
+    "location_served": "tambao_burkina_faso\n"
+  },
+  {
+    "iata": "TMR",
+    "icao": "DAAT",
+    "airport_name": "aguenar_–_hadj_bey_akhamok_airport",
+    "location_served": "tamanrasset_algeria\n"
+  },
+  {
+    "iata": "TMS",
+    "icao": "FPST",
+    "airport_name": "são_tomé_international_airport",
+    "location_served": "são_tomé_são_tomé_and_príncipe\n"
+  },
+  {
+    "iata": "TMT",
+    "icao": "SBTB",
+    "airport_name": "porto_trombetas_airport",
+    "location_served": "porto_trombetas_/_oriximiná_pará_brazil\n"
+  },
+  {
+    "iata": "TMU",
+    "icao": "MRTR",
+    "airport_name": "tambor_airport",
+    "location_served": "tambor_costa_rica\n"
+  },
+  {
+    "iata": "TMW",
+    "icao": "YSTW",
+    "airport_name": "tamworth_airport",
+    "location_served": "tamworth_new_south_wales_australia\n"
+  },
+  {
+    "iata": "TMX",
+    "icao": "DAUT",
+    "airport_name": "timimoun_airport[dapi]",
+    "location_served": "timimoun_algeria\n"
+  },
+  {
+    "iata": "TMY",
+    "icao": "",
+    "airport_name": "tiom_airport[dapi]",
+    "location_served": "tiom_indonesia\n"
+  },
+  {
+    "iata": "TMZ",
+    "icao": "NZTH",
+    "airport_name": "thames_aerodrome",
+    "location_served": "thames_new_zealand\n"
+  },
+  {
+    "iata": "TNA",
+    "icao": "ZSJN",
+    "airport_name": "jinan_yaoqiang_international_airport",
+    "location_served": "jinan_shandong_china\n"
+  },
+  {
+    "iata": "TNB",
+    "icao": "WRLH",
+    "airport_name": "tanah_grogot_airport[dapi]",
+    "location_served": "tanah_grogot_indonesia\n"
+  },
+  {
+    "iata": "TNC",
+    "icao": "PATC",
+    "airport_name": "tin_city_lrrs_airport",
+    "location_served": "tin_city_alaska_united_states\n"
+  },
+  {
+    "iata": "TND",
+    "icao": "MUTD",
+    "airport_name": "alberto_delgado_airport[dapi]",
+    "location_served": "trinidad_cuba\n"
+  },
+  {
+    "iata": "TNE",
+    "icao": "RJFG",
+    "airport_name": "new_tanegashima_airport[dapi]",
+    "location_served": "tanegashima_ōsumi_islands_japan\n"
+  },
+  {
+    "iata": "TNF",
+    "icao": "LFPN",
+    "airport_name": "toussus-le-noble_airport",
+    "location_served": "toussus-le-noble_île-de-france_france\n"
+  },
+  {
+    "iata": "TNG",
+    "icao": "GMTT",
+    "airport_name": "tangier_ibn_battouta_airport",
+    "location_served": "tangier_morocco\n"
+  },
+  {
+    "iata": "TNH",
+    "icao": "ZYTN",
+    "airport_name": "tonghua_sanyuanpu_airport",
+    "location_served": "tonghua_jilin_china\n"
+  },
+  {
+    "iata": "TNI",
+    "icao": "VIST",
+    "airport_name": "satna_airport",
+    "location_served": "satna_madhya_pradesh_india\n"
+  },
+  {
+    "iata": "TNJ",
+    "icao": "WIDN",
+    "airport_name": "raja_haji_fisabilillah_airport",
+    "location_served": "tanjung_pinang_indonesia\n"
+  },
+  {
+    "iata": "TNK",
+    "icao": "",
+    "airport_name": "tununak_airport_(faa:_dapika)",
+    "location_served": "tununak_alaska_united_states\n"
+  },
+  {
+    "iata": "TNL",
+    "icao": "UKLT",
+    "airport_name": "ternopil_international_airport",
+    "location_served": "ternopil_ukraine\n"
+  },
+  {
+    "iata": "TNM",
+    "icao": "SCRM",
+    "airport_name": "teniente_r._marsh_airport",
+    "location_served": "king_george_island_antarctica\n"
+  },
+  {
+    "iata": "TNN",
+    "icao": "RCNN",
+    "airport_name": "tainan_airport",
+    "location_served": "tainan_taiwan\n"
+  },
+  {
+    "iata": "TNO",
+    "icao": "MRTM",
+    "airport_name": "tamarindo_airport",
+    "location_served": "tamarindo_costa_rica\n"
+  },
+  {
+    "iata": "TNP",
+    "icao": "KTNP",
+    "airport_name": "twentynine_palms_airport",
+    "location_served": "twentynine_palms_california_united_states\n"
+  },
+  {
+    "iata": "TNQ",
+    "icao": "",
+    "airport_name": "teraina_airport",
+    "location_served": "teraina_kiribati\n"
+  },
+  {
+    "iata": "TNR",
+    "icao": "FMMI",
+    "airport_name": "ivato_international_airport",
+    "location_served": "antananarivo_madagascar\n"
+  },
+  {
+    "iata": "TNS",
+    "icao": "",
+    "airport_name": "tungsten_(cantung)_airport[dapi]_(tc:_cbxdapi)",
+    "location_served": "tungsten_northwest_territories_canada\n"
+  },
+  {
+    "iata": "TNT",
+    "icao": "KTNT",
+    "airport_name": "dade-collier_training_and_transition_airport",
+    "location_served": "miami_florida_united_states\n"
+  },
+  {
+    "iata": "TNU",
+    "icao": "KTNU",
+    "airport_name": "newton_municipal_airport",
+    "location_served": "newton_iowa_united_states\n"
+  },
+  {
+    "iata": "TNV",
+    "icao": "",
+    "airport_name": "tabuaeran_island_airport[dapi]",
+    "location_served": "tabuaeran_kiribati\n"
+  },
+  {
+    "iata": "TNW",
+    "icao": "SEJD",
+    "airport_name": "jumandy_airport[dapi]",
+    "location_served": "tena_ecuador\n"
+  },
+  {
+    "iata": "TNX",
+    "icao": "VDST",
+    "airport_name": "steung_treng_airport[dapi]",
+    "location_served": "stung_treng_cambodia\n"
+  },
+  {
+    "iata": "TNZ",
+    "icao": "ZMTL",
+    "airport_name": "tosontsengel_airport[dapi]",
+    "location_served": "tosontsengel_mongolia\n"
+  },
+  {
+    "iata": "TOA",
+    "icao": "KTOA",
+    "airport_name": "zamperini_field",
+    "location_served": "torrance_california_united_states\n"
+  },
+  {
+    "iata": "TOB",
+    "icao": "HLGN",
+    "airport_name": "tobruk_airport",
+    "location_served": "tobruk_libya\n"
+  },
+  {
+    "iata": "TOC",
+    "icao": "KTOC",
+    "airport_name": "toccoa_airport_(r.g._letourneau_field)",
+    "location_served": "toccoa_georgia_united_states\n"
+  },
+  {
+    "iata": "TOD",
+    "icao": "WMBT",
+    "airport_name": "tioman_airport",
+    "location_served": "tioman_island_pahang_malaysia\n"
+  },
+  {
+    "iata": "TOE",
+    "icao": "DTTZ",
+    "airport_name": "tozeur–nefta_international_airport",
+    "location_served": "tozeur_tunisia\n"
+  },
+  {
+    "iata": "TOF",
+    "icao": "UNTT",
+    "airport_name": "bogashevo_airport",
+    "location_served": "tomsk_tomsk_oblast_russia\n"
+  },
+  {
+    "iata": "TOG",
+    "icao": "PATG",
+    "airport_name": "togiak_airport",
+    "location_served": "togiak_alaska_united_states\n"
+  },
+  {
+    "iata": "TOH",
+    "icao": "NVSD",
+    "airport_name": "torres_airport[dapi]",
+    "location_served": "torres_islands_vanuatu\n"
+  },
+  {
+    "iata": "TOI",
+    "icao": "KTOI",
+    "airport_name": "troy_municipal_airport",
+    "location_served": "troy_alabama_united_states\n"
+  },
+  {
+    "iata": "TOJ",
+    "icao": "LETO",
+    "airport_name": "madrid–torrejón_airport",
+    "location_served": "madrid_community_of_madrid_spain\n"
+  },
+  {
+    "iata": "TOK",
+    "icao": "",
+    "airport_name": "torokina_airport[dapi]",
+    "location_served": "torokina_papua_new_guinea\n"
+  },
+  {
+    "iata": "TOL",
+    "icao": "KTOL",
+    "airport_name": "toledo_express_airport",
+    "location_served": "toledo_ohio_united_states\n"
+  },
+  {
+    "iata": "TOM",
+    "icao": "GATB",
+    "airport_name": "timbuktu_airport",
+    "location_served": "timbuktu_(tombouctou)_mali\n"
+  },
+  {
+    "iata": "TON",
+    "icao": "",
+    "airport_name": "tonu_airport[dapi]",
+    "location_served": "tonu_papua_new_guinea\n"
+  },
+  {
+    "iata": "TOO",
+    "icao": "MRSV",
+    "airport_name": "san_vito_de_java_airport[dapi]",
+    "location_served": "san_vito_costa_rica\n"
+  },
+  {
+    "iata": "TOP",
+    "icao": "KTOP",
+    "airport_name": "philip_billard_municipal_airport",
+    "location_served": "topeka_kansas_united_states\n"
+  },
+  {
+    "iata": "TOQ",
+    "icao": "SCBE",
+    "airport_name": "barriles_airport[dapi]",
+    "location_served": "tocopilla_chile\n"
+  },
+  {
+    "iata": "TOR",
+    "icao": "KTOR",
+    "airport_name": "torrington_municipal_airport",
+    "location_served": "torrington_wyoming_united_states\n"
+  },
+  {
+    "iata": "TOS",
+    "icao": "ENTC",
+    "airport_name": "tromsø_airport_langnes",
+    "location_served": "tromsø_norway\n"
+  },
+  {
+    "iata": "TOT",
+    "icao": "SMCO",
+    "airport_name": "totness_airstrip",
+    "location_served": "totness_suriname\n"
+  },
+  {
+    "iata": "TOU",
+    "icao": "NWWU",
+    "airport_name": "touho_airport[dapi]",
+    "location_served": "touho_new_caledonia\n"
+  },
+  {
+    "iata": "TOV",
+    "icao": "",
+    "airport_name": "west_end_seaplane_base[dapi]",
+    "location_served": "tortola_british_overseas_territory_of_virgin_islands\n"
+  },
+  {
+    "iata": "TOW",
+    "icao": "SBTD",
+    "airport_name": "luiz_dal_canalle_filho_airport[dapi]",
+    "location_served": "toledo_paraná_brazil\n"
+  },
+  {
+    "iata": "TOX",
+    "icao": "USTO",
+    "airport_name": "tobolsk_airport[dapi]",
+    "location_served": "tobolsk_tyumen_oblast_russia\n"
+  },
+  {
+    "iata": "TOY",
+    "icao": "RJNT",
+    "airport_name": "toyama_airport",
+    "location_served": "toyama_honshu_japan\n"
+  },
+  {
+    "iata": "TOZ",
+    "icao": "DITM",
+    "airport_name": "mahana_airport[dapi]",
+    "location_served": "touba_ivory_coast\n"
+  },
+  {
+    "iata": "TPA",
+    "icao": "KTPA",
+    "airport_name": "tampa_international_airport",
+    "location_served": "tampa_florida_united_states\n"
+  },
+  {
+    "iata": "TPC",
+    "icao": "SETR",
+    "airport_name": "tarapoa_airport[dapi]",
+    "location_served": "tarapoa_ecuador\n"
+  },
+  {
+    "iata": "TPE",
+    "icao": "RCTP",
+    "airport_name": "taiwan_taoyuan_international_airport",
+    "location_served": "taoyuan_taiwan\n"
+  },
+  {
+    "iata": "TPF",
+    "icao": "KTPF",
+    "airport_name": "peter_o._knight_airport",
+    "location_served": "tampa_florida_united_states\n"
+  },
+  {
+    "iata": "TPG",
+    "icao": "WMBI",
+    "airport_name": "taiping_airport[dapi]",
+    "location_served": "taiping_perak_malaysia\n"
+  },
+  {
+    "iata": "TPH",
+    "icao": "KTPH",
+    "airport_name": "tonopah_airport",
+    "location_served": "tonopah_nevada_united_states\n"
+  },
+  {
+    "iata": "TPI",
+    "icao": "AYTI",
+    "airport_name": "tapini_airport[dapi]",
+    "location_served": "tapini_papua_new_guinea\n"
+  },
+  {
+    "iata": "TPJ",
+    "icao": "VNTJ",
+    "airport_name": "taplejung_airport[dapi]",
+    "location_served": "taplejung_nepal\n"
+  },
+  {
+    "iata": "TPK",
+    "icao": "WITA",
+    "airport_name": "teuku_cut_ali_airport[dapi]",
+    "location_served": "tapaktuan_indonesia\n"
+  },
+  {
+    "iata": "TPL",
+    "icao": "KTPL",
+    "airport_name": "draughon–miller_central_texas_regional_airport",
+    "location_served": "temple_texas_united_states\n"
+  },
+  {
+    "iata": "TPN",
+    "icao": "SETI",
+    "airport_name": "tiputini_airport[dapi]",
+    "location_served": "tiputini_ecuador\n"
+  },
+  {
+    "iata": "TPP",
+    "icao": "SPST",
+    "airport_name": "cad._fap_guillermo_del_castillo_paredes_airport[dapi]",
+    "location_served": "tarapoto_peru\n"
+  },
+  {
+    "iata": "TPQ",
+    "icao": "MMEP",
+    "airport_name": "amado_nervo_international_airport",
+    "location_served": "tepic_nayarit_mexico\n"
+  },
+  {
+    "iata": "TPR",
+    "icao": "YTMP",
+    "airport_name": "tom_price_airport",
+    "location_served": "tom_price_western_australia_australia\n"
+  },
+  {
+    "iata": "TPS",
+    "icao": "LICT",
+    "airport_name": "vincenzo_florio_airport_trapani–birgi",
+    "location_served": "trapani_sicily_italy\n"
+  },
+  {
+    "iata": "TPT",
+    "icao": "",
+    "airport_name": "tapeta_airport[dapi]",
+    "location_served": "tapeta_liberia\n"
+  },
+  {
+    "iata": "TPU",
+    "icao": "VNTP",
+    "airport_name": "tikapur_airport[dapi]",
+    "location_served": "tikapur_nepal\n"
+  },
+  {
+    "iata": "TPX",
+    "icao": "NTTU",
+    "airport_name": "tupai_airport[dapi]",
+    "location_served": "tūpai_society_islands_french_polynesia\n"
+  },
+  {
+    "iata": "TQD",
+    "icao": "ORAT",
+    "airport_name": "al-taqaddum_air_base[dapi]",
+    "location_served": "fallujah_iraq\n"
+  },
+  {
+    "iata": "TQL",
+    "icao": "USDS",
+    "airport_name": "tarko-sale_airport[dapi]",
+    "location_served": "tarko-sale_yamalo-nenets_autonomous_okrug_russia\n"
+  },
+  {
+    "iata": "TQN",
+    "icao": "OATQ",
+    "airport_name": "taloqan_airport",
+    "location_served": "taloqan_afghanistan\n"
+  },
+  {
+    "iata": "TQP",
+    "icao": "YTEE",
+    "airport_name": "trepell_airport",
+    "location_served": "trepell_queensland_australia\n"
+  },
+  {
+    "iata": "TQQ",
+    "icao": "",
+    "airport_name": "maranggo_airport[dapi]",
+    "location_served": "tomia_island_indonesia\n"
+  },
+  {
+    "iata": "TQS",
+    "icao": "SKTQ",
+    "airport_name": "captain_ernesto_esguerra_cubides_air_base[dapi]",
+    "location_served": "tres_esquinas_colombia\n"
+  },
+  {
+    "iata": "TRA",
+    "icao": "RORT",
+    "airport_name": "tarama_airport[dapi]",
+    "location_served": "tarama_miyako_islands_japan\n"
+  },
+  {
+    "iata": "TRB",
+    "icao": "SKTU",
+    "airport_name": "gonzalo_mejía_airport[dapi]",
+    "location_served": "turbo_colombia\n"
+  },
+  {
+    "iata": "TRC",
+    "icao": "MMTC",
+    "airport_name": "francisco_sarabia_international_airport_(torreón_int'l)",
+    "location_served": "torreón_coahuila_mexico\n"
+  },
+  {
+    "iata": "TRD",
+    "icao": "ENVA",
+    "airport_name": "trondheim_airport_værnes",
+    "location_served": "trondheim_norway\n"
+  },
+  {
+    "iata": "TRE",
+    "icao": "EGPU",
+    "airport_name": "tiree_airport",
+    "location_served": "tiree_scotland_united_kingdom\n"
+  },
+  {
+    "iata": "TRF",
+    "icao": "ENTO",
+    "airport_name": "sandefjord_airport_torp",
+    "location_served": "sandefjord_/_oslo_norway\n"
+  },
+  {
+    "iata": "TRG",
+    "icao": "NZTG",
+    "airport_name": "tauranga_airport",
+    "location_served": "tauranga_new_zealand\n"
+  },
+  {
+    "iata": "TRH",
+    "icao": "",
+    "airport_name": "trona_airport_(faa:_ldapidapi)",
+    "location_served": "trona_california_united_states\n"
+  },
+  {
+    "iata": "TRI",
+    "icao": "KTRI",
+    "airport_name": "tri-cities_regional_airport",
+    "location_served": "bristol_/_johnson_city_/_kingsport_tennessee_united_states\n"
+  },
+  {
+    "iata": "TRJ",
+    "icao": "AYTT",
+    "airport_name": "tarakbits_airport[dapi]",
+    "location_served": "tarakbits_papua_new_guinea\n"
+  },
+  {
+    "iata": "TRK",
+    "icao": "WALR",
+    "airport_name": "juwata_international_airport",
+    "location_served": "tarakan_indonesia\n"
+  },
+  {
+    "iata": "TRL",
+    "icao": "KTRL",
+    "airport_name": "terrell_municipal_airport",
+    "location_served": "terrell_texas_united_states\n"
+  },
+  {
+    "iata": "TRM",
+    "icao": "KTRM",
+    "airport_name": "jacqueline_cochran_regional_airport",
+    "location_served": "thermal_california_united_states\n"
+  },
+  {
+    "iata": "TRN",
+    "icao": "LIMF",
+    "airport_name": "turin_airport_(caselle_airport)",
+    "location_served": "turin_piedmont_italy\n"
+  },
+  {
+    "iata": "TRO",
+    "icao": "YTRE",
+    "airport_name": "taree_airport[dapi]",
+    "location_served": "taree_new_south_wales_australia\n"
+  },
+  {
+    "iata": "TRQ",
+    "icao": "SBTK",
+    "airport_name": "josé_galera_dos_santos_airport[dapi]",
+    "location_served": "tarauacá_acre_brazil\n"
+  },
+  {
+    "iata": "TRR",
+    "icao": "VCCT",
+    "airport_name": "china_bay_airport",
+    "location_served": "trincomalee_sri_lanka\n"
+  },
+  {
+    "iata": "TRS",
+    "icao": "LIPQ",
+    "airport_name": "trieste_–_friuli_venezia_giulia_airport_(ronchi_dei_legionari_airport)",
+    "location_served": "trieste_friuli-venezia_giulia_italy\n"
+  },
+  {
+    "iata": "TRU",
+    "icao": "SPRU",
+    "airport_name": "fap_captain_carlos_martínez_de_pinillos_international_airport",
+    "location_served": "trujillo_peru\n"
+  },
+  {
+    "iata": "TRV",
+    "icao": "VOTV",
+    "airport_name": "trivandrum_international_airport",
+    "location_served": "thiruvananthapuram_kerala_india\n"
+  },
+  {
+    "iata": "TRW",
+    "icao": "NGTA",
+    "airport_name": "bonriki_international_airport",
+    "location_served": "tarawa_kiribati\n"
+  },
+  {
+    "iata": "TRX",
+    "icao": "KTRX",
+    "airport_name": "trenton_municipal_airport",
+    "location_served": "trenton_missouri_united_states\n"
+  },
+  {
+    "iata": "TRY",
+    "icao": "HUTO",
+    "airport_name": "tororo_airport[dapi]",
+    "location_served": "tororo_uganda\n"
+  },
+  {
+    "iata": "TRZ",
+    "icao": "VOTR",
+    "airport_name": "tiruchirappalli_international_airport",
+    "location_served": "tiruchirappalli_(tiruchchirappalli)_tamil_nadu_india\n"
+  },
+  {
+    "iata": "TSA",
+    "icao": "RCSS",
+    "airport_name": "taipei_songshan_airport",
+    "location_served": "taipei_taiwan\n"
+  },
+  {
+    "iata": "TSB",
+    "icao": "FYTM",
+    "airport_name": "tsumeb_airport[dapi]",
+    "location_served": "tsumeb_namibia\n"
+  },
+  {
+    "iata": "TSC",
+    "icao": "SETH",
+    "airport_name": "taisha_airport[dapi]",
+    "location_served": "taisha_ecuador\n"
+  },
+  {
+    "iata": "TSD",
+    "icao": "",
+    "airport_name": "tshipise_airport[dapi]",
+    "location_served": "tshipise_south_africa\n"
+  },
+  {
+    "iata": "TSE",
+    "icao": "UACC",
+    "airport_name": "astana_international_airport",
+    "location_served": "astana_kazakhstan\n"
+  },
+  {
+    "iata": "TSF",
+    "icao": "LIPH",
+    "airport_name": "treviso-sant'angelo_airport",
+    "location_served": "treviso_/_venice_veneto_italy\n"
+  },
+  {
+    "iata": "TSG",
+    "icao": "",
+    "airport_name": "tanacross_airport",
+    "location_served": "tanacross_alaska_united_states\n"
+  },
+  {
+    "iata": "TSH",
+    "icao": "FZUK",
+    "airport_name": "tshikapa_airport[dapi]",
+    "location_served": "tshikapa_democratic_republic_of_the_congo\n"
+  },
+  {
+    "iata": "TSI",
+    "icao": "",
+    "airport_name": "tsile_tsile_airport[dapi]",
+    "location_served": "tsili_tsili_(tsile_tsile)_papua_new_guinea\n"
+  },
+  {
+    "iata": "TSJ",
+    "icao": "RJDT",
+    "airport_name": "tsushima_airport",
+    "location_served": "tsushima_tsushima_island_japan\n"
+  },
+  {
+    "iata": "TSK",
+    "icao": "",
+    "airport_name": "taskul_airport[dapi]",
+    "location_served": "taskul_papua_new_guinea\n"
+  },
+  {
+    "iata": "TSL",
+    "icao": "MMTN",
+    "airport_name": "tamuín_national_airport",
+    "location_served": "tamuín_san_luis_potosí_mexico\n"
+  },
+  {
+    "iata": "TSM",
+    "icao": "KSKX",
+    "airport_name": "taos_regional_airport_(faa:_skx)",
+    "location_served": "taos_new_mexico_united_states\n"
+  },
+  {
+    "iata": "TSN",
+    "icao": "ZBTJ",
+    "airport_name": "tianjin_binhai_international_airport",
+    "location_served": "tianjin_china\n"
+  },
+  {
+    "iata": "TSP",
+    "icao": "KTSP",
+    "airport_name": "tehachapi_municipal_airport",
+    "location_served": "tehachapi_california_united_states\n"
+  },
+  {
+    "iata": "TSQ",
+    "icao": "SBTR",
+    "airport_name": "torres_airport[dapi]",
+    "location_served": "torres_rio_grande_do_sul_brazil\n"
+  },
+  {
+    "iata": "TSR",
+    "icao": "LRTR",
+    "airport_name": "timișoara_traian_vuia_international_airport",
+    "location_served": "timișoara_romania\n"
+  },
+  {
+    "iata": "TST",
+    "icao": "VTST",
+    "airport_name": "trang_airport",
+    "location_served": "trang_thailand\n"
+  },
+  {
+    "iata": "TSU",
+    "icao": "NGTS",
+    "airport_name": "tabiteuea_south_airport[dapi]",
+    "location_served": "tabiteuea_south_kiribati\n"
+  },
+  {
+    "iata": "TSV",
+    "icao": "YBTL",
+    "airport_name": "townsville_airport",
+    "location_served": "townsville_queensland_australia\n"
+  },
+  {
+    "iata": "TSW",
+    "icao": "",
+    "airport_name": "tsewi_airport[dapi]",
+    "location_served": "tsewi_papua_new_guinea\n"
+  },
+  {
+    "iata": "TSY",
+    "icao": "WICM",
+    "airport_name": "tasikmalaya_airport[dapi]_(wiriadinata_airport)",
+    "location_served": "tasikmalaya_west_java_indonesia\n"
+  },
+  {
+    "iata": "TSX",
+    "icao": "WRLT",
+    "airport_name": "tanjung_santan_airport[dapi]",
+    "location_served": "tanjung_santan_indonesia\n"
+  },
+  {
+    "iata": "TSZ",
+    "icao": "ZMTG",
+    "airport_name": "tsetserleg_airport",
+    "location_served": "tsetserleg_mongolia\n"
+  },
+  {
+    "iata": "TTA",
+    "icao": "GMAT",
+    "airport_name": "tan_tan_airport_(plage_blanche_airport)",
+    "location_served": "tan-tan_morocco\n"
+  },
+  {
+    "iata": "TTB",
+    "icao": "LIET",
+    "airport_name": "tortolì_airport_(arbatax_airport)",
+    "location_served": "tortolì_sardinia_italy\n"
+  },
+  {
+    "iata": "TTC",
+    "icao": "SCTT",
+    "airport_name": "las_breas_airport[dapi]",
+    "location_served": "taltal_chile\n"
+  },
+  {
+    "iata": "TTD",
+    "icao": "KTTD",
+    "airport_name": "portland–troutdale_airport",
+    "location_served": "portland_oregon_united_states\n"
+  },
+  {
+    "iata": "TTE",
+    "icao": "WAEE",
+    "airport_name": "sultan_babullah_airport[dapi]",
+    "location_served": "ternate_indonesia\n"
+  },
+  {
+    "iata": "TTG",
+    "icao": "SAST",
+    "airport_name": "tartagal_\"general_enrique_mosconi\"_airport",
+    "location_served": "tartagal_salta_argentina\n"
+  },
+  {
+    "iata": "TTH",
+    "icao": "OOTH",
+    "airport_name": "rafo_thumrait[dapi]",
+    "location_served": "thumrait_oman\n"
+  },
+  {
+    "iata": "TTI",
+    "icao": "NTTE",
+    "airport_name": "tetiaroa_airport[dapi]",
+    "location_served": "tetiaroa_society_islands_french_polynesia\n"
+  },
+  {
+    "iata": "TTJ",
+    "icao": "RJOR",
+    "airport_name": "tottori_airport[dapi]",
+    "location_served": "tottori_honshu_japan\n"
+  },
+  {
+    "iata": "TTL",
+    "icao": "",
+    "airport_name": "turtle_island_seaplane_base[dapi]",
+    "location_served": "nanuya_levu_fiji\n"
+  },
+  {
+    "iata": "TTM",
+    "icao": "",
+    "airport_name": "tablón_de_tamará_airport",
+    "location_served": "tablón_de_tamará_colombia\n"
+  },
+  {
+    "iata": "TTN",
+    "icao": "KTTN",
+    "airport_name": "trenton–mercer_airport",
+    "location_served": "trenton_new_jersey_united_states\n"
+  },
+  {
+    "iata": "TTO",
+    "icao": "KBTN",
+    "airport_name": "britton_municipal_airport_(faa:_btn)",
+    "location_served": "britton_south_dakota_united_states\n"
+  },
+  {
+    "iata": "TTQ",
+    "icao": "MRBT",
+    "airport_name": "tortuguero_airport_(barra_de_tortuguero_airport)",
+    "location_served": "tortuguero_costa_rica\n"
+  },
+  {
+    "iata": "TTR",
+    "icao": "WAWT",
+    "airport_name": "pongtiku_airport[dapi]",
+    "location_served": "tana_toraja_indonesia\n"
+  },
+  {
+    "iata": "TTS",
+    "icao": "FMNT",
+    "airport_name": "tsaratanana_airport",
+    "location_served": "tsaratanana_madagascar\n"
+  },
+  {
+    "iata": "TTT",
+    "icao": "RCFN",
+    "airport_name": "taitung_airport_(taitung_fongnian_airport)",
+    "location_served": "taitung_taiwan\n"
+  },
+  {
+    "iata": "TTU",
+    "icao": "",
+    "airport_name": "sania_ramel_airport",
+    "location_served": "tétouan_morocco\n"
+  },
+  {
+    "iata": "TTW",
+    "icao": "",
+    "airport_name": "tissa_tank_waterdrome[dapi]",
+    "location_served": "tissamaharama_sri_lanka\n"
+  },
+  {
+    "iata": "TTX",
+    "icao": "YTST",
+    "airport_name": "truscott-mungalalu_airport[dapi]",
+    "location_served": "mungalalu_western_australia_australia\n"
+  },
+  {
+    "iata": "TUA",
+    "icao": "SETU",
+    "airport_name": "teniente_coronel_luis_a_mantilla_international_airport",
+    "location_served": "tulcán_ecuador\n"
+  },
+  {
+    "iata": "TUB",
+    "icao": "NTAT",
+    "airport_name": "tubuai_–_mataura_airport[dapi]",
+    "location_served": "tubuai_french_polynesia\n"
+  },
+  {
+    "iata": "TUC",
+    "icao": "SANT",
+    "airport_name": "teniente_general_benjamín_matienzo_international_airport",
+    "location_served": "san_miguel_de_tucumán_tucumán_argentina\n"
+  },
+  {
+    "iata": "TUD",
+    "icao": "GOTT",
+    "airport_name": "tambacounda_airport",
+    "location_served": "tambacounda_senegal\n"
+  },
+  {
+    "iata": "TUF",
+    "icao": "LFOT",
+    "airport_name": "tours_val_de_loire_airport",
+    "location_served": "tours_centre-val_de_loire_france\n"
+  },
+  {
+    "iata": "TUG",
+    "icao": "RPUT",
+    "airport_name": "tuguegarao_airport",
+    "location_served": "tuguegarao_philippines\n"
+  },
+  {
+    "iata": "TUI",
+    "icao": "OETR",
+    "airport_name": "turaif_domestic_airport[dapi]",
+    "location_served": "turaif_saudi_arabia\n"
+  },
+  {
+    "iata": "TUJ",
+    "icao": "HAMJ",
+    "airport_name": "tum_airport[dapi]",
+    "location_served": "tum_ethiopia\n"
+  },
+  {
+    "iata": "TUK",
+    "icao": "OPTU",
+    "airport_name": "turbat_international_airport",
+    "location_served": "turbat_pakistan\n"
+  },
+  {
+    "iata": "TUL",
+    "icao": "KTUL",
+    "airport_name": "tulsa_international_airport",
+    "location_served": "tulsa_oklahoma_united_states\n"
+  },
+  {
+    "iata": "TUM",
+    "icao": "YTMU",
+    "airport_name": "tumut_airport[dapi]",
+    "location_served": "tumut_new_south_wales_australia\n"
+  },
+  {
+    "iata": "TUN",
+    "icao": "DTTA",
+    "airport_name": "tunis–carthage_international_airport",
+    "location_served": "tunis_tunisia\n"
+  },
+  {
+    "iata": "TUO",
+    "icao": "NZAP",
+    "airport_name": "taupo_airport",
+    "location_served": "taupo_new_zealand\n"
+  },
+  {
+    "iata": "TUP",
+    "icao": "KTUP",
+    "airport_name": "tupelo_regional_airport",
+    "location_served": "tupelo_mississippi_united_states\n"
+  },
+  {
+    "iata": "TUQ",
+    "icao": "DFOT",
+    "airport_name": "tougan_airport",
+    "location_served": "tougan_burkina_faso\n"
+  },
+  {
+    "iata": "TUR",
+    "icao": "SBTU",
+    "airport_name": "tucuruí_airport[dapi]",
+    "location_served": "tucuruí_pará_brazil\n"
+  },
+  {
+    "iata": "TUS",
+    "icao": "KTUS",
+    "airport_name": "tucson_international_airport",
+    "location_served": "tucson_arizona_united_states\n"
+  },
+  {
+    "iata": "TUT",
+    "icao": "",
+    "airport_name": "tauta_airport[dapi]",
+    "location_served": "tauta_papua_new_guinea\n"
+  },
+  {
+    "iata": "TUU",
+    "icao": "OETB",
+    "airport_name": "tabuk_regional_airport",
+    "location_served": "tabuk_saudi_arabia\n"
+  },
+  {
+    "iata": "TUV",
+    "icao": "SVTC",
+    "airport_name": "san_rafael_airport[dapi]",
+    "location_served": "tucupita_venezuela\n"
+  },
+  {
+    "iata": "TUW",
+    "icao": "",
+    "airport_name": "tubala_airport[dapi]",
+    "location_served": "tubala_(tubualá)_panama\n"
+  },
+  {
+    "iata": "TUX",
+    "icao": "",
+    "airport_name": "tumbler_ridge_airport[dapi]_(tc:_cbxdapi)",
+    "location_served": "tumbler_ridge_british_columbia_canada\n"
+  },
+  {
+    "iata": "TUY",
+    "icao": "",
+    "airport_name": "tulum_airport",
+    "location_served": "tulum_quintana_roo_mexico\n"
+  },
+  {
+    "iata": "TUZ",
+    "icao": "",
+    "airport_name": "tucumã_airport[dapi]",
+    "location_served": "tucumã_pará_brazil\n"
+  },
+  {
+    "iata": "TVA",
+    "icao": "FMMR",
+    "airport_name": "morafenobe_airport[dapi]",
+    "location_served": "morafenobe_madagascar\n"
+  },
+  {
+    "iata": "TVC",
+    "icao": "KTVC",
+    "airport_name": "cherry_capital_airport",
+    "location_served": "traverse_city_michigan_united_states\n"
+  },
+  {
+    "iata": "TVF",
+    "icao": "KTVF",
+    "airport_name": "thief_river_falls_regional_airport",
+    "location_served": "thief_river_falls_minnesota_united_states\n"
+  },
+  {
+    "iata": "TVI",
+    "icao": "KTVI",
+    "airport_name": "thomasville_regional_airport",
+    "location_served": "thomasville_georgia_united_states\n"
+  },
+  {
+    "iata": "TVL",
+    "icao": "KTVL",
+    "airport_name": "lake_tahoe_airport",
+    "location_served": "south_lake_tahoe_california_united_states\n"
+  },
+  {
+    "iata": "TVS",
+    "icao": "ZBTS",
+    "airport_name": "tangshan_sannühe_airport",
+    "location_served": "tangshan_hebei_china\n"
+  },
+  {
+    "iata": "TVU",
+    "icao": "NFNM",
+    "airport_name": "matei_airport",
+    "location_served": "taveuni_fiji\n"
+  },
+  {
+    "iata": "TVY",
+    "icao": "VYDW",
+    "airport_name": "dawei_airport",
+    "location_served": "dawei_myanmar\n"
+  },
+  {
+    "iata": "TWA",
+    "icao": "",
+    "airport_name": "twin_hills_airport_(faa:_adapidapi)",
+    "location_served": "twin_hills_alaska_united_states\n"
+  },
+  {
+    "iata": "TWB",
+    "icao": "YTWB",
+    "airport_name": "toowoomba_city_aerodrome[dapi]",
+    "location_served": "toowoomba_queensland_australia\n"
+  },
+  {
+    "iata": "TWC",
+    "icao": "",
+    "airport_name": "tumxuk_tangwangcheng_airport[dapi]",
+    "location_served": "tumxuk_xinjiang_china\n"
+  },
+  {
+    "iata": "TWD",
+    "icao": "",
+    "airport_name": "jefferson_county_international_airport_(faa:_dapisdapi)",
+    "location_served": "port_townsend_washington_united_states\n"
+  },
+  {
+    "iata": "TWE",
+    "icao": "",
+    "airport_name": "taylor_airport_(faa:_akdapidapi)",
+    "location_served": "taylor_alaska_united_states\n"
+  },
+  {
+    "iata": "TWF",
+    "icao": "KTWF",
+    "airport_name": "magic_valley_regional_airport_(joslin_field)",
+    "location_served": "twin_falls_idaho_united_states\n"
+  },
+  {
+    "iata": "TWN",
+    "icao": "",
+    "airport_name": "tewantin_airport[dapi]",
+    "location_served": "tewantin_queensland_australia\n"
+  },
+  {
+    "iata": "TWP",
+    "icao": "",
+    "airport_name": "torwood_airport[dapi]",
+    "location_served": "torwood_queensland_australia\n"
+  },
+  {
+    "iata": "TWT",
+    "icao": "RPMN",
+    "airport_name": "sanga-sanga_airport",
+    "location_served": "tawitawi_island_(tawi-tawi)_philippines\n"
+  },
+  {
+    "iata": "TWU",
+    "icao": "WBKW",
+    "airport_name": "tawau_airport",
+    "location_served": "tawau_sabah_malaysia\n"
+  },
+  {
+    "iata": "TWY",
+    "icao": "",
+    "airport_name": "tawa_airport[dapi]",
+    "location_served": "tawa_papua_new_guinea\n"
+  },
+  {
+    "iata": "TWZ",
+    "icao": "NZUK",
+    "airport_name": "pukaki_airport[dapi]_(twizel_airport)",
+    "location_served": "twizel_new_zealand\n"
+  },
+  {
+    "iata": "TXE",
+    "icao": "WITK",
+    "airport_name": "rembele_airport[dapi]",
+    "location_served": "takengon_sumatra_indonesia\n"
+  },
+  {
+    "iata": "TXF",
+    "icao": "SNTF",
+    "airport_name": "teixeira_de_freitas_airport[dapi]_(dapi_de_maio_airport)",
+    "location_served": "teixeira_de_freitas_bahia_brazil\n"
+  },
+  {
+    "iata": "TXK",
+    "icao": "KTXK",
+    "airport_name": "texarkana_regional_airport_(webb_field)",
+    "location_served": "texarkana_arkansas_united_states\n"
+  },
+  {
+    "iata": "TXM",
+    "icao": "WAST",
+    "airport_name": "teminabuan_airport[dapi]",
+    "location_served": "teminabuan_indonesia\n"
+  },
+  {
+    "iata": "TXN",
+    "icao": "ZSTX",
+    "airport_name": "huangshan_tunxi_international_airport[dapi]",
+    "location_served": "huangshan_anhui_china\n"
+  },
+  {
+    "iata": "TXR",
+    "icao": "",
+    "airport_name": "tanbar_airport[dapi]",
+    "location_served": "tanbar_queensland_australia\n"
+  },
+  {
+    "iata": "TXU",
+    "icao": "DITB",
+    "airport_name": "tabou_airport[dapi]",
+    "location_served": "tabou_ivory_coast\n"
+  },
+  {
+    "iata": "TYA",
+    "icao": "UUBT",
+    "airport_name": "klokovo_airport[dapi]",
+    "location_served": "tula_tula_oblast_russia\n"
+  },
+  {
+    "iata": "TYB",
+    "icao": "YTIB",
+    "airport_name": "tibooburra_airport[dapi]",
+    "location_served": "tibooburra_new_south_wales_australia\n"
+  },
+  {
+    "iata": "TYD",
+    "icao": "UHBW",
+    "airport_name": "tynda_airport",
+    "location_served": "tynda_amur_oblast_russia\n"
+  },
+  {
+    "iata": "TYE",
+    "icao": "",
+    "airport_name": "tyonek_airport",
+    "location_served": "tyonek_alaska_united_states\n"
+  },
+  {
+    "iata": "TYF",
+    "icao": "ESST",
+    "airport_name": "torsby_airport[dapi]",
+    "location_served": "torsby_sweden\n"
+  },
+  {
+    "iata": "TYG",
+    "icao": "",
+    "airport_name": "thylungra_airport[dapi]",
+    "location_served": "thylungra_queensland_australia\n"
+  },
+  {
+    "iata": "TYL",
+    "icao": "SPYL",
+    "airport_name": "capitán_fap_víctor_montes_arias_international_airport",
+    "location_served": "talara_peru\n"
+  },
+  {
+    "iata": "TYM",
+    "icao": "MYES",
+    "airport_name": "staniel_cay_airport[dapi]",
+    "location_served": "staniel_cay_exuma_islands_bahamas\n"
+  },
+  {
+    "iata": "TYN",
+    "icao": "ZBYN",
+    "airport_name": "taiyuan_wusu_international_airport",
+    "location_served": "taiyuan_shanxi_china\n"
+  },
+  {
+    "iata": "TYO[1]",
+    "icao": "",
+    "airport_name": "metropolitan_areadapi",
+    "location_served": "tokyo_honshu_japan\n"
+  },
+  {
+    "iata": "TYP",
+    "icao": "YTMY",
+    "airport_name": "tobermorey_airport[dapi]",
+    "location_served": "tobermorey_northern_territory_australia\n"
+  },
+  {
+    "iata": "TYR",
+    "icao": "KTYR",
+    "airport_name": "tyler_pounds_regional_airport",
+    "location_served": "tyler_texas_united_states\n"
+  },
+  {
+    "iata": "TYS",
+    "icao": "KTYS",
+    "airport_name": "mcghee_tyson_airport",
+    "location_served": "knoxville_tennessee_united_states\n"
+  },
+  {
+    "iata": "TYT",
+    "icao": "SUTR",
+    "airport_name": "treinta_y_tres_airport",
+    "location_served": "treinta_y_tres_uruguay\n"
+  },
+  {
+    "iata": "TYZ",
+    "icao": "KTYL",
+    "airport_name": "taylor_airport_(faa:_tyl)",
+    "location_served": "taylor_arizona_united_states\n"
+  },
+  {
+    "iata": "TZA",
+    "icao": "",
+    "airport_name": "belize_city_municipal_airport",
+    "location_served": "belize_city_belize\n"
+  },
+  {
+    "iata": "TZC",
+    "icao": "KCFS",
+    "airport_name": "tuscola_area_airport[dapi]_(faa:_cfs)",
+    "location_served": "caro_michigan_united_states\n"
+  },
+  {
+    "iata": "TZL",
+    "icao": "LQTZ",
+    "airport_name": "tuzla_international_airport",
+    "location_served": "tuzla_bosnia_and_herzegovina\n"
+  },
+  {
+    "iata": "TZM",
+    "icao": "",
+    "airport_name": "cupul_national_airport",
+    "location_served": "tizimín_yucatán_mexico\n"
+  },
+  {
+    "iata": "TZN",
+    "icao": "MYAK",
+    "airport_name": "south_andros_airport_(congo_town_airport)",
+    "location_served": "south_andros_andros_island_bahamas\n"
+  },
+  {
+    "iata": "TZO",
+    "icao": "",
+    "airport_name": "tsimiroro_airport[dapi]",
+    "location_served": "ankisatra_madagascar\n"
+  },
+  {
+    "iata": "TZX",
+    "icao": "LTCG",
+    "airport_name": "trabzon_airport",
+    "location_served": "trabzon_turkey\n"
+  }
+]
